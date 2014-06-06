@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhe-cy" format="1">
+  <advance width="1553"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="703" y="0"/>
+      <point x="732" y="-129"/>
+      <point x="721" y="-363" type="curve"/>
+      <point x="806" y="-363" type="line"/>
+      <point x="827" y="86" type="line"/>
+      <point x="803" y="85" type="line"/>
+      <point x="568" y="0" type="line"/>
+    </contour>
+    <component base="Pe-cy" xOffset="1570" yOffset="1434" xScale="-1" yScale="-1"/>
+  </outline>
+</glyph>

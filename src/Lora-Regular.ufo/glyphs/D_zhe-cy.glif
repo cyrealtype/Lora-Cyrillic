@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhe-cy" format="1">
+  <advance width="1578"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="848" y="83" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="765" y="0"/>
+      <point x="793" y="-160"/>
+      <point x="793" y="-364" type="curve"/>
+      <point x="878" y="-364" type="line"/>
+      <point x="878" y="84" type="line"/>
+    </contour>
+    <component base="Pe-cy" xOffset="1578" yOffset="1434" xScale="-1" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

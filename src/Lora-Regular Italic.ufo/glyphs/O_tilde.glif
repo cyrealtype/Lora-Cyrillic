@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="1614"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <component base="O"/>
+    <component base="Tilde" xOffset="381"/>
+  </outline>
+</glyph>

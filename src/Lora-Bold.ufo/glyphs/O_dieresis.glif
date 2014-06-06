@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="1">
+  <advance width="1626"/>
+  <unicode hex="00D6"/>
+  <outline>
+    <component base="O"/>
+    <component base="period" xOffset="766" yOffset="1618" xScale="0.93" yScale="0.98"/>
+    <component base="period" xOffset="397" yOffset="1618" xScale="0.93" yScale="0.98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

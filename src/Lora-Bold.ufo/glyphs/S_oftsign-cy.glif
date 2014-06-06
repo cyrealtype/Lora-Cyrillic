@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Softsign-cy" format="1">
+  <advance width="1259"/>
+  <unicode hex="042C"/>
+  <outline>
+    <contour>
+      <point x="113" y="1434" type="line"/>
+      <point x="113" y="1343" type="line"/>
+      <point x="261" y="1352" type="line"/>
+      <point x="256" y="1311"/>
+      <point x="254" y="1260"/>
+      <point x="254" y="1204" type="curve" smooth="yes"/>
+      <point x="254" y="319" type="line" smooth="yes"/>
+      <point x="254.528" y="171.062"/>
+      <point x="263.301" y="71.9039"/>
+      <point x="113" y="68" type="curve"/>
+      <point x="113" y="0" type="line"/>
+      <point x="711" y="0" type="line" smooth="yes"/>
+      <point x="988" y="0"/>
+      <point x="1194" y="149"/>
+      <point x="1194" y="437" type="curve" smooth="yes"/>
+      <point x="1194" y="678"/>
+      <point x="1048" y="851"/>
+      <point x="598" y="839" type="curve" smooth="yes"/>
+      <point x="433" y="834" type="line"/>
+      <point x="433" y="1114" type="line" smooth="yes"/>
+      <point x="433" y="1260"/>
+      <point x="420" y="1360"/>
+      <point x="574" y="1366" type="curve"/>
+      <point x="574" y="1434" type="line"/>
+    </contour>
+    <contour>
+      <point x="830" y="761"/>
+      <point x="996" y="689"/>
+      <point x="996" y="429" type="curve" smooth="yes"/>
+      <point x="996" y="184"/>
+      <point x="854" y="78"/>
+      <point x="643" y="78" type="curve" smooth="yes"/>
+      <point x="617" y="78"/>
+      <point x="490" y="76"/>
+      <point x="426" y="82" type="curve"/>
+      <point x="431" y="117"/>
+      <point x="433" y="168"/>
+      <point x="433" y="242" type="curve" smooth="yes"/>
+      <point x="433" y="755" type="line"/>
+      <point x="498" y="759"/>
+      <point x="562" y="761"/>
+      <point x="643" y="761" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="784"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="98" y="1059" type="line"/>
+      <point x="498" y="573" type="line"/>
+      <point x="498" y="569" type="line"/>
+      <point x="94" y="51" type="line"/>
+      <point x="158" y="-14" type="line"/>
+      <point x="719" y="561" type="line"/>
+      <point x="719" y="569" type="line"/>
+      <point x="164" y="1124" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

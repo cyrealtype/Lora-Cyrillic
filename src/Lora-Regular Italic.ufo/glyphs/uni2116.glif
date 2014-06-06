@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2116" format="1">
+  <advance width="2169"/>
+  <unicode hex="2116"/>
+  <outline>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="1421" yOffset="-186"/>
+    <component base="macron" xOffset="1437" yOffset="-970"/>
+  </outline>
+</glyph>
