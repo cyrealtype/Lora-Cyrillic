@@ -182,7 +182,9 @@
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>uni015E</string>
 		<string>uni0162</string>
+		<string>uni0218</string>
 		<string>uni021A</string>
 		<string>a</string>
 		<string>aacute</string>
@@ -273,7 +275,9 @@
 		<string>uhungarumlaut</string>
 		<string>umacron</string>
 		<string>uni0149</string>
+		<string>uni015F</string>
 		<string>uni0163</string>
+		<string>uni0219</string>
 		<string>uni021B</string>
 		<string>uogonek</string>
 		<string>uring</string>
@@ -458,6 +462,7 @@
 		<string>quotesinglbase</string>
 		<string>space</string>
 		<string>nbspace</string>
+		<string>uni00A0</string>
 		<string>.notdef</string>
 		<string>Euro</string>
 		<string>cent</string>
@@ -465,6 +470,8 @@
 		<string>dollar</string>
 		<string>florin</string>
 		<string>sterling</string>
+		<string>uni20BA</string>
+		<string>uni20BD</string>
 		<string>yen</string>
 		<string>approxequal</string>
 		<string>asciitilde</string>

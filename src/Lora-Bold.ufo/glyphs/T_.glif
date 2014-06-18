@@ -34,7 +34,7 @@
       <point x="656" y="717" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="738" y="0" type="move" name="bottom"/>
+      <point x="658" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="656" y="1434" type="move" name="top"/>

@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scedilla" format="1">
+<glyph name="uni0218" format="1">
   <advance width="1161"/>
-  <unicode hex="015E"/>
+  <unicode hex="0218"/>
   <outline>
     <component base="S"/>
-    <component base="cedilla" xOffset="323"/>
+    <component base="commaaccent" xOffset="301"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>1</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-      <key>public.markColor</key>
-      <string>0.75,0.75,0.75,1</string>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>
