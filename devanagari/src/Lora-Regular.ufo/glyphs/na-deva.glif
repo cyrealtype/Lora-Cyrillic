@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="na-deva" format="1">
+  <advance width="585"/>
+  <unicode hex="0928"/>
+  <outline>
+    <contour>
+      <point x="97" y="377" type="line"/>
+      <point x="97" y="333" type="line"/>
+      <point x="401" y="333" type="line"/>
+      <point x="401" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="488" y="583" type="line"/>
+      <point x="593" y="583" type="line"/>
+      <point x="593" y="627" type="line"/>
+      <point x="-13" y="627" type="line"/>
+      <point x="-13" y="583" type="line"/>
+      <point x="401" y="583" type="line"/>
+      <point x="401" y="377" type="line"/>
+    </contour>
+    <component base="deva_knot" yOffset="56"/>
+    <contour>
+      <point x="455" y="664" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

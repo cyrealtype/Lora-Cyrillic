@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="1">
+  <advance width="359"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="80" y="755" type="line"/>
+      <point x="79" y="-255" type="line"/>
+      <point x="347" y="-255" type="line"/>
+      <point x="347" y="-195" type="line"/>
+      <point x="150" y="-192" type="line"/>
+      <point x="155" y="692" type="line"/>
+      <point x="345" y="695" type="line"/>
+      <point x="345" y="755" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

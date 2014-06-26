@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candraBindu-deva" format="1">
+  <advance width="0"/>
+  <unicode hex="0901"/>
+  <outline>
+    <contour>
+      <point x="-92" y="905" type="line"/>
+      <point x="-92" y="992" type="line"/>
+      <point x="-178" y="992" type="line"/>
+      <point x="-178" y="905" type="line"/>
+    </contour>
+    <contour>
+      <point x="-79" y="759"/>
+      <point x="-33" y="776"/>
+      <point x="7" y="811" type="curve" smooth="yes"/>
+      <point x="47" y="846"/>
+      <point x="72" y="891"/>
+      <point x="81" y="945" type="curve"/>
+      <point x="8" y="945" type="line"/>
+      <point x="-4" y="873"/>
+      <point x="-64" y="819"/>
+      <point x="-132" y="819" type="curve" smooth="yes"/>
+      <point x="-165" y="819"/>
+      <point x="-195" y="831"/>
+      <point x="-222" y="855" type="curve" smooth="yes"/>
+      <point x="-249" y="879"/>
+      <point x="-265" y="909"/>
+      <point x="-272" y="945" type="curve"/>
+      <point x="-345" y="945" type="line"/>
+      <point x="-335" y="891"/>
+      <point x="-310" y="846"/>
+      <point x="-270" y="811" type="curve" smooth="yes"/>
+      <point x="-230" y="776"/>
+      <point x="-184" y="759"/>
+      <point x="-132" y="759" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-120" y="666" type="move" name="_mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

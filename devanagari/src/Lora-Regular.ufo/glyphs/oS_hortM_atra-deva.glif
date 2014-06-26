@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oShortMatra-deva" format="1">
+  <advance width="266"/>
+  <unicode hex="094A"/>
+  <outline>
+    <contour>
+      <point x="3" y="806"/>
+      <point x="34" y="792"/>
+      <point x="60" y="764" type="curve"/>
+      <point x="87" y="737"/>
+      <point x="100" y="704"/>
+      <point x="100" y="666" type="curve"/>
+      <point x="-13" y="666" type="line"/>
+      <point x="-13" y="606" type="line"/>
+      <point x="100" y="606" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="606" type="line"/>
+      <point x="280" y="606" type="line"/>
+      <point x="280" y="666" type="line"/>
+      <point x="166" y="666" type="line"/>
+      <point x="166" y="719"/>
+      <point x="146" y="765"/>
+      <point x="107" y="802" type="curve" smooth="yes"/>
+      <point x="68" y="840"/>
+      <point x="22" y="859"/>
+      <point x="-33" y="859" type="curve" smooth="yes"/>
+      <point x="-97" y="859"/>
+      <point x="-154" y="913"/>
+      <point x="-166" y="986" type="curve"/>
+      <point x="-233" y="986" type="line"/>
+      <point x="-224" y="933"/>
+      <point x="-201" y="890"/>
+      <point x="-163" y="856" type="curve" smooth="yes"/>
+      <point x="-126" y="823"/>
+      <point x="-82" y="806"/>
+      <point x="-33" y="806" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

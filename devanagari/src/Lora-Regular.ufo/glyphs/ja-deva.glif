@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ja-deva" format="1">
+  <advance width="755"/>
+  <unicode hex="091C"/>
+  <outline>
+    <contour>
+      <point x="326" y="423" type="line"/>
+      <point x="366" y="365"/>
+      <point x="386" y="306"/>
+      <point x="386" y="250" type="curve" smooth="yes"/>
+      <point x="386" y="158"/>
+      <point x="333" y="102"/>
+      <point x="256" y="102" type="curve" smooth="yes"/>
+      <point x="208" y="102"/>
+      <point x="160" y="118"/>
+      <point x="130" y="162" type="curve"/>
+      <point x="170" y="171"/>
+      <point x="189" y="190"/>
+      <point x="189" y="222" type="curve" smooth="yes"/>
+      <point x="189" y="258"/>
+      <point x="165" y="289"/>
+      <point x="125" y="289" type="curve" smooth="yes"/>
+      <point x="82" y="289"/>
+      <point x="59" y="253"/>
+      <point x="59" y="215" type="curve" smooth="yes"/>
+      <point x="59" y="142"/>
+      <point x="146" y="60"/>
+      <point x="260" y="60" type="curve" smooth="yes"/>
+      <point x="394" y="60"/>
+      <point x="476" y="152"/>
+      <point x="476" y="253" type="curve" smooth="yes"/>
+      <point x="476" y="301"/>
+      <point x="454" y="354"/>
+      <point x="405" y="399" type="curve"/>
+      <point x="555" y="399" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="642" y="0" type="line"/>
+      <point x="642" y="583" type="line"/>
+      <point x="755" y="583" type="line"/>
+      <point x="755" y="627" type="line"/>
+      <point x="0" y="627" type="line"/>
+      <point x="0" y="583" type="line"/>
+      <point x="555" y="583" type="line"/>
+      <point x="555" y="443" type="line"/>
+      <point x="370" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="609" y="664" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

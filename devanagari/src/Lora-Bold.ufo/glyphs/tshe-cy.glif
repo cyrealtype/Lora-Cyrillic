@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshe-cy" format="1">
+  <advance width="599"/>
+  <unicode hex="045B"/>
+  <outline>
+    <contour>
+      <point x="21" y="625" type="line"/>
+      <point x="21" y="574" type="line"/>
+      <point x="384" y="578" type="line"/>
+      <point x="384" y="625" type="line"/>
+    </contour>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
