@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="326"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="186" y="716" type="line"/>
+      <point x="194" y="491" type="line"/>
+      <point x="274" y="491" type="line"/>
+      <point x="283" y="716" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="716" type="line"/>
+      <point x="51" y="491" type="line"/>
+      <point x="131" y="491" type="line"/>
+      <point x="140" y="716" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iishort-cy" format="1">
+  <advance width="807"/>
+  <unicode hex="0419"/>
+  <outline>
+    <contour>
+      <point x="499" y="928"/>
+      <point x="486" y="885"/>
+      <point x="486" y="870" type="curve" smooth="yes"/>
+      <point x="486" y="858"/>
+      <point x="489" y="844"/>
+      <point x="496" y="830" type="curve"/>
+      <point x="477" y="817"/>
+      <point x="445" y="810"/>
+      <point x="415" y="810" type="curve" smooth="yes"/>
+      <point x="384" y="810"/>
+      <point x="353" y="817"/>
+      <point x="333" y="830" type="curve"/>
+      <point x="340" y="844"/>
+      <point x="343" y="858"/>
+      <point x="343" y="870" type="curve" smooth="yes"/>
+      <point x="343" y="885"/>
+      <point x="331" y="928"/>
+      <point x="284" y="926" type="curve" smooth="yes"/>
+      <point x="245" y="926"/>
+      <point x="229" y="895"/>
+      <point x="229" y="863" type="curve" smooth="yes"/>
+      <point x="229" y="795"/>
+      <point x="315" y="760"/>
+      <point x="415" y="760" type="curve" smooth="yes"/>
+      <point x="514" y="760"/>
+      <point x="601" y="795"/>
+      <point x="601" y="863" type="curve" smooth="yes"/>
+      <point x="601" y="895"/>
+      <point x="584" y="926"/>
+      <point x="545" y="926" type="curve" smooth="yes"/>
+    </contour>
+    <component base="Ii-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

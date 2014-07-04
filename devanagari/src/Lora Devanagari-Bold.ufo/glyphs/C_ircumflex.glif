@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Circumflex" format="1">
+  <advance width="509"/>
+  <outline>
+    <contour>
+      <point x="249" y="971" type="line"/>
+      <point x="45" y="821" type="line"/>
+      <point x="72" y="776" type="line"/>
+      <point x="254" y="861" type="line"/>
+      <point x="433" y="774" type="line"/>
+      <point x="464" y="821" type="line"/>
+      <point x="269" y="971" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

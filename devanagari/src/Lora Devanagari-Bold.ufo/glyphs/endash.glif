@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="1">
+  <advance width="563"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="52" y="368" type="line"/>
+      <point x="52" y="260" type="line"/>
+      <point x="511" y="263" type="line"/>
+      <point x="511" y="368" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

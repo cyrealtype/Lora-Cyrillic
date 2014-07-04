@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tilde" format="1">
+  <advance width="511"/>
+  <outline>
+    <contour>
+      <point x="390" y="916"/>
+      <point x="354" y="889"/>
+      <point x="328" y="889" type="curve" smooth="yes"/>
+      <point x="277" y="889"/>
+      <point x="247" y="938"/>
+      <point x="181" y="938" type="curve" smooth="yes"/>
+      <point x="133" y="938"/>
+      <point x="75" y="905"/>
+      <point x="45" y="831" type="curve"/>
+      <point x="101" y="794" type="line"/>
+      <point x="127" y="834"/>
+      <point x="160" y="846"/>
+      <point x="185" y="846" type="curve" smooth="yes"/>
+      <point x="240" y="846"/>
+      <point x="271" y="796"/>
+      <point x="333" y="796" type="curve" smooth="yes"/>
+      <point x="374" y="796"/>
+      <point x="430" y="819"/>
+      <point x="466" y="922" type="curve"/>
+      <point x="409" y="954" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

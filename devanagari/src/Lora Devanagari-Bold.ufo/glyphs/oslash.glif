@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="566"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="394" y="494" type="line"/>
+      <point x="360" y="508"/>
+      <point x="323" y="516"/>
+      <point x="283" y="516" type="curve" smooth="yes"/>
+      <point x="146" y="516"/>
+      <point x="31" y="405"/>
+      <point x="31" y="239" type="curve" smooth="yes"/>
+      <point x="31" y="157"/>
+      <point x="60" y="92"/>
+      <point x="108" y="48" type="curve"/>
+      <point x="55" y="-36" type="line"/>
+      <point x="116" y="-83" type="line"/>
+      <point x="174" y="6" type="line"/>
+      <point x="207" y="-8"/>
+      <point x="245" y="-16"/>
+      <point x="286" y="-16" type="curve" smooth="yes"/>
+      <point x="432" y="-16"/>
+      <point x="535" y="91"/>
+      <point x="535" y="259" type="curve" smooth="yes"/>
+      <point x="535" y="340"/>
+      <point x="506" y="406"/>
+      <point x="460" y="450" type="curve"/>
+      <point x="512" y="531" type="line"/>
+      <point x="445" y="574" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="296"/>
+      <point x="387" y="264"/>
+      <point x="387" y="234" type="curve" smooth="yes"/>
+      <point x="387" y="149"/>
+      <point x="369" y="56"/>
+      <point x="290" y="55" type="curve" smooth="yes"/>
+      <point x="263" y="54"/>
+      <point x="242" y="66"/>
+      <point x="225" y="85" type="curve"/>
+      <point x="379" y="326" type="line"/>
+      <point x="380" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="446"/>
+      <point x="328" y="435"/>
+      <point x="343" y="415" type="curve"/>
+      <point x="188" y="171" type="line"/>
+      <point x="187" y="171" type="line"/>
+      <point x="180" y="201"/>
+      <point x="178" y="234"/>
+      <point x="178" y="266" type="curve" smooth="yes"/>
+      <point x="178" y="353"/>
+      <point x="203" y="444"/>
+      <point x="281" y="446" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

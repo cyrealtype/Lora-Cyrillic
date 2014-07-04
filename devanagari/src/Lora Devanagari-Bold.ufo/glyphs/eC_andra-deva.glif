@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eCandra-deva" format="1">
+  <advance width="568"/>
+  <unicode hex="090D"/>
+  <outline>
+    <component base="eCandraMatra-deva" xOffset="419"/>
+    <component base="e-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
