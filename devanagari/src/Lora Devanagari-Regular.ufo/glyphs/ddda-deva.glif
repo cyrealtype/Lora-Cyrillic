@@ -1,86 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ddda-deva" format="1">
-  <advance width="717"/>
+  <advance width="627"/>
   <unicode hex="097E"/>
   <outline>
     <contour>
-      <point x="463" y="606" type="line"/>
-      <point x="463" y="499" type="line"/>
-      <point x="304" y="499" type="line" smooth="yes"/>
-      <point x="248" y="499"/>
-      <point x="204" y="461"/>
-      <point x="204" y="413" type="curve" smooth="yes"/>
-      <point x="204" y="384"/>
-      <point x="225" y="346"/>
-      <point x="266" y="301" type="curve" smooth="yes"/>
-      <point x="308" y="256"/>
-      <point x="343" y="233"/>
-      <point x="370" y="233" type="curve" smooth="yes"/>
-      <point x="385" y="233"/>
-      <point x="406" y="238"/>
-      <point x="433" y="249" type="curve" smooth="yes"/>
-      <point x="460" y="260"/>
-      <point x="482" y="266"/>
-      <point x="497" y="266" type="curve" smooth="yes"/>
-      <point x="514" y="266"/>
-      <point x="530" y="247"/>
-      <point x="530" y="226" type="curve" smooth="yes"/>
-      <point x="530" y="185"/>
-      <point x="517" y="151"/>
-      <point x="490" y="122" type="curve" smooth="yes"/>
-      <point x="464" y="94"/>
-      <point x="433" y="80"/>
-      <point x="397" y="80" type="curve" smooth="yes"/>
-      <point x="344" y="80"/>
-      <point x="289" y="104"/>
-      <point x="231" y="153" type="curve" smooth="yes"/>
-      <point x="173" y="202"/>
-      <point x="120" y="268"/>
-      <point x="71" y="353" type="curve"/>
-      <point x="17" y="313" type="line"/>
-      <point x="70" y="220"/>
-      <point x="131" y="147"/>
-      <point x="199" y="93" type="curve" smooth="yes"/>
-      <point x="267" y="40"/>
-      <point x="333" y="13"/>
-      <point x="397" y="13" type="curve" smooth="yes"/>
-      <point x="452" y="13"/>
-      <point x="499" y="34"/>
-      <point x="538" y="75" type="curve" smooth="yes"/>
-      <point x="577" y="117"/>
-      <point x="597" y="167"/>
-      <point x="597" y="226" type="curve" smooth="yes"/>
-      <point x="597" y="285"/>
-      <point x="552" y="333"/>
-      <point x="497" y="333" type="curve" smooth="yes"/>
-      <point x="482" y="333"/>
-      <point x="460" y="327"/>
-      <point x="433" y="316" type="curve" smooth="yes"/>
-      <point x="406" y="305"/>
-      <point x="385" y="300"/>
-      <point x="370" y="300" type="curve" smooth="yes"/>
-      <point x="353" y="300"/>
-      <point x="332" y="314"/>
-      <point x="307" y="342" type="curve" smooth="yes"/>
-      <point x="282" y="371"/>
-      <point x="270" y="394"/>
-      <point x="270" y="413" type="curve" smooth="yes"/>
-      <point x="270" y="426"/>
-      <point x="285" y="439"/>
-      <point x="304" y="439" type="curve" smooth="yes"/>
-      <point x="530" y="439" type="line"/>
-      <point x="530" y="606" type="line"/>
-      <point x="731" y="606" type="line"/>
-      <point x="731" y="666" type="line"/>
-      <point x="-13" y="666" type="line"/>
-      <point x="-13" y="606" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="22" y="-80" type="line"/>
+      <point x="630" y="-80" type="line"/>
+      <point x="630" y="0" type="line"/>
     </contour>
-    <contour>
-      <point x="668" y="-60" type="line"/>
-      <point x="668" y="0" type="line"/>
-      <point x="22" y="0" type="line"/>
-      <point x="22" y="-60" type="line"/>
-    </contour>
+    <component base="dda-deva"/>
     <contour>
       <point x="497" y="666" type="move" name="mark0"/>
     </contour>

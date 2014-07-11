@@ -30,7 +30,7 @@
 			<key>HH</key>
 			<integer>77</integer>
 			<key>HV</key>
-			<string>145</string>
+			<integer>145</integer>
 			<key>OH</key>
 			<integer>73</integer>
 			<key>OV</key>
@@ -44,14 +44,14 @@
 			<key>oV</key>
 			<integer>146</integer>
 			<key>tH</key>
-			<string>79</string>
+			<integer>79</integer>
 		</dict>
 		<key>UUID0</key>
 		<dict>
 			<key>HH</key>
 			<integer>41</integer>
 			<key>HV</key>
-			<integer>87</integer>
+			<string>87</string>
 			<key>OH</key>
 			<integer>40</integer>
 			<key>OV</key>
@@ -59,7 +59,7 @@
 			<key>nV</key>
 			<integer>86</integer>
 			<key>nd</key>
-			<integer>80</integer>
+			<integer>38</integer>
 			<key>oH</key>
 			<integer>39</integer>
 			<key>oV</key>
@@ -71,11 +71,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<real>35</real>
+		<integer>35</integer>
 		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<real>30</real>
+		<integer>30</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>UUID0</string>

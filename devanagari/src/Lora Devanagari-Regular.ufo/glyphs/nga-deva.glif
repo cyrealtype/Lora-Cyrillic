@@ -1,65 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nga-deva" format="1">
-  <advance width="712"/>
+  <advance width="746"/>
   <unicode hex="0919"/>
   <outline>
     <contour>
-      <point x="569" y="450" type="line"/>
-      <point x="569" y="583" type="line"/>
-      <point x="712" y="583" type="line"/>
-      <point x="712" y="627" type="line"/>
-      <point x="0" y="627" type="line"/>
-      <point x="0" y="583" type="line"/>
-      <point x="482" y="583" type="line"/>
-      <point x="482" y="494" type="line"/>
-      <point x="373" y="494" type="line" smooth="yes"/>
-      <point x="268" y="494"/>
-      <point x="202" y="456"/>
-      <point x="202" y="373" type="curve" smooth="yes"/>
-      <point x="202" y="288"/>
-      <point x="264" y="241"/>
-      <point x="323" y="210" type="curve"/>
-      <point x="367" y="221"/>
-      <point x="403" y="226"/>
-      <point x="433" y="226" type="curve" smooth="yes"/>
-      <point x="478" y="226"/>
-      <point x="511" y="194"/>
-      <point x="511" y="141" type="curve" smooth="yes"/>
-      <point x="511" y="69"/>
-      <point x="452" y="22"/>
-      <point x="371" y="22" type="curve" smooth="yes"/>
-      <point x="281" y="22"/>
-      <point x="208" y="52"/>
-      <point x="162" y="160" type="curve"/>
-      <point x="130" y="153" type="line"/>
-      <point x="167" y="34"/>
-      <point x="263" y="-16"/>
-      <point x="381" y="-16" type="curve" smooth="yes"/>
-      <point x="468" y="-16"/>
-      <point x="593" y="33"/>
-      <point x="592" y="156" type="curve" smooth="yes"/>
-      <point x="591" y="232"/>
-      <point x="540" y="304"/>
-      <point x="447" y="304" type="curve" smooth="yes"/>
-      <point x="416" y="304"/>
-      <point x="380" y="299"/>
-      <point x="339" y="289" type="curve"/>
-      <point x="300" y="314"/>
-      <point x="278" y="341"/>
-      <point x="278" y="388" type="curve" smooth="yes"/>
-      <point x="278" y="425"/>
-      <point x="302" y="450"/>
-      <point x="367" y="450" type="curve" smooth="yes"/>
-    </contour>
-    <component base="periodcentered" xOffset="493" yOffset="26"/>
-    <contour>
-      <point x="499" y="664" type="move" name="mark0"/>
+      <point x="80" y="166" type="line"/>
+      <point x="165" y="36"/>
+      <point x="282" y="-15"/>
+      <point x="413" y="-15" type="curve" smooth="yes"/>
+      <point x="527" y="-15"/>
+      <point x="575" y="81"/>
+      <point x="574" y="181" type="curve" smooth="yes"/>
+      <point x="573" y="269"/>
+      <point x="520" y="317"/>
+      <point x="434" y="317" type="curve" smooth="yes"/>
+      <point x="387" y="317"/>
+      <point x="330" y="302"/>
+      <point x="266" y="272" type="curve"/>
+      <point x="228" y="325"/>
+      <point x="234" y="421"/>
+      <point x="333" y="421" type="curve" smooth="yes"/>
+      <point x="521" y="421" type="line"/>
+      <point x="438" y="501" type="line"/>
+      <point x="305" y="501" type="line" smooth="yes"/>
+      <point x="210" y="501"/>
+      <point x="166" y="452"/>
+      <point x="168" y="379" type="curve" smooth="yes"/>
+      <point x="170" y="293"/>
+      <point x="213" y="228"/>
+      <point x="290" y="209" type="curve"/>
+      <point x="352" y="227"/>
+      <point x="402" y="239"/>
+      <point x="439" y="239" type="curve" smooth="yes"/>
+      <point x="491" y="239"/>
+      <point x="519" y="216"/>
+      <point x="519" y="156" type="curve" smooth="yes"/>
+      <point x="519" y="115"/>
+      <point x="469" y="68"/>
+      <point x="393" y="69" type="curve" smooth="yes"/>
+      <point x="292" y="70"/>
+      <point x="197" y="106"/>
+      <point x="107" y="191" type="curve"/>
     </contour>
     <contour>
-      <point x="278" y="0" type="move" name="bottom"/>
+      <point x="-15" y="627" type="line"/>
+      <point x="15" y="547" type="line"/>
+      <point x="434" y="547" type="line"/>
+      <point x="434" y="470" type="line"/>
+      <point x="521" y="421" type="line"/>
+      <point x="521" y="547" type="line"/>
+      <point x="761" y="547" type="line"/>
+      <point x="731" y="627" type="line"/>
+    </contour>
+    <component base="periodcentered" xOffset="522" yOffset="3"/>
+    <contour>
+      <point x="450" y="664" type="move" name="mark0"/>
     </contour>
     <contour>
-      <point x="229" y="500" type="move" name="top"/>
+      <point x="180" y="500" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

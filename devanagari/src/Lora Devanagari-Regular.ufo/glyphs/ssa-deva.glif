@@ -1,48 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ssa-deva" format="1">
-  <advance width="562"/>
+  <advance width="624"/>
   <unicode hex="0937"/>
   <outline>
     <contour>
-      <point x="390" y="599" type="line"/>
-      <point x="390" y="0" type="line"/>
-      <point x="477" y="0" type="line"/>
-      <point x="477" y="599" type="line"/>
+      <point x="454" y="296" type="line"/>
+      <point x="409" y="248"/>
+      <point x="331" y="210"/>
+      <point x="274" y="209" type="curve" smooth="yes"/>
+      <point x="210" y="208"/>
+      <point x="180" y="229"/>
+      <point x="180" y="316" type="curve" smooth="yes"/>
+      <point x="180" y="583" type="line"/>
+      <point x="93" y="583" type="line"/>
+      <point x="93" y="406" type="line" smooth="yes"/>
+      <point x="93" y="246"/>
+      <point x="182" y="134"/>
+      <point x="303" y="134" type="curve" smooth="yes"/>
+      <point x="378" y="134"/>
+      <point x="432" y="159"/>
+      <point x="490" y="220" type="curve"/>
     </contour>
     <contour>
-      <point x="390" y="600" type="line"/>
-      <point x="390" y="398" type="line" smooth="yes"/>
-      <point x="390" y="281"/>
-      <point x="328" y="257"/>
-      <point x="261" y="256" type="curve" smooth="yes"/>
-      <point x="200" y="255"/>
-      <point x="157" y="290"/>
-      <point x="157" y="383" type="curve" smooth="yes"/>
-      <point x="157" y="600" type="line"/>
-      <point x="70" y="600" type="line"/>
-      <point x="70" y="390" type="line" smooth="yes"/>
-      <point x="70" y="278"/>
-      <point x="124" y="215"/>
-      <point x="247" y="215" type="curve" smooth="yes"/>
-      <point x="369" y="215"/>
-      <point x="455" y="286"/>
-      <point x="457" y="494" type="curve" smooth="yes"/>
-      <point x="458" y="600" type="line"/>
+      <point x="135" y="571" type="line"/>
+      <point x="444" y="230" type="line"/>
+      <point x="479" y="259" type="line" smooth="yes"/>
+      <point x="159" y="604" type="line"/>
     </contour>
     <contour>
-      <point x="562" y="583" type="line"/>
-      <point x="562" y="627" type="line"/>
-      <point x="0" y="627" type="line"/>
-      <point x="0" y="583" type="line"/>
+      <point x="-15" y="627" type="line"/>
+      <point x="15" y="547" type="line"/>
+      <point x="413" y="547" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="500" y="-49" type="line"/>
+      <point x="500" y="547" type="line"/>
+      <point x="639" y="547" type="line"/>
+      <point x="609" y="627" type="line"/>
     </contour>
     <contour>
-      <point x="112" y="571" type="line"/>
-      <point x="391" y="301" type="line"/>
-      <point x="426" y="330" type="line"/>
-      <point x="136" y="604" type="line"/>
-    </contour>
-    <contour>
-      <point x="416" y="666" type="move" name="mark0"/>
+      <point x="439" y="666" type="move" name="mark0"/>
     </contour>
   </outline>
   <lib>

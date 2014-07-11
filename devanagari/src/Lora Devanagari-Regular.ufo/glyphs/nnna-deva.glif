@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nnna-deva" format="1">
-  <advance width="585"/>
+  <advance width="621"/>
   <unicode hex="0929"/>
   <outline>
     <component base="na-deva"/>
