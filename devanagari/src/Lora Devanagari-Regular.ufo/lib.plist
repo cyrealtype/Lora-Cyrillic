@@ -51,7 +51,7 @@
 			<key>HH</key>
 			<integer>41</integer>
 			<key>HV</key>
-			<string>87</string>
+			<integer>127</integer>
 			<key>OH</key>
 			<integer>40</integer>
 			<key>OV</key>
@@ -71,11 +71,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<integer>35</integer>
+		<integer>20</integer>
 		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<integer>30</integer>
+		<integer>50</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>UUID0</string>
@@ -424,68 +424,19 @@
 		<string>ta-deva</string>
 		<string>tha-deva</string>
 		<string>da-deva</string>
-		<string>dha-deva</string>
 		<string>na-deva</string>
-		<string>nnna-deva</string>
 		<string>pa-deva</string>
-		<string>pha-deva</string>
-		<string>ba-deva</string>
-		<string>bha-deva</string>
 		<string>ma-deva</string>
 		<string>ya-deva</string>
 		<string>ra-deva</string>
-		<string>rra-deva</string>
 		<string>la-deva</string>
-		<string>lla-deva</string>
-		<string>llla-deva</string>
 		<string>va-deva</string>
-		<string>sha-deva</string>
 		<string>ssa-deva</string>
 		<string>sa-deva</string>
-		<string>ha-deva</string>
-		<string>qa-deva</string>
-		<string>khha-deva</string>
-		<string>ghha-deva</string>
-		<string>za-deva</string>
-		<string>dddha-deva</string>
-		<string>rha-deva</string>
-		<string>fa-deva</string>
-		<string>yya-deva</string>
-		<string>gga-deva</string>
 		<string>jja-deva</string>
-		<string>ddda-deva</string>
 		<string>bba-deva</string>
-		<string>aShort-deva</string>
-		<string>aCandra-deva</string>
-		<string>a-deva</string>
-		<string>aa-deva</string>
-		<string>i-deva</string>
-		<string>ii-deva</string>
-		<string>u-deva</string>
-		<string>uu-deva</string>
 		<string>rVocalic-deva</string>
-		<string>rrVocalic-deva</string>
-		<string>lVocalic-deva</string>
-		<string>llVocalic-deva</string>
-		<string>eCandra-deva</string>
-		<string>eShort-deva</string>
-		<string>e-deva</string>
-		<string>ai-deva</string>
-		<string>oCandra-deva</string>
-		<string>oShort-deva</string>
-		<string>o-deva</string>
-		<string>au-deva</string>
-		<string>oe-deva</string>
-		<string>ooe-deva</string>
-		<string>ue-deva</string>
-		<string>uue-deva</string>
 		<string>aaMatra-deva</string>
-		<string>iMatra-deva</string>
-		<string>iiMatra-deva</string>
-		<string>oCandraMatra-deva</string>
-		<string>oShortMatra-deva</string>
-		<string>oMatra-deva</string>
-		<string>auMatra-deva</string>
 		<string>ooeMatra-deva</string>
 		<string>zero</string>
 		<string>one</string>
@@ -505,16 +456,6 @@
 		<string>twosuperior</string>
 		<string>threesuperior</string>
 		<string>uni2074</string>
-		<string>zero-deva</string>
-		<string>one-deva</string>
-		<string>two-deva</string>
-		<string>three-deva</string>
-		<string>four-deva</string>
-		<string>five-deva</string>
-		<string>six-deva</string>
-		<string>seven-deva</string>
-		<string>eight-deva</string>
-		<string>nine-deva</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -553,11 +494,6 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
-		<string>glottalstop-deva</string>
-		<string>danda-deva</string>
-		<string>dbldanda-deva</string>
-		<string>abbreviation-deva</string>
-		<string>highspacingdot-deva</string>
 		<string>space</string>
 		<string>nbspace</string>
 		<string>uni00A0</string>
@@ -614,8 +550,6 @@
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
-		<string>avagraha-deva</string>
-		<string>om-deva</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -633,28 +567,6 @@
 		<string>commaaccent</string>
 		<string>caroncomb.alt</string>
 		<string>uni02C9</string>
-		<string>visarga-deva</string>
-		<string>uMatra-deva</string>
-		<string>uuMatra-deva</string>
-		<string>rVocalicMatra-deva</string>
-		<string>rrVocalicMatra-deva</string>
-		<string>lVocalicMatra-deva</string>
-		<string>llVocalicMatra-deva</string>
-		<string>eCandraMatra-deva</string>
-		<string>candraBindu-deva</string>
-		<string>eShortMatra-deva</string>
-		<string>eMatra-deva</string>
-		<string>aiMatra-deva</string>
-		<string>anusvara-deva</string>
-		<string>halant-deva</string>
-		<string>nukta-deva</string>
-		<string>oeMatra-deva</string>
-		<string>ueMatra-deva</string>
-		<string>uueMatra-deva</string>
-		<string>udatta-deva</string>
-		<string>anudatta-deva</string>
-		<string>grave-deva</string>
-		<string>acute-deva</string>
 		<string>Acute</string>
 		<string>Breve</string>
 		<string>Caron</string>

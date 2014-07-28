@@ -19,7 +19,7 @@
       <point x="413" y="297" type="line"/>
       <point x="413" y="377" type="line"/>
     </contour>
-    <component base="deva_knot" xOffset="12" yOffset="56"/>
+    <component base="deva_knot" xOffset="12" yOffset="50"/>
     <contour>
       <point x="459" y="664" type="move" name="mark0"/>
     </contour>

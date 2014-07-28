@@ -4,55 +4,26 @@
   <unicode hex="0919"/>
   <outline>
     <contour>
-      <point x="80" y="166" type="line"/>
-      <point x="165" y="36"/>
-      <point x="282" y="-15"/>
-      <point x="413" y="-15" type="curve" smooth="yes"/>
-      <point x="527" y="-15"/>
-      <point x="575" y="81"/>
-      <point x="574" y="181" type="curve" smooth="yes"/>
-      <point x="573" y="269"/>
-      <point x="520" y="317"/>
-      <point x="434" y="317" type="curve" smooth="yes"/>
-      <point x="387" y="317"/>
-      <point x="330" y="302"/>
-      <point x="266" y="272" type="curve"/>
-      <point x="228" y="325"/>
-      <point x="234" y="421"/>
-      <point x="333" y="421" type="curve" smooth="yes"/>
-      <point x="521" y="421" type="line"/>
-      <point x="438" y="501" type="line"/>
-      <point x="305" y="501" type="line" smooth="yes"/>
-      <point x="210" y="501"/>
-      <point x="166" y="452"/>
-      <point x="168" y="379" type="curve" smooth="yes"/>
-      <point x="170" y="293"/>
-      <point x="213" y="228"/>
-      <point x="290" y="209" type="curve"/>
-      <point x="352" y="227"/>
-      <point x="402" y="239"/>
-      <point x="439" y="239" type="curve" smooth="yes"/>
-      <point x="491" y="239"/>
-      <point x="519" y="216"/>
-      <point x="519" y="156" type="curve" smooth="yes"/>
-      <point x="519" y="115"/>
-      <point x="469" y="68"/>
-      <point x="393" y="69" type="curve" smooth="yes"/>
-      <point x="292" y="70"/>
-      <point x="197" y="106"/>
-      <point x="107" y="191" type="curve"/>
+      <point x="647" y="406"/>
+      <point x="621" y="405"/>
+      <point x="596" y="380" type="curve" smooth="yes"/>
+      <point x="570" y="354"/>
+      <point x="570" y="329"/>
+      <point x="599" y="300" type="curve" smooth="yes"/>
+      <point x="628" y="271"/>
+      <point x="653" y="271"/>
+      <point x="679" y="297" type="curve" smooth="yes"/>
+      <point x="704" y="322"/>
+      <point x="707" y="346"/>
+      <point x="676" y="377" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="-15" y="627" type="line"/>
-      <point x="15" y="547" type="line"/>
-      <point x="434" y="547" type="line"/>
-      <point x="434" y="470" type="line"/>
-      <point x="521" y="421" type="line"/>
-      <point x="521" y="547" type="line"/>
+      <point x="565" y="627" type="line"/>
+      <point x="595" y="547" type="line"/>
       <point x="761" y="547" type="line"/>
       <point x="731" y="627" type="line"/>
     </contour>
-    <component base="periodcentered" xOffset="522" yOffset="3"/>
+    <component base="dda-deva"/>
     <contour>
       <point x="450" y="664" type="move" name="mark0"/>
     </contour>
