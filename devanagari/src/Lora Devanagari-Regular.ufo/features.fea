@@ -11,12 +11,20 @@ languagesystem latn dflt;
 
 feature aalt {
 # automatic
+feature ccmp;
 feature sups;
 feature frac;
 feature ordn;
 feature case;
-feature nukt;
 } aalt;
+
+feature ccmp {
+# automatic
+sub eMatra-deva reph-deva by eMatra_reph-deva;
+sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+} ccmp;
 
 feature sups {
 # automatic
@@ -53,19 +61,4 @@ feature cpsp {
 # automatic
 pos @Uppercase <5 0 10 0>;
 } cpsp;
-
-feature nukt {
-# automatic
-sub ka-deva nukta-deva by qa-deva;
-sub kha-deva nukta-deva by khha-deva;
-sub ga-deva nukta-deva by ghha-deva;
-sub ja-deva nukta-deva by za-deva;
-sub dda-deva nukta-deva by dddha-deva;
-sub ddha-deva nukta-deva by rha-deva;
-sub na-deva nukta-deva by nnna-deva;
-sub pha-deva nukta-deva by fa-deva;
-sub ya-deva nukta-deva by yya-deva;
-sub ra-deva nukta-deva by rra-deva;
-sub lla-deva nukta-deva by llla-deva;
-} nukt;
 

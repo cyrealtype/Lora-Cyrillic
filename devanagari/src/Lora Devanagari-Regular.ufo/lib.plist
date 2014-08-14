@@ -51,7 +51,7 @@
 			<key>HH</key>
 			<integer>41</integer>
 			<key>HV</key>
-			<integer>127</integer>
+			<string>127</string>
 			<key>OH</key>
 			<integer>40</integer>
 			<key>OV</key>
@@ -424,20 +424,68 @@
 		<string>ta-deva</string>
 		<string>tha-deva</string>
 		<string>da-deva</string>
+		<string>dha-deva</string>
 		<string>na-deva</string>
 		<string>pa-deva</string>
+		<string>pha-deva</string>
+		<string>ba-deva</string>
+		<string>bha-deva</string>
 		<string>ma-deva</string>
 		<string>ya-deva</string>
 		<string>ra-deva</string>
+		<string>rra-deva</string>
 		<string>la-deva</string>
+		<string>lla-deva</string>
 		<string>va-deva</string>
+		<string>sha-deva</string>
 		<string>ssa-deva</string>
 		<string>sa-deva</string>
+		<string>ha-deva</string>
+		<string>dddha-deva</string>
+		<string>gga-deva</string>
 		<string>jja-deva</string>
+		<string>ddda-deva</string>
 		<string>bba-deva</string>
+		<string>aShort-deva</string>
+		<string>a-deva</string>
+		<string>aa-deva</string>
+		<string>i-deva</string>
+		<string>ii-deva</string>
+		<string>u-deva</string>
+		<string>uu-deva</string>
 		<string>rVocalic-deva</string>
+		<string>rrVocalic-deva</string>
+		<string>lVocalic-deva</string>
+		<string>llVocalic-deva</string>
+		<string>eShort-deva</string>
+		<string>e-deva</string>
+		<string>ai-deva</string>
+		<string>oShort-deva</string>
+		<string>o-deva</string>
+		<string>au-deva</string>
+		<string>oe-deva</string>
+		<string>ooe-deva</string>
+		<string>aw-deva</string>
+		<string>ue-deva</string>
+		<string>uue-deva</string>
 		<string>aaMatra-deva</string>
+		<string>iMatra-deva</string>
+		<string>iMatra_reph-deva</string>
+		<string>iMatra_reph_anusvara-deva</string>
+		<string>iiMatra-deva</string>
+		<string>iiMatra_reph-deva</string>
+		<string>iiMatra_reph_anusvara-deva</string>
+		<string>oCandraMatra-deva</string>
+		<string>oShortMatra-deva</string>
+		<string>oMatra_reph-deva</string>
+		<string>oMatra_reph_anusvara-deva</string>
+		<string>oMatra-deva</string>
+		<string>auMatra_reph-deva</string>
+		<string>auMatra_reph_anusvara-deva</string>
+		<string>auMatra-deva</string>
+		<string>prishthaMatraE-deva</string>
 		<string>ooeMatra-deva</string>
+		<string>awMatra-deva</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -567,6 +615,21 @@
 		<string>commaaccent</string>
 		<string>caroncomb.alt</string>
 		<string>uni02C9</string>
+		<string>eCandraMatra-deva</string>
+		<string>eShortMatra-deva</string>
+		<string>eMatra-deva</string>
+		<string>eMatra_reph-deva</string>
+		<string>eMatra_reph_anusvara-deva</string>
+		<string>aiMatra-deva</string>
+		<string>aiMatra_reph-deva</string>
+		<string>aiMatra_reph_anusvara-deva</string>
+		<string>anusvara-deva</string>
+		<string>reph-deva</string>
+		<string>oeMatra-deva</string>
+		<string>ueMatra-deva</string>
+		<string>uueMatra-deva</string>
+		<string>reph-deva.imatra</string>
+		<string>reph_anusvara-deva.imatra</string>
 		<string>Acute</string>
 		<string>Breve</string>
 		<string>Caron</string>

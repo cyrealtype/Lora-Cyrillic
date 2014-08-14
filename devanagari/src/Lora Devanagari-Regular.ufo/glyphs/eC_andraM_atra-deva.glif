@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eCandraMatra-deva" format="1">
+  <advance width="250"/>
+  <unicode hex="0945"/>
+  <outline>
+    <contour>
+      <point x="-3" y="687"/>
+      <point x="65" y="637"/>
+      <point x="131" y="637" type="curve" smooth="yes"/>
+      <point x="188" y="637"/>
+      <point x="231" y="667"/>
+      <point x="268" y="734" type="curve"/>
+      <point x="214" y="786" type="line"/>
+      <point x="148" y="694"/>
+      <point x="66" y="669"/>
+      <point x="-4" y="785" type="curve"/>
+      <point x="-41" y="761" type="line"/>
+    </contour>
+  </outline>
+</glyph>

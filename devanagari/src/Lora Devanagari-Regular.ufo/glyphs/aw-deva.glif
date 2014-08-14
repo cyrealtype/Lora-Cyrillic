@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aw-deva" format="1">
+  <advance width="1027"/>
+  <unicode hex="0975"/>
+  <outline>
+    <contour>
+      <point x="870" y="522" type="line"/>
+      <point x="850" y="715"/>
+      <point x="718" y="689"/>
+      <point x="629" y="672" type="curve" smooth="yes"/>
+      <point x="558" y="658"/>
+      <point x="519" y="660"/>
+      <point x="472" y="720" type="curve"/>
+      <point x="448" y="703" type="line"/>
+      <point x="497" y="622"/>
+      <point x="560" y="591"/>
+      <point x="642" y="604" type="curve" smooth="yes"/>
+      <point x="743" y="622"/>
+      <point x="818" y="621"/>
+      <point x="851" y="516" type="curve"/>
+    </contour>
+    <contour>
+      <point x="869" y="555" type="line"/>
+      <point x="939" y="742"/>
+      <point x="824" y="790"/>
+      <point x="734" y="798" type="curve" smooth="yes"/>
+      <point x="664" y="802"/>
+      <point x="611" y="808"/>
+      <point x="581" y="894" type="curve"/>
+      <point x="553" y="884" type="line"/>
+      <point x="576" y="774"/>
+      <point x="636" y="732"/>
+      <point x="727" y="727" type="curve" smooth="yes"/>
+      <point x="829" y="721"/>
+      <point x="857" y="686"/>
+      <point x="849" y="555" type="curve"/>
+    </contour>
+    <component base="aa-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

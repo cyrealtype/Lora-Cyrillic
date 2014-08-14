@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ooeMatra-deva" format="1">
-  <advance width="308"/>
+  <advance width="370"/>
   <unicode hex="093B"/>
   <outline>
     <contour>
-      <point x="116" y="534" type="line"/>
-      <point x="202" y="534" type="line"/>
-      <point x="202" y="821" type="line"/>
-      <point x="116" y="821" type="line"/>
+      <point x="145" y="534" type="line"/>
+      <point x="224" y="534" type="line"/>
+      <point x="224" y="741" type="line"/>
+      <point x="145" y="741" type="line"/>
     </contour>
     <component base="aaMatra-deva"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

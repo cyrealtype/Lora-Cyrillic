@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ma-deva" format="1">
-  <advance width="636"/>
+  <advance width="617"/>
   <unicode hex="092E"/>
   <outline>
     <contour>
-      <point x="621" y="627" type="line"/>
-      <point x="-15" y="627" type="line"/>
-      <point x="15" y="547" type="line"/>
-      <point x="110" y="547" type="line"/>
-      <point x="110" y="193" type="line"/>
-      <point x="428" y="193" type="line"/>
-      <point x="428" y="0" type="line"/>
-      <point x="515" y="-49" type="line"/>
-      <point x="515" y="547" type="line"/>
-      <point x="651" y="547" type="line"/>
+      <point x="574" y="570" type="line"/>
+      <point x="15" y="570" type="line"/>
+      <point x="43" y="506" type="line"/>
+      <point x="129" y="506" type="line"/>
+      <point x="129" y="200" type="line"/>
+      <point x="419" y="200" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="506" type="line"/>
+      <point x="602" y="506" type="line"/>
     </contour>
     <contour>
-      <point x="428" y="273" type="line"/>
-      <point x="197" y="273" type="line"/>
-      <point x="197" y="547" type="line"/>
-      <point x="428" y="547" type="line"/>
+      <point x="208" y="264" type="line"/>
+      <point x="208" y="506" type="line"/>
+      <point x="419" y="506" type="line"/>
+      <point x="419" y="264" type="line"/>
     </contour>
-    <component base="deva_knot" xOffset="-1" yOffset="-54"/>
+    <component base="deva_knot" xOffset="15" yOffset="-59"/>
     <contour>
-      <point x="475" y="664" type="move" name="mark0"/>
+      <point x="476" y="664" type="move" name="mark0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>1</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
