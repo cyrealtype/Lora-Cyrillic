@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pha-deva" format="1">
-  <advance width="850"/>
+  <advance width="860"/>
   <unicode hex="092B"/>
   <note>
     dPha
@@ -31,8 +31,8 @@
       <point x="411" y="0" type="line"/>
       <point x="490" y="0" type="line"/>
       <point x="490" y="506" type="line"/>
-      <point x="835" y="506" type="line"/>
-      <point x="807" y="570" type="line"/>
+      <point x="845" y="506" type="line"/>
+      <point x="817" y="570" type="line"/>
     </contour>
     <contour>
       <point x="486" y="242" type="line"/>

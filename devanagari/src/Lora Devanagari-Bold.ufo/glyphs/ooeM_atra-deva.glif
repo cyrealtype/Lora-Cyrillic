@@ -3,20 +3,14 @@
   <advance width="313"/>
   <unicode hex="093B"/>
   <outline>
-    <contour>
-      <point x="85" y="534" type="line"/>
-      <point x="227" y="534" type="line"/>
-      <point x="227" y="821" type="line"/>
-      <point x="85" y="821" type="line"/>
-    </contour>
     <component base="aaMatra-deva"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

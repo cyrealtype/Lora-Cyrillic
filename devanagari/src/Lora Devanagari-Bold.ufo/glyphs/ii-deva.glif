@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ii-deva" format="1">
-  <advance width="606"/>
+  <advance width="621"/>
   <unicode hex="0908"/>
+  <note>
+    dIi
+  </note>
   <outline>
     <component base="i-deva"/>
+    <component base="reph-deva" xOffset="258"/>
+    <contour>
+      <point x="471" y="523" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

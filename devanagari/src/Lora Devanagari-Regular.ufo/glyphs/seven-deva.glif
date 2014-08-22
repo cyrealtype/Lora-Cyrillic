@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven-deva" format="1">
+  <advance width="572"/>
+  <unicode hex="096D"/>
+  <note>
+    dSeven
+  </note>
+  <outline>
+    <contour>
+      <point x="464" y="329" type="line"/>
+      <point x="364" y="358"/>
+      <point x="333" y="408"/>
+      <point x="333" y="457" type="curve" smooth="yes"/>
+      <point x="333" y="498"/>
+      <point x="347" y="522"/>
+      <point x="379" y="522" type="curve" smooth="yes"/>
+      <point x="422" y="522"/>
+      <point x="447" y="479"/>
+      <point x="447" y="420" type="curve" smooth="yes"/>
+      <point x="447" y="283"/>
+      <point x="362" y="72"/>
+      <point x="232" y="72" type="curve" smooth="yes"/>
+      <point x="166" y="72"/>
+      <point x="125" y="134"/>
+      <point x="125" y="254" type="curve" smooth="yes"/>
+      <point x="125" y="365"/>
+      <point x="166" y="513"/>
+      <point x="235" y="624" type="curve"/>
+      <point x="142" y="641" type="line"/>
+      <point x="77" y="536"/>
+      <point x="45" y="409"/>
+      <point x="45" y="298" type="curve" smooth="yes"/>
+      <point x="45" y="154"/>
+      <point x="103" y="19"/>
+      <point x="252" y="19" type="curve" smooth="yes"/>
+      <point x="414" y="19"/>
+      <point x="527" y="207"/>
+      <point x="527" y="363" type="curve" smooth="yes"/>
+      <point x="527" y="473"/>
+      <point x="470" y="567"/>
+      <point x="365" y="567" type="curve" smooth="yes"/>
+      <point x="295" y="567"/>
+      <point x="248" y="530"/>
+      <point x="248" y="467" type="curve" smooth="yes"/>
+      <point x="248" y="373"/>
+      <point x="349" y="309"/>
+      <point x="445" y="286" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

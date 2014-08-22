@@ -7,7 +7,7 @@
   </note>
   <outline>
     <component base="e-deva"/>
-    <component base="eMatra-deva" xOffset="522"/>
+    <component base="eMatra-deva" xOffset="542"/>
   </outline>
   <lib>
     <dict>

@@ -3,23 +3,13 @@
   <advance width="313"/>
   <unicode hex="093E"/>
   <outline>
-    <contour>
-      <point x="313" y="627" type="line"/>
-      <point x="0" y="627" type="line"/>
-      <point x="0" y="548" type="line"/>
-      <point x="85" y="548" type="line"/>
-      <point x="85" y="0" type="line"/>
-      <point x="227" y="0" type="line"/>
-      <point x="227" y="548" type="line"/>
-      <point x="313" y="548" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

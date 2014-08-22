@@ -15,6 +15,8 @@
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. 
 </string>
+	<key>familyName</key>
+	<string>Lora Devanagari</string>
 	<key>fsType</key>
 	<array>
 	</array>
@@ -28,9 +30,9 @@ http://scripts.sil.org/OFL</string>
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/06/27 15:05:41</string>
+	<string>2014/06/27 14:05:41</string>
 	<key>openTypeNameDesigner</key>
-	<string>Olga Karpushina, Alexei Vanyashin</string>
+	<string>Olga Karpushina(Latin), Alexei Vanyashin (Cyrillic, Devanagari)</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://cyreal.org</string>
 	<key>openTypeNameManufacturer</key>

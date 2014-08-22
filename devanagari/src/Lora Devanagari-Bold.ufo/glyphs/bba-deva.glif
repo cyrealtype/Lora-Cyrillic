@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bba-deva" format="1">
-  <advance width="600"/>
+  <advance width="681"/>
   <unicode hex="097F"/>
   <outline>
+    <contour>
+      <point x="168" y="374" type="line"/>
+      <point x="133" y="326" type="line"/>
+      <point x="404" y="115" type="line"/>
+      <point x="439" y="163" type="line"/>
+    </contour>
+    <contour>
+      <point x="549" y="-78" type="line"/>
+      <point x="549" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="38" y="-78" type="line"/>
+    </contour>
+    <component base="va-deva"/>
+    <contour>
+      <point x="421" y="666" type="move" name="mark0"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
+      <integer>4</integer>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

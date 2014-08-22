@@ -107,6 +107,12 @@
 		<string>c</string>
 		<string>ccedilla</string>
 	</array>
+	<key>@MMK_L_dda-deva</key>
+	<array>
+		<string>ha-deva</string>
+		<string>ii-deva</string>
+		<string>rrVocalic-deva</string>
+	</array>
 	<key>@MMK_L_e</key>
 	<array>
 		<string>ae</string>
@@ -140,6 +146,10 @@
 		<string>idieresis</string>
 		<string>igrave</string>
 	</array>
+	<key>@MMK_L_ka-deva</key>
+	<array>
+		<string>pha-deva</string>
+	</array>
 	<key>@MMK_L_l</key>
 	<array>
 		<string>l</string>
@@ -164,6 +174,13 @@
 		<string>otilde</string>
 		<string>p</string>
 		<string>thorn</string>
+	</array>
+	<key>@MMK_L_pa-deva</key>
+	<array>
+		<string>dha-deva</string>
+		<string>bha-deva</string>
+		<string>e-deva</string>
+		<string>ai-deva</string>
 	</array>
 	<key>@MMK_L_period</key>
 	<array>
@@ -301,15 +318,27 @@
 		<string>b</string>
 		<string>thorn</string>
 	</array>
+	<key>@MMK_R_bha-deva</key>
+	<array>
+		<string>bha-deva</string>
+	</array>
 	<key>@MMK_R_d</key>
 	<array>
 		<string>d</string>
 		<string>q</string>
 	</array>
+	<key>@MMK_R_dda-deva</key>
+	<array>
+		<string>ii-deva</string>
+	</array>
 	<key>@MMK_R_f</key>
 	<array>
 		<string>f</string>
 		<string>germandbls</string>
+	</array>
+	<key>@MMK_R_gha-deva</key>
+	<array>
+		<string>dha-deva</string>
 	</array>
 	<key>@MMK_R_guilsinglleft</key>
 	<array>
@@ -323,6 +352,10 @@
 	<array>
 		<string>h</string>
 		<string>k</string>
+	</array>
+	<key>@MMK_R_ha-deva</key>
+	<array>
+		<string>ha-deva</string>
 	</array>
 	<key>@MMK_R_hyphen</key>
 	<array>
@@ -339,10 +372,19 @@
 		<string>idieresis</string>
 		<string>igrave</string>
 	</array>
+	<key>@MMK_R_iMatra</key>
+	<array>
+		<string>iMatra-deva</string>
+	</array>
 	<key>@MMK_R_l</key>
 	<array>
 		<string>l</string>
 		<string>lslash</string>
+	</array>
+	<key>@MMK_R_la-deva</key>
+	<array>
+		<string>lVocalic-deva</string>
+		<string>llVocalic-deva</string>
 	</array>
 	<key>@MMK_R_n</key>
 	<array>
@@ -368,6 +410,12 @@
 		<string>oslash</string>
 		<string>otilde</string>
 		<string>oe</string>
+	</array>
+	<key>@MMK_R_pa-deva</key>
+	<array>
+		<string>pha-deva</string>
+		<string>e-deva</string>
+		<string>ai-deva</string>
 	</array>
 	<key>@MMK_R_period</key>
 	<array>
@@ -396,6 +444,10 @@
 	<array>
 		<string>s</string>
 		<string>scaron</string>
+	</array>
+	<key>@MMK_R_ta-deva</key>
+	<array>
+		<string>rrVocalic-deva</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>

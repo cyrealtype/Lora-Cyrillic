@@ -51,7 +51,7 @@
 			<key>HH</key>
 			<integer>41</integer>
 			<key>HV</key>
-			<string>127</string>
+			<integer>127</integer>
 			<key>OH</key>
 			<integer>40</integer>
 			<key>OV</key>
@@ -468,6 +468,35 @@
 		<string>aw-deva</string>
 		<string>ue-deva</string>
 		<string>uue-deva</string>
+		<string>k-deva</string>
+		<string>kh-deva</string>
+		<string>g-deva</string>
+		<string>gh-deva</string>
+		<string>c-deva</string>
+		<string>ch-deva</string>
+		<string>j-deva</string>
+		<string>jh-deva</string>
+		<string>ny-deva</string>
+		<string>nn-deva</string>
+		<string>t-deva</string>
+		<string>th-deva</string>
+		<string>dh-deva</string>
+		<string>n-deva</string>
+		<string>p-deva</string>
+		<string>ph-deva</string>
+		<string>b-deva</string>
+		<string>bh-deva</string>
+		<string>m-deva</string>
+		<string>y-deva</string>
+		<string>rr-deva</string>
+		<string>l-deva</string>
+		<string>ll-deva</string>
+		<string>lll-deva</string>
+		<string>v-deva</string>
+		<string>sh-deva</string>
+		<string>ss-deva</string>
+		<string>s-deva</string>
+		<string>h-deva</string>
 		<string>aaMatra-deva</string>
 		<string>iMatra-deva</string>
 		<string>iMatra_reph-deva</string>
@@ -504,6 +533,16 @@
 		<string>twosuperior</string>
 		<string>threesuperior</string>
 		<string>uni2074</string>
+		<string>zero-deva</string>
+		<string>one-deva</string>
+		<string>two-deva</string>
+		<string>three-deva</string>
+		<string>four-deva</string>
+		<string>five-deva</string>
+		<string>six-deva</string>
+		<string>seven-deva</string>
+		<string>eight-deva</string>
+		<string>nine-deva</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -624,6 +663,7 @@
 		<string>aiMatra_reph-deva</string>
 		<string>aiMatra_reph_anusvara-deva</string>
 		<string>anusvara-deva</string>
+		<string>nukta-deva</string>
 		<string>reph-deva</string>
 		<string>oeMatra-deva</string>
 		<string>ueMatra-deva</string>
