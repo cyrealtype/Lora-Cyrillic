@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eMatra_anusvara-deva" format="1">
+  <advance width="528"/>
+  <note>
+    dMatraEAnusvara
+  </note>
+  <outline>
+    <component base="anusvara-deva" xOffset="312" yOffset="101" xScale="0.96" yScale="0.96"/>
+    <component base="eMatra-deva"/>
+    <contour>
+      <point x="429" y="555" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

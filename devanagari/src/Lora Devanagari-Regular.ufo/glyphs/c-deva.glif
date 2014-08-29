@@ -3,32 +3,32 @@
   <advance width="492"/>
   <outline>
     <contour>
-      <point x="195" y="351"/>
-      <point x="146" y="263"/>
-      <point x="146" y="192" type="curve" smooth="yes"/>
-      <point x="146" y="102"/>
-      <point x="225" y="72"/>
-      <point x="303" y="72" type="curve" smooth="yes"/>
-      <point x="372" y="72"/>
-      <point x="444" y="95"/>
-      <point x="532" y="206" type="curve"/>
-      <point x="472" y="266" type="line"/>
-      <point x="404" y="161"/>
-      <point x="352" y="116"/>
-      <point x="300" y="116" type="curve" smooth="yes"/>
-      <point x="255" y="116"/>
-      <point x="232" y="149"/>
-      <point x="232" y="191" type="curve" smooth="yes"/>
-      <point x="232" y="253"/>
-      <point x="282" y="338"/>
-      <point x="358" y="338" type="curve"/>
-      <point x="358" y="371" type="line"/>
+      <point x="176" y="341"/>
+      <point x="147" y="293"/>
+      <point x="147" y="237" type="curve" smooth="yes"/>
+      <point x="147" y="142"/>
+      <point x="226" y="72"/>
+      <point x="330" y="72" type="curve" smooth="yes"/>
+      <point x="373" y="72"/>
+      <point x="433" y="83"/>
+      <point x="541" y="175" type="curve"/>
+      <point x="493" y="246" type="line"/>
+      <point x="406" y="156"/>
+      <point x="353" y="116"/>
+      <point x="301" y="116" type="curve" smooth="yes"/>
+      <point x="256" y="116"/>
+      <point x="233" y="149"/>
+      <point x="233" y="197" type="curve" smooth="yes"/>
+      <point x="233" y="253"/>
+      <point x="263" y="298"/>
+      <point x="339" y="338" type="curve"/>
+      <point x="239" y="371" type="line"/>
     </contour>
     <contour>
       <point x="15" y="402" type="line"/>
       <point x="43" y="338" type="line"/>
-      <point x="376" y="338" type="line"/>
-      <point x="349" y="402" type="line"/>
+      <point x="406" y="338" type="line"/>
+      <point x="379" y="402" type="line"/>
     </contour>
     <contour>
       <point x="15" y="570" type="line"/>
@@ -40,9 +40,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

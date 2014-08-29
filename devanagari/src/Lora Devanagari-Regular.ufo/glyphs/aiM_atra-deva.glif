@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aiMatra-deva" format="1">
-  <advance width="0"/>
+  <advance width="444"/>
   <unicode hex="0948"/>
   <outline>
     <contour>
-      <point x="-107" y="555" type="line"/>
-      <point x="-112" y="818"/>
-      <point x="-286" y="882"/>
-      <point x="-422" y="822" type="curve"/>
-      <point x="-399" y="753" type="line"/>
-      <point x="-293" y="800"/>
-      <point x="-206" y="755"/>
-      <point x="-156" y="642" type="curve"/>
-      <point x="-208" y="640" type="line"/>
-      <point x="-134" y="608" type="line"/>
-      <point x="-212" y="713"/>
-      <point x="-302" y="770"/>
-      <point x="-441" y="691" type="curve"/>
-      <point x="-415" y="622" type="line"/>
-      <point x="-318" y="678"/>
-      <point x="-220" y="688"/>
-      <point x="-148" y="555" type="curve"/>
+      <point x="394" y="555" type="line"/>
+      <point x="399" y="818"/>
+      <point x="222" y="889"/>
+      <point x="69" y="822" type="curve"/>
+      <point x="102" y="753" type="line"/>
+      <point x="216" y="804"/>
+      <point x="305" y="755"/>
+      <point x="345" y="642" type="curve"/>
+      <point x="293" y="640" type="line"/>
+      <point x="367" y="608" type="line"/>
+      <point x="319" y="713"/>
+      <point x="189" y="770"/>
+      <point x="50" y="691" type="curve"/>
+      <point x="86" y="622" type="line"/>
+      <point x="183" y="678"/>
+      <point x="281" y="688"/>
+      <point x="353" y="555" type="curve"/>
     </contour>
     <contour>
-      <point x="-135" y="664" type="move" name="_mark0"/>
+      <point x="366" y="664" type="move" name="_mark0"/>
+    </contour>
+    <contour>
+      <point x="376" y="555" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

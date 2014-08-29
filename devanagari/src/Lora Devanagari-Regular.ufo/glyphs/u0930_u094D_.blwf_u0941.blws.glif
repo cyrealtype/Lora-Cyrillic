@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0930_u094D.blwf_u0941.blws" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="rakar_uMatra-deva" xOffset="-240" yOffset="10"/>
+    <contour>
+      <point x="-127" y="63" type="move" name="_mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

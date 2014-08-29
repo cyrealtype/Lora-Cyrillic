@@ -51,7 +51,7 @@
 			<key>HH</key>
 			<integer>41</integer>
 			<key>HV</key>
-			<integer>127</integer>
+			<integer>8</integer>
 			<key>OH</key>
 			<integer>40</integer>
 			<key>OV</key>
@@ -71,11 +71,9 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<integer>20</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
+		<integer>6</integer>
 		<key>GSOffsetVertical</key>
-		<integer>50</integer>
+		<integer>8</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>UUID0</string>
@@ -426,6 +424,7 @@
 		<string>da-deva</string>
 		<string>dha-deva</string>
 		<string>na-deva</string>
+		<string>nnna-deva</string>
 		<string>pa-deva</string>
 		<string>pha-deva</string>
 		<string>ba-deva</string>
@@ -436,17 +435,116 @@
 		<string>rra-deva</string>
 		<string>la-deva</string>
 		<string>lla-deva</string>
+		<string>llla-deva</string>
 		<string>va-deva</string>
 		<string>sha-deva</string>
 		<string>ssa-deva</string>
 		<string>sa-deva</string>
 		<string>ha-deva</string>
+		<string>qa-deva</string>
+		<string>khha-deva</string>
+		<string>ghha-deva</string>
+		<string>za-deva</string>
 		<string>dddha-deva</string>
+		<string>rha-deva</string>
+		<string>fa-deva</string>
+		<string>yya-deva</string>
 		<string>gga-deva</string>
 		<string>jja-deva</string>
 		<string>ddda-deva</string>
 		<string>bba-deva</string>
+		<string>k_ka-deva</string>
+		<string>k_ta-deva</string>
+		<string>k_ra-deva</string>
+		<string>k_la-deva</string>
+		<string>k_va-deva</string>
+		<string>k_ssa-deva</string>
+		<string>k_ss_ra-deva</string>
+		<string>kh_ra-deva</string>
+		<string>g_na-deva</string>
+		<string>g_ra-deva</string>
+		<string>gh_ra-deva</string>
+		<string>ng_ka-deva</string>
+		<string>ng_k_ssa-deva</string>
+		<string>ng_kha-deva</string>
+		<string>ng_ga-deva</string>
+		<string>ng_gha-deva</string>
+		<string>ng_ma-deva</string>
+		<string>c_ca-deva</string>
+		<string>c_ra-deva</string>
+		<string>ch_va-deva</string>
+		<string>j_ja-deva</string>
+		<string>j_nya-deva</string>
+		<string>j_ra-deva</string>
+		<string>jh_ra-deva</string>
+		<string>ny_ca-deva</string>
+		<string>ny_ja-deva</string>
+		<string>ny_ra-deva</string>
+		<string>tt_tta-deva</string>
+		<string>tt_ttha-deva</string>
+		<string>tt_ya-deva</string>
+		<string>tt_va-deva</string>
+		<string>tth_ttha-deva</string>
+		<string>tth_ya-deva</string>
+		<string>dd_dda-deva</string>
+		<string>dd_ddha-deva</string>
+		<string>dd_ya-deva</string>
+		<string>ddh_ddha-deva</string>
+		<string>ddh_ya-deva</string>
+		<string>nn_ra-deva</string>
+		<string>t_ta-deva</string>
+		<string>t_ra-deva</string>
+		<string>th_ra-deva</string>
+		<string>d_ga-deva</string>
+		<string>d_gha-deva</string>
+		<string>d_da-deva</string>
+		<string>d_dha-deva</string>
+		<string>d_dh_r_ya-deva</string>
+		<string>d_na-deva</string>
+		<string>d_ba-deva</string>
+		<string>d_bha-deva</string>
+		<string>d_ma-deva</string>
+		<string>d_ya-deva</string>
+		<string>d_ra-deva</string>
+		<string>d_va-deva</string>
+		<string>dh_ra-deva</string>
+		<string>n_na-deva</string>
+		<string>n_ra-deva</string>
+		<string>p_ta-deva</string>
+		<string>p_ra-deva</string>
+		<string>p_la-deva</string>
+		<string>ph_ra-deva</string>
+		<string>ph_la-deva</string>
+		<string>b_ra-deva</string>
+		<string>bh_ra-deva</string>
+		<string>m_ra-deva</string>
+		<string>y_ra-deva</string>
+		<string>r_matra_u-deva</string>
+		<string>r_matra_uu-deva</string>
+		<string>l_ra-deva</string>
+		<string>l_la-deva</string>
+		<string>v_ra-deva</string>
+		<string>sh_ra-deva</string>
+		<string>sh_r_ca-deva</string>
+		<string>sh_r_na-deva</string>
+		<string>sh_r_la-deva</string>
+		<string>sh_r_va-deva</string>
+		<string>ss_tta-deva</string>
+		<string>ss_ttha-deva</string>
+		<string>ss_ra-deva</string>
+		<string>s_t_ra-deva</string>
+		<string>s_ra-deva</string>
+		<string>h_nna-deva</string>
+		<string>h_na-deva</string>
+		<string>h_ma-deva</string>
+		<string>h_ya-deva</string>
+		<string>h_ra-deva</string>
+		<string>h_la-deva</string>
+		<string>h_va-deva</string>
+		<string>f_ra-deva</string>
+		<string>k_ra-deva.NEP</string>
 		<string>aShort-deva</string>
+		<string>aCandra-deva</string>
 		<string>a-deva</string>
 		<string>aa-deva</string>
 		<string>i-deva</string>
@@ -457,9 +555,11 @@
 		<string>rrVocalic-deva</string>
 		<string>lVocalic-deva</string>
 		<string>llVocalic-deva</string>
+		<string>eCandra-deva</string>
 		<string>eShort-deva</string>
 		<string>e-deva</string>
 		<string>ai-deva</string>
+		<string>oCandra-deva</string>
 		<string>oShort-deva</string>
 		<string>o-deva</string>
 		<string>au-deva</string>
@@ -581,6 +681,11 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
+		<string>glottalstop-deva</string>
+		<string>danda-deva</string>
+		<string>dbldanda-deva</string>
+		<string>abbreviation-deva</string>
+		<string>highspacingdot-deva</string>
 		<string>space</string>
 		<string>nbspace</string>
 		<string>uni00A0</string>
@@ -637,6 +742,8 @@
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
+		<string>avagraha-deva</string>
+		<string>om-deva</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -654,22 +761,41 @@
 		<string>commaaccent</string>
 		<string>caroncomb.alt</string>
 		<string>uni02C9</string>
+		<string>visarga-deva</string>
+		<string>uMatra-deva</string>
+		<string>uuMatra-deva</string>
+		<string>rVocalicMatra-deva</string>
+		<string>rrVocalicMatra-deva</string>
+		<string>lVocalicMatra-deva</string>
+		<string>llVocalicMatra-deva</string>
 		<string>eCandraMatra-deva</string>
+		<string>candraBindu-deva</string>
 		<string>eShortMatra-deva</string>
 		<string>eMatra-deva</string>
+		<string>eMatra_anusvara-deva</string>
 		<string>eMatra_reph-deva</string>
 		<string>eMatra_reph_anusvara-deva</string>
 		<string>aiMatra-deva</string>
 		<string>aiMatra_reph-deva</string>
 		<string>aiMatra_reph_anusvara-deva</string>
 		<string>anusvara-deva</string>
+		<string>halant-deva</string>
 		<string>nukta-deva</string>
 		<string>reph-deva</string>
+		<string>reph_anusvara-deva</string>
+		<string>rakar_uMatra-deva</string>
+		<string>rakar_uuMatra-deva</string>
 		<string>oeMatra-deva</string>
 		<string>ueMatra-deva</string>
 		<string>uueMatra-deva</string>
+		<string>udatta-deva</string>
+		<string>anudatta-deva</string>
+		<string>grave-deva</string>
+		<string>acute-deva</string>
 		<string>reph-deva.imatra</string>
 		<string>reph_anusvara-deva.imatra</string>
+		<string>reph-deva.loclMAR</string>
+		<string>rakar-deva</string>
 		<string>Acute</string>
 		<string>Breve</string>
 		<string>Caron</string>
@@ -684,6 +810,194 @@
 		<string>nonmarkingreturn</string>
 		<string>deva_knot</string>
 		<string>newGlyph</string>
+		<string>u0915_u0930_u094D.blwf.vatu</string>
+		<string>SignI_extended_1</string>
+		<string>nepali_jha_half</string>
+		<string>u0947_u0930_u094D.rphf.abvs_u0902.abvs</string>
+		<string>u0948_u0902.abvs</string>
+		<string>u0947_u0902.abvs</string>
+		<string>u0948_u0930_u094D.rphf.abvs</string>
+		<string>u0948_u0930_u094D.rphf.abvs_u0902.abvs</string>
+		<string>u0947_u0930_u094D.rphf.abvs</string>
+		<string>glyph172</string>
+		<string>u0930_u094D.rphf</string>
+		<string>u0930_u094D.rphf_u0902.abvs</string>
+		<string>u0930_u094D.blwf</string>
+		<string>u0924_u094D.half_u0924.pres</string>
+		<string>u0936_u0930_u094D.blwf.vatu</string>
+		<string>u0915_u094D_u0937.akhn</string>
+		<string>u095E_u0930_u094D.blwf.vatu</string>
+		<string>u0917_u094D.half</string>
+		<string>u091C_u094D_u091E.akhn</string>
+		<string>u0918_u094D.half</string>
+		<string>u0915_u094D.half</string>
+		<string>u0916_u094D.half</string>
+		<string>u091C_u094D.half</string>
+		<string>u091B_u094D.half</string>
+		<string>u091A_u094D.half</string>
+		<string>u091D_u094D.half</string>
+		<string>u0919_u094D.half</string>
+		<string>u091E_u094D.half</string>
+		<string>u091F_u094D.half</string>
+		<string>u0920_u094D.half</string>
+		<string>u0923_u094D.half</string>
+		<string>u0921_u094D.half</string>
+		<string>u0924_u094D.half</string>
+		<string>u0926_u094D.half</string>
+		<string>u0925_u094D.half</string>
+		<string>u0922_u094D.half</string>
+		<string>u0929_u094D.half</string>
+		<string>u0928_u094D.half</string>
+		<string>u092B_u094D.half</string>
+		<string>u0927_u094D.half</string>
+		<string>u092A_u094D.half</string>
+		<string>u092E_u094D.half</string>
+		<string>u092C_u094D.half</string>
+		<string>u092F_u094D.half</string>
+		<string>u092D_u094D.half</string>
+		<string>glyph207</string>
+		<string>glyph206</string>
+		<string>u0932_u094D.half</string>
+		<string>u0937_u094D.half</string>
+		<string>u0933_u094D.half</string>
+		<string>u0939_u094D.half</string>
+		<string>u0936_u094D.half</string>
+		<string>u0938_u094D.half</string>
+		<string>u0934_u094D.half</string>
+		<string>u095A_u094D.half</string>
+		<string>u0935_u094D.half</string>
+		<string>u095B_u094D.half</string>
+		<string>u0936_u094D.half_u0930_u094D.blwf.vatu</string>
+		<string>u0959_u094D.half</string>
+		<string>u0958_u094D.half</string>
+		<string>u0924_u094D.half_u0924_u094D.half.pres</string>
+		<string>u095E_u094D.half</string>
+		<string>u0924_u094D.half_u0930_u094D.blwf.vatu</string>
+		<string>glyph229</string>
+		<string>glyph226</string>
+		<string>u091C_u094D_u091E.akhn_u094D.half</string>
+		<string>glyph230</string>
+		<string>glyph227</string>
+		<string>glyph231</string>
+		<string>glyph228</string>
+		<string>u0940_u0930_u094D.rphf.abvs</string>
+		<string>u0915_u094D_u0937.akhn_u094D.half</string>
+		<string>glyph236</string>
+		<string>u0940_u0902.abvs</string>
+		<string>u0940_u0930_u094D.rphf.abvs_u0902.abvs</string>
+		<string>glyph238</string>
+		<string>glyph237</string>
+		<string>u0930_u094D.blwf_u0941.blws</string>
+		<string>glyph243</string>
+		<string>glyph239</string>
+		<string>glyph232</string>
+		<string>glyph244</string>
+		<string>glyph245</string>
+		<string>u0930_u094D.blwf_u0942.blws</string>
+		<string>glyph247</string>
+		<string>u0931_u094D.half</string>
+		<string>glyph242</string>
+		<string>u0916_u0930_u094D.blwf.vatu</string>
+		<string>u091C_u0930_u094D.blwf.vatu</string>
+		<string>u0917_u0930_u094D.blwf.vatu</string>
+		<string>u0926_u0930_u094D.blwf.vatu</string>
+		<string>u092A_u0930_u094D.blwf.vatu</string>
+		<string>u0924_u0930_u094D.blwf.vatu</string>
+		<string>u092C_u0930_u094D.blwf.vatu</string>
+		<string>u091D_u0930_u094D.blwf.vatu</string>
+		<string>u092E_u0930_u094D.blwf.vatu</string>
+		<string>u092D_u0930_u094D.blwf.vatu</string>
+		<string>u0935_u0930_u094D.blwf.vatu</string>
+		<string>u092B_u0930_u094D.blwf.vatu</string>
+		<string>glyph263</string>
+		<string>u0938_u0930_u094D.blwf.vatu</string>
+		<string>u0939_u0930_u094D.blwf.vatu</string>
+		<string>u0915_u094D.half_u0924.pres</string>
+		<string>u0915_u094D.half_u0915.pres</string>
+		<string>u0915_u094D.half_u0935.pres</string>
+		<string>u0917_u094D.half_u0928.pres</string>
+		<string>u0919_u094D.half_u0916.pres</string>
+		<string>u0919_u094D.half_u0915.pres</string>
+		<string>u0z919_u094D.half_u0917.pres</string>
+		<string>u0915_u094D.half_u0932.pres</string>
+		<string>u0919_u094D.half_u092E.pres</string>
+		<string>u0919_u094D.half_u0918.pres</string>
+		<string>u091E_u094D.half_u091A.pres</string>
+		<string>u091B_u094D.half_u0935.pres</string>
+		<string>u091A_u094D.half_u091A.pres</string>
+		<string>u091E_u094D.half_u091C.pres</string>
+		<string>u0919_u094D.half_u0915_u094D_u0937.akhn.pres</string>
+		<string>u091F_u094D.half_u091F.pres</string>
+		<string>u091C_u094D.half_u091C.pres</string>
+		<string>u091F_u094D.half_u0920.pres</string>
+		<string>u091F_u094D.half_u0935.pres</string>
+		<string>u091F_u094D.half_u092F.pres</string>
+		<string>u0920_u094D.half_u092F.pres</string>
+		<string>u0920_u094D.half_u0920.pres</string>
+		<string>u0921_u094D.half_u0922.pres</string>
+		<string>u0922_u094D.half_u0922.pres</string>
+		<string>u0921_u094D.half_u0921.pres</string>
+		<string>u0926_u094D.half_u0927.pres</string>
+		<string>u0922_u094D.half_u092F.pres</string>
+		<string>u0926_u094D.half_u0918.pres</string>
+		<string>u0921_u094D.half_u092F.pres</string>
+		<string>u0926_u094D.half_u0917.pres</string>
+		<string>u0926_u094D.half_u0926.pres</string>
+		<string>u0926_u094D.half_u092C.pres</string>
+		<string>u0926_u094D.half_u092F.pres</string>
+		<string>u0926_u094D.half_u0935.pres</string>
+		<string>u0928_u094D.half_u0928.pres</string>
+		<string>u0926_u094D.half_u0928.pres</string>
+		<string>u092A_u094D.half_u0924.pres</string>
+		<string>u0926_u094D.half_u092E.pres</string>
+		<string>u092A_u094D.half_u0932.pres</string>
+		<string>u0936_u094D.half_u0930_u094D.blwf.vatu_u091A.pres</string>
+		<string>u0926_u094D.half_u092D.pres</string>
+		<string>u0936_u094D.half_u0930_u094D.blwf.vatu_u0928.pres</string>
+		<string>u0932_u094D.half_u0932.pres</string>
+		<string>u0936_u094D.half_u0930_u094D.blwf.vatu_u0932.pres</string>
+		<string>u092B_u094D.half_u0932.pres</string>
+		<string>u0936_u094D.half_u0930_u094D.blwf.vatu_u0935.pres</string>
+		<string>u0939_u094D.half_u0928.pres</string>
+		<string>u0937_u094D.half_u0920.pres</string>
+		<string>u0937_u094D.half_u091F.pres</string>
+		<string>u0939_u094D.half_u092E.pres</string>
+		<string>u0939_u094D.half_u0932.pres</string>
+		<string>u0938_u094D.half_u0924_u0930_u094D.blwf.vatu.pres</string>
+		<string>u0939_u094D.half_u092F.pres</string>
+		<string>u0939_u094D.half_u0923.pres</string>
+		<string>u091C_u094D.half_u091C_u094D.half.pres</string>
+		<string>u0939_u094D.half_u0935.pres</string>
+		<string>glyph324</string>
+		<string>u0918_u0930_u094D.blwf.vatu</string>
+		<string>u0926_u0943.blws</string>
+		<string>u0930_u0941.psts</string>
+		<string>u0939_u0943.blws</string>
+		<string>u0930_u0942.psts</string>
+		<string>u0927_u0930_u094D.blwf.vatu</string>
+		<string>u094B_u0902.abvs</string>
+		<string>u091A_u0930_u094D.blwf.vatu</string>
+		<string>u0919_u094D.half_u0915_u094D.half.half</string>
+		<string>u0928_u0930_u094D.blwf.vatu</string>
+		<string>u0925_u0930_u094D.blwf.vatu</string>
+		<string>u094B_u0930_u094D.rphf.abvs</string>
+		<string>u094B_u0930_u094D.rphf.abvs_u0902.abvs</string>
+		<string>u094C_u0902.abvs</string>
+		<string>u0932_u0930_u094D.blwf.vatu</string>
+		<string>u094C_u0930_u094D.rphf.abvs_u0902.abvs</string>
+		<string>u0923_u0930_u094D.blwf.vatu</string>
+		<string>u094C_u0930_u094D.rphf.abvs</string>
+		<string>u091E_u0930_u094D.blwf.vatu</string>
+		<string>u0937_u0930_u094D.blwf.vatu</string>
+		<string>u092F_u0930_u094D.blwf.vatu</string>
+		<string>np8</string>
+		<string>u091C_u094D_u091E.akhn_u0930_u094D.blwf.vatu</string>
+		<string>np5</string>
+		<string>u0915_u094D_u0937.akhn_u0930_u094D.blwf.vatu</string>
+		<string>npu0915_u0930_u094D.blwf.vatu</string>
+		<string>np_zha</string>
+		<string>nepali_jha_091d</string>
+		<string>lig_0926_0927_0930_092f</string>
 		<string>uniEFFD</string>
 	</array>
 </dict>

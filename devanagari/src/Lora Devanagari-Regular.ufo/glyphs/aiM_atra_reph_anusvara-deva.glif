@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aiMatra_reph_anusvara-deva" format="1">
-  <advance width="-30"/>
+  <advance width="588"/>
   <outline>
-    <component base="anusvara-deva" xOffset="112" yOffset="35" xScale="0.89" yScale="0.89"/>
-    <component base="aiMatra_reph-deva" xOffset="-230"/>
+    <component base="anusvara-deva" xOffset="360" yOffset="16" xScale="0.89" yScale="0.89"/>
+    <component base="aiMatra_reph-deva"/>
     <contour>
-      <point x="-105" y="580" type="move" name="_top"/>
+      <point x="370" y="555" type="move" name="_top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
 </glyph>

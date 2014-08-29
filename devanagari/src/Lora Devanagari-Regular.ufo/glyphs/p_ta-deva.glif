@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_ta-deva" format="1">
+  <advance width="637"/>
+  <outline>
+    <contour>
+      <point x="472" y="283" type="line"/>
+      <point x="445" y="347" type="line"/>
+      <point x="265" y="347" type="line" smooth="yes"/>
+      <point x="167" y="347"/>
+      <point x="104" y="319"/>
+      <point x="104" y="223" type="curve" smooth="yes"/>
+      <point x="104" y="146"/>
+      <point x="155" y="67"/>
+      <point x="280" y="-7" type="curve"/>
+      <point x="307" y="18" type="line"/>
+      <point x="229" y="64"/>
+      <point x="185" y="141"/>
+      <point x="185" y="197" type="curve" smooth="yes"/>
+      <point x="185" y="254"/>
+      <point x="213" y="283"/>
+      <point x="276" y="283" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="498" y="506" type="line"/>
+      <point x="622" y="506" type="line"/>
+      <point x="594" y="570" type="line"/>
+      <point x="15" y="570" type="line"/>
+      <point x="43" y="506" type="line"/>
+      <point x="419" y="506" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="347" type="line"/>
+      <point x="236" y="347"/>
+      <point x="199" y="370"/>
+      <point x="199" y="447" type="curve" smooth="yes"/>
+      <point x="199" y="552" type="line"/>
+      <point x="110" y="552" type="line"/>
+      <point x="110" y="521" type="line" smooth="yes"/>
+      <point x="110" y="375"/>
+      <point x="191" y="293"/>
+      <point x="310" y="293" type="curve"/>
+    </contour>
+    <contour>
+      <point x="478" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

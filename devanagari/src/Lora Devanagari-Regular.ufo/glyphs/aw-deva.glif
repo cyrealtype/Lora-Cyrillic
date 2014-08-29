@@ -4,45 +4,45 @@
   <unicode hex="0975"/>
   <outline>
     <contour>
-      <point x="870" y="522" type="line"/>
-      <point x="850" y="715"/>
-      <point x="718" y="689"/>
-      <point x="629" y="672" type="curve" smooth="yes"/>
-      <point x="558" y="658"/>
-      <point x="519" y="660"/>
-      <point x="472" y="720" type="curve"/>
-      <point x="448" y="703" type="line"/>
-      <point x="497" y="622"/>
-      <point x="560" y="591"/>
-      <point x="642" y="604" type="curve" smooth="yes"/>
-      <point x="743" y="622"/>
-      <point x="818" y="621"/>
-      <point x="851" y="516" type="curve"/>
+      <point x="845" y="519" type="line"/>
+      <point x="843" y="686"/>
+      <point x="748" y="701"/>
+      <point x="659" y="678" type="curve" smooth="yes"/>
+      <point x="591" y="660"/>
+      <point x="560" y="661"/>
+      <point x="514" y="732" type="curve"/>
+      <point x="490" y="715" type="line"/>
+      <point x="535" y="625"/>
+      <point x="584" y="600"/>
+      <point x="666" y="620" type="curve" smooth="yes"/>
+      <point x="756" y="642"/>
+      <point x="802" y="627"/>
+      <point x="826" y="513" type="curve"/>
     </contour>
     <contour>
-      <point x="869" y="555" type="line"/>
-      <point x="939" y="742"/>
-      <point x="824" y="790"/>
-      <point x="734" y="798" type="curve" smooth="yes"/>
-      <point x="664" y="802"/>
-      <point x="611" y="808"/>
-      <point x="581" y="894" type="curve"/>
-      <point x="553" y="884" type="line"/>
-      <point x="576" y="774"/>
-      <point x="636" y="732"/>
-      <point x="727" y="727" type="curve" smooth="yes"/>
-      <point x="829" y="721"/>
-      <point x="857" y="686"/>
-      <point x="849" y="555" type="curve"/>
+      <point x="862" y="549" type="line"/>
+      <point x="932" y="745"/>
+      <point x="846" y="799"/>
+      <point x="728" y="786" type="curve" smooth="yes"/>
+      <point x="641" y="776"/>
+      <point x="593" y="777"/>
+      <point x="559" y="855" type="curve"/>
+      <point x="530" y="841" type="line"/>
+      <point x="564" y="737"/>
+      <point x="628" y="715"/>
+      <point x="734" y="725" type="curve" smooth="yes"/>
+      <point x="824" y="734"/>
+      <point x="854" y="670"/>
+      <point x="835" y="562" type="curve"/>
     </contour>
     <component base="aa-deva"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

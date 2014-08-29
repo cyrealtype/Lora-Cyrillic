@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jja-deva" format="1">
-  <advance width="600"/>
+  <advance width="764"/>
   <unicode hex="097C"/>
   <outline>
+    <contour>
+      <point x="662" y="-78" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="38" y="-78" type="line"/>
+    </contour>
+    <component base="ja-deva"/>
+    <contour>
+      <point x="615" y="666" type="move" name="mark0"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

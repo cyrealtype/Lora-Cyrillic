@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halant-deva" format="1">
+  <advance width="250"/>
+  <unicode hex="094D"/>
+  <note>
+    dHalant
+  </note>
+  <outline>
+    <contour>
+      <point x="40" y="-120" type="line"/>
+      <point x="178" y="-145"/>
+      <point x="254" y="-201"/>
+      <point x="313" y="-299" type="curve"/>
+      <point x="347" y="-277" type="line"/>
+      <point x="290" y="-149"/>
+      <point x="197" y="-77"/>
+      <point x="55" y="-55" type="curve"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s_ra-deva" format="1">
+  <advance width="846"/>
+  <outline>
+    <contour>
+      <point x="697" y="304" type="line"/>
+      <point x="393" y="153" type="line"/>
+      <point x="451" y="92" type="line"/>
+      <point x="697" y="225" type="line"/>
+    </contour>
+    <contour>
+      <point x="648" y="0" type="line"/>
+      <point x="727" y="0" type="line"/>
+      <point x="727" y="506" type="line"/>
+      <point x="831" y="506" type="line"/>
+      <point x="803" y="570" type="line"/>
+      <point x="254" y="570" type="line"/>
+      <point x="282" y="506" type="line"/>
+      <point x="648" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="460"/>
+      <point x="424" y="458"/>
+      <point x="268" y="407" type="curve"/>
+      <point x="278" y="322" type="line"/>
+      <point x="433" y="383"/>
+      <point x="511" y="382"/>
+      <point x="664" y="266" type="curve"/>
+      <point x="682" y="300" type="line"/>
+    </contour>
+    <component base="ra-deva"/>
+    <contour>
+      <point x="214" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="214" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="214" y="0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="740" y="664" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

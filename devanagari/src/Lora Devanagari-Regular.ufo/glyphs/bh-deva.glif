@@ -27,31 +27,19 @@
       <point x="479" y="200" type="line"/>
     </contour>
     <contour>
-      <point x="429" y="506" type="line"/>
-      <point x="401" y="570" type="line"/>
-      <point x="323" y="570" type="line"/>
-      <point x="351" y="506" type="line"/>
+      <point x="456" y="506" type="line"/>
+      <point x="428" y="570" type="line"/>
+      <point x="313" y="570" type="line"/>
+      <point x="341" y="506" type="line"/>
     </contour>
     <component base="deva_knot" xOffset="83" yOffset="-59"/>
-    <contour>
-      <point x="573" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="260" y="0" type="move" name="nukta"/>
-    </contour>
-    <contour>
-      <point x="573" y="580" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="534" y="664" type="move" name="mark0"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

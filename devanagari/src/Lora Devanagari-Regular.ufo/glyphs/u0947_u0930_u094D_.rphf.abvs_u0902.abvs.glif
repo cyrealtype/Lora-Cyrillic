@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0947_u0930_u094D.rphf.abvs_u0902.abvs" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="nukta-deva" xOffset="-138" yOffset="790" xScale="0.86" yScale="0.86"/>
+    <component base="u0947_u0930_u094D.rphf.abvs" yOffset="-1"/>
+    <contour>
+      <point x="-127" y="571" type="move" name="_mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

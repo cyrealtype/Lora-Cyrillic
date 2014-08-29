@@ -24,16 +24,16 @@
       <point x="335" y="380"/>
       <point x="277" y="363"/>
       <point x="210" y="351" type="curve" smooth="yes"/>
-      <point x="132" y="337" type="line"/>
-      <point x="149" y="274" type="line"/>
+      <point x="142" y="339" type="line"/>
+      <point x="159" y="276" type="line"/>
       <point x="211" y="283" type="line" smooth="yes"/>
-      <point x="297" y="297"/>
+      <point x="297" y="295"/>
       <point x="382" y="347"/>
       <point x="382" y="440" type="curve" smooth="yes"/>
       <point x="382" y="533"/>
-      <point x="306" y="589"/>
-      <point x="224" y="589" type="curve" smooth="yes"/>
-      <point x="176" y="589"/>
+      <point x="316" y="589"/>
+      <point x="234" y="589" type="curve" smooth="yes"/>
+      <point x="186" y="589"/>
       <point x="128" y="570"/>
       <point x="81" y="537" type="curve"/>
     </contour>
@@ -60,7 +60,7 @@
       <point x="188" y="313" type="line"/>
       <point x="274" y="313"/>
       <point x="329" y="238"/>
-      <point x="329" y="169" type="curve"/>
+      <point x="329" y="169" type="curve" smooth="yes"/>
       <point x="329" y="110"/>
       <point x="290" y="73"/>
       <point x="232" y="73" type="curve" smooth="yes"/>
@@ -76,9 +76,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

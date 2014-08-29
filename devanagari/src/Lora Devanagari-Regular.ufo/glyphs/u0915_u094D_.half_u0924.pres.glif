@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0915_u094D.half_u0924.pres" format="1">
+  <advance width="837"/>
+  <outline>
+    <contour>
+      <point x="322" y="333" type="line"/>
+      <point x="294" y="397" type="line"/>
+      <point x="35" y="397" type="line"/>
+      <point x="63" y="333" type="line"/>
+    </contour>
+    <component base="k_ta-deva"/>
+    <contour>
+      <point x="460" y="569" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

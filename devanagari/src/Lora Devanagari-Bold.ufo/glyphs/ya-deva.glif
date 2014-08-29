@@ -4,14 +4,14 @@
   <unicode hex="092F"/>
   <outline>
     <contour>
-      <point x="397" y="0" type="line"/>
-      <point x="535" y="0" type="line"/>
-      <point x="535" y="502" type="line"/>
+      <point x="401" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="502" type="line"/>
       <point x="624" y="502" type="line"/>
       <point x="602" y="580" type="line"/>
       <point x="15" y="580" type="line"/>
       <point x="38" y="502" type="line"/>
-      <point x="397" y="502" type="line"/>
+      <point x="401" y="502" type="line"/>
     </contour>
     <contour>
       <point x="130.47" y="538" type="line"/>
@@ -19,29 +19,29 @@
       <point x="122.589" y="314.331"/>
       <point x="29.401" y="261.496" type="curve"/>
       <point x="83.929" y="149.718"/>
-      <point x="190.657" y="81"/>
-      <point x="304" y="81" type="curve"/>
-      <point x="352.037" y="81"/>
-      <point x="403.664" y="94.007"/>
-      <point x="453" y="118.382" type="curve"/>
+      <point x="191" y="94"/>
+      <point x="304" y="94" type="curve" smooth="yes"/>
+      <point x="352" y="94"/>
+      <point x="404" y="107"/>
+      <point x="453" y="131" type="curve"/>
       <point x="453" y="277.352" type="line"/>
       <point x="403.162" y="220.284"/>
       <point x="337.594" y="196"/>
       <point x="274" y="196" type="curve"/>
       <point x="226.275" y="196"/>
-      <point x="182.773" y="209.983"/>
-      <point x="149.863" y="235.615" type="curve"/>
-      <point x="218.998" y="279.734"/>
-      <point x="295.839" y="368.651"/>
-      <point x="243.005" y="538" type="curve"/>
+      <point x="163" y="220"/>
+      <point x="130" y="246" type="curve"/>
+      <point x="219" y="290"/>
+      <point x="277" y="396"/>
+      <point x="253" y="538" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

@@ -18,13 +18,16 @@
       <point x="135.405" y="509.17" type="curve"/>
       <point x="197.276" y="547.471" type="line"/>
     </contour>
+    <contour>
+      <point x="178" y="555" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

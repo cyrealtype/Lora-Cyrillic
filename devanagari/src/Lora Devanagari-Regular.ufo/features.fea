@@ -1,0 +1,203 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem dev2 dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem dev2 MAR;
+
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent H I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron T Tcaron U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W X Y Yacute Ydieresis Z Zacute Zcaron Zdotaccent uni015E uni0162 uni0218 uni021A A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Igrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Ia-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Dje-cy Ustraitstroke-cy Gamma Delta Pi Omega ];
+
+feature aalt {
+# automatic
+feature ccmp;
+feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature case;
+feature nukt;
+feature akhn;
+feature rphf;
+feature rkrf;
+feature half;
+feature cjct;
+} aalt;
+
+feature ccmp {
+# automatic
+sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
+sub eMatra-deva reph-deva by eMatra_reph-deva;
+sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+sub reph-deva anusvara-deva by reph_anusvara-deva;
+} ccmp;
+
+feature locl {
+# automatic
+script dev2;
+language MAR;
+sub reph-deva by reph-deva.loclMAR;
+} locl;
+
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature case {
+# automatic
+sub hungarumlaut by hungarumlaut.case;
+} case;
+
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+} liga;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+
+feature nukt {
+# automatic
+sub ka-deva nukta-deva by qa-deva;
+sub kha-deva nukta-deva by khha-deva;
+sub ga-deva nukta-deva by ghha-deva;
+sub ja-deva nukta-deva by za-deva;
+sub dda-deva nukta-deva by dddha-deva;
+sub ddha-deva nukta-deva by rha-deva;
+sub na-deva nukta-deva by nnna-deva;
+sub pha-deva nukta-deva by fa-deva;
+sub ya-deva nukta-deva by yya-deva;
+sub ra-deva nukta-deva by rra-deva;
+sub lla-deva nukta-deva by llla-deva;
+} nukt;
+
+feature akhn {
+# automatic
+sub k-deva ssa-deva by k_ssa-deva;
+sub j-deva nya-deva by j_nya-deva;
+} akhn;
+
+feature rphf {
+# automatic
+sub ra-deva halant-deva by reph-deva;
+} rphf;
+
+feature rkrf {
+# automatic
+sub ka-deva halant-deva ra-deva by k_ra-deva;
+sub kha-deva halant-deva ra-deva by kh_ra-deva;
+sub ga-deva halant-deva ra-deva by g_ra-deva;
+sub gha-deva halant-deva ra-deva by gh_ra-deva;
+sub ca-deva halant-deva ra-deva by c_ra-deva;
+sub ja-deva halant-deva ra-deva by j_ra-deva;
+sub jha-deva halant-deva ra-deva by jh_ra-deva;
+sub nya-deva halant-deva ra-deva by ny_ra-deva;
+sub nna-deva halant-deva ra-deva by nn_ra-deva;
+sub ta-deva halant-deva ra-deva by t_ra-deva;
+sub tha-deva halant-deva ra-deva by th_ra-deva;
+sub da-deva halant-deva ra-deva by d_ra-deva;
+sub dha-deva halant-deva ra-deva by dh_ra-deva;
+sub na-deva halant-deva ra-deva by n_ra-deva;
+sub pa-deva halant-deva ra-deva by p_ra-deva;
+sub pha-deva halant-deva ra-deva by ph_ra-deva;
+sub ba-deva halant-deva ra-deva by b_ra-deva;
+sub bha-deva halant-deva ra-deva by bh_ra-deva;
+sub ma-deva halant-deva ra-deva by m_ra-deva;
+sub ya-deva halant-deva ra-deva by y_ra-deva;
+sub la-deva halant-deva ra-deva by l_ra-deva;
+sub va-deva halant-deva ra-deva by v_ra-deva;
+sub sha-deva halant-deva ra-deva by sh_ra-deva;
+sub ssa-deva halant-deva ra-deva by ss_ra-deva;
+sub sa-deva halant-deva ra-deva by s_ra-deva;
+sub ha-deva halant-deva ra-deva by h_ra-deva;
+sub fa-deva halant-deva ra-deva by f_ra-deva;
+} rkrf;
+
+feature half {
+# automatic
+sub ka-deva halant-deva by k-deva;
+sub kha-deva halant-deva by kh-deva;
+sub ga-deva halant-deva by g-deva;
+sub gha-deva halant-deva by gh-deva;
+sub ca-deva halant-deva by c-deva;
+sub cha-deva halant-deva by ch-deva;
+sub ja-deva halant-deva by j-deva;
+sub jha-deva halant-deva by jh-deva;
+sub nya-deva halant-deva by ny-deva;
+sub nna-deva halant-deva by nn-deva;
+sub ta-deva halant-deva by t-deva;
+sub tha-deva halant-deva by th-deva;
+sub dha-deva halant-deva by dh-deva;
+sub na-deva halant-deva by n-deva;
+sub pa-deva halant-deva by p-deva;
+sub pha-deva halant-deva by ph-deva;
+sub ba-deva halant-deva by b-deva;
+sub bha-deva halant-deva by bh-deva;
+sub ma-deva halant-deva by m-deva;
+sub ya-deva halant-deva by y-deva;
+sub rra-deva halant-deva by rr-deva;
+sub la-deva halant-deva by l-deva;
+sub lla-deva halant-deva by ll-deva;
+sub llla-deva halant-deva by lll-deva;
+sub va-deva halant-deva by v-deva;
+sub sha-deva halant-deva by sh-deva;
+sub ssa-deva halant-deva by ss-deva;
+sub sa-deva halant-deva by s-deva;
+sub ha-deva halant-deva by h-deva;
+} half;
+
+feature cjct {
+# automatic
+sub k-deva ka-deva by k_ka-deva;
+sub k-deva ta-deva by k_ta-deva;
+sub k-deva la-deva by k_la-deva;
+sub k-deva va-deva by k_va-deva;
+sub k-deva ssa-deva by k_ssa-deva;
+sub k-deva ss_ra-deva by k_ss_ra-deva;
+sub g-deva na-deva by g_na-deva;
+sub c-deva ca-deva by c_ca-deva;
+sub ch-deva va-deva by ch_va-deva;
+sub j-deva ja-deva by j_ja-deva;
+sub j-deva nya-deva by j_nya-deva;
+sub ny-deva ca-deva by ny_ca-deva;
+sub ny-deva ja-deva by ny_ja-deva;
+sub t-deva ta-deva by t_ta-deva;
+sub n-deva na-deva by n_na-deva;
+sub p-deva ta-deva by p_ta-deva;
+sub p-deva la-deva by p_la-deva;
+sub ph-deva la-deva by ph_la-deva;
+sub l-deva la-deva by l_la-deva;
+sub ss-deva tta-deva by ss_tta-deva;
+sub ss-deva ttha-deva by ss_ttha-deva;
+sub s-deva t_ra-deva by s_t_ra-deva;
+sub h-deva nna-deva by h_nna-deva;
+sub h-deva na-deva by h_na-deva;
+sub h-deva ma-deva by h_ma-deva;
+sub h-deva ya-deva by h_ya-deva;
+sub h-deva la-deva by h_la-deva;
+sub h-deva va-deva by h_va-deva;
+} cjct;
+

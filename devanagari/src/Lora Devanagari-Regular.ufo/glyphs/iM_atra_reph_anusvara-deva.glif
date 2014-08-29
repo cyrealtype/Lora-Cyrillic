@@ -6,7 +6,7 @@
   </note>
   <outline>
     <component base="iMatra-deva"/>
-    <component base="reph_anusvara-deva.imatra" xOffset="434"/>
+    <component base="reph_anusvara-deva.imatra" xOffset="427"/>
     <contour>
       <point x="144" y="500" type="move" name="top"/>
     </contour>
@@ -17,9 +17,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

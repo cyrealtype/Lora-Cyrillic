@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nepali_jha_091d" format="1">
+  <advance width="906"/>
+  <outline>
+    <contour>
+      <point x="361" y="570" type="line"/>
+      <point x="389" y="506" type="line"/>
+      <point x="891" y="506" type="line"/>
+      <point x="863" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="652" y="410"/>
+      <point x="594" y="381"/>
+      <point x="524" y="310" type="curve"/>
+      <point x="533" y="233" type="line"/>
+      <point x="596" y="295"/>
+      <point x="673" y="338"/>
+      <point x="726" y="338" type="curve" smooth="yes"/>
+      <point x="769" y="338"/>
+      <point x="787" y="316"/>
+      <point x="787" y="279" type="curve" smooth="yes"/>
+      <point x="787" y="221"/>
+      <point x="744" y="133"/>
+      <point x="653" y="98" type="curve"/>
+      <point x="701" y="26" type="line"/>
+      <point x="795" y="77"/>
+      <point x="834" y="159"/>
+      <point x="834" y="242" type="curve" smooth="yes"/>
+      <point x="834" y="330"/>
+      <point x="788" y="410"/>
+      <point x="704" y="410" type="curve" smooth="yes"/>
+    </contour>
+    <component base="bha-deva"/>
+    <contour>
+      <point x="497" y="569" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

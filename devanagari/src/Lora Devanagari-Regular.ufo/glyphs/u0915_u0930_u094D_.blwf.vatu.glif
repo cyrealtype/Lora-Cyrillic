@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u0915_u0930_u094D.blwf.vatu" format="1">
+  <advance width="798"/>
+  <outline>
+    <contour>
+      <point x="440" y="254" type="line"/>
+      <point x="135" y="34" type="line"/>
+      <point x="193" y="-27" type="line"/>
+      <point x="440" y="182" type="line"/>
+    </contour>
+    <component base="ka-deva"/>
+    <contour>
+      <point x="396" y="666" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

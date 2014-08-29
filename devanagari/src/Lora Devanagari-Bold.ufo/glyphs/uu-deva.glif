@@ -1,84 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uu-deva" format="1">
-  <advance width="780"/>
+  <advance width="681"/>
   <unicode hex="090A"/>
   <outline>
     <contour>
-      <point x="276" y="287" type="line"/>
-      <point x="362" y="287"/>
-      <point x="391" y="235"/>
-      <point x="391" y="182" type="curve" smooth="yes"/>
-      <point x="391" y="123"/>
-      <point x="360" y="92"/>
-      <point x="308" y="92" type="curve" smooth="yes"/>
-      <point x="220" y="92"/>
-      <point x="163" y="161"/>
-      <point x="104" y="294" type="curve"/>
-      <point x="48" y="271" type="line"/>
-      <point x="94" y="141"/>
-      <point x="180" y="-1"/>
-      <point x="331" y="-1" type="curve" smooth="yes"/>
-      <point x="436" y="-1"/>
-      <point x="521" y="65"/>
-      <point x="521" y="178" type="curve" smooth="yes"/>
-      <point x="521" y="262"/>
-      <point x="432" y="354"/>
-      <point x="276" y="341" type="curve"/>
+      <point x="609" y="348"/>
+      <point x="538" y="348" type="curve" smooth="yes"/>
+      <point x="480" y="348"/>
+      <point x="417" y="323"/>
+      <point x="376" y="278" type="curve"/>
+      <point x="448" y="210" type="line"/>
+      <point x="504" y="283"/>
+      <point x="572" y="305"/>
+      <point x="594" y="283" type="curve" smooth="yes"/>
+      <point x="616" y="261"/>
+      <point x="595" y="197"/>
+      <point x="518" y="134" type="curve"/>
+      <point x="589" y="58" type="line"/>
+      <point x="647" y="103"/>
+      <point x="672" y="164"/>
+      <point x="672" y="219" type="curve" smooth="yes"/>
+      <point x="672" y="309"/>
     </contour>
     <contour>
-      <point x="491" y="390"/>
-      <point x="491" y="462" type="curve" smooth="yes"/>
-      <point x="491" y="541"/>
-      <point x="428" y="617"/>
-      <point x="323" y="617" type="curve"/>
-      <point x="279" y="565" type="line"/>
-      <point x="332" y="565"/>
-      <point x="381" y="536"/>
-      <point x="381" y="470" type="curve" smooth="yes"/>
-      <point x="381" y="411"/>
-      <point x="351" y="364"/>
-      <point x="286" y="364" type="curve" smooth="yes"/>
-      <point x="220" y="364" type="line"/>
-      <point x="220" y="287" type="line"/>
-      <point x="337" y="287" type="line"/>
-      <point x="337" y="318" type="line"/>
-      <point x="435" y="318"/>
+      <point x="666" y="502" type="line"/>
+      <point x="644" y="580" type="line"/>
+      <point x="405" y="580" type="line"/>
+      <point x="428" y="502" type="line"/>
     </contour>
-    <contour>
-      <point x="780" y="548" type="line"/>
-      <point x="780" y="627" type="line"/>
-      <point x="0" y="627" type="line"/>
-      <point x="0" y="548" type="line"/>
-    </contour>
-    <contour>
-      <point x="676" y="330"/>
-      <point x="589" y="330" type="curve" smooth="yes"/>
-      <point x="526" y="330"/>
-      <point x="457" y="307"/>
-      <point x="404" y="267" type="curve"/>
-      <point x="436" y="222" type="line"/>
-      <point x="476" y="248"/>
-      <point x="517" y="262"/>
-      <point x="553" y="262" type="curve" smooth="yes"/>
-      <point x="606" y="262"/>
-      <point x="646" y="234"/>
-      <point x="646" y="173" type="curve" smooth="yes"/>
-      <point x="646" y="125"/>
-      <point x="632" y="85"/>
-      <point x="586" y="40" type="curve"/>
-      <point x="636" y="0" type="line"/>
-      <point x="706" y="52"/>
-      <point x="750" y="111"/>
-      <point x="750" y="189" type="curve" smooth="yes"/>
-      <point x="750" y="287"/>
-    </contour>
+    <component base="u-deva"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

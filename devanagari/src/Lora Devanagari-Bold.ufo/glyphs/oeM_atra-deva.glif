@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oeMatra-deva" format="1">
-  <advance width="600"/>
+  <advance width="179"/>
   <unicode hex="093A"/>
   <outline>
+    <contour>
+      <point x="156" y="667" type="line"/>
+      <point x="26" y="709" type="line"/>
+      <point x="26" y="533" type="line"/>
+      <point x="156" y="533" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

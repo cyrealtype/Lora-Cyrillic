@@ -13,7 +13,7 @@
       <point x="106" y="338" type="curve" smooth="yes"/>
       <point x="70" y="338"/>
       <point x="29" y="318"/>
-      <point x="29" y="252" type="curve" smooth="yes"/>
+      <point x="29" y="256" type="curve" smooth="yes"/>
       <point x="29" y="134"/>
       <point x="190" y="-74"/>
       <point x="448" y="-15" type="curve"/>
@@ -29,15 +29,15 @@
       <point x="253" y="523" type="curve"/>
     </contour>
     <contour>
-      <point x="384" y="468"/>
-      <point x="311" y="412"/>
-      <point x="311" y="321" type="curve" smooth="yes"/>
+      <point x="364" y="468"/>
+      <point x="311" y="402"/>
+      <point x="311" y="325" type="curve" smooth="yes"/>
       <point x="311" y="232"/>
-      <point x="390" y="119"/>
-      <point x="512" y="119" type="curve" smooth="yes"/>
-      <point x="563" y="119"/>
-      <point x="594" y="128"/>
-      <point x="622" y="147" type="curve"/>
+      <point x="390" y="109"/>
+      <point x="526" y="109" type="curve" smooth="yes"/>
+      <point x="563" y="109"/>
+      <point x="594" y="118"/>
+      <point x="622" y="137" type="curve"/>
       <point x="622" y="267" type="line"/>
       <point x="584" y="233"/>
       <point x="537" y="204"/>
@@ -53,26 +53,26 @@
       <point x="623" y="301" type="curve"/>
       <point x="623" y="389" type="line"/>
       <point x="595" y="427"/>
-      <point x="529" y="468"/>
-      <point x="462" y="468" type="curve" smooth="yes"/>
+      <point x="509" y="468"/>
+      <point x="445" y="468" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="571" y="0" type="line"/>
-      <point x="709" y="0" type="line"/>
-      <point x="709" y="502" type="line"/>
+      <point x="575" y="0" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="705" y="502" type="line"/>
       <point x="826" y="502" type="line"/>
       <point x="804" y="580" type="line"/>
       <point x="15" y="580" type="line"/>
       <point x="38" y="502" type="line"/>
-      <point x="571" y="502" type="line"/>
+      <point x="575" y="502" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

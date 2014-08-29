@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lll-deva" format="1">
-  <advance width="600"/>
+  <advance width="756"/>
   <outline>
+    <component base="ll-deva"/>
+    <component base="nukta-deva" xOffset="-42" yOffset="182"/>
+    <contour>
+      <point x="315" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="315" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

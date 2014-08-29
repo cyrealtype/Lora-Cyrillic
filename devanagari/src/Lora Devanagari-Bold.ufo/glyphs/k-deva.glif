@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k-deva" format="1">
-  <advance width="600"/>
+  <advance width="719"/>
   <outline>
+    <contour>
+      <point x="363" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="492" y="502" type="line"/>
+      <point x="676" y="502" type="line"/>
+      <point x="654" y="580" type="line"/>
+      <point x="15" y="580" type="line"/>
+      <point x="38" y="502" type="line"/>
+      <point x="363" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="436"/>
+      <point x="28" y="368"/>
+      <point x="28" y="259" type="curve" smooth="yes"/>
+      <point x="28" y="138"/>
+      <point x="118" y="65"/>
+      <point x="226" y="65" type="curve" smooth="yes"/>
+      <point x="287" y="65"/>
+      <point x="368" y="88"/>
+      <point x="411" y="153" type="curve"/>
+      <point x="411" y="241" type="line"/>
+      <point x="362" y="197"/>
+      <point x="266" y="156"/>
+      <point x="196" y="156" type="curve" smooth="yes"/>
+      <point x="158" y="156"/>
+      <point x="110" y="168"/>
+      <point x="110" y="225" type="curve" smooth="yes"/>
+      <point x="110" y="275"/>
+      <point x="148" y="323"/>
+      <point x="232" y="323" type="curve" smooth="yes"/>
+      <point x="277" y="323"/>
+      <point x="336" y="309"/>
+      <point x="388" y="264" type="curve"/>
+      <point x="391" y="332" type="line"/>
+      <point x="341" y="402"/>
+      <point x="271" y="436"/>
+      <point x="201" y="436" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="531" y="421"/>
+      <point x="441" y="327" type="curve"/>
+      <point x="455" y="208" type="line"/>
+      <point x="539" y="302"/>
+      <point x="605" y="368"/>
+      <point x="702" y="311" type="curve"/>
+      <point x="684" y="400" type="line"/>
+      <point x="626" y="444"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
+      <integer>10</integer>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>
