@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udattadeva" format="1">
+  <advance width="250"/>
+  <unicode hex="0951"/>
+  <note>
+    dUdatta
+  </note>
+  <outline>
+    <contour>
+      <point x="146" y="901" type="line"/>
+      <point x="91" y="901" type="line"/>
+      <point x="91" y="606" type="line"/>
+      <point x="146" y="606" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="464" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

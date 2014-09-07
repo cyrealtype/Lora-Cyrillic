@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="visargadeva" format="1">
+  <advance width="286"/>
+  <unicode hex="0903"/>
+  <note>
+    dVisarga
+  </note>
+  <outline>
+    <component base="anusvaradeva" xOffset="-14" yOffset="-334"/>
+    <component base="anusvaradeva" xOffset="-14" yOffset="-564"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

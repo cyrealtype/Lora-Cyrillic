@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0959094D" format="1">
+  <advance width="611"/>
+  <note>
+    dKhh.half
+  </note>
+  <outline>
+    <component base="uni0916094D"/>
+    <component base="nuktadeva" xOffset="13" yOffset="91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

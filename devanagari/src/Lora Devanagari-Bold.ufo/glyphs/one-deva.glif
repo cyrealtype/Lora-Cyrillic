@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one-deva" format="1">
+  <advance width="438"/>
+  <unicode hex="0967"/>
+  <note>
+    dOne
+  </note>
+  <outline>
+    <contour>
+      <point x="269.343" y="373.782" type="line"/>
+      <point x="195" y="411"/>
+      <point x="140" y="470"/>
+      <point x="140" y="517" type="curve" smooth="yes"/>
+      <point x="140" y="562"/>
+      <point x="162" y="581"/>
+      <point x="197" y="581" type="curve" smooth="yes"/>
+      <point x="228" y="581"/>
+      <point x="265" y="554"/>
+      <point x="265" y="499" type="curve" smooth="yes"/>
+      <point x="265" y="399"/>
+      <point x="176" y="324"/>
+      <point x="59" y="215" type="curve"/>
+      <point x="231" y="110" type="line" smooth="yes"/>
+      <point x="256" y="94"/>
+      <point x="255" y="67"/>
+      <point x="192" y="-21" type="curve"/>
+      <point x="283" y="-73" type="line"/>
+      <point x="362" y="26"/>
+      <point x="375" y="95"/>
+      <point x="301" y="139" type="curve" smooth="yes"/>
+      <point x="201" y="199" type="line"/>
+      <point x="320" y="303"/>
+      <point x="371" y="370"/>
+      <point x="371" y="450" type="curve" smooth="yes"/>
+      <point x="371" y="566"/>
+      <point x="251" y="639"/>
+      <point x="157" y="639" type="curve" smooth="yes"/>
+      <point x="78" y="639"/>
+      <point x="18" y="609"/>
+      <point x="18" y="532" type="curve" smooth="yes"/>
+      <point x="18" y="451"/>
+      <point x="84" y="377"/>
+      <point x="221" y="320" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

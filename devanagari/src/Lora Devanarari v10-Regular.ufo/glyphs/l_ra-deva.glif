@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0932094D_radeva" format="1">
+  <advance width="777"/>
+  <note>
+    dLRa
+  </note>
+  <outline>
+    <contour>
+      <point x="353" y="61" type="line"/>
+      <point x="423" y="10" type="line"/>
+      <point x="598" y="242" type="line"/>
+      <point x="554" y="275" type="line"/>
+    </contour>
+    <component base="uni0932"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

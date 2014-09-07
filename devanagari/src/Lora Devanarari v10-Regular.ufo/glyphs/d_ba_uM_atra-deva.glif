@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D092C_uvowelsigndeva" format="1">
+  <advance width="551"/>
+  <outline>
+    <component base="uni0926094D092C"/>
+    <component base="uvowelsigndeva" xOffset="468" yOffset="-59"/>
+    <contour>
+      <point x="422" y="570" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="482" y="-94" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

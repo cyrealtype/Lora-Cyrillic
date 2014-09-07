@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F.20" format="1">
+  <advance width="232"/>
+  <note>
+    dMatraI.20
+  </note>
+  <outline>
+    <contour>
+      <point x="149" y="546" type="line"/>
+      <point x="126" y="591"/>
+      <point x="113" y="639"/>
+      <point x="113" y="668" type="curve" smooth="yes"/>
+      <point x="113" y="737"/>
+      <point x="167" y="767"/>
+      <point x="335" y="769" type="curve" smooth="yes"/>
+      <point x="621" y="772"/>
+      <point x="1076" y="724"/>
+      <point x="1463" y="608" type="curve"/>
+      <point x="1486" y="650" type="line"/>
+      <point x="1104" y="772"/>
+      <point x="640" y="836"/>
+      <point x="292" y="836" type="curve" smooth="yes"/>
+      <point x="125" y="836"/>
+      <point x="31" y="792"/>
+      <point x="31" y="703" type="curve" smooth="yes"/>
+      <point x="31" y="655"/>
+      <point x="59" y="598"/>
+      <point x="103" y="537" type="curve"/>
+    </contour>
+    <component base="uni093E" xOffset="-59"/>
+    <contour>
+      <point x="1486" y="650" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="1475" y="628" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

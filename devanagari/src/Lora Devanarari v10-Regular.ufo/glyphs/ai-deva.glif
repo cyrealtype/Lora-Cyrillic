@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aideva" format="1">
+  <advance width="617"/>
+  <unicode hex="0910"/>
+  <note>
+    dAi
+  </note>
+  <outline>
+    <component base="edeva"/>
+    <component base="evowelsigndeva" xOffset="-123" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

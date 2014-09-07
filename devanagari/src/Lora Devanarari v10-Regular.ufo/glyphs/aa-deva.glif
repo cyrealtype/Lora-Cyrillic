@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aadeva" format="1">
+  <advance width="1027"/>
+  <unicode hex="0906"/>
+  <outline>
+    <component base="adeva"/>
+    <component base="uni093E" xOffset="657"/>
+    <contour>
+      <point x="786" y="664" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

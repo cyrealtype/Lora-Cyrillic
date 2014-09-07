@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m-deva" format="1">
+  <advance width="462"/>
+  <outline>
+    <contour>
+      <point x="372" y="502" type="line"/>
+      <point x="350" y="580" type="line"/>
+      <point x="15" y="580" type="line"/>
+      <point x="38" y="502" type="line"/>
+      <point x="113" y="502" type="line"/>
+      <point x="113" y="200" type="line"/>
+      <point x="422" y="200" type="line"/>
+      <point x="400" y="278" type="line"/>
+      <point x="243" y="278" type="line"/>
+      <point x="243" y="502" type="line"/>
+    </contour>
+    <component base="deva_knot" xOffset="24" yOffset="-49"/>
+    <contour>
+      <point x="490" y="664" type="move" name="mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
