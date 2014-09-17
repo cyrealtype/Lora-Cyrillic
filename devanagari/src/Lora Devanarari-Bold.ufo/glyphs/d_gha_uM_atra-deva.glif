@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D_ghadeva_uvowelsignd" format="1">
+  <advance width="737"/>
+  <outline>
+    <component base="uni0926094D_ghadeva"/>
+    <component base="uvowelsigndeva" xOffset="562" yOffset="-47"/>
+    <contour>
+      <point x="488" y="580" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="610" y="-104" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

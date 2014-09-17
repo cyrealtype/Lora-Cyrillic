@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092D094D0928094D" format="1">
+  <advance width="485"/>
+  <note>
+    dBhN.half
+  </note>
+  <outline>
+    <component base="uni092D094D"/>
+    <component base="nadeva.post2" xOffset="771" yOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

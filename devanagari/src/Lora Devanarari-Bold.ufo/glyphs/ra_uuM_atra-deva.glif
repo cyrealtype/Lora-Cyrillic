@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radeva_uuvowelsigndeva" format="1">
+  <advance width="613"/>
+  <note>
+    dRMatraUu
+  </note>
+  <outline>
+    <contour>
+      <point x="578" y="502" type="line"/>
+      <point x="556" y="580" type="line"/>
+      <point x="195" y="580" type="line"/>
+      <point x="218" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="413" y="186"/>
+      <point x="351" y="182"/>
+      <point x="327" y="228" type="curve" smooth="yes"/>
+      <point x="302" y="270"/>
+      <point x="339" y="323"/>
+      <point x="402" y="323" type="curve" smooth="yes"/>
+      <point x="467" y="323"/>
+      <point x="533" y="275"/>
+      <point x="580" y="196" type="curve"/>
+      <point x="623" y="231" type="line"/>
+      <point x="574" y="347"/>
+      <point x="478" y="415"/>
+      <point x="389" y="415" type="curve" smooth="yes"/>
+      <point x="274" y="415"/>
+      <point x="220" y="301"/>
+      <point x="273" y="205" type="curve" smooth="yes"/>
+      <point x="326" y="102"/>
+      <point x="446" y="88"/>
+      <point x="535" y="155" type="curve"/>
+      <point x="490" y="235" type="line"/>
+    </contour>
+    <component base="radeva"/>
+    <contour>
+      <point x="239" y="580" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

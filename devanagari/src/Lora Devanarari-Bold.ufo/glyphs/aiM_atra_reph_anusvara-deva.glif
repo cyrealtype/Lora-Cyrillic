@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aivowelsigndeva_uni0930094D_anu" format="1">
+  <advance width="633"/>
+  <outline>
+    <component base="anusvaradeva" xOffset="417" yOffset="83" xScale="0.82" yScale="0.82"/>
+    <component base="aivowelsigndeva_uni0930094D"/>
+    <contour>
+      <point x="385" y="555" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

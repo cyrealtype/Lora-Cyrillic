@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="evowelsigndeva_uni0930094D" format="1">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="431" y="596" type="line"/>
+      <point x="346" y="779"/>
+      <point x="491" y="772"/>
+      <point x="572" y="711" type="curve"/>
+      <point x="557" y="782" type="line"/>
+      <point x="529" y="806"/>
+      <point x="490" y="820"/>
+      <point x="459" y="820" type="curve" smooth="yes"/>
+      <point x="384" y="820"/>
+      <point x="326" y="756"/>
+      <point x="382" y="635" type="curve"/>
+    </contour>
+    <component base="evowelsigndeva"/>
+    <contour>
+      <point x="429" y="555" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

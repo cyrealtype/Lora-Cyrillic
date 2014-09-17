@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nuktadeva" format="1">
+  <advance width="253"/>
+  <unicode hex="093C"/>
+  <outline>
+    <component base="anusvaradeva" xOffset="8" yOffset="-861"/>
+    <contour>
+      <point x="129" y="-146" type="move" name="_nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

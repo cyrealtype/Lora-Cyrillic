@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0979" format="1">
+  <advance width="764"/>
+  <unicode hex="0979"/>
+  <outline>
+    <component base="jadeva"/>
+    <component base="anusvaradeva" xOffset="318" yOffset="-698" xScale="0.89" yScale="0.89"/>
+    <component base="anusvaradeva" xOffset="85" yOffset="-698" xScale="0.89" yScale="0.89"/>
+    <component base="anusvaradeva" xOffset="201" yOffset="-806" xScale="0.89" yScale="0.89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

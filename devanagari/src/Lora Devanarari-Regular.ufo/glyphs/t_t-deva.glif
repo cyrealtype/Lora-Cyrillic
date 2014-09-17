@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0924094D0924094D" format="1">
+  <advance width="407"/>
+  <note>
+    dTT.half
+  </note>
+  <outline>
+    <contour>
+      <point x="382" y="333" type="line"/>
+      <point x="355" y="369" type="line"/>
+      <point x="265" y="369" type="line" smooth="yes"/>
+      <point x="154" y="369"/>
+      <point x="101" y="317"/>
+      <point x="101" y="246" type="curve" smooth="yes"/>
+      <point x="101" y="169"/>
+      <point x="163" y="71"/>
+      <point x="280" y="-7" type="curve"/>
+      <point x="307" y="18" type="line"/>
+      <point x="229" y="79"/>
+      <point x="185" y="167"/>
+      <point x="185" y="237" type="curve" smooth="yes"/>
+      <point x="185" y="294"/>
+      <point x="213" y="333"/>
+      <point x="276" y="333" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="382" y="506" type="line"/>
+      <point x="354" y="570" type="line"/>
+      <point x="15" y="570" type="line"/>
+      <point x="43" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="333" type="line"/>
+      <point x="419" y="397" type="line"/>
+      <point x="15" y="397" type="line"/>
+      <point x="43" y="333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

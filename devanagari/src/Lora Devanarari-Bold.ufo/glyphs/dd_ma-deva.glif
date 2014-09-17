@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0921094D_madeva" format="1">
+  <advance width="1105"/>
+  <note>
+    dDdMa
+  </note>
+  <outline>
+    <contour>
+      <point x="876" y="0" type="line"/>
+      <point x="1007" y="0" type="line"/>
+      <point x="1007" y="502" type="line"/>
+      <point x="1090" y="502" type="line"/>
+      <point x="1068" y="580" type="line"/>
+      <point x="761" y="580" type="line"/>
+      <point x="784" y="502" type="line"/>
+      <point x="876" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="645" y="195" type="line"/>
+      <point x="951" y="195" type="line"/>
+      <point x="951" y="273" type="line"/>
+      <point x="668" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="439" type="line"/>
+      <point x="473" y="361" type="line"/>
+      <point x="574" y="361" type="line" smooth="yes"/>
+      <point x="663" y="361"/>
+      <point x="665" y="300"/>
+      <point x="645" y="195" type="curve"/>
+      <point x="771" y="212" type="line"/>
+      <point x="772" y="320"/>
+      <point x="708" y="439"/>
+      <point x="571" y="439" type="curve" smooth="yes"/>
+    </contour>
+    <component base="ddadeva"/>
+    <component base="deva_knot" xOffset="552" yOffset="-54"/>
+    <contour>
+      <point x="952" y="580" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="942" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

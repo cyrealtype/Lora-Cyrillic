@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aivowelsigndeva_uni0930094D" format="1">
+  <advance width="633"/>
+  <outline>
+    <contour>
+      <point x="421" y="697" type="line"/>
+      <point x="412" y="742"/>
+      <point x="441" y="762"/>
+      <point x="477" y="763" type="curve" smooth="yes"/>
+      <point x="514" y="765"/>
+      <point x="559" y="748"/>
+      <point x="582" y="720" type="curve"/>
+      <point x="583" y="802" type="line"/>
+      <point x="546" y="836"/>
+      <point x="501" y="850"/>
+      <point x="464" y="850" type="curve" smooth="yes"/>
+      <point x="401" y="850"/>
+      <point x="345" y="810"/>
+      <point x="345" y="730" type="curve" smooth="yes"/>
+      <point x="345" y="704"/>
+      <point x="355" y="673"/>
+      <point x="375" y="646" type="curve"/>
+    </contour>
+    <component base="aivowelsigndeva"/>
+    <contour>
+      <point x="377" y="556" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

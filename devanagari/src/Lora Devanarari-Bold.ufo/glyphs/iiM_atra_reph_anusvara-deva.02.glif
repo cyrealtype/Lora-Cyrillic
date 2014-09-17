@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra_reph_anusvara-deva.02" format="1">
+  <advance width="289"/>
+  <note>
+    dMatraIiRephAnusvara.2
+  </note>
+  <outline>
+    <component base="uni0940.02"/>
+    <component base="uni0930094D_anusvaradeva.imatra" xOffset="-2" yOffset="-25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

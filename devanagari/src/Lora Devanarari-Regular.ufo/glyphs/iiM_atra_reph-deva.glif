@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra_reph-deva" format="1">
+  <advance width="317"/>
+  <note>
+    dMatraIiReph
+  </note>
+  <outline>
+    <component base="uni0940"/>
+    <component base="uni0930094D.imatra" xOffset="-34" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

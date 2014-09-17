@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F.05" format="1">
+  <advance width="272"/>
+  <note>
+    dMatraI.5
+  </note>
+  <outline>
+    <contour>
+      <point x="185" y="577" type="line"/>
+      <point x="173" y="599"/>
+      <point x="164" y="626"/>
+      <point x="164" y="647" type="curve" smooth="yes"/>
+      <point x="164" y="706"/>
+      <point x="215" y="723"/>
+      <point x="289" y="723" type="curve" smooth="yes"/>
+      <point x="427" y="723"/>
+      <point x="643" y="695"/>
+      <point x="837" y="592" type="curve"/>
+      <point x="879" y="649" type="line"/>
+      <point x="703" y="754"/>
+      <point x="416" y="838"/>
+      <point x="228" y="838" type="curve" smooth="yes"/>
+      <point x="89" y="838"/>
+      <point x="30" y="792"/>
+      <point x="30" y="709" type="curve" smooth="yes"/>
+      <point x="29" y="667"/>
+      <point x="63" y="613"/>
+      <point x="94" y="570" type="curve"/>
+    </contour>
+    <contour>
+      <point x="71" y="-20" type="line"/>
+      <point x="216" y="-47" type="line"/>
+      <point x="216" y="487" type="line"/>
+      <point x="295" y="487" type="line"/>
+      <point x="272" y="580" type="line"/>
+      <point x="-24" y="580" type="line"/>
+      <point x="0" y="487" type="line"/>
+      <point x="71" y="487" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="649" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="859" y="623" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

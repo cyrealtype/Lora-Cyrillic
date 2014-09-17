@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nadeva" format="1">
+  <advance width="632"/>
+  <unicode hex="0928"/>
+  <note>
+    dNa
+  </note>
+  <outline>
+    <contour>
+      <point x="367" y="0" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="497" y="502" type="line"/>
+      <point x="617" y="502" type="line"/>
+      <point x="595" y="580" type="line"/>
+      <point x="15" y="580" type="line"/>
+      <point x="38" y="502" type="line"/>
+      <point x="367" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="272" type="line"/>
+      <point x="455" y="350" type="line"/>
+      <point x="165" y="350" type="line"/>
+      <point x="188" y="272" type="line"/>
+    </contour>
+    <component base="deva_knot" xOffset="38" yOffset="23"/>
+    <contour>
+      <point x="157" y="-15" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="428" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="428" y="580" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

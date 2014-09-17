@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091A094D091B094D_vadeva" format="1">
+  <advance width="1032"/>
+  <note>
+    dCChVa
+  </note>
+  <outline>
+    <contour>
+      <point x="458" y="502" type="line"/>
+      <point x="436" y="580" type="line"/>
+      <point x="15" y="580" type="line"/>
+      <point x="38" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="368"/>
+      <point x="132" y="312"/>
+      <point x="131" y="226" type="curve" smooth="yes"/>
+      <point x="129" y="59"/>
+      <point x="372" y="-11"/>
+      <point x="566" y="129" type="curve"/>
+      <point x="504" y="212" type="line"/>
+      <point x="439" y="138"/>
+      <point x="375" y="105"/>
+      <point x="310" y="105" type="curve" smooth="yes"/>
+      <point x="196" y="105"/>
+      <point x="210" y="308"/>
+      <point x="339" y="308" type="curve"/>
+      <point x="304" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="386" type="line"/>
+      <point x="42" y="386" type="line"/>
+      <point x="65" y="308" type="line"/>
+      <point x="351" y="308" type="line"/>
+    </contour>
+    <component base="uni091B094D_vadeva" xOffset="282"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

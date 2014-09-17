@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni094E" format="1">
+  <advance width="304"/>
+  <unicode hex="094E"/>
+  <outline>
+    <contour>
+      <point x="109" y="570" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="188" y="506" type="line"/>
+      <point x="319" y="506" type="line"/>
+      <point x="291" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

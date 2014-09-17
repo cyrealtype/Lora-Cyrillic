@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ttadeva" format="1">
+  <advance width="621"/>
+  <unicode hex="091F"/>
+  <note>
+    dTta
+  </note>
+  <outline>
+    <contour>
+      <point x="340" y="69"/>
+      <point x="284" y="69" type="curve" smooth="yes"/>
+      <point x="218" y="69"/>
+      <point x="177" y="121"/>
+      <point x="177" y="190" type="curve" smooth="yes"/>
+      <point x="177" y="283"/>
+      <point x="230" y="323"/>
+      <point x="323" y="323" type="curve" smooth="yes"/>
+      <point x="483" y="323" type="line"/>
+      <point x="483" y="502" type="line"/>
+      <point x="606" y="502" type="line"/>
+      <point x="584" y="580" type="line"/>
+      <point x="15" y="580" type="line"/>
+      <point x="38" y="502" type="line"/>
+      <point x="353" y="502" type="line"/>
+      <point x="353" y="401" type="line"/>
+      <point x="284" y="401" type="line" smooth="yes"/>
+      <point x="162" y="401"/>
+      <point x="61" y="354"/>
+      <point x="61" y="231" type="curve" smooth="yes"/>
+      <point x="61" y="86"/>
+      <point x="202" y="-14"/>
+      <point x="336" y="-14" type="curve" smooth="yes"/>
+      <point x="424" y="-14"/>
+      <point x="506" y="29"/>
+      <point x="550" y="92" type="curve"/>
+      <point x="465" y="173" type="line"/>
+      <point x="399" y="93"/>
+    </contour>
+    <contour>
+      <point x="51" y="-20" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="335" y="3" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="419" y="580" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

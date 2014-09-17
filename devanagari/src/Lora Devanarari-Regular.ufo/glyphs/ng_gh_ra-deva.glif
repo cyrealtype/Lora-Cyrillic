@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0919094D0918094D_radeva" format="1">
+  <advance width="684"/>
+  <note>
+    dNgGhRa
+  </note>
+  <outline>
+    <contour>
+      <point x="166" y="-283" type="line"/>
+      <point x="208" y="-333" type="line"/>
+      <point x="440" y="-162" type="line"/>
+      <point x="415" y="-121" type="line"/>
+    </contour>
+    <component base="uni0919094D_ghadeva"/>
+    <contour>
+      <point x="422" y="570" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="467" y="-254" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

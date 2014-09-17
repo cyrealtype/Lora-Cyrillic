@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakardeva_uvowelsigndeva" format="1">
+  <advance width="250"/>
+  <note>
+    dRakarMatraU
+  </note>
+  <outline>
+    <component base="rakardeva"/>
+    <component base="uvowelsigndeva" xOffset="2" yOffset="-160"/>
+    <contour>
+      <point x="120" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

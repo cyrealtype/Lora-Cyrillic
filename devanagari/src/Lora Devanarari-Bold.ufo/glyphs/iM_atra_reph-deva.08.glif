@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F0930094D.08" format="1">
+  <advance width="272"/>
+  <note>
+    dMatraIReph.8
+  </note>
+  <outline>
+    <component base="uni093F.08"/>
+    <component base="uni0930094D.imatra" xOffset="864" yOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

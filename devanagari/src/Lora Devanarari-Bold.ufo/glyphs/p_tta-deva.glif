@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092A094D_ttadeva" format="1">
+  <advance width="634"/>
+  <note>
+    dPTta
+  </note>
+  <outline>
+    <contour>
+      <point x="239" y="12"/>
+      <point x="189" y="50"/>
+      <point x="189" y="100" type="curve" smooth="yes"/>
+      <point x="189" y="149"/>
+      <point x="238" y="195"/>
+      <point x="330" y="195" type="curve" smooth="yes"/>
+      <point x="518" y="195" type="line"/>
+      <point x="518" y="502" type="line"/>
+      <point x="619" y="502" type="line"/>
+      <point x="597" y="580" type="line"/>
+      <point x="15" y="580" type="line"/>
+      <point x="38" y="502" type="line"/>
+      <point x="388" y="502" type="line"/>
+      <point x="388" y="266" type="line"/>
+      <point x="273" y="266" type="line" smooth="yes"/>
+      <point x="143" y="266"/>
+      <point x="87" y="203"/>
+      <point x="87" y="129" type="curve" smooth="yes"/>
+      <point x="87" y="20"/>
+      <point x="211" y="-59"/>
+      <point x="347" y="-59" type="curve" smooth="yes"/>
+      <point x="433" y="-59"/>
+      <point x="516" y="-28"/>
+      <point x="575" y="30" type="curve"/>
+      <point x="496" y="103" type="line"/>
+      <point x="439" y="41"/>
+      <point x="377" y="12"/>
+      <point x="312" y="12" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="329" y="266" type="line"/>
+      <point x="253" y="265"/>
+      <point x="219" y="282"/>
+      <point x="219" y="350" type="curve" smooth="yes"/>
+      <point x="219" y="541" type="line"/>
+      <point x="89" y="541" type="line"/>
+      <point x="89" y="414" type="line" smooth="yes"/>
+      <point x="89" y="265"/>
+      <point x="198" y="209"/>
+      <point x="330" y="215" type="curve"/>
+    </contour>
+    <contour>
+      <point x="444" y="580" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="489" y="-49" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D_gadeva_uvowelsignde" format="1">
+  <advance width="621"/>
+  <outline>
+    <contour>
+      <point x="433" y="128" type="line"/>
+      <point x="366" y="113" type="line"/>
+      <point x="454" y="-71" type="line"/>
+      <point x="564" y="-85" type="line"/>
+    </contour>
+    <contour>
+      <point x="416.759" y="65"/>
+      <point x="550" y="104.642"/>
+      <point x="550" y="199" type="curve" smooth="yes"/>
+      <point x="550" y="249.646"/>
+      <point x="519" y="283"/>
+      <point x="463" y="283" type="curve" smooth="yes"/>
+      <point x="413" y="283"/>
+      <point x="368.108" y="245.916"/>
+      <point x="381.524" y="169.93" type="curve"/>
+      <point x="358" y="158"/>
+      <point x="334.309" y="152"/>
+      <point x="306" y="152" type="curve"/>
+      <point x="242.976" y="152"/>
+      <point x="195" y="196.646"/>
+      <point x="195" y="251" type="curve" smooth="yes"/>
+      <point x="195" y="309.371"/>
+      <point x="237" y="363"/>
+      <point x="310" y="363" type="curve"/>
+      <point x="463" y="363" type="line"/>
+      <point x="464" y="502" type="line"/>
+      <point x="606" y="502" type="line"/>
+      <point x="584" y="580" type="line"/>
+      <point x="15" y="580" type="line"/>
+      <point x="38" y="502" type="line"/>
+      <point x="353" y="502" type="line"/>
+      <point x="353" y="441" type="line"/>
+      <point x="291" y="441" type="line" smooth="yes"/>
+      <point x="186" y="441"/>
+      <point x="94" y="399.609"/>
+      <point x="94" y="289" type="curve" smooth="yes"/>
+      <point x="94" y="181.608"/>
+      <point x="192.081" y="65"/>
+      <point x="344" y="65" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="213" y="150" type="line"/>
+      <point x="227" y="18" type="line"/>
+      <point x="164" y="19"/>
+      <point x="132" y="-2"/>
+      <point x="132" y="-44" type="curve"/>
+      <point x="133" y="-99"/>
+      <point x="198" y="-140"/>
+      <point x="248" y="-145" type="curve"/>
+      <point x="339" y="-152"/>
+      <point x="314" y="25"/>
+      <point x="293" y="132" type="curve"/>
+    </contour>
+    <component base="uvowelsigndeva" xOffset="410" yOffset="-50"/>
+    <contour>
+      <point x="419" y="580" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="480" y="-54" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

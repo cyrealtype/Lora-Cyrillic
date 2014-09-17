@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0918094D_radeva" format="1">
+  <advance width="686"/>
+  <note>
+    dGhRa
+  </note>
+  <outline>
+    <component base="uni0918094D0930094D"/>
+    <component base="uni093E" xOffset="316"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

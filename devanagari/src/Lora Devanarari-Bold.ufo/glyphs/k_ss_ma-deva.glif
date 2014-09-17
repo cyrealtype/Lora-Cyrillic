@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0915094D0937094D_madeva" format="1">
+  <advance width="1061"/>
+  <note>
+    dKSsMa
+  </note>
+  <outline>
+    <component base="uni0915094D0937094D"/>
+    <component base="madeva" xOffset="422"/>
+    <contour>
+      <point x="893" y="580" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="890" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

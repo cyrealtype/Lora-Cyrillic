@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0924094D_radeva" format="1">
+  <advance width="649"/>
+  <note>
+    dTRa
+  </note>
+  <outline>
+    <contour>
+      <point x="15" y="580" type="line"/>
+      <point x="38" y="502" type="line"/>
+      <point x="401" y="502" type="line"/>
+      <point x="401" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="502" type="line"/>
+      <point x="634" y="502" type="line"/>
+      <point x="612" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="36" type="line"/>
+      <point x="177" y="-48" type="line"/>
+      <point x="495" y="236" type="line"/>
+      <point x="495" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="134" y="436"/>
+      <point x="89" y="420"/>
+      <point x="47" y="392" type="curve"/>
+      <point x="93" y="294" type="line"/>
+      <point x="124" y="311"/>
+      <point x="160" y="322"/>
+      <point x="205" y="322" type="curve"/>
+      <point x="273" y="322"/>
+      <point x="354" y="298"/>
+      <point x="451" y="236" type="curve"/>
+      <point x="493" y="294" type="line"/>
+      <point x="365" y="388"/>
+      <point x="266" y="436"/>
+      <point x="180" y="436" type="curve"/>
+    </contour>
+    <contour>
+      <point x="465" y="580" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="468" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
