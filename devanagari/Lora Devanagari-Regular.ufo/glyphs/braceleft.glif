@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="334"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="294" y="766" type="line"/>
+      <point x="154.537" y="766"/>
+      <point x="111" y="696.979"/>
+      <point x="111" y="554" type="curve"/>
+      <point x="111" y="494.392"/>
+      <point x="121" y="437.392"/>
+      <point x="121" y="386" type="curve"/>
+      <point x="121" y="320.286"/>
+      <point x="101.817" y="295"/>
+      <point x="30" y="295" type="curve"/>
+      <point x="2" y="295" type="line"/>
+      <point x="2" y="231" type="line"/>
+      <point x="30" y="231" type="line"/>
+      <point x="101.621" y="231"/>
+      <point x="121" y="201.931"/>
+      <point x="121" y="136" type="curve"/>
+      <point x="121" y="84.4248"/>
+      <point x="111" y="2.42481"/>
+      <point x="111" y="-57" type="curve"/>
+      <point x="111" y="-199.798"/>
+      <point x="154.36" y="-277"/>
+      <point x="294" y="-277" type="curve"/>
+      <point x="327" y="-277" type="line"/>
+      <point x="327" y="-236.803" type="line"/>
+      <point x="222.828" y="-241.805"/>
+      <point x="198" y="-185.496"/>
+      <point x="198" y="-71" type="curve"/>
+      <point x="198" y="-26.4353"/>
+      <point x="211" y="77.5647"/>
+      <point x="211" y="125" type="curve"/>
+      <point x="211" y="209.212"/>
+      <point x="155.487" y="254.579"/>
+      <point x="99" y="267.053" type="curve"/>
+      <point x="99" y="258.941" type="line"/>
+      <point x="155.384" y="271.211"/>
+      <point x="211" y="312.622"/>
+      <point x="211" y="397" type="curve"/>
+      <point x="211" y="444.571"/>
+      <point x="198" y="523.571"/>
+      <point x="198" y="568" type="curve"/>
+      <point x="198" y="682.121"/>
+      <point x="222.424" y="724.345"/>
+      <point x="327" y="719.816" type="curve"/>
+      <point x="327" y="766" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

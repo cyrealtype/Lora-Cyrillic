@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="315"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="145" y="697"/>
+      <point x="99" y="610"/>
+      <point x="99" y="474" type="curve"/>
+      <point x="99" y="461" type="line"/>
+      <point x="22" y="461" type="line"/>
+      <point x="22" y="408" type="line"/>
+      <point x="99" y="409" type="line"/>
+      <point x="100" y="138" type="line"/>
+      <point x="100" y="71"/>
+      <point x="101" y="31"/>
+      <point x="46" y="33" type="curve"/>
+      <point x="45" y="33" type="line"/>
+      <point x="45" y="-6" type="line"/>
+      <point x="244" y="-6" type="line"/>
+      <point x="244" y="43" type="line"/>
+      <point x="186" y="41" type="line"/>
+      <point x="187" y="41" type="line"/>
+      <point x="190" y="59"/>
+      <point x="190" y="75"/>
+      <point x="190" y="96" type="curve"/>
+      <point x="189" y="410" type="line"/>
+      <point x="188" y="410" type="line"/>
+      <point x="313" y="413" type="line"/>
+      <point x="314" y="413" type="line"/>
+      <point x="314" y="461" type="line"/>
+      <point x="189" y="461" type="line"/>
+      <point x="189" y="550" type="line"/>
+      <point x="189" y="601"/>
+      <point x="203" y="652"/>
+      <point x="257" y="652" type="curve"/>
+      <point x="268" y="652"/>
+      <point x="282" y="649"/>
+      <point x="291" y="642" type="curve"/>
+      <point x="287" y="634"/>
+      <point x="287" y="626"/>
+      <point x="287" y="620" type="curve"/>
+      <point x="287" y="605"/>
+      <point x="299" y="576"/>
+      <point x="332" y="577" type="curve"/>
+      <point x="358" y="577"/>
+      <point x="375" y="599"/>
+      <point x="375" y="624" type="curve"/>
+      <point x="375" y="676"/>
+      <point x="311" y="697"/>
+      <point x="270" y="697" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

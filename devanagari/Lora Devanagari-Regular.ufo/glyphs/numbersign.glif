@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="830"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="602.221" y="722" type="line"/>
+      <point x="558.221" y="535" type="line"/>
+      <point x="355.562" y="535" type="line"/>
+      <point x="398.562" y="722" type="line"/>
+      <point x="322.221" y="722" type="line"/>
+      <point x="278.221" y="535" type="line"/>
+      <point x="111.357" y="535" type="line"/>
+      <point x="92.1566" y="463" type="line"/>
+      <point x="261.377" y="463" type="line"/>
+      <point x="209.234" y="244" type="line"/>
+      <point x="45.3566" y="244" type="line"/>
+      <point x="26.1566" y="172" type="line"/>
+      <point x="192.423" y="172" type="line"/>
+      <point x="147.423" y="-22" type="line"/>
+      <point x="229.816" y="-22" type="line"/>
+      <point x="273.816" y="172" type="line"/>
+      <point x="472.423" y="172" type="line"/>
+      <point x="427.423" y="-22" type="line"/>
+      <point x="509.816" y="-22" type="line"/>
+      <point x="553.816" y="172" type="line"/>
+      <point x="717.643" y="172" type="line"/>
+      <point x="736.843" y="244" type="line"/>
+      <point x="569.525" y="244" type="line"/>
+      <point x="618.824" y="463" type="line"/>
+      <point x="784.696" y="463" type="line"/>
+      <point x="801" y="527.128" type="line"/>
+      <point x="801" y="535" type="line"/>
+      <point x="635.562" y="535" type="line"/>
+      <point x="678.562" y="722" type="line"/>
+    </contour>
+    <contour>
+      <point x="489.215" y="244" type="line"/>
+      <point x="289.525" y="244" type="line"/>
+      <point x="338.824" y="463" type="line"/>
+      <point x="540.409" y="463" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

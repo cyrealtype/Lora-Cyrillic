@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni097A" format="1">
+  <advance width="569"/>
+  <unicode hex="097A"/>
+  <outline>
+    <contour>
+      <point x="186" y="522" type="line"/>
+      <point x="428.103" y="159.966" type="line"/>
+      <point x="471.452" y="195.433" type="line"/>
+      <point x="231" y="561" type="line"/>
+    </contour>
+    <component base="uni092F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni097C" format="1">
+  <advance width="667"/>
+  <unicode hex="097C"/>
+  <note>
+    dJja
+  </note>
+  <outline>
+    <contour>
+      <point x="573" y="-64" type="line"/>
+      <point x="573" y="-10" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="61" y="-64" type="line"/>
+    </contour>
+    <component base="jadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

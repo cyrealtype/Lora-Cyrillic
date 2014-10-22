@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninedeva" format="1">
+  <advance width="426"/>
+  <unicode hex="096F"/>
+  <note>
+    dNine
+  </note>
+  <outline>
+    <contour>
+      <point x="15" y="647"/>
+      <point x="-23" y="472"/>
+      <point x="111" y="339" type="curve" smooth="yes"/>
+      <point x="262" y="189"/>
+      <point x="298" y="160"/>
+      <point x="298" y="123" type="curve" smooth="yes"/>
+      <point x="298" y="91"/>
+      <point x="272" y="64"/>
+      <point x="231" y="23" type="curve"/>
+      <point x="300" y="-35" type="line"/>
+      <point x="355" y="18"/>
+      <point x="386" y="52"/>
+      <point x="386" y="91" type="curve" smooth="yes"/>
+      <point x="386" y="138"/>
+      <point x="339" y="182"/>
+      <point x="146" y="383" type="curve" smooth="yes"/>
+      <point x="73" y="460"/>
+      <point x="91" y="591"/>
+      <point x="212" y="584" type="curve" smooth="yes"/>
+      <point x="270" y="580"/>
+      <point x="306" y="547"/>
+      <point x="306" y="490" type="curve" smooth="yes"/>
+      <point x="306" y="401"/>
+      <point x="207" y="372"/>
+      <point x="118" y="393" type="curve"/>
+      <point x="154" y="347" type="line"/>
+      <point x="265" y="297"/>
+      <point x="384" y="356"/>
+      <point x="384" y="459" type="curve" smooth="yes"/>
+      <point x="384" y="548"/>
+      <point x="293" y="649"/>
+      <point x="174" y="648" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

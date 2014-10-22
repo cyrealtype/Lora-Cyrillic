@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="madeva" format="1">
+  <advance width="527"/>
+  <unicode hex="092E"/>
+  <note>
+    dMa
+  </note>
+  <outline>
+    <contour>
+      <point x="84" y="391" type="line"/>
+      <point x="84" y="200" type="line"/>
+      <point x="390" y="206" type="line"/>
+      <point x="390" y="264" type="line"/>
+      <point x="163" y="264" type="line"/>
+      <point x="163" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="-30" y="570" type="line"/>
+      <point x="-2" y="506" type="line"/>
+      <point x="557" y="506" type="line"/>
+      <point x="529" y="570" type="line"/>
+    </contour>
+    <component base="deva_knot" xOffset="-30" yOffset="-59"/>
+    <component base="stem-deva" xOffset="26"/>
+    <component base="stem-short-deva" xOffset="-252"/>
+    <contour>
+      <point x="90" y="0" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="415" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="415" y="570" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092B094D" format="1">
+  <advance width="606"/>
+  <outline>
+    <contour>
+      <point x="-30" y="570" type="line"/>
+      <point x="-2" y="506" type="line"/>
+      <point x="620" y="506" type="line"/>
+      <point x="592" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="638" y="378" type="line"/>
+      <point x="620" y="390"/>
+      <point x="589" y="396"/>
+      <point x="568" y="396" type="curve" smooth="yes"/>
+      <point x="523" y="396"/>
+      <point x="462" y="370"/>
+      <point x="394" y="301" type="curve" smooth="yes"/>
+      <point x="325" y="230"/>
+      <point x="289" y="199"/>
+      <point x="219" y="199" type="curve" smooth="yes"/>
+      <point x="181" y="199"/>
+      <point x="154" y="228"/>
+      <point x="154" y="275" type="curve" smooth="yes"/>
+      <point x="154" y="526" type="line"/>
+      <point x="75" y="526" type="line"/>
+      <point x="75" y="385" type="line" smooth="yes"/>
+      <point x="75" y="239"/>
+      <point x="136" y="147"/>
+      <point x="255" y="147" type="curve" smooth="yes"/>
+      <point x="321" y="147"/>
+      <point x="381" y="183"/>
+      <point x="426" y="236" type="curve" smooth="yes"/>
+      <point x="513" y="338"/>
+      <point x="592" y="354"/>
+      <point x="656" y="316" type="curve"/>
+    </contour>
+    <component base="stem-deva" xOffset="17"/>
+    <contour>
+      <point x="78" y="34" type="move" name="nukta"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

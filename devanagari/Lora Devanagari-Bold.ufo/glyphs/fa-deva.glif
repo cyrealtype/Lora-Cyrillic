@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fadeva" format="1">
+  <advance width="809"/>
+  <unicode hex="095E"/>
+  <note>
+    dFa
+  </note>
+  <outline>
+    <component base="uni092B"/>
+    <component base="nuktadeva" xOffset="-48" yOffset="241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

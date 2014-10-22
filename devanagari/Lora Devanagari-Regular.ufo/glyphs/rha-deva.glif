@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhadeva" format="1">
+  <advance width="529"/>
+  <unicode hex="095D"/>
+  <note>
+    dRha
+  </note>
+  <outline>
+    <component base="ddhadeva"/>
+    <component base="nuktadeva" xOffset="195" yOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
