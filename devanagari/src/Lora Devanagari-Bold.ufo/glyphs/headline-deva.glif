@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="headline-deva" format="1">
+  <advance width="639"/>
+  <outline>
+    <contour>
+      <point x="659" y="502" type="line"/>
+      <point x="637" y="580" type="line"/>
+      <point x="-20" y="580" type="line"/>
+      <point x="3" y="502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

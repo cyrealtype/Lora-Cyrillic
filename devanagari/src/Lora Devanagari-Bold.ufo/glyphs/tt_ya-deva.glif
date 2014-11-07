@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091F094D092F" format="1">
+  <advance width="1160"/>
+  <note>
+    dTtYa
+  </note>
+  <outline>
+    <contour>
+      <point x="976" y="237" type="line"/>
+      <point x="914" y="148"/>
+      <point x="773" y="92"/>
+      <point x="716" y="167" type="curve"/>
+      <point x="839" y="191"/>
+      <point x="872" y="247"/>
+      <point x="853" y="309" type="curve" smooth="yes"/>
+      <point x="833" y="375"/>
+      <point x="761" y="404"/>
+      <point x="648" y="403" type="curve" smooth="yes"/>
+      <point x="371" y="401" type="line"/>
+      <point x="400" y="330" type="line"/>
+      <point x="638" y="339" type="line" smooth="yes"/>
+      <point x="726" y="343"/>
+      <point x="760" y="320"/>
+      <point x="767" y="291" type="curve" smooth="yes"/>
+      <point x="776" y="255"/>
+      <point x="749" y="225"/>
+      <point x="623" y="206" type="curve"/>
+      <point x="690" y="31"/>
+      <point x="830" y="17"/>
+      <point x="979" y="98" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1180" y="502" type="line"/>
+      <point x="1158" y="580" type="line"/>
+      <point x="501" y="580" type="line"/>
+      <point x="524" y="502" type="line"/>
+    </contour>
+    <component base="ttadeva"/>
+    <component base="stem-deva" xOffset="573"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928094D0928094D092F" format="1">
+  <advance width="855"/>
+  <note>
+    dNNYa
+  </note>
+  <outline>
+    <component base="uni0928094D0928094D" xOffset="-12"/>
+    <component base="uni092F" xOffset="328"/>
+    <contour>
+      <point x="749" y="570" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="749" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

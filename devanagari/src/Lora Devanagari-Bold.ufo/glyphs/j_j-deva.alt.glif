@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091C094D091C094D.alt" format="1">
+  <advance width="579"/>
+  <note>
+    dJJ.half_alt
+  </note>
+  <outline>
+    <contour>
+      <point x="579" y="435" type="line"/>
+      <point x="217" y="435" type="line"/>
+      <point x="240" y="383" type="line"/>
+      <point x="387" y="331"/>
+      <point x="397" y="225"/>
+      <point x="310" y="225" type="curve" smooth="yes"/>
+      <point x="250" y="225"/>
+      <point x="163" y="269"/>
+      <point x="94" y="370" type="curve"/>
+      <point x="33" y="354" type="line"/>
+      <point x="125" y="188"/>
+      <point x="247" y="129"/>
+      <point x="339" y="129" type="curve" smooth="yes"/>
+      <point x="475" y="129"/>
+      <point x="541" y="261"/>
+      <point x="394" y="357" type="curve"/>
+      <point x="602" y="357" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="157" type="line"/>
+      <point x="235" y="30" type="line"/>
+      <point x="275" y="-17" type="line"/>
+      <point x="386" y="-10"/>
+      <point x="432" y="-44"/>
+      <point x="432" y="-85" type="curve" smooth="yes"/>
+      <point x="432" y="-118"/>
+      <point x="401" y="-133"/>
+      <point x="365" y="-133" type="curve" smooth="yes"/>
+      <point x="278" y="-133"/>
+      <point x="203" y="-92"/>
+      <point x="133" y="-25" type="curve"/>
+      <point x="68" y="-53" type="line"/>
+      <point x="140" y="-171"/>
+      <point x="271" y="-227"/>
+      <point x="379" y="-227" type="curve" smooth="yes"/>
+      <point x="476" y="-227"/>
+      <point x="555" y="-182"/>
+      <point x="555" y="-95" type="curve" smooth="yes"/>
+      <point x="555" y="-43"/>
+      <point x="511" y="3"/>
+      <point x="429" y="21" type="curve"/>
+      <point x="613" y="92" type="line"/>
+    </contour>
+    <component base="headline-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0920094D0920094D092F" format="1">
+  <advance width="947"/>
+  <note>
+    dTthTthYa
+  </note>
+  <outline>
+    <component base="uni0920094D_tthadeva"/>
+    <component base="uni092F.post" xOffset="397"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092E094D0930094D" format="1">
+  <advance width="262"/>
+  <note>
+    dMR.half
+  </note>
+  <outline>
+    <contour>
+      <point x="99" y="17" type="line"/>
+      <point x="145" y="-26" type="line"/>
+      <point x="362" y="200" type="line"/>
+      <point x="324" y="238" type="line"/>
+    </contour>
+    <component base="uni092E094D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

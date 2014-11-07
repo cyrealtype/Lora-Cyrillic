@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D_nadeva" format="1">
+  <advance width="571"/>
+  <note>
+    dDNa
+  </note>
+  <outline>
+    <component base="dadeva"/>
+    <component base="nadeva.post2" xOffset="593" yOffset="-162" xScale="0.99" yScale="0.99" xyScale="-0.17" yxScale="0.17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

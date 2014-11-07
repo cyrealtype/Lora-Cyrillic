@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D0930094D092F" format="1">
+  <advance width="599"/>
+  <note>
+    dDRYa
+  </note>
+  <outline>
+    <contour>
+      <point x="115" y="-112" type="line"/>
+      <point x="165" y="-164" type="line"/>
+      <point x="441" y="59" type="line"/>
+      <point x="421" y="96" type="line"/>
+    </contour>
+    <component base="uni0926094D092F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

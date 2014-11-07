@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092E094D0932.loclMAR" format="1">
+  <advance width="527"/>
+  <note>
+    dMLa.MAR
+  </note>
+  <outline>
+    <contour>
+      <point x="272" y="54"/>
+      <point x="216" y="94"/>
+      <point x="140" y="94" type="curve" smooth="yes"/>
+      <point x="42" y="94"/>
+      <point x="11" y="25"/>
+      <point x="11" y="-33" type="curve" smooth="yes"/>
+      <point x="11" y="-130"/>
+      <point x="100" y="-229"/>
+      <point x="207" y="-282" type="curve"/>
+      <point x="228" y="-244" type="line"/>
+      <point x="150" y="-190"/>
+      <point x="96" y="-118"/>
+      <point x="96" y="-42" type="curve" smooth="yes"/>
+      <point x="96" y="14"/>
+      <point x="125" y="34"/>
+      <point x="171" y="34" type="curve" smooth="yes"/>
+      <point x="214" y="34"/>
+      <point x="258" y="15"/>
+      <point x="301" y="-17" type="curve"/>
+      <point x="327" y="7" type="line"/>
+    </contour>
+    <contour>
+      <point x="607" y="-99"/>
+      <point x="544" y="84"/>
+      <point x="409" y="84" type="curve" smooth="yes"/>
+      <point x="325" y="84"/>
+      <point x="251" y="34"/>
+      <point x="218" y="-68" type="curve"/>
+      <point x="288" y="-97" type="line"/>
+      <point x="322" y="-3"/>
+      <point x="378" y="30"/>
+      <point x="429" y="30" type="curve" smooth="yes"/>
+      <point x="501" y="30"/>
+      <point x="511" y="-74"/>
+      <point x="380" y="-178" type="curve"/>
+      <point x="432" y="-241" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="270" type="line"/>
+      <point x="390" y="280" type="line"/>
+      <point x="390" y="334" type="line"/>
+      <point x="193" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="506" type="line"/>
+      <point x="375" y="479"/>
+      <point x="374" y="449"/>
+      <point x="374" y="426" type="curve" smooth="yes"/>
+      <point x="374" y="50" type="line"/>
+      <point x="453" y="36" type="line"/>
+      <point x="453" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="557" y="506" type="line"/>
+      <point x="529" y="570" type="line"/>
+      <point x="-30" y="570" type="line"/>
+      <point x="-2" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="506" type="line"/>
+      <point x="115" y="479"/>
+      <point x="114" y="449"/>
+      <point x="114" y="426" type="curve" smooth="yes"/>
+      <point x="114" y="310" type="line"/>
+      <point x="193" y="294" type="line"/>
+      <point x="193" y="506" type="line"/>
+    </contour>
+    <component base="deva_knot" yOffset="11"/>
+    <contour>
+      <point x="412" y="570" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="434" y="-180" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

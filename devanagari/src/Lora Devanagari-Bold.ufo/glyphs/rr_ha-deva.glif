@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0931094D_hadeva" format="1">
+  <advance width="698"/>
+  <note>
+    dRrHa
+  </note>
+  <outline>
+    <contour>
+      <point x="373" y="502" type="line"/>
+      <point x="351" y="580" type="line"/>
+      <point x="-20" y="580" type="line"/>
+      <point x="3" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="180"/>
+      <point x="122" y="146"/>
+      <point x="201" y="146" type="curve" smooth="yes"/>
+      <point x="248" y="145"/>
+      <point x="296" y="160"/>
+      <point x="337" y="194" type="curve"/>
+      <point x="290" y="293" type="line"/>
+      <point x="248" y="253"/>
+      <point x="205" y="237"/>
+      <point x="167" y="237" type="curve" smooth="yes"/>
+      <point x="124" y="237"/>
+      <point x="80" y="249"/>
+      <point x="33" y="311" type="curve"/>
+      <point x="-11" y="281" type="line"/>
+    </contour>
+    <component base="hadeva" xOffset="147"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
