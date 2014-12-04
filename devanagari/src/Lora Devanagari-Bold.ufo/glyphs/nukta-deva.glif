@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nuktadeva" format="1">
+<glyph name="nukta-deva" format="1">
   <advance width="250"/>
   <unicode hex="093C"/>
   <outline>
-    <component base="anusvaradeva" xOffset="5" yOffset="-861"/>
+    <component base="anusvara-deva" xOffset="5" yOffset="-861"/>
     <contour>
       <point x="115" y="-151" type="move" name="_nukta"/>
     </contour>

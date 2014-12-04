@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0924094D0930094D092F" format="1">
+<glyph name="t_r_ya-deva" format="1">
   <advance width="904"/>
   <note>
     dTRYa
   </note>
   <outline>
-    <component base="uni0924094D0930094D" xOffset="5"/>
-    <component base="uni092F" xOffset="335"/>
+    <component base="t_r-deva" xOffset="5"/>
+    <component base="ya-deva" xOffset="335"/>
   </outline>
   <lib>
     <dict>

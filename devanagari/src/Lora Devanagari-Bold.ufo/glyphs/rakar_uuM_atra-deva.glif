@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rakardeva_uuvowelsigndeva" format="1">
+<glyph name="rakar_uuMatra-deva" format="1">
   <advance width="250"/>
   <note>
     dRakarMatraUu
   </note>
   <outline>
-    <component base="rakardeva"/>
-    <component base="uuvowelsigndeva" xOffset="12" yOffset="-189"/>
+    <component base="rakar-deva"/>
+    <component base="uuMatra-deva" xOffset="12" yOffset="-189"/>
     <contour>
       <point x="120" y="0" type="move" name="_bottom"/>
     </contour>

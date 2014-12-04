@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0926094D_ghadeva_uvowelsignd" format="1">
+<glyph name="d_gha_uMatra-deva" format="1">
   <advance width="683"/>
   <outline>
-    <component base="uni0926094D_ghadeva"/>
-    <component base="uvowelsigndeva" xOffset="542" yOffset="-47"/>
+    <component base="d_gha-deva"/>
+    <component base="uMatra-deva" xOffset="542" yOffset="-47"/>
     <contour>
       <point x="438" y="580" type="move" name="top"/>
     </contour>

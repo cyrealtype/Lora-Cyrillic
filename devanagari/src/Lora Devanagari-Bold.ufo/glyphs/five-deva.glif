@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fivedeva" format="1">
+<glyph name="five-deva" format="1">
   <advance width="547"/>
   <unicode hex="096B"/>
   <note>
@@ -8,9 +8,9 @@
   <outline>
     <contour>
       <point x="440" y="380"/>
-      <point x="393.617" y="412"/>
+      <point x="394" y="412"/>
       <point x="354" y="412" type="curve" smooth="yes"/>
-      <point x="311.261" y="412"/>
+      <point x="311" y="412"/>
       <point x="285" y="385"/>
       <point x="285" y="346" type="curve" smooth="yes"/>
       <point x="285" y="324"/>
@@ -24,15 +24,15 @@
       <point x="124" y="295" type="curve" smooth="yes"/>
       <point x="124" y="399"/>
       <point x="170" y="523"/>
-      <point x="235.423" y="601.988" type="curve"/>
-      <point x="134.44" y="678.053" type="line"/>
-      <point x="60.609" y="582.226"/>
-      <point x="25" y="482.552"/>
+      <point x="235" y="602" type="curve"/>
+      <point x="134" y="678" type="line"/>
+      <point x="61" y="582"/>
+      <point x="25" y="483"/>
       <point x="25" y="394" type="curve" smooth="yes"/>
-      <point x="25" y="259.446"/>
-      <point x="111.303" y="136"/>
+      <point x="25" y="259"/>
+      <point x="111" y="136"/>
       <point x="240" y="136" type="curve"/>
-      <point x="333.679" y="136"/>
+      <point x="334" y="136"/>
       <point x="440" y="200"/>
       <point x="440" y="322" type="curve" smooth="yes"/>
     </contour>

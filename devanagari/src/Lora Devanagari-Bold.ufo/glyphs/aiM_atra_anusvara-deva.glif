@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aivowelsigndeva_anusvaradeva" format="1">
+<glyph name="aiMatra_anusvara-deva" format="1">
   <advance width="250"/>
   <note>
     dMatraAiAnusvara
   </note>
   <outline>
-    <component base="aivowelsigndeva"/>
-    <component base="anusvaradeva" xOffset="87" yOffset="-155"/>
+    <component base="aiMatra-deva"/>
+    <component base="anusvara-deva" xOffset="87" yOffset="-155"/>
     <contour>
       <point x="125" y="580" type="move" name="_top"/>
     </contour>

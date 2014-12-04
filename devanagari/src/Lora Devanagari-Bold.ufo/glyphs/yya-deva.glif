@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yyadeva" format="1">
+<glyph name="yya-deva" format="1">
   <advance width="569"/>
   <unicode hex="095F"/>
   <note>
     dYya
   </note>
   <outline>
-    <component base="uni092F"/>
-    <component base="nuktadeva" xOffset="-76" yOffset="151"/>
+    <component base="ya-deva"/>
+    <component base="nukta-deva" xOffset="-76" yOffset="151"/>
   </outline>
   <lib>
     <dict>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0918094D_nadeva" format="1">
+<glyph name="gh_na-deva" format="1">
   <advance width="627"/>
   <note>
     dGhNa
   </note>
   <outline>
-    <component base="uni0918094D"/>
-    <component base="uni093E" xOffset="316"/>
-    <component base="nadeva.post2" xOffset="654" yOffset="-39"/>
+    <component base="gh-deva"/>
+    <component base="aaMatra-deva" xOffset="316"/>
+    <component base="na-deva.post2" xOffset="654" yOffset="-39"/>
     <contour>
       <point x="472" y="580" type="move" name="top"/>
     </contour>

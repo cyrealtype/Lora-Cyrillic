@@ -5,8 +5,8 @@
     dMatraAuReph
   </note>
   <outline>
-    <component base="uni093E"/>
-    <component base="aivowelsigndeva_uni0930094D" xOffset="-221" yOffset="24"/>
+    <component base="aaMatra-deva"/>
+    <component base="aiMatra_reph-deva" xOffset="-221" yOffset="24"/>
   </outline>
   <lib>
     <dict>

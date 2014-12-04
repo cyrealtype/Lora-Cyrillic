@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni091F094D091F094D092F" format="1">
+<glyph name="tt_tt_ya-deva" format="1">
   <advance width="1160"/>
   <note>
     dTtTtYa
@@ -35,7 +35,7 @@
       <point x="501" y="580" type="line"/>
       <point x="524" y="502" type="line"/>
     </contour>
-    <component base="uni091F094D_ttadeva"/>
+    <component base="tt_tta-deva"/>
     <component base="stem-deva" xOffset="573"/>
     <contour>
       <point x="1029" y="580" type="move" name="top"/>

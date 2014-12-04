@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0977" format="1">
+<glyph name="uue-deva" format="1">
   <advance width="756"/>
   <unicode hex="0977"/>
   <outline>
-    <component base="adeva"/>
-    <component base="uni0957" xOffset="137" yOffset="15"/>
+    <component base="a-deva"/>
+    <component base="uueMatra-deva" xOffset="137" yOffset="15"/>
   </outline>
   <lib>
     <dict>

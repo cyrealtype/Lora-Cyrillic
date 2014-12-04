@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0917094D_nadeva" format="1">
+<glyph name="g_na-deva" format="1">
   <advance width="621"/>
   <note>
     dGNa
@@ -26,7 +26,7 @@
       <point x="259" y="292"/>
       <point x="214" y="530" type="curve"/>
     </contour>
-    <component base="nadeva.post2" xOffset="632" yOffset="53"/>
+    <component base="na-deva.post2" xOffset="632" yOffset="53"/>
     <component base="stem-deva"/>
     <contour>
       <point x="457" y="580" type="move" name="top"/>

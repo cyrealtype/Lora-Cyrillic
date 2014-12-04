@@ -2,8 +2,8 @@
 <glyph name="oMatra_anusvara-deva" format="1">
   <advance width="381"/>
   <outline>
-    <component base="ovowelsigndeva"/>
-    <component base="anusvaradeva" xOffset="164" yOffset="30"/>
+    <component base="oMatra-deva"/>
+    <component base="anusvara-deva" xOffset="164" yOffset="30"/>
   </outline>
   <lib>
     <dict>

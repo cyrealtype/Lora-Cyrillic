@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onedeva" format="1">
+<glyph name="one-deva" format="1">
   <advance width="438"/>
   <unicode hex="0967"/>
   <note>
@@ -7,7 +7,7 @@
   </note>
   <outline>
     <contour>
-      <point x="269.343" y="373.782" type="line"/>
+      <point x="269" y="374" type="line"/>
       <point x="195" y="411"/>
       <point x="140" y="470"/>
       <point x="140" y="527" type="curve" smooth="yes"/>

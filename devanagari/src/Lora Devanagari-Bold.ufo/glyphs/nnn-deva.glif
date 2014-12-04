@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0929094D" format="1">
+<glyph name="nnn-deva" format="1">
   <advance width="338"/>
   <note>
     dNnn.half
   </note>
   <outline>
-    <component base="uni0928094D"/>
-    <component base="nuktadeva" xOffset="33" yOffset="151"/>
+    <component base="n-deva"/>
+    <component base="nukta-deva" xOffset="33" yOffset="151"/>
   </outline>
   <lib>
     <dict>

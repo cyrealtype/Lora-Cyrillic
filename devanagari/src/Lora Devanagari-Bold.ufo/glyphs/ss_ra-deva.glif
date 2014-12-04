@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0937094D_radeva" format="1">
+<glyph name="ss_ra-deva" format="1">
   <advance width="572"/>
   <outline>
-    <component base="ssadeva"/>
-    <component base="radeva.post2" xOffset="572" yOffset="20"/>
+    <component base="ssa-deva"/>
+    <component base="ra-deva.post2" xOffset="572" yOffset="20"/>
   </outline>
   <lib>
     <dict>

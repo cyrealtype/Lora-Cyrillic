@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ovowelsigndeva" format="1">
+<glyph name="oMatra-deva" format="1">
   <advance width="311"/>
   <unicode hex="094B"/>
   <note>
     dMatraO
   </note>
   <outline>
-    <component base="uni093E"/>
-    <component base="evowelsigndeva" xOffset="-294"/>
+    <component base="aaMatra-deva"/>
+    <component base="eMatra-deva" xOffset="-294"/>
   </outline>
   <lib>
     <dict>

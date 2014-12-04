@@ -35,7 +35,7 @@
       <point x="170" y="661"/>
       <point x="138" y="532" type="curve"/>
     </contour>
-    <component base="uni093E"/>
+    <component base="aaMatra-deva"/>
   </outline>
   <lib>
     <dict>

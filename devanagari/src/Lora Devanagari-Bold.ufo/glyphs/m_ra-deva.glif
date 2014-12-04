@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni092E094D_radeva" format="1">
+<glyph name="m_ra-deva" format="1">
   <advance width="586"/>
   <note>
     dMRa
   </note>
   <outline>
-    <component base="uni092E094D0930094D" xOffset="-35"/>
-    <component base="uni093E" xOffset="275"/>
+    <component base="m_r-deva" xOffset="-35"/>
+    <component base="aaMatra-deva" xOffset="275"/>
   </outline>
   <lib>
     <dict>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0926094D092D094D092F" format="1">
+<glyph name="d_bh_ya-deva" format="1">
   <advance width="1246"/>
   <note>
     dDBhYa
@@ -34,7 +34,7 @@
       <point x="587" y="580" type="line"/>
       <point x="610" y="502" type="line"/>
     </contour>
-    <component base="uni0926094D_bhadeva"/>
+    <component base="d_bha-deva"/>
     <component base="stem-deva" xOffset="659"/>
     <contour>
       <point x="1125" y="580" type="move" name="top"/>

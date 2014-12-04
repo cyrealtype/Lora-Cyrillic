@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="evowelsigndeva_uni0930094D_anus" format="1">
+<glyph name="eMatra_reph_anusvara-deva" format="1">
   <advance width="668"/>
   <outline>
-    <component base="evowelsigndeva_uni0930094D" xOffset="2"/>
-    <component base="anusvaradeva" xOffset="438" yOffset="90" xScale="0.82" yScale="0.82"/>
+    <component base="eMatra_reph-deva" xOffset="2"/>
+    <component base="anusvara-deva" xOffset="438" yOffset="90" xScale="0.823" yScale="0.823"/>
     <contour>
       <point x="457" y="555" type="move" name="_top"/>
     </contour>

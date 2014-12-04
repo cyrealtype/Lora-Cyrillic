@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eshortdeva" format="1">
+<glyph name="eShort-deva" format="1">
   <advance width="615"/>
   <unicode hex="090E"/>
   <note>
     dShortE
   </note>
   <outline>
-    <component base="edeva"/>
-    <component base="eshortvowelsigndeva" xOffset="75" yOffset="25"/>
+    <component base="e-deva"/>
+    <component base="eShortMatra-deva" xOffset="75" yOffset="25"/>
   </outline>
   <lib>
     <dict>

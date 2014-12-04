@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0926094D0918094D092F" format="1">
+<glyph name="d_gh_ya-deva" format="1">
   <advance width="1196"/>
   <outline>
     <contour>
@@ -32,7 +32,7 @@
       <point x="537" y="580" type="line"/>
       <point x="560" y="502" type="line"/>
     </contour>
-    <component base="uni0926094D_ghadeva"/>
+    <component base="d_gha-deva"/>
     <component base="stem-deva" xOffset="609"/>
     <contour>
       <point x="1064" y="580" type="move" name="top"/>

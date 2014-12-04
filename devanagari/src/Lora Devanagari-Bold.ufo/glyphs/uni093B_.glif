@@ -3,8 +3,8 @@
   <advance width="311"/>
   <unicode hex="093B"/>
   <outline>
-    <component base="uni093A" xOffset="6"/>
-    <component base="uni093E"/>
+    <component base="oeMatra-deva" xOffset="6"/>
+    <component base="aaMatra-deva"/>
   </outline>
   <lib>
     <dict>

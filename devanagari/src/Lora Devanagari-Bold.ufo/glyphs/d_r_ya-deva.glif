@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0926094D0930094D092F" format="1">
+<glyph name="d_r_ya-deva" format="1">
   <advance width="690"/>
   <note>
     dDRYa
@@ -11,7 +11,7 @@
       <point x="492" y="46" type="line"/>
       <point x="466" y="90" type="line"/>
     </contour>
-    <component base="uni0926094D092F"/>
+    <component base="d_ya-deva"/>
   </outline>
   <lib>
     <dict>

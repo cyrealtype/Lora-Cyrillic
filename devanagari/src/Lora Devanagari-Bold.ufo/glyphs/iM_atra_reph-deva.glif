@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni093F0930094D" format="1">
+<glyph name="iMatra_reph-deva" format="1">
   <advance width="354"/>
   <outline>
-    <component base="uni093F"/>
-    <component base="uni0930094D.imatra" xOffset="428"/>
+    <component base="iMatra-deva"/>
+    <component base="reph-deva.imatra" xOffset="428"/>
   </outline>
   <lib>
     <dict>

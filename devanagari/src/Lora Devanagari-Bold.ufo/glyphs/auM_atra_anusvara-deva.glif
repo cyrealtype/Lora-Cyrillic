@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni094C_uni0902" format="1">
+<glyph name="auMatra_anusvara-deva" format="1">
   <advance width="358"/>
   <outline>
-    <component base="uni094C"/>
-    <component base="anusvaradeva" xOffset="183" yOffset="41"/>
+    <component base="auMatra-deva"/>
+    <component base="anusvara-deva" xOffset="183" yOffset="41"/>
   </outline>
   <lib>
     <dict>

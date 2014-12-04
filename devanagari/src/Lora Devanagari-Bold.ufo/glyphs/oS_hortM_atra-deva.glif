@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni094A" format="1">
+<glyph name="oShortMatra-deva" format="1">
   <advance width="311"/>
   <unicode hex="094A"/>
   <note>
     dMatraShortO
   </note>
   <outline>
-    <component base="uni093E"/>
-    <component base="eshortvowelsigndeva" xOffset="-252" yOffset="25"/>
+    <component base="aaMatra-deva"/>
+    <component base="eShortMatra-deva" xOffset="-252" yOffset="25"/>
   </outline>
   <lib>
     <dict>

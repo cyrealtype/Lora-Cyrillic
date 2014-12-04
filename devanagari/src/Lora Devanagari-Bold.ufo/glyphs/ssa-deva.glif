@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ssadeva" format="1">
+<glyph name="ssa-deva" format="1">
   <advance width="572"/>
   <unicode hex="0937"/>
   <note>
@@ -7,12 +7,12 @@
   </note>
   <outline>
     <contour>
-      <point x="165.608" y="512.37" type="line"/>
-      <point x="428.103" y="159.966" type="line"/>
-      <point x="471.452" y="195.433" type="line"/>
-      <point x="210.861" y="551.159" type="line"/>
+      <point x="166" y="512" type="line"/>
+      <point x="428" y="160" type="line"/>
+      <point x="471" y="195" type="line"/>
+      <point x="211" y="551" type="line"/>
     </contour>
-    <component base="padeva"/>
+    <component base="pa-deva"/>
     <contour>
       <point x="103" y="34" type="move" name="nukta"/>
     </contour>

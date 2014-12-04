@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0958094D" format="1">
+<glyph name="q-deva" format="1">
   <advance width="640"/>
   <note>
     dQ.half
   </note>
   <outline>
-    <component base="uni0915094D"/>
-    <component base="nuktadeva" xOffset="1" yOffset="151"/>
+    <component base="k-deva"/>
+    <component base="nukta-deva" xOffset="1" yOffset="151"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0930094D.loclMAR" format="1">
+<glyph name="reph-deva.loclMAR" format="1">
   <advance width="331"/>
   <note>
     dReph.MAR
   </note>
   <outline>
-    <component base="uni0931094D"/>
+    <component base="rr-deva"/>
   </outline>
   <lib>
     <dict>

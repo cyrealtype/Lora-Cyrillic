@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0920094D092F" format="1">
+<glyph name="tth_ya-deva" format="1">
   <advance width="1153"/>
   <note>
     dTthYa
   </note>
   <outline>
-    <component base="tthadeva"/>
-    <component base="uni092F.post" xOffset="524"/>
+    <component base="ttha-deva"/>
+    <component base="ya-deva.post" xOffset="524"/>
   </outline>
   <lib>
     <dict>

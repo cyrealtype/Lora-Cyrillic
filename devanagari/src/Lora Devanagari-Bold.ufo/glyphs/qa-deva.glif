@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="qadeva" format="1">
+<glyph name="qa-deva" format="1">
   <advance width="811"/>
   <unicode hex="0958"/>
   <note>
     dQa
   </note>
   <outline>
-    <component base="kadeva"/>
-    <component base="nuktadeva" xOffset="-22" yOffset="131"/>
+    <component base="ka-deva"/>
+    <component base="nukta-deva" xOffset="-22" yOffset="131"/>
   </outline>
   <lib>
     <dict>

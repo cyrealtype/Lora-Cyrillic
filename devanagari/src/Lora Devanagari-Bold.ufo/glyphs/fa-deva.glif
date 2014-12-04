@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fadeva" format="1">
+<glyph name="fa-deva" format="1">
   <advance width="809"/>
   <unicode hex="095E"/>
   <note>
     dFa
   </note>
   <outline>
-    <component base="uni092B"/>
-    <component base="nuktadeva" xOffset="-48" yOffset="241"/>
+    <component base="pha-deva"/>
+    <component base="nukta-deva" xOffset="-48" yOffset="241"/>
   </outline>
   <lib>
     <dict>

@@ -2,8 +2,8 @@
 <glyph name="iiMatra_reph_anusvara-deva" format="1">
   <advance width="301"/>
   <outline>
-    <component base="uni0940"/>
-    <component base="uni0930094D_anusvaradeva.imatra" xOffset="-16" yOffset="26"/>
+    <component base="iiMatra-deva"/>
+    <component base="reph_anusvara-deva.imatra" xOffset="-16" yOffset="26"/>
   </outline>
   <lib>
     <dict>

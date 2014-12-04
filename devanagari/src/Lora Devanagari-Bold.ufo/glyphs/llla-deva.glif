@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="llladeva" format="1">
+<glyph name="llla-deva" format="1">
   <advance width="820"/>
   <unicode hex="0934"/>
   <note>
     dLlla
   </note>
   <outline>
-    <component base="lladeva"/>
-    <component base="nuktadeva" xOffset="288" yOffset="53"/>
+    <component base="lla-deva"/>
+    <component base="nukta-deva" xOffset="288" yOffset="53"/>
   </outline>
   <lib>
     <dict>

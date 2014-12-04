@@ -5,8 +5,8 @@
     dMatraAuRephAnusvara
   </note>
   <outline>
-    <component base="uni093E"/>
-    <component base="aivowelsigndeva_uni0930094D_anu" xOffset="-229" yOffset="25"/>
+    <component base="aaMatra-deva"/>
+    <component base="aiMatra_reph_anusvara-deva" xOffset="-229" yOffset="25"/>
   </outline>
   <lib>
     <dict>

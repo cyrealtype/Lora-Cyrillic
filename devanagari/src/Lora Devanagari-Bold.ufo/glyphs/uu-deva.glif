@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uudeva" format="1">
+<glyph name="uu-deva" format="1">
   <advance width="652"/>
   <unicode hex="090A"/>
   <outline>
@@ -28,7 +28,7 @@
       <point x="405" y="580" type="line"/>
       <point x="428" y="502" type="line"/>
     </contour>
-    <component base="udeva"/>
+    <component base="u-deva"/>
   </outline>
   <lib>
     <dict>

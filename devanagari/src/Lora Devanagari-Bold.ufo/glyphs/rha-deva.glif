@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rhadeva" format="1">
+<glyph name="rha-deva" format="1">
   <advance width="561"/>
   <unicode hex="095D"/>
   <note>
     dRha
   </note>
   <outline>
-    <component base="ddhadeva"/>
-    <component base="nuktadeva" xOffset="219" yOffset="24"/>
+    <component base="ddha-deva"/>
+    <component base="nukta-deva" xOffset="219" yOffset="24"/>
   </outline>
   <lib>
     <dict>

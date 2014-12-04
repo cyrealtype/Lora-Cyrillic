@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="candrabindudeva.imatra" format="1">
+<glyph name="candraBindu-deva.imatra" format="1">
   <advance width="250"/>
   <note>
     dCandrabindu
   </note>
   <outline>
-    <component base="ecandravowelsigndeva" xOffset="-100"/>
-    <component base="anusvaradeva" xOffset="3" yOffset="144" xScale="0.97" yScale="0.97"/>
+    <component base="eCandraMatra-deva" xOffset="-100"/>
+    <component base="anusvara-deva" xOffset="3" yOffset="144" xScale="0.971" yScale="0.971"/>
     <contour>
       <point x="125" y="545" type="move" name="_imatra"/>
     </contour>

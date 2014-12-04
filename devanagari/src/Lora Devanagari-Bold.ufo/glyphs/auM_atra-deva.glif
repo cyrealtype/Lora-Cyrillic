@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni094C" format="1">
+<glyph name="auMatra-deva" format="1">
   <advance width="311"/>
   <unicode hex="094C"/>
   <note>
     dMatraAu
   </note>
   <outline>
-    <component base="uni093E"/>
-    <component base="aivowelsigndeva" xOffset="-227"/>
+    <component base="aaMatra-deva"/>
+    <component base="aiMatra-deva" xOffset="-227"/>
   </outline>
   <lib>
     <dict>

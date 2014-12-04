@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ocandravowelsigndeva" format="1">
+<glyph name="oCandraMatra-deva" format="1">
   <advance width="311"/>
   <unicode hex="0949"/>
   <outline>
-    <component base="uni093E"/>
-    <component base="ecandravowelsigndeva" xOffset="-82" yOffset="25"/>
+    <component base="aaMatra-deva"/>
+    <component base="eCandraMatra-deva" xOffset="-82" yOffset="25"/>
   </outline>
   <lib>
     <dict>

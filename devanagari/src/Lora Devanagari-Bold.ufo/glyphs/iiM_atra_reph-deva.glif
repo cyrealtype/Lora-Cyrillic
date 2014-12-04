@@ -5,8 +5,8 @@
     dMatraIiReph
   </note>
   <outline>
-    <component base="uni0940"/>
-    <component base="uni0930094D.imatra" xOffset="-17" yOffset="-1"/>
+    <component base="iiMatra-deva"/>
+    <component base="reph-deva.imatra" xOffset="-17" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

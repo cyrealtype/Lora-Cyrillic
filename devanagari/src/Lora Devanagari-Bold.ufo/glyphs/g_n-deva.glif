@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0917094D0928094D" format="1">
+<glyph name="g_n-deva" format="1">
   <advance width="350"/>
   <note>
     dGN.half
   </note>
   <outline>
-    <component base="nadeva.post2" xOffset="684"/>
-    <component base="uni0917094D"/>
+    <component base="na-deva.post2" xOffset="684"/>
+    <component base="g-deva"/>
     <contour>
       <point x="284" y="-10" type="move" name="nukta"/>
     </contour>
