@@ -5,7 +5,7 @@ Technically Lora is optimised for screen appearance, and works equally well in p
 
 Designed by Olga Karpushina, and Alexei Vanyashin for Cyreal.
 
-![alt text](https://github.com/cyrealtype/Lora-Cyrillic/blob/master/lora-promo.png "Lora Font by Cyreal")
+![Lora Font](src/sample.png "Lora Font by Cyreal")
 
 Lora is a Unicode typeface family that supports 
 languages that use the Latin and Cyrillic scripts and its variants, and 
@@ -13,5 +13,8 @@ could be expanded to support other scripts.
 
 Cyrillic Extension designed by Alexei Vanyashin in May, 2013.
 
-Project information on Cyreal:
-http://www.cyreal.org/2012/07/lora/
+![Lora Font](src/sample2.png "Lora Font by Cyreal")
+
+Project [information](http://www.cyreal.org/2012/07/lora/) on Cyreal Fonts' website:
+
+
