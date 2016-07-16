@@ -45,16 +45,19 @@ additional autohinted glyphs.
 — Improved kerning
 — Adjusted glyphs with caron accent
 
-26 June 2013 (Alexei Vanyashin) Lora v. 1013
+26 June 2013 (Alexei Vanyashin) Lora v. 1.013
 — Fixed hinting issue
 — Minor design fixes
 
-12 August 2013 (Alexei Vanyashin) Lora v. 1014
+12 August 2013 (Alexei Vanyashin) Lora v. 1.014
 — equalised nbsp, sp, noBreak, nonmarkingreturn advance widths 
 
-25 May 2016 (Alexei Vanyashin) Lora v. 1015
+25 May 2016 (Alexei Vanyashin) Lora v. 1.015
 — enlonged emdashes as per issue https://github.com/google/fonts/issues/217#issuecomment-221395327
 — added Esperanto support as per request form fishque.com
+
+16 July 2016 (Alexei Vanyashin) Lora v. 1.016
+— fixed issue #1 (italic style not working in MS Word)
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
@@ -63,7 +66,7 @@ This list is in alphabetical order.
 N: Olga Karpushina
 E: okarpush at gmail.com
 W: www.cyreal.org
-D: Designer of Latin
+D: Original Author
 
 N: Alexei Vanyashin
 E: a at cyreal.org

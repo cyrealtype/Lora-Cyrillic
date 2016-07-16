@@ -1,4 +1,8 @@
 {
+.appVersion = "895";
+DisplayStrings = (
+Htn
+);
 classes = (
 {
 automatic = 1;
@@ -6,7 +10,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Lora\"";
+copyright = "Copyright © 2011 by Cyreal";
 customParameters = (
 {
 name = trademark;
@@ -15,10 +19,6 @@ value = "Lora is a trademark of Cyreal (www.cyreal.org).";
 {
 name = description;
 value = "Lora is designed by Olga Karpushina, and Alexei Vanyashin for Cyreal.\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1. \012";
-},
-{
-name = license;
-value = "Copyright (c) 2011, Cyreal (www.cyreal.org)\012with Reserved Font Name \"Lora\"\012\012This Font Software is licensed under the SIL Open Font License,\012Version 1.1. This license is available with a FAQ at:\012http://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
@@ -30,10 +30,10 @@ value = (
 );
 }
 );
-date = "2016-05-25 17:01:58 +0000";
-designer = "Olga Karpushina, Alexei Vanyashin";
+date = "2016-07-16 04:51:06 +0000";
+designer = "Cyreal. Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
-familyName = "Lora";
+familyName = Lora;
 featurePrefixes = (
 {
 automatic = 1;
@@ -95,9 +95,17 @@ alignmentZones = (
 ascender = 1968;
 capHeight = 1434;
 descender = -556;
+horizontalStems = (
+89,
+80
+);
 id = UUID0;
 italicAngle = 3;
-weightValue = 50;
+verticalStems = (
+169,
+164
+);
+weightValue = 400;
 xHeight = 1048;
 },
 {
@@ -111,13 +119,22 @@ alignmentZones = (
 ascender = 1968;
 capHeight = 1434;
 descender = -563;
+horizontalStems = (
+160,
+143
+);
 id = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 italicAngle = 3;
 userData = {
 GSOffsetHorizontal = 20;
 GSOffsetVertical = 15;
 };
+verticalStems = (
+291,
+261
+);
 weight = Bold;
+weightValue = 700;
 xHeight = 1024;
 }
 );
@@ -138,7 +155,6 @@ position = "{660, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -202,7 +218,6 @@ position = "{708, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -277,7 +292,6 @@ transform = "{1, 0, 0, 1, 387, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -291,7 +305,6 @@ transform = "{1, 0, 0, 1, 422, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -314,7 +327,6 @@ transform = "{0.9, 0, 0, 1, 359, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -328,7 +340,6 @@ transform = "{0.9, 0, 0, 1, 362, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -351,7 +362,6 @@ transform = "{1, 0, 0, 1, 195, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -365,7 +375,6 @@ transform = "{1, 0, 0, 1, 233, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -388,7 +397,6 @@ transform = "{1, 0, 0, 1, 383, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -402,7 +410,6 @@ transform = "{1, 0, 0, 1, 321, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -425,7 +432,6 @@ transform = "{1, 0, 0, 1, 389, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -439,7 +445,6 @@ transform = "{1, 0, 0, 1, 345, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -462,7 +467,6 @@ transform = "{1, 0, 0, 1, 311, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -476,7 +480,6 @@ transform = "{1, 0, 0, 1, 320, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -499,7 +502,6 @@ transform = "{1, 0, 0, 1, 609, -45}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -513,7 +515,6 @@ transform = "{1, 0, 0, 1, 662, 10}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -536,7 +537,6 @@ transform = "{1, 0, 0, 1, 408, 55}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -550,7 +550,6 @@ transform = "{1, 0, 0, 1, 364, 55}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -573,7 +572,6 @@ transform = "{1, 0, 0, 1, 209, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -587,7 +585,6 @@ transform = "{1, 0, 0, 1, 206, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -601,7 +598,6 @@ lastChange = "2016-05-02 10:14:57 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -678,7 +674,6 @@ width = 1956;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -770,7 +765,6 @@ lastChange = "2016-05-02 10:15:17 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -848,7 +842,6 @@ width = 1268;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -942,7 +935,6 @@ position = "{879, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -994,7 +986,6 @@ position = "{867, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -1054,7 +1045,6 @@ transform = "{1, 0, 0, 1, 651, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1405;
 },
 {
@@ -1068,7 +1058,6 @@ transform = "{1, 0, 0, 1, 568, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1414;
 }
 );
@@ -1091,7 +1080,6 @@ transform = "{1, 0, 0, 1, 389, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1405;
 },
 {
@@ -1105,7 +1093,6 @@ transform = "{1, 0, 0, 1, 389, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1414;
 }
 );
@@ -1119,7 +1106,6 @@ lastChange = "2016-05-02 10:15:25 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -1185,7 +1171,6 @@ width = 1411;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -1269,7 +1254,6 @@ transform = "{1, 0, 0, 1, 414, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1405;
 },
 {
@@ -1283,7 +1267,6 @@ transform = "{1, 0, 0, 1, 392, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1414;
 }
 );
@@ -1307,7 +1290,6 @@ position = "{804, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -1368,7 +1350,6 @@ position = "{814, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -1430,7 +1411,6 @@ lastChange = "2016-05-02 10:15:30 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -1489,7 +1469,6 @@ width = 1513;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -1568,7 +1547,6 @@ transform = "{1, 0, 0, 1, 279, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1511;
 },
 {
@@ -1582,7 +1560,6 @@ transform = "{1, 0, 0, 1, 269, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1546;
 }
 );
@@ -1601,7 +1578,6 @@ name = Eth;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1513;
 },
 {
@@ -1611,7 +1587,6 @@ name = Eth;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1548;
 }
 );
@@ -1639,7 +1614,6 @@ position = "{743, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -1708,7 +1682,6 @@ position = "{703, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -1783,7 +1756,6 @@ transform = "{1, 0, 0, 1, 470, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -1797,7 +1769,6 @@ transform = "{1, 0, 0, 1, 417, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -1820,7 +1791,6 @@ transform = "{1, 0, 0, 1, 219, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -1834,7 +1804,6 @@ transform = "{1, 0, 0, 1, 239, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -1857,7 +1826,6 @@ transform = "{1, 0, 0, 1, 278, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -1871,7 +1839,6 @@ transform = "{1, 0, 0, 1, 228, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -1894,7 +1861,6 @@ transform = "{1, 0, 0, 1, 353, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -1908,7 +1874,6 @@ transform = "{1, 0, 0, 1, 344, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -1931,7 +1896,6 @@ transform = "{1, 0, 0, 1, 556, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -1945,7 +1909,6 @@ transform = "{1, 0, 0, 1, 471, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -1968,7 +1931,6 @@ transform = "{1, 0, 0, 1, 393, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -1982,7 +1944,6 @@ transform = "{1, 0, 0, 1, 404, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -2005,7 +1966,6 @@ transform = "{1, 0, 0, 1, 394, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -2019,7 +1979,6 @@ transform = "{1, 0, 0, 1, 315, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -2042,7 +2001,6 @@ transform = "{1, 0, 0, 1, 587, -45}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -2056,7 +2014,6 @@ transform = "{1, 0, 0, 1, 582, 10}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -2070,7 +2027,6 @@ lastChange = "2016-05-02 10:15:40 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -2123,7 +2079,6 @@ width = 1108;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -2196,7 +2151,6 @@ position = "{881, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -2259,7 +2213,6 @@ position = "{875, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -2333,7 +2286,6 @@ transform = "{1, 0, 0, 1, 546, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1542;
 },
 {
@@ -2347,7 +2299,6 @@ transform = "{1, 0, 0, 1, 490, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1548;
 }
 );
@@ -2371,7 +2322,6 @@ transform = "{1, 0, 0, 1, 416, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1542;
 },
 {
@@ -2385,7 +2335,6 @@ transform = "{1, 0, 0, 1, 400, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1548;
 }
 );
@@ -2408,7 +2357,6 @@ transform = "{1, 0, 0, 1, 415, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1542;
 },
 {
@@ -2422,7 +2370,6 @@ transform = "{1, 0, 0, 1, 410, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1548;
 }
 );
@@ -2446,7 +2393,6 @@ position = "{840, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -2516,7 +2462,6 @@ position = "{878, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -2603,7 +2548,6 @@ transform = "{1, 0, 0, 1, 375, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1583;
 },
 {
@@ -2617,7 +2561,6 @@ transform = "{1, 0, 0, 1, 403, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1642;
 }
 );
@@ -2641,7 +2584,6 @@ position = "{403, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -2677,7 +2619,7 @@ width = 682;
 anchors = (
 {
 name = ogonek;
-position = "{652, -0}";
+position = "{652, 0}";
 },
 {
 name = top;
@@ -2685,7 +2627,6 @@ position = "{463, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -2741,7 +2682,6 @@ transform = "{1, 0, 0, 1, 130, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 682;
 },
 {
@@ -2755,7 +2695,6 @@ transform = "{1, 0, 0, 1, 177, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 787;
 }
 );
@@ -2792,7 +2731,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -2862,7 +2800,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -2921,7 +2858,6 @@ lastChange = "2016-05-02 10:15:53 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -2998,7 +2934,6 @@ transform = "{1, 0, 0, 1, 62, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 787;
 }
 );
@@ -3021,7 +2956,6 @@ transform = "{1, 0, 0, 1, 216, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 682;
 },
 {
@@ -3035,7 +2969,6 @@ transform = "{1, 0, 0, 1, 231, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 787;
 }
 );
@@ -3058,7 +2991,6 @@ transform = "{1, 0, 0, 1, 6, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 682;
 },
 {
@@ -3072,7 +3004,6 @@ transform = "{1, 0, 0, 1, -5, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 787;
 }
 );
@@ -3095,7 +3026,6 @@ transform = "{1, 0, 0, 1, 54, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 682;
 },
 {
@@ -3109,7 +3039,6 @@ transform = "{1, 0, 0, 1, 75, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 787;
 }
 );
@@ -3132,7 +3061,6 @@ transform = "{1, 0, 0, 1, 9, -56}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 682;
 },
 {
@@ -3146,7 +3074,6 @@ transform = "{1, 0, 0, 1, 86, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 787;
 }
 );
@@ -3166,7 +3093,6 @@ position = "{464, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -3214,7 +3140,6 @@ position = "{593, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -3280,7 +3205,6 @@ transform = "{1, 0, 0, 1, 73, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 752;
 },
 {
@@ -3290,7 +3214,6 @@ name = J;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -3390,7 +3313,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -3466,7 +3388,6 @@ position = "{804, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -3559,7 +3480,6 @@ transform = "{1, 0, 0, 1, 338, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1366;
 },
 {
@@ -3573,7 +3493,6 @@ transform = "{1, 0, 0, 1, 385, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1456;
 }
 );
@@ -3597,7 +3516,6 @@ position = "{393, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -3645,7 +3563,6 @@ position = "{432, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -3703,7 +3620,6 @@ transform = "{1, 0, 0, 1, 120, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1182;
 },
 {
@@ -3717,7 +3633,6 @@ transform = "{1, 0, 0, 1, 146, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1241;
 }
 );
@@ -3735,13 +3650,12 @@ components = (
 name = L;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = caroncomb.alt;
 transform = "{1, 0, 0, 1, 546, -127}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1182;
 },
 {
@@ -3750,13 +3664,12 @@ components = (
 name = L;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = caroncomb.alt;
 transform = "{1, 0, 0, 1, 620, -140}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1241;
 }
 );
@@ -3779,7 +3692,6 @@ transform = "{1, 0, 0, 1, 246, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1182;
 },
 {
@@ -3793,7 +3705,6 @@ transform = "{1, 0, 0, 1, 278, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1241;
 }
 );
@@ -3807,7 +3718,6 @@ lastChange = "2016-05-02 10:16:10 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -3853,7 +3763,6 @@ width = 1182;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -3910,7 +3819,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -3982,7 +3890,6 @@ width = 1878;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -4075,7 +3982,6 @@ position = "{829, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -4129,7 +4035,6 @@ position = "{839, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -4206,7 +4111,6 @@ transform = "{1, 0, 0, 1, 601, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1561;
 },
 {
@@ -4220,7 +4124,6 @@ transform = "{1, 0, 0, 1, 540, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1581;
 }
 );
@@ -4243,7 +4146,6 @@ transform = "{1, 0, 0, 1, 359, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1561;
 },
 {
@@ -4257,7 +4159,6 @@ transform = "{1, 0, 0, 1, 349, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1581;
 }
 );
@@ -4280,7 +4181,6 @@ transform = "{1, 0, 0, 1, 436, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1561;
 },
 {
@@ -4294,7 +4194,6 @@ transform = "{1, 0, 0, 1, 448, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1581;
 }
 );
@@ -4317,7 +4216,6 @@ transform = "{1, 0, 0, 1, 307, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1561;
 },
 {
@@ -4331,7 +4229,6 @@ transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1581;
 }
 );
@@ -4351,7 +4248,6 @@ position = "{855, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -4398,7 +4294,6 @@ position = "{818, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -4457,7 +4352,6 @@ transform = "{1, 0, 0, 1, 582, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1614;
 },
 {
@@ -4471,7 +4365,6 @@ transform = "{1, 0, 0, 1, 532, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1560;
 }
 );
@@ -4494,7 +4387,6 @@ transform = "{1, 0, 0, 1, 390, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1614;
 },
 {
@@ -4508,7 +4400,6 @@ transform = "{1, 0, 0, 1, 343, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1560;
 }
 );
@@ -4531,7 +4422,6 @@ transform = "{1, 0, 0, 1, 509, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1614;
 },
 {
@@ -4545,7 +4435,6 @@ transform = "{1, 0, 0, 1, 494, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1560;
 }
 );
@@ -4568,7 +4457,6 @@ transform = "{1, 0, 0, 1, 512, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1614;
 },
 {
@@ -4582,7 +4470,6 @@ transform = "{1, 0, 0, 1, 497, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1560;
 }
 );
@@ -4605,7 +4492,6 @@ transform = "{1, 0, 0, 1, 444, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1614;
 },
 {
@@ -4619,7 +4505,6 @@ transform = "{1, 0, 0, 1, 340, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1560;
 }
 );
@@ -4642,7 +4527,6 @@ transform = "{1, 0, 0, 1, 506, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1614;
 },
 {
@@ -4656,7 +4540,6 @@ transform = "{1, 0, 0, 1, 430, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1560;
 }
 );
@@ -4670,7 +4553,6 @@ lastChange = "2016-05-02 10:16:27 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -4736,7 +4618,6 @@ width = 1612;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -4820,7 +4701,6 @@ transform = "{1, 0, 0, 1, 381, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1614;
 },
 {
@@ -4834,7 +4714,6 @@ transform = "{1, 0, 0, 1, 366, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1560;
 }
 );
@@ -4848,7 +4727,6 @@ lastChange = "2016-05-02 10:16:30 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -4925,7 +4803,6 @@ width = 2073;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -5012,7 +4889,6 @@ lastChange = "2016-05-02 10:16:35 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -5071,7 +4947,6 @@ width = 1223;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -5140,7 +5015,6 @@ lastChange = "2016-05-02 10:16:35 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -5202,7 +5076,6 @@ width = 1182;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -5275,7 +5148,6 @@ lastChange = "2016-05-02 10:16:38 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -5332,7 +5204,6 @@ width = 1614;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -5406,7 +5277,6 @@ position = "{662, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -5497,7 +5367,6 @@ position = "{722, 1441}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -5593,7 +5462,6 @@ transform = "{1, 0, 0, 1, 434, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1280;
 },
 {
@@ -5607,7 +5475,6 @@ transform = "{1, 0, 0, 1, 423, 417}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1394;
 }
 );
@@ -5630,7 +5497,6 @@ transform = "{1, 0, 0, 1, 199, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1280;
 },
 {
@@ -5644,7 +5510,6 @@ transform = "{1, 0, 0, 1, 262, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1394;
 }
 );
@@ -5667,7 +5532,6 @@ transform = "{1, 0, 0, 1, 320, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1280;
 },
 {
@@ -5681,7 +5545,6 @@ transform = "{1, 0, 0, 1, 354, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1394;
 }
 );
@@ -5705,7 +5568,6 @@ position = "{649, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -5765,7 +5627,6 @@ position = "{678, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -5841,7 +5702,6 @@ transform = "{1, 0, 0, 1, 421, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1159;
 },
 {
@@ -5855,7 +5715,6 @@ transform = "{1, 0, 0, 1, 379, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1229;
 }
 );
@@ -5878,7 +5737,6 @@ transform = "{1, 0, 0, 1, 129, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1159;
 },
 {
@@ -5892,7 +5750,6 @@ transform = "{1, 0, 0, 1, 131, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1229;
 }
 );
@@ -5915,7 +5772,6 @@ transform = "{1, 0, 0, 1, 320, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1159;
 },
 {
@@ -5929,7 +5785,6 @@ transform = "{1, 0, 0, 1, 342, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1229;
 }
 );
@@ -5953,7 +5808,6 @@ transform = "{1, 0, 0, 1, 184, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1159;
 },
 {
@@ -5967,7 +5821,6 @@ transform = "{1, 0, 0, 1, 203, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1229;
 }
 );
@@ -5990,7 +5843,6 @@ transform = "{1, 0, 0, 1, 279, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1159;
 },
 {
@@ -6004,7 +5856,6 @@ transform = "{1, 0, 0, 1, 336, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1229;
 }
 );
@@ -6032,7 +5883,6 @@ position = "{724, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -6083,7 +5933,6 @@ position = "{716, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -6140,7 +5989,6 @@ transform = "{1, 0, 0, 1, 229, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1303;
 },
 {
@@ -6154,7 +6002,6 @@ transform = "{1, 0, 0, 1, 219, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1328;
 }
 );
@@ -6178,7 +6025,6 @@ position = "{835, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -6236,7 +6082,6 @@ position = "{864, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -6306,7 +6151,6 @@ transform = "{1, 0, 0, 1, 562, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6320,7 +6164,6 @@ transform = "{1, 0, 0, 1, 578, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6344,7 +6187,6 @@ transform = "{1, 0, 0, 1, 500, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6358,7 +6200,6 @@ transform = "{1, 0, 0, 1, 479, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6381,7 +6222,6 @@ transform = "{1, 0, 0, 1, 370, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6395,7 +6235,6 @@ transform = "{1, 0, 0, 1, 389, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6418,7 +6257,6 @@ transform = "{1, 0, 0, 1, 525, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6432,7 +6270,6 @@ transform = "{1, 0, 0, 1, 491, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6455,7 +6292,6 @@ transform = "{1, 0, 0, 1, 442, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6469,7 +6305,6 @@ transform = "{1, 0, 0, 1, 408, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6492,7 +6327,6 @@ transform = "{1, 0, 0, 1, 424, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6506,7 +6340,6 @@ transform = "{1, 0, 0, 1, 386, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6529,7 +6362,6 @@ transform = "{1, 0, 0, 1, 486, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6543,7 +6375,6 @@ transform = "{1, 0, 0, 1, 476, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6566,7 +6397,6 @@ transform = "{1, 0, 0, 1, 457, -45}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6580,7 +6410,6 @@ transform = "{1, 0, 0, 1, 442, 10}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6603,7 +6432,6 @@ transform = "{1, 0, 0, 1, 556, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1524;
 },
 {
@@ -6617,7 +6445,6 @@ transform = "{1, 0, 0, 1, 527, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1547;
 }
 );
@@ -6631,7 +6458,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -6681,7 +6507,6 @@ width = 1362;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -6743,7 +6568,6 @@ position = "{1112, 1443}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -6820,7 +6644,6 @@ position = "{1120, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -6896,7 +6719,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -6964,7 +6786,6 @@ width = 1335;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -7049,7 +6870,6 @@ position = "{736, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -7112,7 +6932,6 @@ position = "{773, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -7194,7 +7013,6 @@ transform = "{1, 0, 0, 1, 463, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1313;
 },
 {
@@ -7208,7 +7026,6 @@ transform = "{1, 0, 0, 1, 487, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1361;
 }
 );
@@ -7231,7 +7048,6 @@ transform = "{1, 0, 0, 1, 390, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1313;
 },
 {
@@ -7245,7 +7061,6 @@ transform = "{1, 0, 0, 1, 377, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1361;
 }
 );
@@ -7265,7 +7080,6 @@ position = "{710, 1438}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -7309,7 +7123,6 @@ position = "{676, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -7365,7 +7178,6 @@ transform = "{1, 0, 0, 1, 482, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1253;
 },
 {
@@ -7379,7 +7191,6 @@ transform = "{1, 0, 0, 1, 377, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1234;
 }
 );
@@ -7402,7 +7213,6 @@ transform = "{1, 0, 0, 1, 189, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1253;
 },
 {
@@ -7416,7 +7226,6 @@ transform = "{1, 0, 0, 1, 189, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1234;
 }
 );
@@ -7439,7 +7248,6 @@ transform = "{1, 0, 0, 1, 523, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1253;
 },
 {
@@ -7453,7 +7261,6 @@ transform = "{1, 0, 0, 1, 444, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1234;
 }
 );
@@ -7476,7 +7283,6 @@ transform = "{1, 0, 0, 1, 379, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1303;
 },
 {
@@ -7490,7 +7296,6 @@ transform = "{1, 0, 0, 1, 363, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1328;
 }
 );
@@ -7513,7 +7318,6 @@ transform = "{1, 0, 0, 1, 338, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1303;
 },
 {
@@ -7527,7 +7331,6 @@ transform = "{1, 0, 0, 1, 357, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1328;
 }
 );
@@ -7551,7 +7354,6 @@ position = "{632, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -7622,7 +7424,6 @@ position = "{663, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -7701,7 +7502,6 @@ transform = "{1, 0, 0, 1, 404, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -7715,7 +7515,6 @@ transform = "{1, 0, 0, 1, 364, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -7738,7 +7537,6 @@ transform = "{1, 0, 0, 1, 281, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -7752,7 +7550,6 @@ transform = "{1, 0, 0, 1, 258, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -7775,7 +7572,6 @@ transform = "{1, 0, 0, 1, 241, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -7789,7 +7585,6 @@ transform = "{1, 0, 0, 1, 224, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -7812,7 +7607,6 @@ transform = "{1, 0, 0, 1, 288, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -7826,7 +7620,6 @@ transform = "{1, 0, 0, 1, 239, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -7849,7 +7642,6 @@ transform = "{1, 0, 0, 1, 362, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -7863,7 +7655,6 @@ transform = "{1, 0, 0, 1, 361, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -7886,7 +7677,6 @@ transform = "{1, 0, 0, 1, 283, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -7900,7 +7690,6 @@ transform = "{1, 0, 0, 1, 275, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -7923,7 +7712,6 @@ transform = "{1, 0, 0, 1, 439, -45}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -7937,7 +7725,6 @@ transform = "{1, 0, 0, 1, 381, 10}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -7960,7 +7747,6 @@ transform = "{1, 0, 0, 1, 353, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -7974,7 +7760,6 @@ transform = "{1, 0, 0, 1, 326, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -7997,7 +7782,6 @@ transform = "{1, 0, 0, 1, 215, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -8011,7 +7795,6 @@ transform = "{1, 0, 0, 1, 208, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -8025,7 +7808,6 @@ lastChange = "2016-05-02 10:17:34 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -8124,7 +7906,6 @@ width = 1530;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -8229,7 +8010,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -8289,7 +8069,6 @@ width = 1047;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -8368,7 +8147,6 @@ position = "{577, 1044}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -8424,7 +8202,6 @@ position = "{582, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -8488,7 +8265,6 @@ transform = "{1, 0, 0, 1, 349, -4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 969;
 },
 {
@@ -8502,7 +8278,6 @@ transform = "{1, 0, 0, 1, 283, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 956;
 }
 );
@@ -8525,7 +8300,6 @@ transform = "{1, 0, 0, 1, 186, -4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 969;
 },
 {
@@ -8539,7 +8313,6 @@ transform = "{1, 0, 0, 1, 145, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 956;
 }
 );
@@ -8553,7 +8326,6 @@ lastChange = "2016-05-02 10:17:48 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -8618,7 +8390,6 @@ width = 971;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -8703,7 +8474,6 @@ transform = "{1, 0, 0, 1, 186, -4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 969;
 },
 {
@@ -8717,7 +8487,6 @@ transform = "{1, 0, 0, 1, 143, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 956;
 }
 );
@@ -8741,7 +8510,6 @@ position = "{1144, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -8831,7 +8599,6 @@ position = "{1135, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -8915,7 +8682,6 @@ lastChange = "2013-05-30 16:45:32 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -8978,7 +8744,6 @@ width = 1057;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -9047,33 +8812,31 @@ layers = (
 {
 components = (
 {
-disableAlignment = 1;
+alignment = -1;
 name = d;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = caroncomb.alt;
 transform = "{1, 0, 0, 1, 889, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1279;
 },
 {
 components = (
 {
-disableAlignment = 1;
+alignment = -1;
 name = d;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = caroncomb.alt;
 transform = "{1, 0, 0, 1, 889, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1338;
 }
 );
@@ -9092,7 +8855,6 @@ name = d;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -9126,7 +8888,6 @@ name = d;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -9165,7 +8926,6 @@ position = "{568, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -9227,7 +8987,6 @@ position = "{538, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -9293,7 +9052,6 @@ transform = "{1, 0, 0, 1, 340, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -9307,7 +9065,6 @@ transform = "{1, 0, 0, 1, 239, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -9330,7 +9087,6 @@ transform = "{1, 0, 0, 1, 177, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -9344,7 +9100,6 @@ transform = "{1, 0, 0, 1, 101, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -9367,7 +9122,6 @@ transform = "{1, 0, 0, 1, 177, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -9381,7 +9135,6 @@ transform = "{1, 0, 0, 1, 99, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -9404,7 +9157,6 @@ transform = "{1, 0, 0, 1, 224, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -9418,7 +9170,6 @@ transform = "{1, 0, 0, 1, 114, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -9441,7 +9192,6 @@ transform = "{1, 0, 0, 1, 381, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -9455,7 +9205,6 @@ transform = "{1, 0, 0, 1, 306, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -9478,7 +9227,6 @@ transform = "{1, 0, 0, 1, 298, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -9492,7 +9240,6 @@ transform = "{1, 0, 0, 1, 236, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -9515,7 +9262,6 @@ transform = "{1, 0, 0, 1, 219, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -9529,7 +9275,6 @@ transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -9552,7 +9297,6 @@ transform = "{1, 0, 0, 1, 101, -45}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -9566,7 +9310,6 @@ transform = "{1, 0, 0, 1, 74, 10}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -9580,7 +9323,6 @@ lastChange = "2016-05-02 10:19:10 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -9640,7 +9382,6 @@ width = 666;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -9717,7 +9458,6 @@ position = "{603, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -9789,7 +9529,6 @@ position = "{616, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -9876,7 +9615,6 @@ transform = "{1, 0, 0, 1, 252, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1061;
 },
 {
@@ -9890,7 +9628,6 @@ transform = "{1, 0, 0, 1, 211, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1064;
 }
 );
@@ -9914,7 +9651,6 @@ transform = "{1, 0, 0, 1, 212, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1061;
 },
 {
@@ -9928,7 +9664,6 @@ transform = "{1, 0, 0, 1, 177, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1064;
 }
 );
@@ -9943,18 +9678,17 @@ layers = (
 {
 components = (
 {
-disableAlignment = 1;
+alignment = -1;
 name = g;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 locked = 1;
 name = commaaccent;
 transform = "{-1, 0, 0, -1, 837, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1061;
 },
 {
@@ -9963,13 +9697,12 @@ components = (
 name = g;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = commaaccent;
 transform = "{-1, 0, 0, -1, 890, 1093}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1064;
 }
 );
@@ -9993,7 +9726,6 @@ position = "{334, 1428}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -10072,7 +9804,6 @@ position = "{358, 1443}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -10162,7 +9893,6 @@ transform = "{1, 0, 0, 1, -57, 380}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1171;
 },
 {
@@ -10176,7 +9906,6 @@ transform = "{1, 0, 0, 1, -81, 419}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1176;
 }
 );
@@ -10190,7 +9919,6 @@ lastChange = "2016-05-02 10:19:31 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -10251,7 +9979,6 @@ width = 664;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -10321,7 +10048,6 @@ lastChange = "2016-05-02 10:19:31 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -10365,7 +10091,6 @@ width = 664;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -10427,7 +10152,6 @@ transform = "{1, 0, 0, 1, 184, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 664;
 },
 {
@@ -10441,7 +10165,6 @@ transform = "{1, 0, 0, 1, 152, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 704;
 }
 );
@@ -10455,7 +10178,6 @@ lastChange = "2016-05-02 10:19:31 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -10512,7 +10234,6 @@ width = 664;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -10587,7 +10308,6 @@ transform = "{1, 0, 0, 1, -3, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 664;
 },
 {
@@ -10601,7 +10321,6 @@ transform = "{1, 0, 0, 1, -55, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 704;
 }
 );
@@ -10624,7 +10343,6 @@ transform = "{1, 0, 0, 1, 20, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 664;
 },
 {
@@ -10638,7 +10356,6 @@ transform = "{1, 0, 0, 1, 18, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 704;
 }
 );
@@ -10660,7 +10377,6 @@ name = macron;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 664;
 },
 {
@@ -10673,7 +10389,6 @@ name = macron;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 704;
 }
 );
@@ -10698,7 +10413,6 @@ name = ogonek;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 664;
 },
 {
@@ -10714,7 +10428,6 @@ name = ogonek;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 704;
 }
 );
@@ -10728,7 +10441,6 @@ lastChange = "2016-05-02 00:39:39 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -10794,7 +10506,6 @@ width = 608;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -10870,7 +10581,6 @@ lastChange = "2016-05-02 10:23:23 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -10932,7 +10642,6 @@ width = 600;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -11009,7 +10718,6 @@ position = "{544, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -11101,7 +10809,6 @@ position = "{540, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -11205,7 +10912,6 @@ transform = "{1, 0, 0, 1, 226, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1065;
 },
 {
@@ -11219,7 +10925,6 @@ transform = "{1, 0, 0, 1, 197, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1060;
 }
 );
@@ -11247,7 +10952,6 @@ position = "{534, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -11304,7 +11008,6 @@ position = "{601, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -11364,7 +11067,6 @@ transform = "{1, 0, 0, 1, 89, 395}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 580;
 },
 {
@@ -11378,7 +11080,6 @@ transform = "{1, 0, 0, 1, 12, 411}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 621;
 }
 );
@@ -11393,33 +11094,31 @@ layers = (
 {
 components = (
 {
-disableAlignment = 1;
+alignment = -1;
 name = l;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = caroncomb.alt;
 transform = "{1, 0, 0, 1, 316, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 707;
 },
 {
 components = (
 {
-disableAlignment = 1;
+alignment = -1;
 name = l;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = caroncomb.alt;
 transform = "{1, 0, 0, 1, 316, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 621;
 }
 );
@@ -11442,7 +11141,6 @@ transform = "{1, 0, 0, 1, 17, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 580;
 },
 {
@@ -11456,7 +11154,6 @@ transform = "{1, 0, 0, 1, 11, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 621;
 }
 );
@@ -11470,7 +11167,6 @@ lastChange = "2016-05-02 10:19:48 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -11525,7 +11221,6 @@ width = 586;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -11586,7 +11281,6 @@ lastChange = "2016-05-02 10:19:55 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -11682,7 +11376,6 @@ width = 1794;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -11794,7 +11487,6 @@ position = "{695, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -11874,7 +11566,6 @@ position = "{699, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -11962,7 +11653,6 @@ transform = "{1, 0, 0, 1, 467, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1260;
 },
 {
@@ -11976,7 +11666,6 @@ transform = "{1, 0, 0, 1, 400, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1250;
 }
 );
@@ -11999,7 +11688,6 @@ transform = "{1, 0, 0, 1, 304, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1260;
 },
 {
@@ -12013,7 +11701,6 @@ transform = "{1, 0, 0, 1, 262, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1250;
 }
 );
@@ -12036,7 +11723,6 @@ transform = "{1, 0, 0, 1, 324, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1260;
 },
 {
@@ -12050,7 +11736,6 @@ transform = "{1, 0, 0, 1, 327, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1250;
 }
 );
@@ -12073,7 +11758,6 @@ transform = "{1, 0, 0, 1, 278, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1260;
 },
 {
@@ -12087,7 +11771,6 @@ transform = "{1, 0, 0, 1, 244, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1250;
 }
 );
@@ -12107,7 +11790,6 @@ position = "{601, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -12154,7 +11836,6 @@ position = "{559, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -12213,7 +11894,6 @@ transform = "{1, 0, 0, 1, 373, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1067;
 },
 {
@@ -12227,7 +11907,6 @@ transform = "{1, 0, 0, 1, 260, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1055;
 }
 );
@@ -12250,7 +11929,6 @@ transform = "{1, 0, 0, 1, 210, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1067;
 },
 {
@@ -12264,7 +11942,6 @@ transform = "{1, 0, 0, 1, 120, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1055;
 }
 );
@@ -12287,7 +11964,6 @@ transform = "{1, 0, 0, 1, 257, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1067;
 },
 {
@@ -12301,7 +11977,6 @@ transform = "{1, 0, 0, 1, 135, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1055;
 }
 );
@@ -12324,7 +11999,6 @@ transform = "{1, 0, 0, 1, 331, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1067;
 },
 {
@@ -12338,7 +12012,6 @@ transform = "{1, 0, 0, 1, 257, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1055;
 }
 );
@@ -12361,7 +12034,6 @@ transform = "{1, 0, 0, 1, 190, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1067;
 },
 {
@@ -12375,7 +12047,6 @@ transform = "{1, 0, 0, 1, 81, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1055;
 }
 );
@@ -12398,7 +12069,6 @@ transform = "{1, 0, 0, 1, 252, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1067;
 },
 {
@@ -12412,7 +12082,6 @@ transform = "{1, 0, 0, 1, 171, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1055;
 }
 );
@@ -12426,7 +12095,6 @@ lastChange = "2016-05-02 10:20:00 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -12492,7 +12160,6 @@ width = 1067;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -12576,7 +12243,6 @@ transform = "{1, 0, 0, 1, 184, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1067;
 },
 {
@@ -12590,7 +12256,6 @@ transform = "{1, 0, 0, 1, 104, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1055;
 }
 );
@@ -12604,7 +12269,6 @@ lastChange = "2016-05-02 10:20:03 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -12683,7 +12347,6 @@ width = 1632;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -12771,7 +12434,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -12843,7 +12505,6 @@ width = 1169;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -12924,7 +12585,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -12995,7 +12655,6 @@ width = 1049;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -13075,7 +12734,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -13133,7 +12791,6 @@ width = 1061;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -13211,7 +12868,6 @@ position = "{521, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -13275,7 +12931,6 @@ position = "{512, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -13347,7 +13002,6 @@ transform = "{1, 0, 0, 1, 293, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 932;
 },
 {
@@ -13361,7 +13015,6 @@ transform = "{1, 0, 0, 1, 213, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 941;
 }
 );
@@ -13384,7 +13037,6 @@ transform = "{1, 0, 0, 1, 130, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 932;
 },
 {
@@ -13398,7 +13050,6 @@ transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 941;
 }
 );
@@ -13421,7 +13072,6 @@ transform = "{1, 0, 0, 1, 37, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 932;
 },
 {
@@ -13435,7 +13085,6 @@ transform = "{1, 0, 0, 1, 72, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 941;
 }
 );
@@ -13459,7 +13108,6 @@ position = "{466, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -13529,7 +13177,6 @@ position = "{486, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -13607,7 +13254,6 @@ transform = "{1, 0, 0, 1, 238, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 877;
 },
 {
@@ -13621,7 +13267,6 @@ transform = "{1, 0, 0, 1, 187, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 914;
 }
 );
@@ -13644,7 +13289,6 @@ transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 877;
 },
 {
@@ -13658,7 +13302,6 @@ transform = "{1, 0, 0, 1, 49, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 914;
 }
 );
@@ -13681,7 +13324,6 @@ transform = "{1, 0, 0, 1, 166, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 877;
 },
 {
@@ -13695,7 +13337,6 @@ transform = "{1, 0, 0, 1, 121, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 914;
 }
 );
@@ -13719,7 +13360,6 @@ transform = "{1, 0, 0, 1, 75, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 877;
 },
 {
@@ -13733,7 +13373,6 @@ transform = "{1, 0, 0, 1, 47, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 914;
 }
 );
@@ -13756,7 +13395,6 @@ transform = "{1, 0, 0, 1, 125, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 877;
 },
 {
@@ -13770,7 +13408,6 @@ transform = "{1, 0, 0, 1, 115, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 914;
 }
 );
@@ -13784,7 +13421,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -13868,7 +13504,6 @@ width = 1331;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -13972,7 +13607,6 @@ position = "{400, 524}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -14025,7 +13659,6 @@ position = "{405, 512}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -14086,7 +13719,6 @@ transform = "{1, 0, 0, 1, 376, 88}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 745;
 },
 {
@@ -14100,7 +13732,6 @@ transform = "{1, 0, 0, 1, 376, 88}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 809;
 }
 );
@@ -14124,7 +13755,6 @@ position = "{634, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -14242,7 +13872,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -14330,7 +13959,6 @@ transform = "{1, 0, 0, 1, 406, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14344,7 +13972,6 @@ transform = "{1, 0, 0, 1, 347, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14367,7 +13994,6 @@ transform = "{1, 0, 0, 1, 283, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14381,7 +14007,6 @@ transform = "{1, 0, 0, 1, 241, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14404,7 +14029,6 @@ transform = "{1, 0, 0, 1, 243, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14418,7 +14042,6 @@ transform = "{1, 0, 0, 1, 207, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14441,7 +14064,6 @@ transform = "{1, 0, 0, 1, 290, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14455,7 +14077,6 @@ transform = "{1, 0, 0, 1, 222, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14478,7 +14099,6 @@ transform = "{1, 0, 0, 1, 364, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14492,7 +14112,6 @@ transform = "{1, 0, 0, 1, 344, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14515,7 +14134,6 @@ transform = "{1, 0, 0, 1, 223, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14529,7 +14147,6 @@ transform = "{1, 0, 0, 1, 168, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14552,7 +14169,6 @@ transform = "{1, 0, 0, 1, 285, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14566,7 +14182,6 @@ transform = "{1, 0, 0, 1, 258, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14589,7 +14204,6 @@ transform = "{1, 0, 0, 1, 103, 1550}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1260;
 },
 {
@@ -14603,7 +14217,6 @@ transform = "{1, 0, 0, 1, 122, 1550}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1250;
 }
 );
@@ -14626,7 +14239,6 @@ transform = "{1, 0, 0, 1, 130, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 745;
 },
 {
@@ -14640,7 +14252,6 @@ transform = "{1, 0, 0, 1, 110, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 809;
 }
 );
@@ -14663,7 +14274,6 @@ transform = "{1, 0, 0, 1, 89, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 745;
 },
 {
@@ -14677,7 +14287,6 @@ transform = "{1, 0, 0, 1, 104, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 809;
 }
 );
@@ -14700,7 +14309,6 @@ transform = "{1, 0, 0, 1, 539, -45}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14714,7 +14322,6 @@ transform = "{1, 0, 0, 1, 480, 10}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14737,7 +14344,6 @@ transform = "{1, 0, 0, 1, 355, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -14751,7 +14357,6 @@ transform = "{1, 0, 0, 1, 309, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -14765,7 +14370,6 @@ lastChange = "2016-05-02 10:21:40 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -14823,7 +14427,6 @@ width = 1077;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -14895,7 +14498,6 @@ position = "{875, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -14979,7 +14581,6 @@ position = "{848, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -15068,7 +14669,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -15139,7 +14739,6 @@ width = 1116;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -15231,7 +14830,6 @@ position = "{526, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -15311,7 +14909,6 @@ position = "{574, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -15391,7 +14988,6 @@ transform = "{1, 0, 0, 1, 298, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1053;
 },
 {
@@ -15405,7 +15001,6 @@ transform = "{1, 0, 0, 1, 275, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1148;
 }
 );
@@ -15428,7 +15023,6 @@ transform = "{1, 0, 0, 1, 182, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1053;
 },
 {
@@ -15442,7 +15036,6 @@ transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1148;
 }
 );
@@ -15462,7 +15055,6 @@ position = "{534, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -15546,7 +15138,6 @@ position = "{528, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -15634,7 +15225,6 @@ transform = "{1, 0, 0, 1, 306, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 965;
 },
 {
@@ -15648,7 +15238,6 @@ transform = "{1, 0, 0, 1, 229, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1006;
 }
 );
@@ -15671,7 +15260,6 @@ transform = "{1, 0, 0, 1, 143, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 965;
 },
 {
@@ -15685,7 +15273,6 @@ transform = "{1, 0, 0, 1, 91, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1006;
 }
 );
@@ -15708,7 +15295,6 @@ transform = "{1, 0, 0, 1, 347, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 965;
 },
 {
@@ -15722,7 +15308,6 @@ transform = "{1, 0, 0, 1, 296, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1006;
 }
 );
@@ -15736,7 +15321,6 @@ lastChange = "2016-05-02 10:22:08 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -15836,7 +15420,6 @@ width = 1317;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -15951,7 +15534,6 @@ lastChange = "2016-05-02 10:22:12 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -16028,7 +15610,6 @@ width = 1251;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -16120,7 +15701,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -16181,7 +15761,6 @@ width = 823;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -16249,7 +15828,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -16290,7 +15868,6 @@ width = 741;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -16343,7 +15920,6 @@ name = A;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1292;
 },
 {
@@ -16353,7 +15929,6 @@ name = A;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1365;
 }
 );
@@ -16390,7 +15965,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -16513,7 +16087,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -16589,7 +16162,6 @@ name = B;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -16599,7 +16171,6 @@ name = B;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1349;
 }
 );
@@ -16611,7 +16182,6 @@ lastChange = "2013-05-26 15:11:15 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -16650,7 +16220,6 @@ width = 1108;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -16709,7 +16278,6 @@ transform = "{1, 0, 0, 1, 449, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1108;
 },
 {
@@ -16723,7 +16291,6 @@ transform = "{1, 0, 0, 1, 449, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1160;
 }
 );
@@ -16745,7 +16312,6 @@ position = "{1048, 1626}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -16794,7 +16360,6 @@ position = "{1049, 1523}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -16920,7 +16485,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -17059,7 +16623,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -17134,7 +16697,6 @@ name = E;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -17144,7 +16706,6 @@ name = E;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -17160,13 +16721,12 @@ components = (
 name = E;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 385, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -17180,7 +16740,6 @@ transform = "{1, 0, 0, 1, 401, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -17197,7 +16756,6 @@ name = Edieresis;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1268;
 },
 {
@@ -17207,7 +16765,6 @@ name = Edieresis;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1276;
 }
 );
@@ -17313,7 +16870,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -17524,7 +17080,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -17698,7 +17253,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -17830,7 +17384,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -17970,7 +17523,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -18105,7 +17657,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -18222,7 +17773,6 @@ transform = "{1, 0, 0, 1, 409, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1603;
 },
 {
@@ -18267,7 +17817,6 @@ transform = "{1, 0, 0, 1, 460, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1581;
 }
 );
@@ -18288,7 +17837,6 @@ transform = "{1, 0, 0, 1, 458, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1603;
 },
 {
@@ -18302,7 +17850,6 @@ transform = "{1, 0, 0, 1, 458, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1581;
 }
 );
@@ -18319,7 +17866,6 @@ name = K;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1366;
 },
 {
@@ -18329,7 +17875,6 @@ name = K;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1456;
 }
 );
@@ -18350,7 +17895,6 @@ transform = "{1, 0, 0, 1, 481, 4}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1366;
 },
 {
@@ -18364,7 +17908,6 @@ transform = "{1, 0, 0, 1, 518, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1456;
 }
 );
@@ -18435,7 +17978,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -18563,7 +18105,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -18632,7 +18173,6 @@ name = M;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1878;
 },
 {
@@ -18642,7 +18182,6 @@ name = M;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1986;
 }
 );
@@ -18659,7 +18198,6 @@ name = H;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1583;
 },
 {
@@ -18669,7 +18207,6 @@ name = H;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1642;
 }
 );
@@ -18686,7 +18223,6 @@ name = O;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1614;
 },
 {
@@ -18696,7 +18232,6 @@ name = O;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1560;
 }
 );
@@ -18764,7 +18299,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -18870,7 +18404,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -18939,7 +18472,6 @@ name = P;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1223;
 },
 {
@@ -18949,7 +18481,6 @@ name = P;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1295;
 }
 );
@@ -18966,7 +18497,6 @@ name = C;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1405;
 },
 {
@@ -18976,7 +18506,6 @@ name = C;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1414;
 }
 );
@@ -18993,7 +18522,6 @@ name = T;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1303;
 },
 {
@@ -19003,7 +18531,6 @@ name = T;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1328;
 }
 );
@@ -19015,7 +18542,6 @@ lastChange = "2013-05-30 21:44:37 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -19077,7 +18603,6 @@ width = 1251;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -19160,7 +18685,6 @@ transform = "{1, 0, 0, 1, 319, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1251;
 },
 {
@@ -19174,7 +18698,6 @@ transform = "{1, 0, 0, 1, 389, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1308;
 }
 );
@@ -19255,7 +18778,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -19334,7 +18856,6 @@ name = O;
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -19420,7 +18941,6 @@ name = X;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1335;
 },
 {
@@ -19430,7 +18950,6 @@ name = X;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1434;
 }
 );
@@ -19508,7 +19027,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -19634,7 +19152,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -19787,7 +19304,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -19858,7 +19374,6 @@ transform = "{-1, 0, 0, -1, 1663, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -19983,7 +19498,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -20085,7 +19599,6 @@ name = "Pe-cy";
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -20176,7 +19689,6 @@ name = "Sha-cy";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -20260,7 +19772,6 @@ name = "Sha-cy";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -20283,7 +19794,7 @@ unicode = 0429;
 },
 {
 glyphname = "Dzhe-cy";
-lastChange = "2013-05-30 21:29:10 +0000";
+lastChange = "2016-06-27 14:03:44 +0000";
 layers = (
 {
 background = {
@@ -20291,12 +19802,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"716 0 OFFCURVE",
-"745 -120 OFFCURVE",
-"734 -324 CURVE",
-"819 -324 LINE",
-"840 87 LINE",
-"581 0 LINE"
+"706 0 OFFCURVE",
+"735 -120 OFFCURVE",
+"724 -324 CURVE",
+"809 -324 LINE",
+"830 87 LINE",
+"571 0 LINE"
 );
 }
 );
@@ -20304,26 +19815,25 @@ nodes = (
 components = (
 {
 name = "Pe-cy";
-transform = "{-1, 0, 0, -1, 1570, 1434}";
+transform = "{-1, 0, 0, -1, 1560, 1434}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
 nodes = (
-"703 0 OFFCURVE",
-"732 -129 OFFCURVE",
-"721 -363 CURVE",
-"806 -363 LINE",
-"827 86 LINE",
-"803 85 LINE",
-"568 0 LINE"
+"693 0 OFFCURVE",
+"722 -129 OFFCURVE",
+"711 -363 CURVE",
+"796 -363 LINE",
+"817 86 LINE",
+"793 85 LINE",
+"558 0 LINE"
 );
 }
 );
-width = 1553;
+width = 1543;
 },
 {
 components = (
@@ -20333,7 +19843,6 @@ transform = "{-1, 0, 0, -1, 1647, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -20382,7 +19891,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -20439,7 +19947,6 @@ width = 1225;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -20524,7 +20031,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -20585,7 +20091,6 @@ width = 1487;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -20656,7 +20161,6 @@ transform = "{1, 0, 0, 1, 1146, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -20714,13 +20218,12 @@ width = 1826;
 {
 components = (
 {
-disableAlignment = 1;
+alignment = -1;
 name = I;
 transform = "{1, 0, 0, 1, 1199, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -20808,7 +20311,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -20912,7 +20414,6 @@ width = 2050;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -21003,7 +20504,6 @@ transform = "{1, 0, 0, 1, 881, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -21047,7 +20547,6 @@ transform = "{1, 0, 0, 1, 850, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -21102,7 +20601,6 @@ name = S;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1159;
 },
 {
@@ -21112,7 +20610,6 @@ name = S;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1229;
 }
 );
@@ -21145,7 +20642,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -21225,7 +20721,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -21291,7 +20786,6 @@ lastChange = "2013-05-30 21:14:17 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -21401,7 +20895,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -21470,7 +20963,6 @@ name = I;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 682;
 },
 {
@@ -21480,7 +20972,6 @@ name = I;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 787;
 }
 );
@@ -21501,7 +20992,6 @@ transform = "{1, 0, 0, 1, 59, 390}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 682;
 },
 {
@@ -21515,7 +21005,6 @@ transform = "{1, 0, 0, 1, 39, 410}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 787;
 }
 );
@@ -21532,7 +21021,6 @@ name = J;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 752;
 },
 {
@@ -21542,7 +21030,6 @@ name = J;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 911;
 }
 );
@@ -21559,7 +21046,6 @@ name = T;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -21601,7 +21087,6 @@ name = T;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -21722,7 +21207,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -21794,7 +21278,6 @@ width = 2087;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -21879,7 +21362,6 @@ lastChange = "2013-05-30 21:29:10 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -21995,7 +21477,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -22116,7 +21597,6 @@ name = T;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -22159,7 +21639,6 @@ width = 1616;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -22257,7 +21736,6 @@ name = Y;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -22297,7 +21775,6 @@ name = Y;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -22325,7 +21802,6 @@ name = a;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1122;
 },
 {
@@ -22335,7 +21811,6 @@ name = a;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1125;
 }
 );
@@ -22354,7 +21829,6 @@ name = o;
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -22473,7 +21947,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -22586,7 +22059,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -22687,7 +22159,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -22804,7 +22275,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -22927,7 +22397,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -23009,7 +22478,6 @@ transform = "{1, 0, 0, 1, 338, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 851;
 },
 {
@@ -23023,7 +22491,6 @@ transform = "{1, 0, 0, 1, 338, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 915;
 }
 );
@@ -23035,7 +22502,6 @@ lastChange = "2013-05-26 18:36:10 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -23082,7 +22548,6 @@ width = 891;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -23206,7 +22671,6 @@ position = "{794, 1563}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -23267,7 +22731,6 @@ name = o;
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -23577,7 +23040,6 @@ name = e;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -23587,7 +23049,6 @@ name = e;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -23608,7 +23069,6 @@ transform = "{1, 0, 0, 1, 298, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -23622,7 +23082,6 @@ transform = "{1, 0, 0, 1, 236, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -23639,7 +23098,6 @@ name = edieresis;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 977;
 },
 {
@@ -23649,7 +23107,6 @@ name = edieresis;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 963;
 }
 );
@@ -23733,7 +23190,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -23898,7 +23354,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -24072,7 +23527,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -24192,7 +23646,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -24279,7 +23732,6 @@ name = u;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -24295,7 +23747,6 @@ name = u;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -24350,7 +23801,6 @@ transform = "{1, 0, 0, 1, 298, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -24391,7 +23841,6 @@ name = "ii-cy";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -24441,7 +23890,6 @@ transform = "{1, 0, 0, 1, 370, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1214;
 },
 {
@@ -24455,7 +23903,6 @@ transform = "{1, 0, 0, 1, 314, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1225;
 }
 );
@@ -24539,7 +23986,6 @@ position = "{469, 530}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -24819,7 +24265,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -24930,7 +24375,6 @@ transform = "{1, 0, 0, 1, 444, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1175;
 },
 {
@@ -24944,7 +24388,6 @@ transform = "{1, 0, 0, 1, 444, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1314;
 }
 );
@@ -25019,7 +24462,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -25151,7 +24593,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -25333,7 +24774,6 @@ position = "{1084, 876}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -25468,7 +24908,6 @@ position = "{736, 856}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -25604,7 +25043,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -25718,7 +25156,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -25805,7 +25242,6 @@ name = o;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1067;
 },
 {
@@ -25815,7 +25251,6 @@ name = o;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1055;
 }
 );
@@ -25832,7 +25267,6 @@ name = n;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1260;
 },
 {
@@ -25842,7 +25276,6 @@ name = n;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1250;
 }
 );
@@ -25859,7 +25292,6 @@ name = p;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1169;
 },
 {
@@ -25869,7 +25301,6 @@ name = p;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1178;
 }
 );
@@ -25886,7 +25317,6 @@ name = c;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 969;
 },
 {
@@ -25896,7 +25326,6 @@ name = c;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 956;
 }
 );
@@ -25913,7 +25342,6 @@ name = m;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1794;
 },
 {
@@ -25923,7 +25351,6 @@ name = m;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1799;
 }
 );
@@ -25940,7 +25367,6 @@ name = y;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1053;
 },
 {
@@ -25950,7 +25376,6 @@ name = y;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1148;
 }
 );
@@ -26002,7 +25427,6 @@ transform = "{1, 0, 0, 1, 195, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1053;
 },
 {
@@ -26047,7 +25471,6 @@ transform = "{1, 0, 0, 1, 225, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1148;
 }
 );
@@ -26190,7 +25613,6 @@ position = "{756, 899}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -26392,7 +25814,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -26509,7 +25930,6 @@ name = x;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1116;
 },
 {
@@ -26519,7 +25939,6 @@ name = x;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1113;
 }
 );
@@ -26572,7 +25991,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -26670,7 +26088,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -26782,7 +26199,6 @@ position = "{1214, 370}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -26888,7 +26304,6 @@ transform = "{1, 0, 0, 1, 14, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -26994,7 +26409,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -27090,7 +26504,6 @@ width = 1794;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -27217,7 +26630,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -27343,7 +26755,6 @@ name = "sha-cy";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -27434,7 +26845,6 @@ name = u;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -27464,7 +26874,6 @@ name = u;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -27541,7 +26950,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -27758,7 +27166,6 @@ position = "{981, 556}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -27879,7 +27286,6 @@ position = "{902, 898}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -28111,7 +27517,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -28189,7 +27594,6 @@ name = "softsign-cy";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -28232,7 +27636,6 @@ name = "softsign-cy";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -28388,7 +27791,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -28531,7 +27933,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -28635,7 +28036,6 @@ lastChange = "2013-05-30 16:24:43 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -28776,7 +28176,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -28881,7 +28280,6 @@ name = s;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 877;
 },
 {
@@ -28891,7 +28289,6 @@ name = s;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 914;
 }
 );
@@ -28935,7 +28332,6 @@ name = c;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -28974,7 +28370,6 @@ name = c;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -29035,7 +28430,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -29093,7 +28487,6 @@ width = 1071;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -29165,7 +28558,6 @@ name = i;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 664;
 },
 {
@@ -29175,7 +28567,6 @@ name = i;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 704;
 }
 );
@@ -29195,7 +28586,6 @@ name = dieresis;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 664;
 },
 {
@@ -29208,7 +28598,6 @@ name = dieresis;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 704;
 }
 );
@@ -29225,7 +28614,6 @@ name = j;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 608;
 },
 {
@@ -29235,7 +28623,6 @@ name = j;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 640;
 }
 );
@@ -29252,7 +28639,6 @@ name = h;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -29345,7 +28731,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -29433,7 +28818,6 @@ lastChange = "2013-05-26 18:51:19 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -29521,7 +28905,6 @@ transform = "{1, 0, 0, 1, 573, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -29652,7 +29035,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -29736,7 +29118,6 @@ name = "en-cy";
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -29839,7 +29220,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -29990,7 +29370,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -30089,7 +29468,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -30228,7 +29606,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -30368,7 +29745,6 @@ position = "{744, 541}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -30512,7 +29888,6 @@ width = 1547;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 600;
 }
 );
@@ -30528,7 +29903,6 @@ name = "Ge-cy";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1108;
 },
 {
@@ -30538,7 +29912,6 @@ name = "Ge-cy";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1160;
 }
 );
@@ -30550,7 +29923,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -30577,7 +29949,6 @@ width = 1430;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -30617,7 +29988,6 @@ name = "Pe-cy";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1551;
 },
 {
@@ -30627,7 +29997,6 @@ name = "Pe-cy";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1617;
 }
 );
@@ -30639,7 +30008,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -30693,7 +30061,6 @@ width = 1571;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -30754,7 +30121,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -30807,7 +30173,6 @@ width = 1212;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -30868,7 +30233,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -30933,7 +30297,6 @@ width = 1184;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31006,7 +30369,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31047,7 +30409,6 @@ width = 1223;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31095,7 +30456,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31124,7 +30484,6 @@ width = 725;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31161,7 +30520,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31213,7 +30571,6 @@ width = 1075;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31272,7 +30629,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31343,7 +30699,6 @@ width = 1116;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31424,7 +30779,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31466,7 +30820,6 @@ width = 1079;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31516,7 +30869,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31571,7 +30923,6 @@ width = 1071;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31633,7 +30984,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31695,7 +31045,6 @@ width = 1135;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31764,7 +31113,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31799,7 +31147,6 @@ width = 926;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31838,7 +31185,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -31911,7 +31257,6 @@ width = 1155;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -31992,7 +31337,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -32054,7 +31398,6 @@ width = 1130;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -32123,7 +31466,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -32139,7 +31481,6 @@ width = 930;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -32166,18 +31507,17 @@ components = (
 name = onesuperior;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = fraction;
 transform = "{1, 0, 0, 1, 239, 0}";
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = twosuperior;
 transform = "{1, 0, 0, 1, 741, -618}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1502;
 },
 {
@@ -32186,18 +31526,17 @@ components = (
 name = onesuperior;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = fraction;
 transform = "{1, 0, 0, 1, 324, 0}";
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = twosuperior;
 transform = "{1, 0, 0, 1, 923, -618}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1705;
 }
 );
@@ -32213,7 +31552,7 @@ components = (
 name = onesuperior;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = fraction;
 transform = "{1, 0, 0, 1, 257, 0}";
 },
@@ -32223,7 +31562,6 @@ transform = "{1, 0, 0, 1, 713, -617}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1470;
 },
 {
@@ -32247,7 +31585,7 @@ components = (
 name = onesuperior;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = fraction;
 transform = "{1, 0, 0, 1, 324, 0}";
 },
@@ -32257,7 +31595,6 @@ transform = "{1, 0, 0, 1, 825, -617}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1626;
 }
 );
@@ -32273,7 +31610,7 @@ components = (
 name = threesuperior;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = fraction;
 transform = "{1, 0, 0, 1, 389, 0}";
 },
@@ -32283,7 +31620,6 @@ transform = "{1, 0, 0, 1, 867, -617}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1624;
 },
 {
@@ -32292,7 +31628,7 @@ components = (
 name = threesuperior;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = fraction;
 transform = "{1, 0, 0, 1, 519, 0}";
 },
@@ -32302,7 +31638,6 @@ transform = "{1, 0, 0, 1, 1020, -617}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1821;
 }
 );
@@ -32314,7 +31649,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -32343,7 +31677,6 @@ width = 553;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -32380,7 +31713,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -32432,7 +31764,6 @@ width = 766;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -32491,7 +31822,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -32562,7 +31892,6 @@ width = 733;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -32645,7 +31974,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -32683,7 +32011,6 @@ width = 766;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -32734,7 +32061,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -32806,7 +32132,6 @@ width = 1051;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -32891,12 +32216,10 @@ transform = "{-1, 0, 0, 1, 1454, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1608;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -32925,7 +32248,6 @@ transform = "{1, 0, 0, 1, 41, 571}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 485;
 },
 {
@@ -32936,7 +32258,6 @@ transform = "{1, 0, 0, 1, 31, 571}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 465;
 }
 );
@@ -32948,7 +32269,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -32972,7 +32292,6 @@ width = 797;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33013,7 +32332,6 @@ transform = "{1, 0, 0, 1, 64, 832}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 518;
 },
 {
@@ -33028,7 +32346,6 @@ transform = "{1, 0, 0, 1, 55, 825}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 536;
 }
 );
@@ -33040,7 +32357,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33075,7 +32391,6 @@ width = 485;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33126,7 +32441,6 @@ transform = "{1, 0, 0, 1, 1106, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1581;
 },
 {
@@ -33144,7 +32458,6 @@ transform = "{1, 0, 0, 1, 1106, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1584;
 }
 );
@@ -33156,7 +32469,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33194,7 +32506,6 @@ width = 557;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33245,7 +32556,6 @@ transform = "{-1, 0, 0, -1, 525, 1024}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 518;
 },
 {
@@ -33256,7 +32566,6 @@ transform = "{-1, 0, 0, -1, 488, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 481;
 }
 );
@@ -33268,7 +32577,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33318,7 +32626,6 @@ width = 1655;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33375,7 +32682,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33399,7 +32705,6 @@ width = 475;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33430,7 +32735,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33499,7 +32803,6 @@ width = 969;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33581,7 +32884,6 @@ transform = "{-1, 0, 0, -1, 943, 1024}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 952;
 },
 {
@@ -33592,7 +32894,6 @@ transform = "{-1, 0, 0, -1, 970, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 979;
 }
 );
@@ -33604,7 +32905,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33629,7 +32929,6 @@ width = 729;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33661,7 +32960,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33677,7 +32975,6 @@ width = 408;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33710,7 +33007,6 @@ transform = "{1, 0, 0, 1, 78, 832}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 555;
 },
 {
@@ -33725,7 +33021,6 @@ transform = "{1, 0, 0, 1, 68, 825}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 553;
 }
 );
@@ -33737,7 +33032,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33753,7 +33047,6 @@ width = 1339;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33776,7 +33069,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33792,7 +33084,6 @@ width = 1454;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33815,7 +33106,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33877,7 +33167,6 @@ width = 680;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -33946,7 +33235,6 @@ transform = "{-1, 0, 0, -1, 663, 1001}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 680;
 },
 {
@@ -33957,7 +33245,6 @@ transform = "{-1, 0, 0, -1, 690, 1001}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 706;
 }
 );
@@ -33969,7 +33256,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -33989,7 +33275,6 @@ width = 739;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34022,7 +33307,6 @@ transform = "{-1, 0, 0, -1, 725, 1024}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 739;
 },
 {
@@ -34033,7 +33317,6 @@ transform = "{-1, 0, 0, -1, 780, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 795;
 }
 );
@@ -34051,7 +33334,6 @@ transform = "{-1, 0, 0, -1, 595, 1002}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 610;
 },
 {
@@ -34062,7 +33344,6 @@ transform = "{-1, 0, 0, -1, 591, 1001}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 607;
 }
 );
@@ -34074,7 +33355,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -34100,7 +33380,6 @@ width = 610;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34226,7 +33505,6 @@ nodes = (
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -34332,7 +33610,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34355,7 +33632,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -34371,7 +33647,6 @@ width = 1194;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34394,7 +33669,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -34410,7 +33684,6 @@ width = 989;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34433,7 +33706,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -34449,7 +33721,6 @@ width = 987;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34478,7 +33749,6 @@ transform = "{-1, 0, 0, -1, 1048, 1108}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1059;
 },
 {
@@ -34489,7 +33759,6 @@ transform = "{-1, 0, 0, -1, 993, 1108}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1001;
 }
 );
@@ -34501,7 +33770,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -34534,7 +33802,6 @@ width = 1067;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34574,7 +33841,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -34600,7 +33866,6 @@ transform = "{-1, 0, 0, -1, 752, 1100}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 762;
 }
 );
@@ -34618,12 +33883,10 @@ transform = "{-1, 0, 0, -1, 745, 1110}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 756;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34659,7 +33922,6 @@ transform = "{1, 0, 0, 1, 360, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 846;
 },
 {
@@ -34673,7 +33935,6 @@ transform = "{1, 0, 0, 1, 390, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 899;
 }
 );
@@ -34695,7 +33956,6 @@ transform = "{-1, 0, 0, -1, 830, 1183}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 795;
 },
 {
@@ -34710,7 +33970,6 @@ transform = "{-1, 0, 0, -1, 882, 1183}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 849;
 }
 );
@@ -34732,7 +33991,6 @@ transform = "{1, 0, 0, 1, 397, 1355}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 762;
 },
 {
@@ -34747,7 +34005,6 @@ transform = "{1, 0, 0, 1, 417, 1276}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 810;
 }
 );
@@ -34765,7 +34022,6 @@ transform = "{-1, 0, 0, -1, 469, 1183}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 432;
 },
 {
@@ -34776,7 +34032,6 @@ transform = "{-1, 0, 0, -1, 493, 1183}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 460;
 }
 );
@@ -34794,7 +34049,6 @@ transform = "{1, 0, 0, 1, 37, 1355}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 401;
 },
 {
@@ -34805,7 +34059,6 @@ transform = "{1, 0, 0, 1, 39, 1274}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 434;
 }
 );
@@ -34822,7 +34075,6 @@ name = comma;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 485;
 },
 {
@@ -34832,7 +34084,6 @@ name = comma;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 509;
 }
 );
@@ -34844,12 +34095,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 539;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 539;
 }
 );
@@ -34861,12 +34110,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 0;
 }
 );
@@ -34878,7 +34125,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -34903,7 +34149,6 @@ width = 1031;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -34934,12 +34179,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 0;
 }
 );
@@ -34950,12 +34193,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 600;
 }
 );
@@ -34967,7 +34208,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -35027,7 +34267,6 @@ width = 1548;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -35094,7 +34333,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -35146,7 +34384,6 @@ width = 987;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -35205,7 +34442,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -35270,7 +34506,6 @@ width = 1137;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -35342,7 +34577,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -35398,7 +34632,6 @@ width = 1083;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -35474,7 +34707,6 @@ name = f;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 666;
 },
 {
@@ -35484,7 +34716,6 @@ name = f;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 722;
 }
 );
@@ -35496,7 +34727,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -35581,7 +34811,6 @@ width = 1120;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -35671,7 +34900,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -35743,7 +34971,6 @@ width = 1432;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -35834,12 +35061,10 @@ transform = "{1, 0, 0, 0.937, 23, -135}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1217;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -35903,7 +35128,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -35935,7 +35159,6 @@ width = 1171;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -35984,7 +35207,6 @@ transform = "{1, 0, 0, 1, 77, 831}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 551;
 },
 {
@@ -35999,7 +35221,6 @@ transform = "{1, 0, 0, 1, 85, 831}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 566;
 }
 );
@@ -36011,7 +35232,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36036,7 +35256,6 @@ width = 1202;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36074,7 +35293,6 @@ transform = "{-1, 0, 0, -1, 1106, 1293}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 1104;
 },
 {
@@ -36085,7 +35303,6 @@ transform = "{-1, 0, 0, -1, 1097, 1288}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1092;
 }
 );
@@ -36097,7 +35314,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36126,7 +35342,6 @@ width = 1135;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36162,7 +35377,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36235,7 +35449,6 @@ width = 1714;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36316,7 +35529,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36366,7 +35578,6 @@ width = 799;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36417,7 +35628,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36437,7 +35647,6 @@ width = 1104;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36464,7 +35673,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36493,7 +35701,6 @@ width = 1133;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36529,7 +35736,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36547,7 +35753,6 @@ width = 1198;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36572,7 +35777,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36588,7 +35792,6 @@ width = 1196;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36611,7 +35814,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36635,7 +35837,6 @@ width = 1094;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36668,7 +35869,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36700,7 +35900,6 @@ width = 1124;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36739,7 +35938,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36788,7 +35986,6 @@ width = 1030;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -36844,7 +36041,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -36928,7 +36124,6 @@ width = 1788;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37019,7 +36214,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37137,7 +36331,6 @@ width = 2607;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37262,7 +36455,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37286,7 +36478,6 @@ width = 1047;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37321,7 +36512,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37354,7 +36544,6 @@ width = 1163;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37398,7 +36587,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37445,7 +36633,6 @@ width = 1634;
 },
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37499,7 +36686,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37525,7 +36711,6 @@ width = 1712;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37567,7 +36752,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37614,7 +36798,6 @@ width = 1325;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37667,7 +36850,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37720,7 +36902,6 @@ width = 1212;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37781,7 +36962,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37835,7 +37015,6 @@ width = 1571;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37896,7 +37075,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -37927,7 +37105,6 @@ width = 1619;
 },
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37965,7 +37142,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -37981,7 +37157,6 @@ width = 726;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38010,7 +37185,6 @@ transform = "{1, 0, 0, 1, 47, -6}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 600;
 },
 {
@@ -38021,7 +37195,6 @@ transform = "{1, 0, 0, 1, 47, -6}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 600;
 }
 );
@@ -38033,7 +37206,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -38064,7 +37236,6 @@ width = 993;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38104,7 +37275,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -38120,7 +37290,6 @@ width = 481;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38143,7 +37312,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -38168,7 +37336,6 @@ width = 535;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38200,7 +37367,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -38282,7 +37448,6 @@ width = 1622;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38370,7 +37535,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -38446,7 +37610,6 @@ width = 1399;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38531,7 +37694,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -38557,7 +37719,6 @@ width = 1004;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38592,7 +37753,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -38668,7 +37828,6 @@ width = 1794;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38752,7 +37911,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -38863,7 +38021,6 @@ width = 1794;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -38981,7 +38138,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -39073,7 +38229,6 @@ width = 1073;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -39175,7 +38330,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -39277,7 +38431,6 @@ width = 2130;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -39392,7 +38545,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -39433,7 +38585,6 @@ width = 793;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -39481,7 +38632,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -39528,7 +38678,6 @@ width = 1181;
 },
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -39587,7 +38736,6 @@ name = l;
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 580;
 },
 {
@@ -39597,7 +38745,6 @@ name = l;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 621;
 }
 );
@@ -39613,7 +38760,7 @@ components = (
 name = N;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = ordmasculine;
 transform = "{1, 0, 0, 1, 1421, -186}";
 },
@@ -39623,7 +38770,6 @@ transform = "{1, 0, 0, 1, 1437, -970}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 2169;
 },
 {
@@ -39632,7 +38778,7 @@ components = (
 name = N;
 },
 {
-disableAlignment = 1;
+alignment = -1;
 name = ordmasculine;
 transform = "{1, 0, 0, 1, 1441, -186}";
 },
@@ -39642,7 +38788,6 @@ transform = "{1, 0, 0, 1, 1447, -1031}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 2209;
 }
 );
@@ -39654,7 +38799,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -39674,7 +38818,6 @@ width = 1686;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -39701,7 +38844,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -39762,7 +38904,6 @@ width = 1044;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -39830,7 +38971,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -39926,7 +39066,6 @@ width = 1094;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40027,7 +39166,6 @@ position = "{104, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40056,7 +39194,6 @@ position = "{103, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40091,7 +39228,6 @@ position = "{318, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40140,7 +39276,6 @@ nodes = (
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40176,7 +39311,6 @@ transform = "{1, 0, 0, 1, -24, -73}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 775;
 },
 {
@@ -40187,7 +39321,6 @@ transform = "{1, 0, 0, 1, -36, -61}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 600;
 }
 );
@@ -40205,7 +39338,6 @@ position = "{228, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40232,7 +39364,6 @@ position = "{299, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40266,7 +39397,6 @@ position = "{351, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40298,7 +39428,6 @@ position = "{405, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40337,7 +39466,6 @@ position = "{391, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40365,7 +39493,6 @@ position = "{437, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40405,7 +39532,6 @@ transform = "{1.15, 0, 0, 1, -60, 380}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 600;
 },
 {
@@ -40416,7 +39542,6 @@ position = "{385, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40454,7 +39579,6 @@ position = "{465, 1434}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40480,7 +39604,6 @@ position = "{475, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40523,7 +39646,6 @@ transform = "{1, 0, 0, 1, -400, 0}";
 );
 };
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40576,7 +39698,6 @@ transform = "{1, 0, 0, 1, -390, 0}";
 );
 };
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40623,7 +39744,6 @@ position = "{277, 0}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40661,7 +39781,6 @@ position = "{337, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40707,7 +39826,6 @@ position = "{391, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40733,7 +39851,6 @@ position = "{439, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40766,7 +39883,6 @@ position = "{344, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40813,7 +39929,6 @@ position = "{424, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40873,7 +39988,6 @@ transform = "{0.923, 0, 0, 0.922, 15, 1278}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 width = 406;
 },
 {
@@ -40890,7 +40004,6 @@ transform = "{0.923, 0, 0, 0.922, 42, 1278}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 466;
 }
 );
@@ -40908,7 +40021,6 @@ position = "{270, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -40935,7 +40047,6 @@ position = "{302, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -40969,7 +40080,6 @@ position = "{411, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41010,7 +40120,6 @@ position = "{478, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41058,7 +40167,6 @@ position = "{349, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41080,7 +40188,6 @@ position = "{388, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41109,7 +40216,6 @@ position = "{527, 55}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41143,11 +40249,10 @@ width = 625;
 anchors = (
 {
 name = _ogonek;
-position = "{566, -0}";
+position = "{566, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41192,7 +40297,6 @@ position = "{279, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41239,7 +40343,6 @@ position = "{337, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41293,7 +40396,6 @@ position = "{417, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41331,7 +40433,6 @@ position = "{455, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41376,7 +40477,6 @@ position = "{273, 1434}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41403,7 +40503,6 @@ position = "{286, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41436,7 +40535,6 @@ position = "{340, 1434}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41468,7 +40566,6 @@ position = "{423, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41500,7 +40597,6 @@ lastChange = "2013-06-19 12:53:13 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41524,7 +40620,6 @@ width = 961;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41549,7 +40644,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41584,7 +40678,6 @@ width = 625;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41623,7 +40716,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41664,7 +40756,6 @@ width = 721;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41711,7 +40802,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41732,7 +40822,6 @@ width = 592;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41759,12 +40848,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 600;
 }
 );
@@ -41775,7 +40862,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41816,7 +40902,6 @@ width = 643;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41863,7 +40948,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -41895,7 +40979,6 @@ width = 977;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -41933,7 +41016,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -42289,7 +41371,6 @@ width = 2523;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -42651,12 +41732,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 0;
 }
 );
@@ -42667,12 +41746,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 0;
 }
 );
@@ -42689,7 +41766,6 @@ position = "{420, 1434}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -42732,7 +41808,6 @@ position = "{420, 1434}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -42782,7 +41857,6 @@ position = "{377, 1024}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 paths = (
 {
 closed = 1;
@@ -42822,7 +41896,6 @@ position = "{329, 1048}";
 }
 );
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -42866,12 +41939,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 0;
 }
 );
@@ -42883,7 +41954,6 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 paths = (
 {
 closed = 1;
@@ -42913,7 +41983,6 @@ name = .notdef;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 1111;
 }
 );
@@ -42925,12 +41994,10 @@ lastChange = "2013-05-24 22:55:06 +0000";
 layers = (
 {
 layerId = UUID0;
-name = "Regular Italic";
 width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-name = "Bold Italic";
 width = 0;
 }
 );
@@ -42941,16 +42008,55 @@ disablesNiceNames = 1;
 keepAlternatesTogether = 1;
 instances = (
 {
-interpolationWeight = 50;
+customParameters = (
+{
+name = weightClass;
+value = "400";
+},
+{
+name = "Save as TrueType";
+value = 0;
+},
+{
+name = Autohint;
+value = 0;
+}
+);
+interpolationWeight = 400;
+instanceInterpolations = {
+UUID0 = 1;
+};
+isItalic = 1;
+linkStyle = Regular;
 name = Italic;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = "700";
+},
+{
+name = "Save as TrueType";
+value = 0;
+},
+{
+name = Autohint;
+value = 0;
+}
+);
+interpolationWeight = 700;
+instanceInterpolations = {
+"6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = 1;
+};
+isItalic = 1;
+linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }
 );
 kerning = {
-"UUID0" = {
+UUID0 = {
 "@MMK_L_A" = {
 "@MMK_R_j" = -49;
 A = 49;
@@ -47254,5 +46360,5 @@ tH = 79;
 };
 };
 versionMajor = 1;
-versionMinor = 15;
+versionMinor = 16;
 }
