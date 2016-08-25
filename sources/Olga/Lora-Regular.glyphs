@@ -12715,6 +12715,7 @@ unicode = 0494;
 {
 color = 1;
 glyphname = "Zhedescender-cy";
+lastChange = "2016-08-25 18:15:27 +0000";
 layers = (
 {
 anchors = (
@@ -12981,6 +12982,7 @@ unicode = 0498;
 {
 color = 1;
 glyphname = "Kadescender-cy";
+lastChange = "2016-08-25 18:16:44 +0000";
 layers = (
 {
 anchors = (
