@@ -1,7 +1,6 @@
 {
 DisplayStrings = (
-"/Haabkhasian-cy",
-"/Fita-cy"
+"/zedescender-cy.loclBSH"
 );
 copyright = "Copyright \UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBF\UFFEF\UFFBE\UFFAF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFBF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFAF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBF\UFFEF\UFFBE\UFFAF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFBE\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFBF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBF\UFFEF\UFFBE\UFFAF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFBE\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFF82\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBF\UFFEF\UFFBE\UFFAF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFBF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFAF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBF\UFFEF\UFFBE\UFFAF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFBE\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFBE\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBF\UFFEF\UFFBE\UFFAF\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFBE\UFFEF\UFFBF\UFFAF\UFFEF\UFFBE\UFFBE\UFFEF\UFFBE\UFFA9 2011 by Cyreal";
 customParameters = (
@@ -19858,9 +19857,9 @@ rightMetricsKey = "ka-cy";
 unicode = 046B;
 },
 {
-color = 1;
+color = 9;
 glyphname = "fita-cy";
-lastChange = "2016-09-02 14:30:04 +0000";
+lastChange = "2016-09-02 17:34:22 +0000";
 layers = (
 {
 components = (
@@ -22689,7 +22688,7 @@ unicode = 04DF;
 {
 color = 9;
 glyphname = "dzeabkhasian-cy";
-lastChange = "2016-09-02 13:56:00 +0000";
+lastChange = "2016-09-03 10:28:52 +0000";
 layers = (
 {
 background = {
@@ -22793,6 +22792,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"453 83 OFFCURVE",
+"391 185 OFFCURVE",
 "194 188 CURVE SMOOTH",
 "133 189 LINE",
 "133 152 LINE",
@@ -22820,9 +22821,7 @@ nodes = (
 "217 -256 CURVE SMOOTH",
 "354 -256 OFFCURVE",
 "453 -168 OFFCURVE",
-"453 -28 CURVE SMOOTH",
-"453 83 OFFCURVE",
-"391 185 OFFCURVE"
+"453 -28 CURVE SMOOTH"
 );
 }
 );
@@ -23938,7 +23937,7 @@ width = 526;
 {
 color = 9;
 glyphname = "ge-cy.loclBGR";
-lastChange = "2016-09-02 13:50:34 +0000";
+lastChange = "2016-09-03 09:48:46 +0000";
 layers = (
 {
 background = {
@@ -23980,7 +23979,7 @@ nodes = (
 "104 415 OFFCURVE",
 "155 477 OFFCURVE",
 "230 477 CURVE SMOOTH",
-"281 477 OFFCURVE",
+"271 477 OFFCURVE",
 "303 453 OFFCURVE",
 "303 403 CURVE SMOOTH",
 "303 362 OFFCURVE",
@@ -25740,6 +25739,7 @@ width = 438;
 {
 color = 9;
 glyphname = "zedescender-cy.loclBSH";
+lastChange = "2016-09-03 10:18:57 +0000";
 layers = (
 {
 components = (
@@ -30425,7 +30425,7 @@ unicode = 00A3;
 {
 color = 9;
 glyphname = tenge;
-lastChange = "2016-09-02 15:02:16 +0000";
+lastChange = "2016-09-03 10:19:57 +0000";
 layers = (
 {
 anchors = (
@@ -30480,10 +30480,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"611 663 LINE",
+"611 658 LINE",
 "611 700 LINE",
 "28 700 LINE",
-"28 662 LINE"
+"28 657 LINE"
 );
 }
 );
@@ -30497,7 +30497,7 @@ unicode = 20B8;
 {
 color = 9;
 glyphname = tugrik;
-lastChange = "2016-09-02 15:07:15 +0000";
+lastChange = "2016-09-03 10:19:47 +0000";
 layers = (
 {
 components = (
@@ -30522,19 +30522,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"496 423 LINE",
+"496 418 LINE",
 "496 460 LINE",
 "147 360 LINE",
-"147 322 LINE"
+"147 317 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"496 293 LINE",
+"496 288 LINE",
 "496 330 LINE",
 "147 230 LINE",
-"147 192 LINE"
+"147 187 LINE"
 );
 }
 );
