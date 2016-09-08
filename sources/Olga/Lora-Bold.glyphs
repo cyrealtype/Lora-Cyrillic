@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"/obarred-cy/obarreddieresis-cy"
+);
 copyright = "Copyright \UFFC2\UFFA9 2011 by Cyreal";
 customParameters = (
 {
@@ -19797,7 +19800,7 @@ public.markColor = "0.67,0.95,0.38,1";
 {
 color = 4;
 glyphname = "dje-cy";
-lastChange = "2016-08-29 13:18:34 +0000";
+lastChange = "2016-09-08 12:21:32 +0000";
 layers = (
 {
 layerId = "7BBBACCF-9772-44A1-910F-14DC7866E88D";
@@ -19806,8 +19809,21 @@ paths = (
 {
 closed = 1;
 nodes = (
+"398 -116 OFFCURVE",
+"366 -161 OFFCURVE",
+"309 -161 CURVE SMOOTH",
+"284 -161 OFFCURVE",
+"272 -159 OFFCURVE",
+"247 -153 CURVE",
+"231 -217 LINE",
+"282 -231 OFFCURVE",
+"311 -234 OFFCURVE",
+"348 -234 CURVE SMOOTH",
+"471 -234 OFFCURVE",
+"540 -108 OFFCURVE",
+"540 38 CURVE SMOOTH",
 "541 246 LINE SMOOTH",
-"541 400 OFFCURVE",
+"542 400 OFFCURVE",
 "494 467 OFFCURVE",
 "372 467 CURVE SMOOTH",
 "331 467 OFFCURVE",
@@ -19850,25 +19866,7 @@ nodes = (
 "373 375 OFFCURVE",
 "398 334 OFFCURVE",
 "398 248 CURVE SMOOTH",
-"398 -110 LINE SMOOTH",
-"398 -155 OFFCURVE",
-"391 -185 OFFCURVE",
-"359 -185 CURVE SMOOTH",
-"354 -185 OFFCURVE",
-"344 -183 OFFCURVE",
-"341 -181 CURVE",
-"351 -137 OFFCURVE",
-"324 -104 OFFCURVE",
-"283 -104 CURVE SMOOTH",
-"242 -105 OFFCURVE",
-"220 -138 OFFCURVE",
-"220 -173 CURVE SMOOTH",
-"220 -214 OFFCURVE",
-"254 -255 OFFCURVE",
-"329 -255 CURVE SMOOTH",
-"449 -255 OFFCURVE",
-"539 -167 OFFCURVE",
-"540 18 CURVE SMOOTH"
+"398 28 LINE SMOOTH"
 );
 }
 );
@@ -22194,7 +22192,7 @@ unicode = 04C6;
 {
 color = 1;
 glyphname = "enhook-cy";
-lastChange = "2016-08-29 12:47:39 +0000";
+lastChange = "2016-09-08 13:53:54 +0000";
 layers = (
 {
 layerId = "7BBBACCF-9772-44A1-910F-14DC7866E88D";
@@ -22214,11 +22212,11 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"239 346 LINE SMOOTH",
-"239 399 OFFCURVE",
-"243 435 OFFCURVE",
-"299 435 CURVE",
-"299 500 LINE",
+"245 346 LINE SMOOTH",
+"245 399 OFFCURVE",
+"249 435 OFFCURVE",
+"305 435 CURVE",
+"305 500 LINE",
 "42 500 LINE",
 "42 424 LINE",
 "106 427 LINE",
@@ -22230,18 +22228,18 @@ nodes = (
 "99 65 OFFCURVE",
 "43 65 CURVE",
 "43 0 LINE",
-"300 0 LINE",
-"300 76 LINE",
-"235 73 LINE",
-"238 103 OFFCURVE",
-"239 142 OFFCURVE",
-"239 161 CURVE SMOOTH"
+"306 0 LINE",
+"306 76 LINE",
+"241 73 LINE",
+"244 103 OFFCURVE",
+"245 142 OFFCURVE",
+"245 161 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"427 -136 OFFCURVE",
+"421 -136 OFFCURVE",
 "394 -164 OFFCURVE",
 "337 -164 CURVE SMOOTH",
 "315 -164 OFFCURVE",
@@ -22259,13 +22257,13 @@ nodes = (
 "567 435 OFFCURVE",
 "623 435 CURVE",
 "623 500 LINE",
-"366 500 LINE",
-"366 424 LINE",
-"431 427 LINE",
-"428 397 OFFCURVE",
-"427 358 OFFCURVE",
-"427 339 CURVE SMOOTH",
-"427 -2 LINE SMOOTH"
+"360 500 LINE",
+"360 424 LINE",
+"425 427 LINE",
+"422 397 OFFCURVE",
+"421 358 OFFCURVE",
+"421 339 CURVE SMOOTH",
+"421 -2 LINE SMOOTH"
 );
 }
 );
@@ -22939,7 +22937,7 @@ unicode = 04E7;
 {
 color = 1;
 glyphname = "obarred-cy";
-lastChange = "2016-08-27 13:02:12 +0000";
+lastChange = "2016-09-08 14:30:14 +0000";
 layers = (
 {
 anchors = (
@@ -22950,35 +22948,61 @@ position = "{278, 500}";
 );
 components = (
 {
-name = "fita-cy";
+name = o;
 transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "7BBBACCF-9772-44A1-910F-14DC7866E88D";
+leftMetricsKey = "=o";
+rightMetricsKey = "=o";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"166 290 LINE",
+"166 224 LINE",
+"401 224 LINE",
+"401 287 LINE"
+);
+}
+);
 width = 566;
 }
 );
+leftMetricsKey = "=o";
+rightMetricsKey = "=o";
 unicode = 04E9;
 },
 {
 color = 1;
 glyphname = "obarreddieresis-cy";
-lastChange = "2016-08-27 13:02:14 +0000";
+lastChange = "2016-09-08 14:30:14 +0000";
 layers = (
 {
 components = (
 {
-name = "obarred-cy";
-transform = "{1, 0, 0, 1, 0, 0}";
-},
-{
 name = dieresiscomb;
 transform = "{1, 0, 0, 1, 65, 0}";
+},
+{
+name = o;
+transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "7BBBACCF-9772-44A1-910F-14DC7866E88D";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"166 290 LINE",
+"166 224 LINE",
+"401 224 LINE",
+"401 287 LINE"
+);
+}
+);
 width = 566;
 }
 );
