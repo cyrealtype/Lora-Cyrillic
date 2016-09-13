@@ -19069,7 +19069,7 @@ width = 861;
 }
 );
 leftKerningGroup = n;
-leftMetricsKey = afii10079;
+leftMetricsKey = "en-cy";
 rightKerningGroup = "softsign-cy";
 rightMetricsKey = "Softsign-cy";
 unicode = 045A;
@@ -21400,7 +21400,7 @@ layers = (
 {
 layerId = "7BBBACCF-9772-44A1-910F-14DC7866E88D";
 leftMetricsKey = "=che-cy";
-rightMetricsKey = "=tce-cy";
+rightMetricsKey = "=tse-cy";
 paths = (
 {
 closed = 1;
@@ -21473,7 +21473,7 @@ nodes = (
 );
 }
 );
-width = 597;
+width = 620;
 }
 );
 leftKerningGroup = "che-cy";
@@ -21605,7 +21605,7 @@ position = "{170, 704}";
 );
 layerId = "7BBBACCF-9772-44A1-910F-14DC7866E88D";
 leftMetricsKey = "=h";
-rightMetricsKey = "=tce-cy";
+rightMetricsKey = "=tse-cy";
 paths = (
 {
 closed = 1;
@@ -21674,7 +21674,7 @@ nodes = (
 );
 }
 );
-width = 621;
+width = 666;
 }
 );
 leftKerningGroup = h;
