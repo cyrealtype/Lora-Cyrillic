@@ -15,8 +15,7 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
-value = (
-);
+value = 0;
 },
 {
 name = vendorID;
@@ -35,7 +34,7 @@ name = "Disable Last Change";
 value = 1;
 }
 );
-date = "2016-09-28 22:34:19 +0000";
+date = "2016-09-28 22:49:33 +0000";
 designer = Cyreal;
 designerURL = "http://cyreal.org";
 familyName = Lora;
@@ -53267,11 +53266,11 @@ glyphname = CR;
 layers = (
 {
 layerId = UUID0;
-width = 0;
+width = 263;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-width = 293;
+width = 263;
 }
 );
 unicode = 000D;
@@ -62843,7 +62842,7 @@ width = 0;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-width = 293;
+width = 0;
 }
 );
 },
@@ -63579,6 +63578,14 @@ value = 0;
 {
 name = Autohint;
 value = 0;
+},
+{
+name = postscriptFullName;
+value = "Lora Italic";
+},
+{
+name = compatibleFullName;
+value = "Lora Italic";
 }
 );
 interpolationWeight = 400;
@@ -63602,6 +63609,14 @@ value = 0;
 {
 name = Autohint;
 value = 0;
+},
+{
+name = postscriptFullName;
+value = "Lora Bold Italic";
+},
+{
+name = compatibleFullName;
+value = "Lora Bold Italic";
 }
 );
 interpolationWeight = 700;

@@ -15,8 +15,7 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
-value = (
-);
+value = 0;
 },
 {
 name = vendorID;
@@ -67580,6 +67579,33 @@ width = 418;
 );
 },
 {
+glyphname = CR;
+layers = (
+{
+layerId = UUID0;
+width = 263;
+},
+{
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+width = 263;
+}
+);
+unicode = 000D;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = UUID0;
+width = 0;
+},
+{
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+width = 0;
+}
+);
+},
+{
 color = 4;
 glyphname = uniEFFD;
 layers = (
@@ -67621,6 +67647,14 @@ value = 0;
 {
 name = "Save as TrueType";
 value = 0;
+},
+{
+name = postscriptFullName;
+value = "Lora Regular";
+},
+{
+name = compatibleFullName;
+value = "Lora Regular";
 }
 );
 interpolationWeight = 400;
@@ -67642,6 +67676,14 @@ value = 0;
 {
 name = "Save as TrueType";
 value = 0;
+},
+{
+name = postscriptFullName;
+value = "Lora Bold";
+},
+{
+name = compatibleFullName;
+value = "Lora Bold";
 }
 );
 interpolationWeight = 700;
