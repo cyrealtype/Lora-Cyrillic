@@ -2320,7 +2320,7 @@ unicode = 00CA;
 {
 color = 9;
 glyphname = Ecircumflexacute;
-lastChange = "2016-09-28 14:19:10 +0000";
+lastChange = "2016-09-28 14:40:21 +0000";
 layers = (
 {
 components = (
@@ -2328,12 +2328,8 @@ components = (
 name = E;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 136, 2}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 252, 190}";
+name = circumflexcomb_acutecomb.case;
+transform = "{1, 0, 0, 1, 204, 202}";
 }
 );
 layerId = UUID0;
@@ -2345,7 +2341,7 @@ components = (
 name = E;
 },
 {
-name = circumflexcomb_acutecomb;
+name = circumflexcomb_acutecomb.case;
 transform = "{1, 0, 0, 1, 172, 203}";
 }
 );
@@ -31257,7 +31253,7 @@ unicode = 04EC;
 {
 color = 6;
 glyphname = "Umacron-cy";
-lastChange = "2016-09-28 14:28:48 +0000";
+lastChange = "2016-09-28 14:40:28 +0000";
 layers = (
 {
 components = (
@@ -31266,7 +31262,7 @@ name = "U-cy";
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 159, 188}";
+transform = "{1, 0, 0, 1, 179, 188}";
 }
 );
 layerId = UUID0;
@@ -31279,7 +31275,7 @@ name = "U-cy";
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 155, 200}";
+transform = "{1, 0, 0, 1, 185, 200}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -31293,7 +31289,7 @@ unicode = 04EE;
 {
 color = 6;
 glyphname = "Udieresis-cy";
-lastChange = "2016-09-28 14:28:48 +0000";
+lastChange = "2016-09-28 14:40:28 +0000";
 layers = (
 {
 components = (
@@ -31302,7 +31298,7 @@ name = "U-cy";
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 161, 188}";
+transform = "{1, 0, 0, 1, 181, 188}";
 }
 );
 layerId = UUID0;
@@ -31315,7 +31311,7 @@ name = "U-cy";
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 137, 200}";
+transform = "{1, 0, 0, 1, 167, 200}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -31329,7 +31325,7 @@ unicode = 04F0;
 {
 color = 6;
 glyphname = "Uhungarumlaut-cy";
-lastChange = "2016-09-28 14:28:48 +0000";
+lastChange = "2016-09-28 14:40:28 +0000";
 layers = (
 {
 components = (
@@ -31338,7 +31334,7 @@ name = "U-cy";
 },
 {
 name = hungarumlautcomb.case;
-transform = "{1, 0, 0, 1, 161, 0}";
+transform = "{1, 0, 0, 1, 181, 0}";
 }
 );
 layerId = UUID0;
@@ -31351,7 +31347,7 @@ name = "U-cy";
 },
 {
 name = hungarumlautcomb.case;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 133, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
