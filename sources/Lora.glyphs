@@ -4719,6 +4719,16 @@ color = 4;
 glyphname = M;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{459, 0}";
+},
+{
+name = top;
+position = "{459, 700}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -4783,6 +4793,16 @@ nodes = (
 width = 918;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{486, 0}";
+},
+{
+name = top;
+position = "{486, 700}";
+}
+);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -19499,7 +19519,7 @@ name = "El-cy";
 },
 {
 name = "descender-cycomb.case";
-transform = "{1, 0, 0, 1, 526, 0}";
+transform = "{1, 0, 0, 1, 576, 0}";
 }
 );
 layerId = UUID0;
@@ -21067,11 +21087,17 @@ layers = (
 anchors = (
 {
 name = bottomright;
-position = "{633, 0}";
+position = "{666, 0}";
 },
 {
 name = top;
 position = "{397, 700}";
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{666, 153}";
 }
 );
 layerId = UUID0;
@@ -21145,8 +21171,18 @@ width = 790;
 {
 anchors = (
 {
+name = bottomright;
+position = "{698, 0}";
+},
+{
 name = top;
 position = "{408, 700}";
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{698, 198}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -21331,30 +21367,24 @@ transform = "{1, 0, 0, 1, 193, 0}";
 },
 {
 name = "tail-cycomb.case";
-transform = "{1, 0, 0, 1, 633, 0}";
+transform = "{1, 0, 0, 1, 666, 0}";
 }
 );
 layerId = UUID0;
 width = 790;
 },
 {
-anchors = (
-{
-name = top;
-position = "{408, 700}";
-}
-);
 components = (
 {
 name = "brevecomb-cycomb.case";
 transform = "{1, 0, 0, 1, 180, 0}";
 },
 {
-name = "tail-cycomb.case";
-transform = "{1, 0, 0, 1, 631, 0}";
+name = "Ii-cy";
 },
 {
-name = "Ii-cy";
+name = "tail-cycomb.case";
+transform = "{1, 0, 0, 1, 698, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -21439,7 +21469,7 @@ layers = (
 anchors = (
 {
 name = bottomright;
-position = "{526, 0}";
+position = "{576, 0}";
 }
 );
 layerId = UUID0;
@@ -21513,6 +21543,18 @@ nodes = (
 width = 700;
 },
 {
+anchors = (
+{
+name = bottomright;
+position = "{666, 0}";
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{666, 205}";
+}
+);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -21584,6 +21626,12 @@ color = 6;
 glyphname = "Em-cy";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{810, 0}";
+}
+);
 components = (
 {
 name = M;
@@ -21593,6 +21641,12 @@ layerId = UUID0;
 width = 918;
 },
 {
+anchors = (
+{
+name = bottomright;
+position = "{853, 0}";
+}
+);
 components = (
 {
 name = M;
@@ -21614,18 +21668,42 @@ color = 6;
 glyphname = "En-cy";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{663, 0}";
+}
+);
 components = (
 {
 name = H;
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{656, 113}";
 }
 );
 layerId = UUID0;
 width = 780;
 },
 {
+anchors = (
+{
+name = bottomright;
+position = "{686, 0}";
+}
+);
 components = (
 {
 name = H;
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{686, 226}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -27447,6 +27525,16 @@ name = top;
 position = "{403, 700}";
 }
 );
+background = {
+components = (
+{
+name = "En-cy";
+},
+{
+name = "descender-cy";
+}
+);
+};
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -29955,20 +30043,20 @@ nodes = (
 );
 }
 );
-width = 701;
+width = 697;
 },
 {
 components = (
 {
-name = "tail-cycomb.case";
+name = "El-cy";
 },
 {
-name = "El-cy";
-transform = "{1, 0, 0, 1, 183, 0}";
+name = "tail-cycomb.case";
+transform = "{1, 0, 0, 1, 666, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 970;
+width = 787;
 }
 );
 leftKerningGroup = "El-cy";
@@ -30132,91 +30220,37 @@ color = 6;
 glyphname = "Entail-cy";
 layers = (
 {
+background = {
 components = (
 {
+name = H;
+}
+);
+};
+components = (
+{
+name = "En-cy";
+},
+{
 name = "tail-cycomb.case";
-transform = "{1, 0, 0, 1, 624, 0}";
+transform = "{1, 0, 0, 1, 663, 0}";
 }
 );
 layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"500 700 LINE",
-"500 656 LINE",
-"572 660 LINE",
-"570 640 OFFCURVE",
-"569 615 OFFCURVE",
-"569 588 CURVE SMOOTH",
-"569 378 LINE",
-"211 378 LINE",
-"211 544 LINE SMOOTH",
-"211 615 OFFCURVE",
-"205 664 OFFCURVE",
-"280 667 CURVE",
-"280 700 LINE",
-"55 700 LINE",
-"55 656 LINE",
-"127 660 LINE",
-"125 640 OFFCURVE",
-"124 615 OFFCURVE",
-"124 588 CURVE SMOOTH",
-"124 156 LINE SMOOTH",
-"124 85 OFFCURVE",
-"130 36 OFFCURVE",
-"55 33 CURVE",
-"55 0 LINE",
-"280 0 LINE",
-"280 44 LINE",
-"208 40 LINE",
-"210 57 OFFCURVE",
-"211 83 OFFCURVE",
-"211 119 CURVE SMOOTH",
-"211 334 LINE",
-"569 338 LINE",
-"569 156 LINE SMOOTH",
-"569 85 OFFCURVE",
-"575 36 OFFCURVE",
-"500 33 CURVE",
-"500 0 LINE",
-"725 0 LINE",
-"653 40 LINE",
-"655 57 OFFCURVE",
-"656 83 OFFCURVE",
-"656 119 CURVE SMOOTH",
-"656 544 LINE SMOOTH",
-"656 615 OFFCURVE",
-"650 664 OFFCURVE",
-"725 667 CURVE",
-"725 700 LINE"
-);
-}
-);
-width = 781;
+width = 780;
 },
 {
-anchors = (
-{
-name = center;
-position = "{403, 350}";
-},
-{
-name = top;
-position = "{403, 700}";
-}
-);
 components = (
 {
-name = "tail-cycomb.case";
+name = "En-cy";
 },
 {
-name = "En-cy";
-transform = "{1, 0, 0, 1, 183, 0}";
+name = "tail-cycomb.case";
+transform = "{1, 0, 0, 1, 686, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 990;
+width = 807;
 }
 );
 leftKerningGroup = I;
@@ -30456,85 +30490,28 @@ layers = (
 {
 components = (
 {
+name = "Em-cy";
+},
+{
 name = "tail-cycomb.case";
-transform = "{1, 0, 0, 1, 782, 0}";
+transform = "{1, 0, 0, 1, 810, 0}";
 }
 );
 layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"704 700 LINE",
-"642 543 OFFCURVE",
-"577 397 OFFCURVE",
-"519 251 CURVE SMOOTH",
-"505 215 OFFCURVE",
-"483 158 OFFCURVE",
-"468 122 CURVE",
-"466 122 LINE",
-"381 316 OFFCURVE",
-"308 491 OFFCURVE",
-"216 700 CURVE",
-"63 700 LINE",
-"63 657 LINE",
-"135 660 LINE",
-"113 125 LINE SMOOTH",
-"111 76 OFFCURVE",
-"106 34 OFFCURVE",
-"44 33 CURVE",
-"44 0 LINE",
-"235 0 LINE",
-"235 44 LINE",
-"160 40 LINE",
-"163 65 OFFCURVE",
-"163 95 OFFCURVE",
-"164 125 CURVE SMOOTH",
-"166 260 OFFCURVE",
-"172 447 OFFCURVE",
-"175 543 CURVE SMOOTH",
-"176 587 LINE",
-"254 379 OFFCURVE",
-"345 186 OFFCURVE",
-"432 -10 CURVE",
-"462 -10 LINE",
-"687 546 LINE SMOOTH",
-"691 558 OFFCURVE",
-"696 568 OFFCURVE",
-"700 578 CURVE",
-"726 152 LINE SMOOTH",
-"730 76 OFFCURVE",
-"722 35 OFFCURVE",
-"660 33 CURVE",
-"660 0 LINE",
-"874 0 LINE",
-"884 34 LINE",
-"811 40 LINE",
-"811 57 OFFCURVE",
-"811 80 OFFCURVE",
-"809 103 CURVE SMOOTH",
-"783 558 LINE SMOOTH",
-"778 640 OFFCURVE",
-"802 668 OFFCURVE",
-"852 667 CURVE",
-"852 700 LINE"
-);
-}
-);
 width = 918;
 },
 {
 components = (
 {
-name = "tail-cycomb.case";
+name = "Em-cy";
 },
 {
-name = M;
-transform = "{1, 0, 0, 1, 183, 0}";
+name = "tail-cycomb.case";
+transform = "{1, 0, 0, 1, 853, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 1155;
+width = 972;
 }
 );
 leftKerningGroup = M;
@@ -34452,7 +34429,7 @@ layers = (
 anchors = (
 {
 name = bottomright;
-position = "{493, 0}";
+position = "{517, 0}";
 },
 {
 name = top;
@@ -34529,6 +34506,10 @@ width = 627;
 },
 {
 anchors = (
+{
+name = bottomright;
+position = "{535, 0}";
+},
 {
 name = top;
 position = "{329, 500}";
@@ -34712,7 +34693,7 @@ transform = "{1, 0, 0, 1, 124, 0}";
 },
 {
 name = "tail-cy";
-transform = "{1, 0, 0, 1, 493, 0}";
+transform = "{1, 0, 0, 1, 517, 0}";
 }
 );
 layerId = UUID0;
@@ -34725,12 +34706,12 @@ name = "brevecomb-cy";
 transform = "{1, 0, 0, 1, 131, 0}";
 },
 {
-name = "tail-cy";
-transform = "{1, 0, 0, 1, 511, 0}";
-},
-{
 name = "ii-cy";
 transform = "{1, 0, 0, 1, 3, 0}";
+},
+{
+name = "tail-cy";
+transform = "{1, 0, 0, 1, 538, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -34938,7 +34919,7 @@ layers = (
 anchors = (
 {
 name = bottomright;
-position = "{436, 0}";
+position = "{481, 0}";
 }
 );
 layerId = UUID0;
@@ -35017,6 +34998,12 @@ nodes = (
 width = 592;
 },
 {
+anchors = (
+{
+name = bottomright;
+position = "{538, 0}";
+}
+);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -35098,6 +35085,12 @@ color = 6;
 glyphname = "em-cy";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{642, 0}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -35147,6 +35140,12 @@ nodes = (
 width = 738;
 },
 {
+anchors = (
+{
+name = bottomright;
+position = "{686, 0}";
+}
+);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -35225,6 +35224,12 @@ color = 6;
 glyphname = "en-cy";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{518, 0}";
+}
+);
 layerId = UUID0;
 paths = (
 {
@@ -35294,6 +35299,12 @@ nodes = (
 width = 622;
 },
 {
+anchors = (
+{
+name = bottomright;
+position = "{560, 0}";
+}
+);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -43462,24 +43473,14 @@ layers = (
 components = (
 {
 name = "el-cy";
+},
+{
+name = "tail-cy";
+transform = "{1, 0, 0, 1, 481, 0}";
 }
 );
 layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"483 39 LINE",
-"457 0 LINE",
-"490 0 OFFCURVE",
-"496 -24 OFFCURVE",
-"460 -178 CURVE",
-"498 -178 LINE",
-"568 44 LINE"
-);
-}
-);
-width = 591;
+width = 592;
 },
 {
 components = (
@@ -43488,11 +43489,11 @@ name = "el-cy";
 },
 {
 name = "tail-cy";
-transform = "{1, 0, 0, 1, 671, 0}";
+transform = "{1, 0, 0, 1, 538, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 837;
+width = 671;
 }
 );
 leftKerningGroup = "el-cy";
@@ -43663,15 +43664,15 @@ layers = (
 {
 components = (
 {
-name = "tail-cy";
+name = "en-cy";
 },
 {
-name = "en-cy";
-transform = "{1, 0, 0, 1, 161, 0}";
+name = "tail-cy";
+transform = "{1, 0, 0, 1, 518, 0}";
 }
 );
 layerId = UUID0;
-width = 783;
+width = 622;
 },
 {
 components = (
@@ -43680,11 +43681,11 @@ name = "en-cy";
 },
 {
 name = "tail-cy";
-transform = "{1, 0, 0, 1, 666, 0}";
+transform = "{1, 0, 0, 1, 560, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 832;
+width = 666;
 }
 );
 leftKerningGroup = n;
@@ -43917,15 +43918,15 @@ layers = (
 {
 components = (
 {
-name = "tail-cy";
+name = "em-cy";
 },
 {
-name = "em-cy";
-transform = "{1, 0, 0, 1, 161, 0}";
+name = "tail-cy";
+transform = "{1, 0, 0, 1, 642, 0}";
 }
 );
 layerId = UUID0;
-width = 899;
+width = 738;
 },
 {
 components = (
@@ -43934,11 +43935,11 @@ name = "em-cy";
 },
 {
 name = "tail-cy";
-transform = "{1, 0, 0, 1, 800, 0}";
+transform = "{1, 0, 0, 1, 686, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 966;
+width = 800;
 }
 );
 leftKerningGroup = "em-cy";
@@ -46359,7 +46360,7 @@ name = "el-cy";
 },
 {
 name = "descender-cy";
-transform = "{1, 0, 0, 1, 436, 0}";
+transform = "{1, 0, 0, 1, 481, 0}";
 }
 );
 layerId = UUID0;
@@ -66027,36 +66028,58 @@ name = _bottomright;
 position = "{0, 0}";
 }
 );
+background = {
+components = (
+{
+name = "Tse-cy";
+transform = "{1, 0, 0, 1, -627, 0}";
+}
+);
+};
 layerId = UUID0;
 paths = (
 {
 closed = 1;
 nodes = (
-"26 39 LINE",
-"0 0 LINE",
-"33 0 OFFCURVE",
-"39 -24 OFFCURVE",
-"3 -178 CURVE",
-"41 -178 LINE",
-"111 44 LINE"
+"-5 41 LINE",
+"-31 0 LINE",
+"2 0 OFFCURVE",
+"8 -24 OFFCURVE",
+"-28 -178 CURVE",
+"10 -178 LINE",
+"80 45 LINE"
 );
 }
 );
 width = 161;
 },
 {
+anchors = (
+{
+name = _bottomright;
+position = "{0, 0}";
+}
+);
+background = {
+components = (
+{
+name = "endescender-cy";
+transform = "{1, 0, 0, 1, -563, 0}";
+}
+);
+};
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
 closed = 1;
 nodes = (
-"54 73 LINE",
-"10 0 LINE",
-"52 0 OFFCURVE",
-"42 -49 OFFCURVE",
-"11 -183 CURVE",
-"76 -183 LINE",
-"156 81 LINE"
+"-12 73 LINE",
+"-28 0 LINE",
+"14 0 OFFCURVE",
+"4 -49 OFFCURVE",
+"-27 -183 CURVE",
+"38 -183 LINE",
+"118 81 LINE"
 );
 }
 );
@@ -66828,36 +66851,58 @@ name = _bottomright;
 position = "{0, 0}";
 }
 );
+background = {
+components = (
+{
+name = "Endescender-cy";
+transform = "{1, 0, 0, 1, -656, 0}";
+}
+);
+};
 layerId = UUID0;
 paths = (
 {
 closed = 1;
 nodes = (
-"29 40 LINE",
-"0 0 LINE",
-"40 0 OFFCURVE",
-"35 -19 OFFCURVE",
-"0 -178 CURVE",
-"41 -178 LINE",
-"121 46 LINE"
+"-38 40 LINE",
+"-29 0 LINE",
+"11 0 OFFCURVE",
+"6 -19 OFFCURVE",
+"-29 -178 CURVE",
+"12 -178 LINE",
+"92 48 LINE"
 );
 }
 );
 width = 171;
 },
 {
+anchors = (
+{
+name = _bottomright;
+position = "{0, 0}";
+}
+);
+background = {
+components = (
+{
+name = "Iishorttail-cy";
+transform = "{1, 0, 0, 1, -700, 0}";
+}
+);
+};
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
 closed = 1;
 nodes = (
-"63 74 LINE",
-"19 0 LINE",
-"57 0 OFFCURVE",
-"57 -18 OFFCURVE",
-"10 -177 CURVE",
-"83 -177 LINE",
-"173 80 LINE"
+"-14 74 LINE",
+"-48 0 LINE",
+"-10 0 OFFCURVE",
+"-10 -18 OFFCURVE",
+"-57 -177 CURVE",
+"16 -177 LINE",
+"106 80 LINE"
 );
 }
 );
