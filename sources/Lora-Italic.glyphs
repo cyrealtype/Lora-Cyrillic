@@ -7,12 +7,8 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2011 by Cyreal";
+copyright = "Copyright 2011 Cyreal";
 customParameters = (
-{
-name = trademark;
-value = "Lora is a trademark of Cyreal (www.cyreal.org).";
-},
 {
 name = description;
 value = "Lora is designed by Olga Karpushina, and Alexei Vanyashin for Cyreal.\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1. \012";
@@ -25,10 +21,22 @@ value = "http://scripts.sil.org/OFL";
 name = fsType;
 value = (
 );
+},
+{
+name = vendorID;
+value = CYRE;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-07-16 04:51:06 +0000";
-designer = "Cyreal. Olga Karpushina, Alexei Vanyashin (Cyrillic)";
+designer = Cyreal;
 designerURL = "http://cyreal.org";
 familyName = Lora;
 featurePrefixes = (
