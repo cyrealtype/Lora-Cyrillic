@@ -1,5 +1,5 @@
 {
-.appVersion = "922";
+.appVersion = "923";
 classes = (
 {
 automatic = 1;
@@ -444,12 +444,8 @@ components = (
 name = A;
 },
 {
-name = brevecomb;
+name = brevecomb_acutecomb.case;
 transform = "{1, 0, 0, 1, 159, 190}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 220, 360}";
 }
 );
 layerId = UUID0;
@@ -485,8 +481,8 @@ name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 203, 0}";
 },
 {
-name = brevecomb;
-transform = "{1, 0, 0, 1, 159, 190}";
+name = brevecomb.case;
+transform = "{1, 0, 0, 1, 156, 2}";
 }
 );
 layerId = UUID0;
@@ -522,12 +518,8 @@ components = (
 name = A;
 },
 {
-name = brevecomb;
+name = brevecomb_gravecomb.case;
 transform = "{1, 0, 0, 1, 159, 190}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 219, 360}";
 }
 );
 layerId = UUID0;
@@ -559,12 +551,8 @@ components = (
 name = A;
 },
 {
-name = brevecomb;
+name = brevecomb_hookabovecomb.case;
 transform = "{1, 0, 0, 1, 159, 190}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 164, 360}";
 }
 );
 layerId = UUID0;
@@ -596,12 +584,8 @@ components = (
 name = A;
 },
 {
-name = brevecomb;
+name = brevecomb_tildecomb.case;
 transform = "{1, 0, 0, 1, 159, 190}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 99, 360}";
 }
 );
 layerId = UUID0;
@@ -667,12 +651,8 @@ components = (
 name = A;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 95, 2}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 211, 190}";
+name = circumflexcomb_acutecomb.case;
+transform = "{1, 0, 0, 1, 163, 202}";
 }
 );
 layerId = UUID0;
@@ -708,7 +688,7 @@ name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 203, 0}";
 },
 {
-name = circumflex.case;
+name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, 95, 2}";
 }
 );
@@ -745,12 +725,8 @@ components = (
 name = A;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 95, 2}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 210, 190}";
+name = circumflexcomb_gravecomb.case;
+transform = "{1, 0, 0, 1, 71, 190}";
 }
 );
 layerId = UUID0;
@@ -782,12 +758,8 @@ components = (
 name = A;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 95, 2}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 155, 190}";
+name = circumflexcomb_hookabovecomb.case;
+transform = "{1, 0, 0, 1, 173, 190}";
 }
 );
 layerId = UUID0;
@@ -819,12 +791,8 @@ components = (
 name = A;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 95, 2}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 90, 190}";
+name = circumflexcomb_tildecomb.case;
+transform = "{1, 0, 0, 1, 164, 190}";
 }
 );
 layerId = UUID0;
@@ -2409,7 +2377,7 @@ name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 233, 0}";
 },
 {
-name = circumflex.case;
+name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, 136, 2}";
 }
 );
@@ -2446,12 +2414,8 @@ components = (
 name = E;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 136, 2}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 251, 190}";
+name = circumflexcomb_gravecomb.case;
+transform = "{1, 0, 0, 1, 112, 190}";
 }
 );
 layerId = UUID0;
@@ -2483,12 +2447,8 @@ components = (
 name = E;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 136, 2}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 196, 190}";
+name = circumflexcomb_hookabovecomb.case;
+transform = "{1, 0, 0, 1, 214, 190}";
 }
 );
 layerId = UUID0;
@@ -2520,12 +2480,8 @@ components = (
 name = E;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 136, 2}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 131, 190}";
+name = circumflexcomb_tildecomb.case;
+transform = "{1, 0, 0, 1, 205, 190}";
 }
 );
 layerId = UUID0;
@@ -5334,12 +5290,8 @@ components = (
 name = O;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 190, 2}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 306, 190}";
+name = circumflexcomb_acutecomb.case;
+transform = "{1, 0, 0, 1, 258, 202}";
 }
 );
 layerId = UUID0;
@@ -5375,7 +5327,7 @@ name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 282, 0}";
 },
 {
-name = circumflex.case;
+name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, 190, 2}";
 }
 );
@@ -5412,12 +5364,8 @@ components = (
 name = O;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 190, 2}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 305, 190}";
+name = circumflexcomb_gravecomb.case;
+transform = "{1, 0, 0, 1, 166, 190}";
 }
 );
 layerId = UUID0;
@@ -5449,12 +5397,8 @@ components = (
 name = O;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 190, 2}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 250, 190}";
+name = circumflexcomb_hookabovecomb.case;
+transform = "{1, 0, 0, 1, 268, 190}";
 }
 );
 layerId = UUID0;
@@ -5486,12 +5430,8 @@ components = (
 name = O;
 },
 {
-name = circumflex.case;
-transform = "{1, 0, 0, 1, 190, 2}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 185, 190}";
+name = circumflexcomb_tildecomb.case;
+transform = "{1, 0, 0, 1, 259, 190}";
 }
 );
 layerId = UUID0;
@@ -9471,12 +9411,8 @@ components = (
 name = a;
 },
 {
-name = brevecomb;
+name = brevecomb_acutecomb;
 transform = "{1, 0, 0, 1, 146, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 207, 170}";
 }
 );
 layerId = UUID0;
@@ -9549,12 +9485,8 @@ components = (
 name = a;
 },
 {
-name = brevecomb;
+name = brevecomb_gravecomb;
 transform = "{1, 0, 0, 1, 146, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 206, 170}";
 }
 );
 layerId = UUID0;
@@ -9586,12 +9518,8 @@ components = (
 name = a;
 },
 {
-name = brevecomb;
+name = brevecomb_hookabovecomb;
 transform = "{1, 0, 0, 1, 146, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 151, 170}";
 }
 );
 layerId = UUID0;
@@ -9623,12 +9551,8 @@ components = (
 name = a;
 },
 {
-name = brevecomb;
+name = brevecomb_tildecomb;
 transform = "{1, 0, 0, 1, 146, 0}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 86, 170}";
 }
 );
 layerId = UUID0;
@@ -9694,12 +9618,8 @@ components = (
 name = a;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 118, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 198, 0}";
+name = circumflexcomb_acutecomb;
+transform = "{1, 0, 0, 1, 150, 12}";
 }
 );
 layerId = UUID0;
@@ -9735,8 +9655,8 @@ name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 162, 0}";
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 118, 0}";
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 58, 0}";
 }
 );
 layerId = UUID0;
@@ -9772,12 +9692,8 @@ components = (
 name = a;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 118, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 197, 0}";
+name = circumflexcomb_gravecomb;
+transform = "{1, 0, 0, 1, 58, 0}";
 }
 );
 layerId = UUID0;
@@ -9809,12 +9725,8 @@ components = (
 name = a;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 118, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 142, 0}";
+name = circumflexcomb_hookabovecomb;
+transform = "{1, 0, 0, 1, 160, 0}";
 }
 );
 layerId = UUID0;
@@ -9846,12 +9758,8 @@ components = (
 name = a;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 118, 0}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 77, 0}";
+name = circumflexcomb_tildecomb;
+transform = "{1, 0, 0, 1, 151, 0}";
 }
 );
 layerId = UUID0;
@@ -11478,12 +11386,8 @@ components = (
 name = e;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 86, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 166, 0}";
+name = circumflexcomb_acutecomb;
+transform = "{1, 0, 0, 1, 118, 12}";
 }
 );
 layerId = UUID0;
@@ -11519,8 +11423,8 @@ name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 153, 0}";
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 86, 0}";
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 26, 0}";
 }
 );
 layerId = UUID0;
@@ -11556,12 +11460,8 @@ components = (
 name = e;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 86, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 165, 0}";
+name = circumflexcomb_gravecomb;
+transform = "{1, 0, 0, 1, 26, 0}";
 }
 );
 layerId = UUID0;
@@ -11593,12 +11493,8 @@ components = (
 name = e;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 86, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 110, 0}";
+name = circumflexcomb_hookabovecomb;
+transform = "{1, 0, 0, 1, 128, 0}";
 }
 );
 layerId = UUID0;
@@ -11630,12 +11526,8 @@ components = (
 name = e;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 86, 0}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 45, 0}";
+name = circumflexcomb_tildecomb;
+transform = "{1, 0, 0, 1, 119, 0}";
 }
 );
 layerId = UUID0;
@@ -14746,12 +14638,8 @@ components = (
 name = o;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 102, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 182, 0}";
+name = circumflexcomb_acutecomb;
+transform = "{1, 0, 0, 1, 134, 12}";
 }
 );
 layerId = UUID0;
@@ -14787,8 +14675,8 @@ name = dotbelowcomb;
 transform = "{1, 0, 0, 1, 149, 0}";
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 102, 0}";
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 42, 0}";
 }
 );
 layerId = UUID0;
@@ -14824,12 +14712,8 @@ components = (
 name = o;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 102, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 181, 0}";
+name = circumflexcomb_gravecomb;
+transform = "{1, 0, 0, 1, 42, 0}";
 }
 );
 layerId = UUID0;
@@ -14861,12 +14745,8 @@ components = (
 name = o;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 102, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 126, 0}";
+name = circumflexcomb_hookabovecomb;
+transform = "{1, 0, 0, 1, 144, 0}";
 }
 );
 layerId = UUID0;
@@ -14898,12 +14778,8 @@ components = (
 name = o;
 },
 {
-name = circumflex;
-transform = "{1, 0, 0, 1, 102, 0}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 61, 0}";
+name = circumflexcomb_tildecomb;
+transform = "{1, 0, 0, 1, 135, 0}";
 }
 );
 layerId = UUID0;
@@ -62597,7 +62473,7 @@ name = circumflexcomb;
 {
 alignment = -1;
 name = gravecomb;
-transform = "{0.9091, 0, 0, 0.9091, 211, 120}";
+transform = "{0.9091, 0, 0, 0.9091, 211, 146}";
 }
 );
 layerId = UUID0;
@@ -62632,7 +62508,7 @@ transform = "{1, 0, 0, 1, -102, 0}";
 {
 alignment = -1;
 name = hookabovecomb;
-transform = "{0.9091, 0, 0, 0.9091, 105, 130}";
+transform = "{0.9091, 0, 0, 0.9091, 115, 154}";
 }
 );
 layerId = UUID0;
@@ -62739,7 +62615,7 @@ name = circumflexcomb;
 {
 alignment = -1;
 name = gravecomb;
-transform = "{0.9091, 0, 0, 0.9091, 211, 120}";
+transform = "{0.9091, 0, 0, 0.9091, 225, 138}";
 }
 );
 layerId = UUID0;
@@ -62774,7 +62650,7 @@ transform = "{1, 0, 0, 1, -102, 0}";
 {
 alignment = -1;
 name = hookabovecomb;
-transform = "{0.9091, 0, 0, 0.9091, 105, 130}";
+transform = "{0.9091, 0, 0, 0.9091, 116, 155}";
 }
 );
 layerId = UUID0;
