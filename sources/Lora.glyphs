@@ -1,7 +1,7 @@
 {
 .appVersion = "926";
 DisplayStrings = (
-"Highest\012/Abrevehookabove/Abreveacute/Abrevegrave/Abrevetilde/Acircumflexgrave/Ecircumflexgrave/Ocircumflexgrave/Acircumflexhookabove/Ecircumflexhookabove/Ocircumflexhookabove/Acircumflextilde/Ecircumflextilde/Ocircumflextilde/Acircumflexacute/Ecircumflexacute/Ocircumflexacute/hcircumflex/lacute/Ohornacute/Ohorngrave \012Lowest\012g/gbreve/gcircumflex/gcommaaccent j/jcircumflex y\U00FD/ydieresis/ydotbelow/ygrave/yhookabove/ytilde/u-cy/ushort-cy/je-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/de-cy.loclBGR"
+"Highest\012/hookabovecomb/brevecomb_hookabovecombcomb.case/Abrevehookabove/Abreveacute/Abrevegrave/Abrevetilde/Acircumflexgrave/Ecircumflexgrave/Ocircumflexgrave/Acircumflexhookabove/Ecircumflexhookabove/Ocircumflexhookabove/Acircumflextilde/Ecircumflextilde/Ocircumflextilde/Acircumflexacute/Ecircumflexacute/Ocircumflexacute/hcircumflex/lacute/Ohornacute/Ohorngrave \012Lowest\012g/gbreve/gcircumflex/gcommaaccent j/jcircumflex y\U00FD/ydieresis/ydotbelow/ygrave/yhookabove/ytilde/u-cy/ushort-cy/je-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/de-cy.loclBGR"
 );
 classes = (
 {
@@ -121,15 +121,15 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1206;
+value = 1207;
 },
 {
 name = typoAscender;
-value = 1206;
+value = 1207;
 },
 {
 name = hheaAscender;
-value = 1206;
+value = 1207;
 },
 {
 name = typoDescender;
@@ -187,15 +187,15 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1206;
+value = 1207;
 },
 {
 name = typoAscender;
-value = 1206;
+value = 1207;
 },
 {
 name = hheaAscender;
-value = 1206;
+value = 1207;
 },
 {
 name = typoDescender;
@@ -63114,7 +63114,7 @@ position = "{234, 500}";
 },
 {
 name = top;
-position = "{226, 770}";
+position = "{224, 748}";
 }
 );
 layerId = UUID0;
@@ -63134,20 +63134,20 @@ nodes = (
 "181 672 OFFCURVE",
 "178 678 OFFCURVE",
 "175 682 CURVE",
-"177 696 OFFCURVE",
-"198 712 OFFCURVE",
-"222 712 CURVE SMOOTH",
-"261 712 OFFCURVE",
-"274 687 OFFCURVE",
-"274 656 CURVE SMOOTH",
-"274 592 OFFCURVE",
-"218 604 OFFCURVE",
+"178 704 OFFCURVE",
+"194 712 OFFCURVE",
+"224 712 CURVE SMOOTH",
+"259 712 OFFCURVE",
+"274 697 OFFCURVE",
+"274 666 CURVE SMOOTH",
+"274 622 OFFCURVE",
+"218 614 OFFCURVE",
 "218 566 CURVE",
 "252 566 LINE",
-"252 594 OFFCURVE",
-"331 599 OFFCURVE",
-"331 656 CURVE SMOOTH",
-"331 717 OFFCURVE",
+"252 600 OFFCURVE",
+"331 614 OFFCURVE",
+"331 676 CURVE SMOOTH",
+"331 724 OFFCURVE",
 "287 748 OFFCURVE",
 "221 748 CURVE SMOOTH"
 );
@@ -63163,7 +63163,7 @@ position = "{292, 500}";
 },
 {
 name = top;
-position = "{292, 770}";
+position = "{283, 747}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -67637,6 +67637,15 @@ width = 0;
 }
 );
 unicode = 0000;
+},
+{
+glyphname = NULL.001;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+}
+);
 },
 {
 color = 4;

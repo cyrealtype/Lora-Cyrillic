@@ -103,15 +103,15 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1206;
+value = 1207;
 },
 {
 name = typoAscender;
-value = 1206;
+value = 1207;
 },
 {
 name = hheaAscender;
-value = 1206;
+value = 1207;
 },
 {
 name = typoDescender;
@@ -161,15 +161,15 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1206;
+value = 1207;
 },
 {
 name = typoAscender;
-value = 1206;
+value = 1207;
 },
 {
 name = hheaAscender;
-value = 1206;
+value = 1207;
 },
 {
 name = typoDescender;
@@ -63453,6 +63453,19 @@ width = 0;
 }
 );
 unicode = 0000;
+},
+{
+glyphname = NULL.001;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+},
+{
+layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
+width = 600;
+}
+);
 }
 );
 instances = (
