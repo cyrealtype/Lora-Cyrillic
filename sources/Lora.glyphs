@@ -1,5 +1,8 @@
 {
-.appVersion = "924";
+.appVersion = "926";
+DisplayStrings = (
+"Highest\012/Abrevehookabove/Abreveacute/Abrevegrave/Abrevetilde/Acircumflexgrave/Ecircumflexgrave/Ocircumflexgrave/Acircumflexhookabove/Ecircumflexhookabove/Ocircumflexhookabove/Acircumflextilde/Ecircumflextilde/Ocircumflextilde/Acircumflexacute/Ecircumflexacute/Ocircumflexacute/hcircumflex/lacute/Ohornacute/Ohorngrave \012Lowest\012g/gbreve/gcircumflex/gcommaaccent j/jcircumflex y\U00FD/ydieresis/ydotbelow/ygrave/yhookabove/ytilde/u-cy/ushort-cy/je-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/de-cy.loclBGR"
+);
 classes = (
 {
 automatic = 1;
@@ -15,7 +18,8 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
-value = 0;
+value = (
+);
 },
 {
 name = vendorID;
@@ -37,6 +41,7 @@ value = 1;
 date = "2016-09-28 22:49:37 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
+disablesNiceNames = 1;
 familyName = Lora;
 featurePrefixes = (
 {
@@ -50802,7 +50807,7 @@ name = "Pe-cy";
 }
 );
 layerId = UUID0;
-width = 760;
+width = 761;
 },
 {
 components = (
@@ -56044,6 +56049,20 @@ width = 263;
 );
 widthMetricsKey = space;
 unicode = 00A0;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = UUID0;
+width = 263;
+},
+{
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+width = 263;
+}
+);
+unicode = 000D;
 },
 {
 color = 4;
@@ -65844,67 +65863,6 @@ width = 418;
 },
 {
 color = 6;
-glyphname = "verticalbar-cy";
-layers = (
-{
-anchors = (
-{
-name = _center;
-position = "{56, 215}";
-}
-);
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"36 178 LINE",
-"74 178 LINE",
-"74 428 LINE",
-"36 428 LINE"
-);
-}
-);
-};
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"74 100 LINE",
-"74 330 LINE",
-"38 330 LINE",
-"38 100 LINE"
-);
-}
-);
-width = 124;
-},
-{
-anchors = (
-{
-name = _center;
-position = "{72, 216}";
-}
-);
-layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-paths = (
-{
-closed = 1;
-nodes = (
-"94 108 LINE",
-"94 377 LINE",
-"35 377 LINE",
-"35 108 LINE"
-);
-}
-);
-width = 144;
-}
-);
-},
-{
-color = 6;
 export = 0;
 glyphname = "descender-cy";
 layers = (
@@ -66399,6 +66357,68 @@ width = 600;
 );
 },
 {
+color = 6;
+export = 0;
+glyphname = "verticalbar-cy";
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{56, 215}";
+}
+);
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"36 178 LINE",
+"74 178 LINE",
+"74 428 LINE",
+"36 428 LINE"
+);
+}
+);
+};
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"74 100 LINE",
+"74 330 LINE",
+"38 330 LINE",
+"38 100 LINE"
+);
+}
+);
+width = 124;
+},
+{
+anchors = (
+{
+name = _center;
+position = "{72, 216}";
+}
+);
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+paths = (
+{
+closed = 1;
+nodes = (
+"94 108 LINE",
+"94 377 LINE",
+"35 377 LINE",
+"35 108 LINE"
+);
+}
+);
+width = 144;
+}
+);
+},
+{
 color = 4;
 glyphname = hungarumlautcombcomb.case;
 layers = (
@@ -66681,6 +66701,7 @@ width = 472;
 },
 {
 color = 6;
+export = 0;
 glyphname = "verticalbar-cycomb.case";
 layers = (
 {
@@ -67604,20 +67625,6 @@ width = 418;
 );
 },
 {
-glyphname = CR;
-layers = (
-{
-layerId = UUID0;
-width = 263;
-},
-{
-layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 263;
-}
-);
-unicode = 000D;
-},
-{
 glyphname = NULL;
 layers = (
 {
@@ -67629,6 +67636,7 @@ layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 width = 0;
 }
 );
+unicode = 0000;
 },
 {
 color = 4;
@@ -67657,7 +67665,6 @@ width = 551;
 unicode = EFFD;
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
