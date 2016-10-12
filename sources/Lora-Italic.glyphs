@@ -85,6 +85,11 @@ name = case;
 },
 {
 automatic = 1;
+code = "sub En-cy Ge-cy by Enghe-cy;\012sub en-cy ge-cy by enghe-cy;\012";
+name = dlig;
+},
+{
+automatic = 1;
 code = "sub f i by fi;\012sub f l by fl;\012";
 name = liga;
 }
@@ -1884,62 +1889,80 @@ unicode = 0044;
 glyphname = Eth;
 layers = (
 {
+background = {
+components = (
+{
+name = D;
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"340 332 LINE",
+"342 378 LINE",
+"26 378 LINE",
+"24 328 LINE"
+);
+}
+);
+};
 layerId = UUID0;
 paths = (
 {
 closed = 1;
 nodes = (
-"78 700 LINE",
-"75 656 LINE",
-"149 660 LINE",
-"146 640 OFFCURVE",
-"144 615 OFFCURVE",
-"142 588 CURVE SMOOTH",
-"130 377 LINE",
-"26 377 LINE",
-"23 328 LINE",
+"77 700 LINE",
+"74 656 LINE",
+"148 660 LINE",
+"145 640 OFFCURVE",
+"143 615 OFFCURVE",
+"141 588 CURVE SMOOTH",
+"129 378 LINE",
+"26 378 LINE",
+"24 328 LINE",
 "127 329 LINE",
-"118 156 LINE",
-"115 85 OFFCURVE",
-"118 36 OFFCURVE",
-"43 33 CURVE",
-"41 0 LINE",
-"300 0 LINE SMOOTH",
-"565 0 OFFCURVE",
-"696 181 OFFCURVE",
-"696 376 CURVE SMOOTH",
-"696 599 OFFCURVE",
-"542 702 OFFCURVE",
-"310 701 CURVE SMOOTH"
+"117 156 LINE SMOOTH",
+"114 85 OFFCURVE",
+"117 36 OFFCURVE",
+"42 33 CURVE",
+"40 0 LINE",
+"299 0 LINE SMOOTH",
+"564 0 OFFCURVE",
+"695 181 OFFCURVE",
+"695 376 CURVE SMOOTH",
+"695 599 OFFCURVE",
+"541 702 OFFCURVE",
+"309 701 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"508 664 OFFCURVE",
-"603 552 OFFCURVE",
-"603 380 CURVE SMOOTH",
-"603 188 OFFCURVE",
-"480 38 OFFCURVE",
-"299 38 CURVE SMOOTH",
-"266 38 OFFCURVE",
-"236 38 OFFCURVE",
-"192 40 CURVE",
-"195 57 OFFCURVE",
-"197 82 OFFCURVE",
-"199 118 CURVE SMOOTH",
-"210 330 LINE",
-"338 332 LINE",
-"341 377 LINE",
-"213 377 LINE",
-"222 551 LINE SMOOTH",
-"226 629 OFFCURVE",
-"228 664 OFFCURVE",
-"304 664 CURVE SMOOTH"
+"265 38 OFFCURVE",
+"235 38 OFFCURVE",
+"191 40 CURVE",
+"194 57 OFFCURVE",
+"196 82 OFFCURVE",
+"198 118 CURVE SMOOTH",
+"209 330 LINE",
+"340 332 LINE",
+"342 378 LINE",
+"212 378 LINE",
+"221 551 LINE SMOOTH",
+"225 629 OFFCURVE",
+"227 664 OFFCURVE",
+"303 664 CURVE SMOOTH",
+"507 664 OFFCURVE",
+"602 552 OFFCURVE",
+"602 380 CURVE SMOOTH",
+"602 188 OFFCURVE",
+"479 38 OFFCURVE",
+"298 38 CURVE SMOOTH"
 );
 }
 );
-width = 739;
+width = 738;
 },
 {
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -2004,6 +2027,7 @@ width = 756;
 );
 leftKerningGroup = I;
 rightKerningGroup = D;
+rightMetricsKey = D;
 unicode = 00D0;
 },
 {
@@ -2050,7 +2074,7 @@ name = Eth;
 }
 );
 layerId = UUID0;
-width = 739;
+width = 738;
 },
 {
 components = (
@@ -63457,28 +63481,6 @@ unicode = 0000;
 );
 instances = (
 {
-customParameters = (
-{
-name = weightClass;
-value = "400";
-},
-{
-name = "Save as TrueType";
-value = 0;
-},
-{
-name = Autohint;
-value = 0;
-},
-{
-name = postscriptFullName;
-value = "Lora Italic";
-},
-{
-name = compatibleFullName;
-value = "Lora Italic";
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 UUID0 = 1;
@@ -63488,35 +63490,13 @@ linkStyle = Regular;
 name = Italic;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = "700";
-},
-{
-name = "Save as TrueType";
-value = 0;
-},
-{
-name = Autohint;
-value = 0;
-},
-{
-name = postscriptFullName;
-value = "Lora Bold Italic";
-},
-{
-name = compatibleFullName;
-value = "Lora Bold Italic";
-}
-);
 interpolationWeight = 700;
 instanceInterpolations = {
 "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = 1;
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
+linkStyle = Regular;
 name = "Bold Italic";
 weightClass = Bold;
 }

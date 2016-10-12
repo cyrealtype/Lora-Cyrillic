@@ -67664,28 +67664,6 @@ unicode = EFFD;
 );
 instances = (
 {
-customParameters = (
-{
-name = weightClass;
-value = "400";
-},
-{
-name = Autohint;
-value = 0;
-},
-{
-name = "Save as TrueType";
-value = 0;
-},
-{
-name = postscriptFullName;
-value = "Lora Regular";
-},
-{
-name = compatibleFullName;
-value = "Lora Regular";
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 UUID0 = 1;
@@ -67693,28 +67671,6 @@ UUID0 = 1;
 name = Regular;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = "700";
-},
-{
-name = Autohint;
-value = 0;
-},
-{
-name = "Save as TrueType";
-value = 0;
-},
-{
-name = postscriptFullName;
-value = "Lora Bold";
-},
-{
-name = compatibleFullName;
-value = "Lora Bold";
-}
-);
 interpolationWeight = 700;
 instanceInterpolations = {
 "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = 1;
