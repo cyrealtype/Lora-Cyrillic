@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "939";
 classes = (
 {
 automatic = 1;
@@ -262,27 +262,27 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1206;
+value = 1206.22;
 },
 {
 name = typoAscender;
-value = 1206;
+value = 944;
 },
 {
 name = hheaAscender;
-value = 1206;
+value = 944;
 },
 {
 name = typoDescender;
-value = -284;
+value = -269;
 },
 {
 name = hheaDescender;
-value = -284;
+value = -269;
 },
 {
 name = winDescent;
-value = 294;
+value = -284;
 },
 {
 name = hheaLineGap;
@@ -328,27 +328,27 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1206;
+value = 1206.22;
 },
 {
 name = typoAscender;
-value = 1206;
+value = 1006;
 },
 {
 name = hheaAscender;
-value = 1206;
+value = 1006;
 },
 {
 name = typoDescender;
-value = -284;
+value = -274;
 },
 {
 name = hheaDescender;
-value = -284;
+value = -274;
 },
 {
 name = winDescent;
-value = 294;
+value = -284;
 },
 {
 name = hheaLineGap;
