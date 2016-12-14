@@ -1,5 +1,5 @@
 {
-.appVersion = "939";
+.appVersion = "948";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 Cyreal";
+copyright = "Copyright 2011 The Lora Project Authors (a@cyreal.org), with Reserved Font Name \"Lora\".";
 customParameters = (
 {
 name = licenseURL;
