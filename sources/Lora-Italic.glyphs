@@ -43,8 +43,8 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2016-09-28 22:49:33 +0000";
-designer = Cyreal;
+date = "2016-09-28 22:49:37 +0000";
+designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
 familyName = Lora;
