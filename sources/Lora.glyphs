@@ -12,7 +12,8 @@ h/hcaron/hcircumflex,
 /uni1c81/uni1c85,
 /longs,
 "/Ezh/Ezh/Ezh \012/Ezh/Ezh/Ezh/Ezh",
-/Ezh/Ezhcaron/Gcaron
+/Ezh/Ezhcaron/Gcaron,
+/Hbar/hbar
 );
 classes = (
 {
@@ -4101,26 +4102,40 @@ layers = (
 components = (
 {
 name = H;
-},
-{
-name = strokelongcomb;
-transform = "{1, 0, 0, 1, -29, 30}";
 }
 );
 layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"37 558 LINE",
+"37 515 LINE",
+"742 519 LINE",
+"742 558 LINE"
+);
+}
+);
 width = 780;
 },
 {
 components = (
 {
 name = H;
-},
-{
-name = strokelongcomb;
-transform = "{1, 0, 0, 1, -20, 36}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+paths = (
+{
+closed = 1;
+nodes = (
+"51 538 LINE",
+"51 485 LINE",
+"756 489 LINE",
+"756 538 LINE"
+);
+}
+);
 width = 807;
 }
 );
@@ -13885,26 +13900,40 @@ layers = (
 components = (
 {
 name = h;
-},
-{
-name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 65, -64}";
 }
 );
 layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"1 618 LINE",
+"1 575 LINE",
+"346 579 LINE",
+"346 618 LINE"
+);
+}
+);
 width = 599;
 },
 {
 components = (
 {
 name = h;
-},
-{
-name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 76, -64}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+paths = (
+{
+closed = 1;
+nodes = (
+"1 608 LINE",
+"1 555 LINE",
+"336 559 LINE",
+"336 608 LINE"
+);
+}
+);
 width = 621;
 }
 );
