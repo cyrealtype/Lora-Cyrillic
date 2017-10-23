@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic)";
+copyright = "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name \"(Lora)\".";
 customParameters = (
 {
 name = licenseURL;
@@ -43,8 +43,8 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-10-23 10:18:51 +0000";
-designer = Cyreal;
+date = "2016-09-28 22:49:37 +0000";
+designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
 familyName = Lora;
@@ -243,7 +243,7 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1076.09998;
+value = 1207;
 },
 {
 name = typoAscender;
@@ -263,7 +263,7 @@ value = -271;
 },
 {
 name = winDescent;
-value = -294;
+value = 294;
 },
 {
 name = hheaLineGap;
@@ -301,7 +301,7 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1076.09998;
+value = 1207;
 },
 {
 name = typoAscender;
@@ -321,7 +321,7 @@ value = -274;
 },
 {
 name = winDescent;
-value = -294;
+value = 294;
 },
 {
 name = hheaLineGap;
@@ -63596,7 +63596,6 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
-linkStyle = Regular;
 name = Italic;
 },
 {
@@ -63606,7 +63605,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Regular;
 name = "Bold Italic";
 weightClass = Bold;
 }

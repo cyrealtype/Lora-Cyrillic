@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic)";
+copyright = "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name \"(Lora)\".";
 customParameters = (
 {
 name = licenseURL;
@@ -43,7 +43,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-10-23 10:18:37 +0000";
+date = "2016-09-28 22:49:37 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -262,7 +262,7 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1206.21997;
+value = 1207;
 },
 {
 name = typoAscender;
@@ -282,7 +282,7 @@ value = -269;
 },
 {
 name = winDescent;
-value = -284;
+value = 294;
 },
 {
 name = hheaLineGap;
@@ -328,7 +328,7 @@ capHeight = 700;
 customParameters = (
 {
 name = winAscent;
-value = 1206.21997;
+value = 1207;
 },
 {
 name = typoAscender;
@@ -348,7 +348,7 @@ value = -274;
 },
 {
 name = winDescent;
-value = -284;
+value = 294;
 },
 {
 name = hheaLineGap;
@@ -67820,7 +67820,6 @@ instanceInterpolations = {
 "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = 1;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 }
