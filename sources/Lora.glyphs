@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-/liraTurkish
-);
 classes = (
 {
 automatic = 1;
@@ -70842,10 +70839,11 @@ layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 width = 0;
 }
 );
+unicode = 0000;
 },
 {
 color = 7;
-glyphname = uni1c81;
+glyphname = uni1C81;
 layers = (
 {
 layerId = UUID0;
@@ -70994,10 +70992,11 @@ nodes = (
 width = 668;
 }
 );
+unicode = 1C81;
 },
 {
 color = 7;
-glyphname = uni1c85;
+glyphname = uni1C85;
 layers = (
 {
 layerId = UUID0;
@@ -71142,6 +71141,7 @@ nodes = (
 width = 904;
 }
 );
+unicode = 1C85;
 },
 {
 color = 4;
