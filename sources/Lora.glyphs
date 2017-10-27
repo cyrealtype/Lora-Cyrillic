@@ -1,9 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-/Obreve,
-/obreve
-);
 classes = (
 {
 automatic = 1;
@@ -47,7 +43,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2016-09-28 22:49:37 +0000";
+date = "2017-10-27 16:55:49 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -74919,5 +74915,5 @@ tH = 83;
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 100;
 }
