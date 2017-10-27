@@ -266,19 +266,19 @@ value = 1207;
 },
 {
 name = typoAscender;
-value = 944;
+value = 1006;
 },
 {
 name = hheaAscender;
-value = 944;
+value = 1006;
 },
 {
 name = typoDescender;
-value = -269;
+value = -274;
 },
 {
 name = hheaDescender;
-value = -269;
+value = -274;
 },
 {
 name = winDescent;
