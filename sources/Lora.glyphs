@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+/liraTurkish
+);
 classes = (
 {
 automatic = 1;
