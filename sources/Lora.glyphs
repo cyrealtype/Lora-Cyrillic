@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-/Ezh
-);
 classes = (
 {
 automatic = 1;
@@ -374,8 +371,8 @@ horizontalStems = (
 );
 id = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 userData = {
-GSOffsetHorizontal = 30;
-GSOffsetVertical = 20;
+GSOffsetHorizontal = 20;
+GSOffsetVertical = 10;
 };
 verticalStems = (
 142,
@@ -65474,12 +65471,55 @@ color = 7;
 glyphname = minute;
 layers = (
 {
+background = {
+components = (
+{
+name = acute;
+transform = "{1, 0, 0, 1, 11, 0}";
+}
+);
+};
 layerId = UUID0;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"130 781 LINE",
+"45 513 LINE",
+"80 498 LINE",
+"203 752 LINE"
+);
+}
+);
+width = 248;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"149 781 LINE",
+"64 513 LINE",
+"99 498 LINE",
+"222 752 LINE"
+);
+}
+);
+};
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"244 757 LINE",
+"133 804 LINE",
+"45 507 LINE",
+"104 480 LINE"
+);
+}
+);
+width = 289;
 }
 );
 unicode = 2032;
@@ -65489,14 +65529,34 @@ color = 7;
 glyphname = second;
 layers = (
 {
-layerId = UUID0;
-width = 600;
+components = (
+{
+name = minute;
 },
 {
-layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 600;
+name = minute;
+transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
+layerId = UUID0;
+width = 398;
+},
+{
+components = (
+{
+name = minute;
+},
+{
+name = minute;
+transform = "{1, 0, 0, 1, 170, 0}";
+}
+);
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+width = 459;
+}
+);
+leftMetricsKey = minute;
+rightMetricsKey = minute;
 unicode = 2033;
 },
 {
