@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-/hbar
-);
 classes = (
 {
 automatic = 1;
@@ -3927,29 +3924,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"517 228 LINE",
-"517 185 LINE",
-"742 189 LINE",
-"742 228 LINE"
+"468 228 LINE",
+"468 185 LINE",
+"752 189 LINE",
+"752 228 LINE"
 );
 }
 );
 width = 761;
 },
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"51 235 LINE",
-"51 182 LINE",
-"756 186 LINE",
-"756 235 LINE"
-);
-}
-);
-};
 components = (
 {
 name = G;
@@ -3960,10 +3944,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"497 228 LINE",
-"497 185 LINE",
-"722 189 LINE",
-"722 228 LINE"
+"447 228 LINE",
+"447 185 LINE",
+"752 189 LINE",
+"752 228 LINE"
 );
 }
 );
