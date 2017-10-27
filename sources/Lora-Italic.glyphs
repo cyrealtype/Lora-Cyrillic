@@ -7,7 +7,9 @@ DisplayStrings = (
 /Ezh,
 /strokeshortcomb/Hbar,
 "",
-/Hbar/hbar
+/Hbar/hbar,
+"/gstroke/gstroke/gstroke/gstroke/gstroke/gstroke \012/gstroke/gstroke/gstroke/gstroke/gstroke/gstroke",
+/Gstroke
 );
 classes = (
 {
@@ -3772,14 +3774,47 @@ color = 6;
 glyphname = Gstroke;
 layers = (
 {
-layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-width = 600;
-},
+components = (
 {
-layerId = UUID0;
-width = 600;
+name = G;
 }
 );
+layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
+paths = (
+{
+closed = 1;
+nodes = (
+"448 228 LINE",
+"446 185 LINE",
+"751 189 LINE",
+"753 228 LINE"
+);
+}
+);
+width = 756;
+},
+{
+components = (
+{
+name = G;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"464 228 LINE",
+"462 185 LINE",
+"746 189 LINE",
+"748 228 LINE"
+);
+}
+);
+width = 753;
+}
+);
+leftMetricsKey = G;
 unicode = 01E4;
 },
 {
@@ -13468,12 +13503,44 @@ color = 6;
 glyphname = gstroke;
 layers = (
 {
+components = (
+{
+name = g;
+}
+);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"177 -62 LINE",
+"175 -115 LINE",
+"480 -111 LINE",
+"482 -62 LINE"
+);
+}
+);
+width = 520;
 },
 {
+components = (
+{
+name = g;
+}
+);
 layerId = UUID0;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"188 -52 LINE",
+"186 -95 LINE",
+"471 -91 LINE",
+"473 -52 LINE"
+);
+}
+);
+width = 518;
 }
 );
 unicode = 01E5;
