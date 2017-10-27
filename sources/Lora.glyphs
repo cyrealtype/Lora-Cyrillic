@@ -43,7 +43,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-10-27 16:55:49 +0000";
+date = "2017-10-27 20:43:36 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -58926,7 +58926,7 @@ widthMetricsKey = space;
 unicode = 00A0;
 },
 {
-glyphname = CR;
+glyphname = nonmarkingreturn;
 layers = (
 {
 layerId = UUID0;
@@ -71144,20 +71144,6 @@ width = 904;
 unicode = 1C85;
 },
 {
-glyphname = nonmarkingreturn;
-layers = (
-{
-layerId = UUID0;
-width = 263;
-},
-{
-layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 263;
-}
-);
-widthMetricsKey = space;
-},
-{
 color = 4;
 glyphname = uniEFFD;
 layers = (
@@ -75163,5 +75149,5 @@ tH = 83;
 };
 };
 versionMajor = 2;
-versionMinor = 100;
+versionMinor = 101;
 }
