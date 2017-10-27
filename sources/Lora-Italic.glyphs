@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name \"(Lora)\".";
+copyright = "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name \"Lora\".";
 customParameters = (
 {
 name = licenseURL;
@@ -67458,6 +67458,20 @@ width = 904;
 }
 );
 unicode = 1C85;
+},
+{
+glyphname = nonmarkingreturn;
+layers = (
+{
+layerId = UUID0;
+width = 263;
+},
+{
+layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
+width = 263;
+}
+);
+widthMetricsKey = space;
 },
 {
 color = 4;
