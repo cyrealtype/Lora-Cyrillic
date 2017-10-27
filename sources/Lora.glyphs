@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+/hbar
+);
 classes = (
 {
 automatic = 1;
