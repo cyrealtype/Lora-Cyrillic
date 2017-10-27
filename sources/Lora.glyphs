@@ -282,7 +282,7 @@ value = -269;
 },
 {
 name = winDescent;
-value = 294;
+value = 284;
 },
 {
 name = hheaLineGap;
@@ -348,7 +348,7 @@ value = -274;
 },
 {
 name = winDescent;
-value = 294;
+value = 284;
 },
 {
 name = hheaLineGap;
@@ -66594,6 +66594,42 @@ width = 325;
 }
 );
 unicode = 0327;
+},
+{
+glyphname = ogonekcomb;
+layers = (
+{
+anchors = (
+{
+name = _ogonek;
+position = "{258, 0}";
+}
+);
+components = (
+{
+name = ogonek;
+}
+);
+layerId = UUID0;
+width = 315;
+},
+{
+anchors = (
+{
+name = _ogonek;
+position = "{270, 0}";
+}
+);
+components = (
+{
+name = ogonek;
+}
+);
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+width = 328;
+}
+);
+unicode = 0328;
 },
 {
 color = 6;
