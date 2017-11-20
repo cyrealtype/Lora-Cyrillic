@@ -26,18 +26,24 @@ To contribute to the project contact Alexei Vanyashin at
 a at cyreal.org
 
 Source files:
-— Lora-MM.glyphs (Roman weights)
-— Lora-Italic-MM.glyphs (Italic weights)
+— sources/Lora.glyphs (Roman weights)
+— sources/Lora-Italic.glyphs (Italic weights)
 
 ChangeLog
 
-20 July 2011 (Olga Karpushina) Lora v. 1.000
-— Completed initial design
+16 July 2016 (Alexei Vanyashin) Lora v. 1.016
+— fixed issue #1 (italic style not working in MS Word)
 
-30 May 2013 (Alexei Vanyashin) Lora v. 1.011
-— Extended character set in all four fonts to include
-Adobe Latin-3, and GWF Standard Cyrillic encodings.
-— Equalized vertical metrics across the styles
+25 May 2016 (Alexei Vanyashin) Lora v. 1.015
+— enlonged emdashes as per issue https://github.com/google/fonts/issues/217#issuecomment-221395327
+— added Esperanto support as per request form fishque.com
+
+12 August 2013 (Alexei Vanyashin) Lora v. 1.014
+— equalised nbsp, sp, noBreak, nonmarkingreturn advance widths 
+
+26 June 2013 (Alexei Vanyashin) Lora v. 1.013
+— Fixed hinting issue
+— Minor design fixes
 
 19 June 2013 (Alexei Vanyashin) Lora v. 1012
 — Merged previous hinted version v. 1.000 with
@@ -45,31 +51,25 @@ additional autohinted glyphs.
 — Improved kerning
 — Adjusted glyphs with caron accent
 
-26 June 2013 (Alexei Vanyashin) Lora v. 1.013
-— Fixed hinting issue
-— Minor design fixes
+30 May 2013 (Alexei Vanyashin) Lora v. 1.011
+— Extended character set in all four fonts to include
+Adobe Latin-3, and GWF Standard Cyrillic encodings.
+— Equalized vertical metrics across the styles
 
-12 August 2013 (Alexei Vanyashin) Lora v. 1.014
-— equalised nbsp, sp, noBreak, nonmarkingreturn advance widths 
-
-25 May 2016 (Alexei Vanyashin) Lora v. 1.015
-— enlonged emdashes as per issue https://github.com/google/fonts/issues/217#issuecomment-221395327
-— added Esperanto support as per request form fishque.com
-
-16 July 2016 (Alexei Vanyashin) Lora v. 1.016
-— fixed issue #1 (italic style not working in MS Word)
+20 July 2011 (Olga Karpushina) Lora v. 1.000
+— Completed initial design
+— Manualy hinted in VFB format
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
 This list is in alphabetical order.
-
-N: Olga Karpushina
-E: okarpush at gmail.com
-W: www.cyreal.org
-D: Original Author
 
 N: Alexei Vanyashin
 E: a at cyreal.org
 W: www.cyreal.org
 D: Designer of Cyrillic, Mastering
 
+N: Olga Karpushina
+E: okarpush at gmail.com
+W: www.cyreal.org
+D: Original Author
