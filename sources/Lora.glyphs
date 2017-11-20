@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+A
+);
 classes = (
 {
 automatic = 1;
@@ -71354,6 +71357,15 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 name = Regular;
+},
+{
+interpolationWeight = 500;
+instanceInterpolations = {
+"4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = 0.33333;
+UUID0 = 0.66667;
+};
+name = Medium;
+weightClass = Medium;
 },
 {
 interpolationWeight = 700;
