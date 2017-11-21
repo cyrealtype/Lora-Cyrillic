@@ -31,6 +31,20 @@ Source files:
 
 ChangeLog
 
+21 November 2017 (Alexei Vanyashin) Lora v. 2.103
+— added uni02BB, fixes #22
+
+30 October 2017 (Alexei Vanyashin) Lora v. 2.102
+— Added Latin-B glyphs
+— Revised Schwa
+— Merged Mark Foley's win asc fix
+
+3 October 2016 (Nhung Nguyen)
+— Revised Vietnamese glyphs
+
+29 September 2016 (Olga Karpushina) Lora v. 2.000
+— Expansion to GF Cyrilic Pro, and locl
+
 16 July 2016 (Alexei Vanyashin) Lora v. 1.016
 — fixed issue #1 (italic style not working in MS Word)
 
