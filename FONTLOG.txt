@@ -35,7 +35,7 @@ ChangeLog
 — added uni02BB, fixes #22
 
 30 October 2017 (Alexei Vanyashin) Lora v. 2.102
-— Added Latin-B glyphs
+— Added Latin-B glyphs ǍĊĔƷǮǦǤĦȞĬǨĿŊŎǾẞƏŦǓǎċĕəʒǯǧǥħȟĭǩŀŋŏǿſŧǔÅK‐⟨⟩⁒′″
 — Revised Schwa
 — Merged Mark Foley's win asc fix
 
