@@ -46,7 +46,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-10-30 09:19:04 +0000";
+date = "2017-11-21 07:56:52 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -75364,5 +75364,5 @@ tH = 83;
 };
 };
 versionMajor = 2;
-versionMinor = 102;
+versionMinor = 103;
 }
