@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-A
+"n/commaturnedmod n"
 );
 classes = (
 {
@@ -68119,6 +68119,32 @@ width = 202;
 }
 );
 unicode = 02BC;
+},
+{
+glyphname = commaturnedmod;
+layers = (
+{
+components = (
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 258, 642}";
+}
+);
+layerId = UUID0;
+width = 253;
+},
+{
+components = (
+{
+name = comma;
+transform = "{-1, 0, 0, -1, 258, 682}";
+}
+);
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+width = 250;
+}
+);
+unicode = 02BB;
 },
 {
 color = 4;
