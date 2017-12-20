@@ -71,8 +71,6 @@ feature locl;
 feature sups;
 feature frac;
 feature ordn;
-feature lnum;
-feature onum;
 feature case;
 ";
 name = aalt;
@@ -82,10 +80,10 @@ automatic = 1;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb strokelongcomb strokeshortcomb];
-	sub [i]' @CombiningTopAccents by [idotless];
-	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
-	@Markscomb = [dieresiscomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb cedillacomb];
-	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case cedillacomb.case];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb cedillacomb brevecomb-cy];
+	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case cedillacomb.case brevecomb-cy.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_1;
@@ -194,36 +192,6 @@ name = ordn;
 },
 {
 automatic = 1;
-code = "sub zero.osf by zero;
-sub one.osf by one;
-sub two.osf by two;
-sub three.osf by three;
-sub four.osf by four;
-sub five.osf by five;
-sub six.osf by six;
-sub seven.osf by seven;
-sub eight.osf by eight;
-sub nine.osf by nine;
-";
-name = lnum;
-},
-{
-automatic = 1;
-code = "sub zero by zero.osf;
-sub one by one.osf;
-sub two by two.osf;
-sub three by three.osf;
-sub four by four.osf;
-sub five by five.osf;
-sub six by six.osf;
-sub seven by seven.osf;
-sub eight by eight.osf;
-sub nine by nine.osf;
-";
-name = onum;
-},
-{
-automatic = 1;
 code = "sub dieresiscomb by dieresiscomb.case;
 sub gravecomb by gravecomb.case;
 sub acutecomb by acutecomb.case;
@@ -234,6 +202,7 @@ sub brevecomb by brevecomb.case;
 sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
 sub cedillacomb by cedillacomb.case;
+sub brevecomb-cy by brevecomb-cy.case;
 ";
 name = case;
 },
@@ -15613,6 +15582,7 @@ rightKerningGroup = i;
 unicode = 006A;
 },
 {
+color = 4;
 glyphname = jdotless;
 layers = (
 {
@@ -25109,7 +25079,7 @@ name = "U-cy";
 },
 {
 name = "brevecomb-cy.case";
-transform = "{1, 0, 0, 1, 94, 0}";
+transform = "{1, 0, 0, 1, 114, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -34288,7 +34258,7 @@ name = "U-cy";
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 143, 200}";
+transform = "{1, 0, 0, 1, 163, 200}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -34323,7 +34293,7 @@ name = "U-cy";
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 117, 200}";
+transform = "{1, 0, 0, 1, 137, 200}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -34475,7 +34445,7 @@ rightKerningGroup = I;
 unicode = 04F8;
 },
 {
-color = 0;
+color = 6;
 glyphname = "Gestrokehook-cy";
 layers = (
 {
@@ -36119,95 +36089,6 @@ rightKerningGroup = C;
 },
 {
 color = 6;
-export = 0;
-glyphname = "Ii-cy.loclBGR";
-layers = (
-{
-components = (
-{
-name = "Ii-cy";
-}
-);
-layerId = UUID0;
-width = 790;
-},
-{
-components = (
-{
-name = "Ii-cy";
-}
-);
-layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 819;
-}
-);
-leftKerningGroup = I;
-rightKerningGroup = I;
-},
-{
-color = 6;
-export = 0;
-glyphname = "Iishort-cy.loclBGR";
-layers = (
-{
-components = (
-{
-name = "Ii-cy.loclBGR";
-},
-{
-name = "brevecomb-cy.case";
-transform = "{1, 0, 0, 1, 193, 0}";
-}
-);
-layerId = UUID0;
-width = 790;
-},
-{
-components = (
-{
-name = "Ii-cy.loclBGR";
-},
-{
-name = "brevecomb-cy.case";
-transform = "{1, 0, 0, 1, 172, 0}";
-}
-);
-layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 819;
-}
-);
-leftKerningGroup = I;
-rightKerningGroup = I;
-},
-{
-color = 6;
-export = 0;
-glyphname = "Iigrave-cy.loclBGR";
-layers = (
-{
-components = (
-{
-name = "Iigrave-cy";
-}
-);
-layerId = UUID0;
-width = 790;
-},
-{
-components = (
-{
-name = "Iigrave-cy";
-}
-);
-layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 819;
-}
-);
-leftKerningGroup = I;
-rightKerningGroup = I;
-},
-{
-color = 6;
 glyphname = "a-cy";
 layers = (
 {
@@ -36743,7 +36624,7 @@ name = "ge-cy";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 202, 0}";
+transform = "{1, 0, 0, 1, 122, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -47571,7 +47452,7 @@ name = "ie-cy";
 },
 {
 name = "brevecomb-cy";
-transform = "{1, 0, 0, 1, 75, 0}";
+transform = "{1, 0, 0, 1, 77, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -48953,7 +48834,7 @@ rightKerningGroup = u;
 unicode = 04F9;
 },
 {
-color = 0;
+color = 6;
 glyphname = "gestrokehook-cy";
 layers = (
 {
@@ -69690,7 +69571,7 @@ width = 120;
 );
 },
 {
-color = 6;
+color = 10;
 export = 0;
 glyphname = "__verticalbar-cy";
 layers = (
@@ -69752,7 +69633,7 @@ width = 144;
 );
 },
 {
-color = 6;
+color = 10;
 export = 0;
 glyphname = "__verticalbar-cy.case";
 layers = (
