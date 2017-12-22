@@ -27,6 +27,10 @@ name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
+name = trademark;
+value = "Lora is a trademark of Cyreal.";
+},
+{
 name = "Use Typo Metrics";
 value = 1;
 },
@@ -35,12 +39,12 @@ name = "Disable Last Change";
 value = 1;
 },
 {
-name = trademark;
-value = "Lora is a trademark of Cyreal.";
-},
-{
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = "TTFAutohint options";
+value = "--strong-stem-width=GD";
 }
 );
 date = "2017-11-21 07:56:52 +0000";
