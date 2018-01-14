@@ -13269,7 +13269,7 @@ name = "dzeabkhasian-cy";
 }
 );
 layerId = UUID0;
-width = 470;
+width = 440;
 },
 {
 anchors = (
@@ -13376,7 +13376,7 @@ transform = "{1, 0, 0, 1, 57, 0}";
 }
 );
 layerId = UUID0;
-width = 470;
+width = 440;
 }
 );
 unicode = 01EF;
@@ -19127,9 +19127,7 @@ nodes = (
 "107 500 OFFCURVE",
 "25 500 CURVE",
 "22 458 LINE",
-"52 458 OFFCURVE",
-"81 459 OFFCURVE",
-"111 459 CURVE",
+"111 459 LINE",
 "94 315 OFFCURVE",
 "85 182 OFFCURVE",
 "85 107 CURVE SMOOTH",
@@ -19181,9 +19179,7 @@ nodes = (
 "126 500 OFFCURVE",
 "27 500 CURVE",
 "18 427 LINE",
-"37 427 OFFCURVE",
-"71 428 OFFCURVE",
-"98 428 CURVE",
+"98 428 LINE",
 "87 333 OFFCURVE",
 "78 219 OFFCURVE",
 "75 151 CURVE SMOOTH",
@@ -20912,7 +20908,7 @@ name = y;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 145, 0}";
+transform = "{1, 0, 0, 1, 294, 0}";
 }
 );
 layerId = UUID0;
@@ -21914,7 +21910,6 @@ width = 368;
 unicode = 00BA;
 },
 {
-color = 6;
 glyphname = "A-cy";
 layers = (
 {
@@ -21953,7 +21948,6 @@ rightKerningGroup = A;
 unicode = 0410;
 },
 {
-color = 6;
 glyphname = "Be-cy";
 layers = (
 {
@@ -22088,7 +22082,6 @@ rightKerningGroup = "Be-cy";
 unicode = 0411;
 },
 {
-color = 6;
 glyphname = "Ve-cy";
 layers = (
 {
@@ -22115,7 +22108,6 @@ rightKerningGroup = B;
 unicode = 0412;
 },
 {
-color = 6;
 glyphname = "Ge-cy";
 layers = (
 {
@@ -22236,7 +22228,6 @@ rightKerningGroup = "Ge-cy";
 unicode = 0413;
 },
 {
-color = 6;
 glyphname = "Gje-cy";
 layers = (
 {
@@ -22271,7 +22262,6 @@ rightKerningGroup = "Ge-cy";
 unicode = 0403;
 },
 {
-color = 6;
 glyphname = "Gheupturn-cy";
 layers = (
 {
@@ -22356,7 +22346,6 @@ rightKerningGroup = "Ge-cy";
 unicode = 0490;
 },
 {
-color = 6;
 glyphname = "De-cy";
 layers = (
 {
@@ -22492,7 +22481,6 @@ rightKerningGroup = "Tse-cy";
 unicode = 0414;
 },
 {
-color = 6;
 glyphname = "De-cy.loclBGR";
 layers = (
 {
@@ -22621,7 +22609,6 @@ rightKerningGroup = A;
 rightMetricsKey = A;
 },
 {
-color = 6;
 glyphname = "Ie-cy";
 layers = (
 {
@@ -22660,7 +22647,6 @@ rightKerningGroup = E;
 unicode = 0415;
 },
 {
-color = 6;
 glyphname = "Iegrave-cy";
 layers = (
 {
@@ -22695,7 +22681,6 @@ rightKerningGroup = E;
 unicode = 0400;
 },
 {
-color = 6;
 glyphname = "Io-cy";
 layers = (
 {
@@ -22722,7 +22707,6 @@ rightKerningGroup = E;
 unicode = 0401;
 },
 {
-color = 6;
 glyphname = "Zhe-cy";
 layers = (
 {
@@ -22959,7 +22943,6 @@ rightMetricsKey = "Ka-cy";
 unicode = 0416;
 },
 {
-color = 6;
 glyphname = "Ze-cy";
 layers = (
 {
@@ -23169,7 +23152,6 @@ rightMetricsKey = B;
 unicode = 0417;
 },
 {
-color = 6;
 glyphname = "Ii-cy";
 layers = (
 {
@@ -23348,7 +23330,6 @@ rightKerningGroup = H;
 unicode = 0418;
 },
 {
-color = 6;
 glyphname = "Iishort-cy";
 layers = (
 {
@@ -23383,7 +23364,6 @@ rightKerningGroup = H;
 unicode = 0419;
 },
 {
-color = 6;
 glyphname = "Iigrave-cy";
 layers = (
 {
@@ -23418,7 +23398,6 @@ rightKerningGroup = H;
 unicode = 040D;
 },
 {
-color = 6;
 glyphname = "Iishorttail-cy";
 layers = (
 {
@@ -23463,7 +23442,6 @@ rightMetricsKey = "Shcha-cy";
 unicode = 048A;
 },
 {
-color = 6;
 glyphname = "Ka-cy";
 layers = (
 {
@@ -23518,7 +23496,6 @@ rightKerningGroup = K;
 unicode = 041A;
 },
 {
-color = 6;
 glyphname = "Kje-cy";
 layers = (
 {
@@ -23553,7 +23530,6 @@ rightKerningGroup = K;
 unicode = 040C;
 },
 {
-color = 6;
 glyphname = "El-cy";
 layers = (
 {
@@ -23695,7 +23671,6 @@ rightMetricsKey = "En-cy";
 unicode = 041B;
 },
 {
-color = 6;
 glyphname = "El-cy.loclBGR";
 layers = (
 {
@@ -23791,7 +23766,6 @@ rightKerningGroup = A;
 rightMetricsKey = A;
 },
 {
-color = 6;
 glyphname = "Em-cy";
 layers = (
 {
@@ -23830,7 +23804,6 @@ rightKerningGroup = M;
 unicode = 041C;
 },
 {
-color = 6;
 glyphname = "En-cy";
 layers = (
 {
@@ -23870,7 +23843,6 @@ rightMetricsKey = auto;
 unicode = 041D;
 },
 {
-color = 6;
 glyphname = "O-cy";
 layers = (
 {
@@ -23917,7 +23889,6 @@ rightKerningGroup = O;
 unicode = 041E;
 },
 {
-color = 6;
 glyphname = "Pe-cy";
 layers = (
 {
@@ -24055,7 +24026,6 @@ rightMetricsKey = "En-cy";
 unicode = 041F;
 },
 {
-color = 6;
 glyphname = "Er-cy";
 layers = (
 {
@@ -24082,7 +24052,6 @@ rightKerningGroup = P;
 unicode = 0420;
 },
 {
-color = 6;
 glyphname = "Es-cy";
 layers = (
 {
@@ -24121,7 +24090,6 @@ rightKerningGroup = C;
 unicode = 0421;
 },
 {
-color = 6;
 glyphname = "Te-cy";
 layers = (
 {
@@ -24148,7 +24116,6 @@ rightKerningGroup = T;
 unicode = 0422;
 },
 {
-color = 6;
 glyphname = "U-cy";
 layers = (
 {
@@ -24289,7 +24256,6 @@ rightKerningGroup = "U-cy";
 unicode = 0423;
 },
 {
-color = 6;
 glyphname = "Ushort-cy";
 layers = (
 {
@@ -24324,7 +24290,6 @@ rightKerningGroup = "U-cy";
 unicode = 040E;
 },
 {
-color = 6;
 glyphname = "Ef-cy";
 layers = (
 {
@@ -24477,7 +24442,6 @@ rightMetricsKey = O;
 unicode = 0424;
 },
 {
-color = 6;
 glyphname = "Ef-cy.loclBGR";
 layers = (
 {
@@ -24747,7 +24711,6 @@ rightKerningGroup = O;
 rightMetricsKey = O;
 },
 {
-color = 6;
 glyphname = "Ha-cy";
 layers = (
 {
@@ -24774,7 +24737,6 @@ rightKerningGroup = X;
 unicode = 0425;
 },
 {
-color = 6;
 glyphname = "Che-cy";
 layers = (
 {
@@ -24996,7 +24958,6 @@ rightKerningGroup = H;
 unicode = 0427;
 },
 {
-color = 6;
 glyphname = "Tse-cy";
 layers = (
 {
@@ -25126,7 +25087,6 @@ rightKerningGroup = "Tse-cy";
 unicode = 0426;
 },
 {
-color = 6;
 glyphname = "Sha-cy";
 layers = (
 {
@@ -25295,7 +25255,6 @@ rightMetricsKey = "En-cy";
 unicode = 0428;
 },
 {
-color = 6;
 glyphname = "Shcha-cy";
 layers = (
 {
@@ -25352,7 +25311,6 @@ rightMetricsKey = "=Tse-cy";
 unicode = 0429;
 },
 {
-color = 6;
 glyphname = "Dzhe-cy";
 layers = (
 {
@@ -25411,7 +25369,6 @@ rightMetricsKey = "En-cy";
 unicode = 040F;
 },
 {
-color = 6;
 glyphname = "Softsign-cy";
 layers = (
 {
@@ -25537,7 +25494,6 @@ rightKerningGroup = "Softsign-cy";
 unicode = 042C;
 },
 {
-color = 6;
 glyphname = "Hardsign-cy";
 layers = (
 {
@@ -25668,7 +25624,6 @@ rightMetricsKey = "Softsign-cy";
 unicode = 042A;
 },
 {
-color = 6;
 glyphname = "Yeru-cy";
 layers = (
 {
@@ -25819,7 +25774,6 @@ rightMetricsKey = "En-cy";
 unicode = 042B;
 },
 {
-color = 6;
 glyphname = "Lje-cy";
 layers = (
 {
@@ -26065,7 +26019,6 @@ rightMetricsKey = "Softsign-cy";
 unicode = 0409;
 },
 {
-color = 6;
 glyphname = "Nje-cy";
 layers = (
 {
@@ -26161,7 +26114,6 @@ rightMetricsKey = "Softsign-cy";
 unicode = 040A;
 },
 {
-color = 6;
 glyphname = "Dze-cy";
 layers = (
 {
@@ -26188,7 +26140,6 @@ rightKerningGroup = S;
 unicode = 0405;
 },
 {
-color = 6;
 glyphname = "E-cy";
 layers = (
 {
@@ -26314,7 +26265,6 @@ rightKerningGroup = C;
 unicode = 0404;
 },
 {
-color = 6;
 glyphname = "Ereversed-cy";
 layers = (
 {
@@ -26487,7 +26437,6 @@ rightMetricsKey = "=O";
 unicode = 042D;
 },
 {
-color = 6;
 glyphname = "I-cy";
 layers = (
 {
@@ -26514,7 +26463,6 @@ rightKerningGroup = H;
 unicode = 0406;
 },
 {
-color = 6;
 glyphname = "Yi-cy";
 layers = (
 {
@@ -26549,7 +26497,6 @@ rightKerningGroup = H;
 unicode = 0407;
 },
 {
-color = 6;
 glyphname = "Je-cy";
 layers = (
 {
@@ -26576,7 +26523,6 @@ rightKerningGroup = J;
 unicode = 0408;
 },
 {
-color = 6;
 glyphname = "Tshe-cy";
 layers = (
 {
@@ -26667,7 +26613,6 @@ rightMetricsKey = "=|Che-cy";
 unicode = 040B;
 },
 {
-color = 6;
 glyphname = "Iu-cy";
 layers = (
 {
@@ -26816,7 +26761,6 @@ rightMetricsKey = O;
 unicode = 042E;
 },
 {
-color = 6;
 glyphname = "Ia-cy";
 layers = (
 {
@@ -27022,7 +26966,6 @@ rightMetricsKey = "En-cy";
 unicode = 042F;
 },
 {
-color = 6;
 glyphname = "Dje-cy";
 layers = (
 {
@@ -27407,7 +27350,6 @@ rightKerningGroup = "Tshe-cy";
 unicode = 0402;
 },
 {
-color = 6;
 glyphname = "Yat-cy";
 layers = (
 {
@@ -27640,7 +27582,6 @@ rightKerningGroup = "Softsign-cy";
 unicode = 0462;
 },
 {
-color = 6;
 glyphname = "Yusbig-cy";
 layers = (
 {
@@ -28018,7 +27959,6 @@ rightMetricsKey = "=Zhe-cy";
 unicode = 046A;
 },
 {
-color = 6;
 glyphname = "Fita-cy";
 layers = (
 {
@@ -28139,7 +28079,6 @@ rightMetricsKey = O;
 unicode = 0472;
 },
 {
-color = 6;
 glyphname = "Izhitsa-cy";
 layers = (
 {
@@ -28318,7 +28257,6 @@ rightKerningGroup = V;
 unicode = 0474;
 },
 {
-color = 6;
 glyphname = "Ghestroke-cy";
 layers = (
 {
@@ -28377,7 +28315,6 @@ rightMetricsKey = "=Ge-cy";
 unicode = 0492;
 },
 {
-color = 6;
 glyphname = "Ghestroke-cy.loclBSH";
 layers = (
 {
@@ -28403,7 +28340,6 @@ leftKerningGroup = H;
 rightKerningGroup = F;
 },
 {
-color = 6;
 glyphname = "Ghemiddlehook-cy";
 layers = (
 {
@@ -28532,7 +28468,6 @@ rightKerningGroup = "Tshe-cy";
 unicode = 0494;
 },
 {
-color = 6;
 glyphname = "Zhedescender-cy";
 layers = (
 {
@@ -28774,7 +28709,6 @@ rightKerningGroup = "Kadescender-cy";
 unicode = 0496;
 },
 {
-color = 6;
 glyphname = "Zedescender-cy";
 layers = (
 {
@@ -28823,7 +28757,6 @@ rightKerningGroup = B;
 unicode = 0498;
 },
 {
-color = 6;
 glyphname = "Zedescender-cy.loclBSH";
 layers = (
 {
@@ -28903,7 +28836,6 @@ rightKerningGroup = B;
 rightMetricsKey = "=Ze-cy";
 },
 {
-color = 6;
 glyphname = "Kadescender-cy";
 layers = (
 {
@@ -29133,7 +29065,6 @@ rightMetricsKey = "=Zhe-cy";
 unicode = 049A;
 },
 {
-color = 6;
 glyphname = "Kaverticalstroke-cy";
 layers = (
 {
@@ -29468,7 +29399,6 @@ rightMetricsKey = "=K";
 unicode = 049C;
 },
 {
-color = 6;
 glyphname = "Kastroke-cy";
 layers = (
 {
@@ -29520,7 +29450,6 @@ rightMetricsKey = K;
 unicode = 049E;
 },
 {
-color = 6;
 glyphname = "Kabashkir-cy";
 layers = (
 {
@@ -29675,7 +29604,6 @@ rightMetricsKey = "Ka-cy";
 unicode = 04A0;
 },
 {
-color = 6;
 glyphname = "Endescender-cy";
 layers = (
 {
@@ -29732,7 +29660,6 @@ rightMetricsKey = "=Tse-cy";
 unicode = 04A2;
 },
 {
-color = 6;
 glyphname = "Enghe-cy";
 layers = (
 {
@@ -29897,7 +29824,6 @@ rightMetricsKey = "Ge-cy";
 unicode = 04A4;
 },
 {
-color = 6;
 glyphname = "Pemiddlehook-cy";
 layers = (
 {
@@ -29991,7 +29917,6 @@ rightKerningGroup = "Dje-cy";
 unicode = 04A6;
 },
 {
-color = 6;
 glyphname = "Pedescender-cy";
 layers = (
 {
@@ -30055,7 +29980,6 @@ rightMetricsKey = "=Tse-cy";
 unicode = 0524;
 },
 {
-color = 6;
 glyphname = "Haabkhasian-cy";
 layers = (
 {
@@ -30365,7 +30289,6 @@ rightKerningGroup = O;
 unicode = 04A8;
 },
 {
-color = 6;
 glyphname = "Esdescender-cy";
 layers = (
 {
@@ -30414,7 +30337,6 @@ rightKerningGroup = C;
 unicode = 04AA;
 },
 {
-color = 6;
 glyphname = "Esdescender-cy.loclBSH";
 layers = (
 {
@@ -30492,7 +30414,6 @@ leftKerningGroup = O;
 rightKerningGroup = C;
 },
 {
-color = 6;
 glyphname = "Esdescender-cy.loclCHU";
 layers = (
 {
@@ -30518,7 +30439,6 @@ leftKerningGroup = O;
 rightKerningGroup = C;
 },
 {
-color = 6;
 glyphname = "Tedescender-cy";
 layers = (
 {
@@ -30582,7 +30502,6 @@ rightMetricsKey = T;
 unicode = 04AC;
 },
 {
-color = 6;
 glyphname = "Ustrait-cy";
 layers = (
 {
@@ -30609,7 +30528,6 @@ rightKerningGroup = Y;
 unicode = 04AE;
 },
 {
-color = 6;
 glyphname = "Ustraitstroke-cy";
 layers = (
 {
@@ -30660,7 +30578,6 @@ rightMetricsKey = "=Y";
 unicode = 04B0;
 },
 {
-color = 6;
 glyphname = "Hadescender-cy";
 layers = (
 {
@@ -30723,7 +30640,6 @@ rightKerningGroup = X;
 unicode = 04B2;
 },
 {
-color = 6;
 glyphname = "Tetse-cy";
 layers = (
 {
@@ -30854,7 +30770,6 @@ rightMetricsKey = "Shcha-cy";
 unicode = 04B4;
 },
 {
-color = 6;
 glyphname = "Chedescender-cy";
 layers = (
 {
@@ -30911,7 +30826,6 @@ rightMetricsKey = "=Tse-cy";
 unicode = 04B6;
 },
 {
-color = 6;
 glyphname = "Cheverticalstroke-cy";
 layers = (
 {
@@ -30960,7 +30874,6 @@ rightKerningGroup = H;
 unicode = 04B8;
 },
 {
-color = 6;
 glyphname = "Shha-cy";
 layers = (
 {
@@ -30989,7 +30902,6 @@ rightKerningGroup = "Tshe-cy";
 unicode = 04BA;
 },
 {
-color = 6;
 glyphname = "Shhadescender-cy";
 layers = (
 {
@@ -31047,7 +30959,6 @@ rightKerningGroup = "Shhadescender-cy";
 unicode = 0526;
 },
 {
-color = 6;
 glyphname = "EnLeftHook-cy";
 layers = (
 {
@@ -31229,7 +31140,6 @@ rightMetricsKey = "=H";
 unicode = 0528;
 },
 {
-color = 6;
 glyphname = "Eldescender-cy";
 layers = (
 {
@@ -31286,7 +31196,6 @@ rightMetricsKey = "=Tse-cy";
 unicode = 052E;
 },
 {
-color = 6;
 glyphname = "Cheabkhasian-cy";
 layers = (
 {
@@ -31433,7 +31342,6 @@ rightKerningGroup = O;
 unicode = 04BC;
 },
 {
-color = 6;
 glyphname = "Chedescenderabkhasian-cy";
 layers = (
 {
@@ -31485,7 +31393,6 @@ rightMetricsKey = "Cheabkhasian-cy";
 unicode = 04BE;
 },
 {
-color = 6;
 glyphname = "Palochka-cy";
 layers = (
 {
@@ -31512,7 +31419,6 @@ rightKerningGroup = H;
 unicode = 04C0;
 },
 {
-color = 6;
 glyphname = "Zhebreve-cy";
 layers = (
 {
@@ -31547,7 +31453,6 @@ rightKerningGroup = K;
 unicode = 04C1;
 },
 {
-color = 6;
 glyphname = "Kahook-cy";
 layers = (
 {
@@ -31758,7 +31663,6 @@ rightKerningGroup = "Kahook-cy";
 unicode = 04C3;
 },
 {
-color = 6;
 glyphname = "Eltail-cy";
 layers = (
 {
@@ -31795,7 +31699,6 @@ rightMetricsKey = "=Tse-cy";
 unicode = 04C5;
 },
 {
-color = 6;
 glyphname = "Enhook-cy";
 layers = (
 {
@@ -32032,7 +31935,6 @@ rightMetricsKey = H;
 unicode = 04C7;
 },
 {
-color = 6;
 glyphname = "Entail-cy";
 layers = (
 {
@@ -32069,7 +31971,6 @@ rightMetricsKey = "=Tse-cy";
 unicode = 04C9;
 },
 {
-color = 6;
 glyphname = "Chekhakassian-cy";
 layers = (
 {
@@ -32258,7 +32159,6 @@ rightMetricsKey = "=Che-cy";
 unicode = 04CB;
 },
 {
-color = 6;
 glyphname = "Emtail-cy";
 layers = (
 {
@@ -32294,7 +32194,6 @@ rightKerningGroup = M;
 unicode = 04CD;
 },
 {
-color = 6;
 glyphname = "Abreve-cy";
 layers = (
 {
@@ -32329,7 +32228,6 @@ rightKerningGroup = A;
 unicode = 04D0;
 },
 {
-color = 6;
 glyphname = "Adieresis-cy";
 layers = (
 {
@@ -32364,7 +32262,6 @@ rightKerningGroup = A;
 unicode = 04D2;
 },
 {
-color = 6;
 glyphname = "Aie-cy";
 layers = (
 {
@@ -32393,7 +32290,6 @@ rightMetricsKey = AE;
 unicode = 04D4;
 },
 {
-color = 6;
 glyphname = "Iebreve-cy";
 layers = (
 {
@@ -32428,7 +32324,6 @@ rightKerningGroup = E;
 unicode = 04D6;
 },
 {
-color = 6;
 glyphname = "Schwa-cy";
 layers = (
 {
@@ -32542,7 +32437,6 @@ rightMetricsKey = "=O";
 unicode = 04D8;
 },
 {
-color = 6;
 glyphname = "Schwadieresis-cy";
 layers = (
 {
@@ -32578,7 +32472,6 @@ rightMetricsKey = "=O";
 unicode = 04DA;
 },
 {
-color = 6;
 glyphname = "Zhedieresis-cy";
 layers = (
 {
@@ -32613,7 +32506,6 @@ rightKerningGroup = K;
 unicode = 04DC;
 },
 {
-color = 6;
 glyphname = "Zedieresis-cy";
 layers = (
 {
@@ -32648,7 +32540,6 @@ rightKerningGroup = B;
 unicode = 04DE;
 },
 {
-color = 6;
 glyphname = "Dzeabkhasian-cy";
 layers = (
 {
@@ -32821,7 +32712,6 @@ rightKerningGroup = B;
 unicode = 04E0;
 },
 {
-color = 6;
 glyphname = "Imacron-cy";
 layers = (
 {
@@ -32856,7 +32746,6 @@ rightKerningGroup = H;
 unicode = 04E2;
 },
 {
-color = 6;
 glyphname = "Idieresis-cy";
 layers = (
 {
@@ -32891,7 +32780,6 @@ rightKerningGroup = H;
 unicode = 04E4;
 },
 {
-color = 6;
 glyphname = "Odieresis-cy";
 layers = (
 {
@@ -32926,7 +32814,6 @@ rightKerningGroup = O;
 unicode = 04E6;
 },
 {
-color = 6;
 glyphname = "Obarred-cy";
 layers = (
 {
@@ -32987,7 +32874,6 @@ rightKerningGroup = O;
 unicode = 04E8;
 },
 {
-color = 6;
 glyphname = "Obarreddieresis-cy";
 layers = (
 {
@@ -33022,7 +32908,6 @@ rightKerningGroup = O;
 unicode = 04EA;
 },
 {
-color = 6;
 glyphname = "Edieresis-cy";
 layers = (
 {
@@ -33058,7 +32943,6 @@ rightMetricsKey = "=O";
 unicode = 04EC;
 },
 {
-color = 6;
 glyphname = "Umacron-cy";
 layers = (
 {
@@ -33093,7 +32977,6 @@ rightKerningGroup = "U-cy";
 unicode = 04EE;
 },
 {
-color = 6;
 glyphname = "Udieresis-cy";
 layers = (
 {
@@ -33128,7 +33011,6 @@ rightKerningGroup = "U-cy";
 unicode = 04F0;
 },
 {
-color = 6;
 glyphname = "Uhungarumlaut-cy";
 layers = (
 {
@@ -33163,7 +33045,6 @@ rightKerningGroup = "U-cy";
 unicode = 04F2;
 },
 {
-color = 6;
 glyphname = "Chedieresis-cy";
 layers = (
 {
@@ -33198,7 +33079,6 @@ rightKerningGroup = H;
 unicode = 04F4;
 },
 {
-color = 6;
 glyphname = "Gedescender-cy";
 layers = (
 {
@@ -33255,7 +33135,6 @@ rightMetricsKey = "=Ge-cy";
 unicode = 04F6;
 },
 {
-color = 6;
 glyphname = "Yerudieresis-cy";
 layers = (
 {
@@ -33290,7 +33169,6 @@ rightKerningGroup = H;
 unicode = 04F8;
 },
 {
-color = 6;
 glyphname = "Gestrokehook-cy";
 layers = (
 {
@@ -33539,7 +33417,6 @@ rightMetricsKey = F;
 unicode = 04FA;
 },
 {
-color = 6;
 glyphname = "Hahook-cy";
 layers = (
 {
@@ -33845,7 +33722,6 @@ rightKerningGroup = X;
 unicode = 04FC;
 },
 {
-color = 6;
 glyphname = "Hastroke-cy";
 layers = (
 {
@@ -34018,7 +33894,6 @@ rightMetricsKey = "=X";
 unicode = 04FE;
 },
 {
-color = 6;
 glyphname = "Reversedze-cy";
 layers = (
 {
@@ -34137,7 +34012,6 @@ rightKerningGroup = C;
 unicode = 0510;
 },
 {
-color = 6;
 glyphname = "Elhook-cy";
 layers = (
 {
@@ -34370,7 +34244,6 @@ rightMetricsKey = "En-cy";
 unicode = 0512;
 },
 {
-color = 6;
 glyphname = "Qa-cy";
 layers = (
 {
@@ -34397,7 +34270,6 @@ rightKerningGroup = O;
 unicode = 051A;
 },
 {
-color = 6;
 glyphname = "We-cy";
 layers = (
 {
@@ -34424,7 +34296,6 @@ rightKerningGroup = W;
 unicode = 051C;
 },
 {
-color = 6;
 glyphname = "Semisoftsign-cy";
 layers = (
 {
@@ -34476,7 +34347,6 @@ rightMetricsKey = "=Softsign-cy";
 unicode = 048C;
 },
 {
-color = 6;
 glyphname = "Ertick-cy";
 layers = (
 {
@@ -34527,7 +34397,6 @@ rightMetricsKey = "=P";
 unicode = 048E;
 },
 {
-color = 6;
 glyphname = "a-cy";
 layers = (
 {
@@ -34566,7 +34435,6 @@ rightKerningGroup = a;
 unicode = 0430;
 },
 {
-color = 6;
 glyphname = "be-cy";
 layers = (
 {
@@ -34695,7 +34563,6 @@ rightKerningGroup = o;
 unicode = 0431;
 },
 {
-color = 6;
 glyphname = "be-cy.loclSRB";
 layers = (
 {
@@ -34956,7 +34823,6 @@ leftKerningGroup = "be-cy";
 rightKerningGroup = o;
 },
 {
-color = 6;
 glyphname = "ve-cy";
 layers = (
 {
@@ -35076,7 +34942,6 @@ rightKerningGroup = "ve-cy";
 unicode = 0432;
 },
 {
-color = 6;
 glyphname = "ve-cy.loclBGR";
 layers = (
 {
@@ -35328,7 +35193,6 @@ leftKerningGroup = "ve-cy.loclBGR";
 rightKerningGroup = o;
 },
 {
-color = 6;
 glyphname = "ge-cy";
 layers = (
 {
@@ -35557,7 +35421,6 @@ rightKerningGroup = s;
 unicode = 0433;
 },
 {
-color = 6;
 glyphname = "ge-cy.loclSRB";
 layers = (
 {
@@ -35619,7 +35482,6 @@ leftKerningGroup = u;
 rightKerningGroup = u;
 },
 {
-color = 6;
 glyphname = "gje-cy";
 layers = (
 {
@@ -35654,7 +35516,6 @@ rightKerningGroup = s;
 unicode = 0453;
 },
 {
-color = 6;
 glyphname = "gje-cy.loclMKD";
 layers = (
 {
@@ -35688,7 +35549,6 @@ leftKerningGroup = u;
 rightKerningGroup = u;
 },
 {
-color = 6;
 glyphname = "gheupturn-cy";
 layers = (
 {
@@ -35777,7 +35637,6 @@ rightKerningGroup = "ge-cy.alt";
 unicode = 0491;
 },
 {
-color = 6;
 glyphname = "de-cy";
 layers = (
 {
@@ -35893,7 +35752,6 @@ rightKerningGroup = o;
 unicode = 0434;
 },
 {
-color = 6;
 glyphname = "de-cy.loclBGR";
 layers = (
 {
@@ -35921,7 +35779,6 @@ rightKerningGroup = u;
 rightMetricsKey = "=g";
 },
 {
-color = 6;
 glyphname = "de-cy.loclSRB";
 layers = (
 {
@@ -35931,7 +35788,7 @@ name = "de-cy.loclBGR";
 }
 );
 layerId = UUID0;
-width = 522;
+width = 518;
 },
 {
 components = (
@@ -35947,7 +35804,6 @@ leftKerningGroup = o;
 rightKerningGroup = "ge-cy.loclSRB";
 },
 {
-color = 6;
 glyphname = "ie-cy";
 layers = (
 {
@@ -35986,7 +35842,6 @@ rightKerningGroup = e;
 unicode = 0435;
 },
 {
-color = 6;
 glyphname = "iegrave-cy";
 layers = (
 {
@@ -36021,7 +35876,6 @@ rightKerningGroup = e;
 unicode = 0450;
 },
 {
-color = 6;
 glyphname = "io-cy";
 layers = (
 {
@@ -36048,7 +35902,6 @@ rightKerningGroup = e;
 unicode = 0451;
 },
 {
-color = 6;
 glyphname = "zhe-cy";
 layers = (
 {
@@ -36321,7 +36174,6 @@ rightMetricsKey = c;
 unicode = 0436;
 },
 {
-color = 6;
 glyphname = "zhe-cy.loclBGR";
 layers = (
 {
@@ -36565,7 +36417,6 @@ rightKerningGroup = c;
 rightMetricsKey = "=zhe-cy";
 },
 {
-color = 6;
 glyphname = "ze-cy";
 layers = (
 {
@@ -36729,7 +36580,6 @@ rightMetricsKey = "ve-cy";
 unicode = 0437;
 },
 {
-color = 6;
 glyphname = "ze-cy.loclBGR";
 layers = (
 {
@@ -36869,7 +36719,6 @@ leftKerningGroup = "ze-cy";
 rightKerningGroup = "ze-cy.loclBGR";
 },
 {
-color = 6;
 glyphname = "ii-cy";
 layers = (
 {
@@ -36916,7 +36765,6 @@ rightKerningGroup = u;
 unicode = 0438;
 },
 {
-color = 6;
 glyphname = "iishort-cy";
 layers = (
 {
@@ -36951,7 +36799,6 @@ rightKerningGroup = u;
 unicode = 0439;
 },
 {
-color = 6;
 glyphname = "iigrave-cy";
 layers = (
 {
@@ -36986,7 +36833,6 @@ rightKerningGroup = u;
 unicode = 045D;
 },
 {
-color = 6;
 glyphname = "iishorttail-cy";
 layers = (
 {
@@ -37074,7 +36920,6 @@ rightKerningGroup = "tse-cy";
 unicode = 048B;
 },
 {
-color = 6;
 glyphname = "ka-cy";
 layers = (
 {
@@ -37298,7 +37143,6 @@ rightKerningGroup = "ka-cy";
 unicode = 043A;
 },
 {
-color = 6;
 glyphname = "ka-cy.loclBGR";
 layers = (
 {
@@ -37324,7 +37168,6 @@ leftKerningGroup = h;
 rightKerningGroup = k;
 },
 {
-color = 6;
 glyphname = "kje-cy";
 layers = (
 {
@@ -37359,7 +37202,6 @@ rightKerningGroup = "ka-cy";
 unicode = 045C;
 },
 {
-color = 6;
 glyphname = "el-cy";
 layers = (
 {
@@ -37485,7 +37327,6 @@ rightMetricsKey = "en-cy";
 unicode = 043B;
 },
 {
-color = 6;
 glyphname = "el-cy.loclBGR";
 layers = (
 {
@@ -37577,7 +37418,6 @@ width = 487;
 );
 },
 {
-color = 6;
 glyphname = "em-cy";
 layers = (
 {
@@ -37744,7 +37584,6 @@ rightMetricsKey = "en-cy";
 unicode = 043C;
 },
 {
-color = 6;
 glyphname = "en-cy";
 layers = (
 {
@@ -37907,7 +37746,6 @@ rightKerningGroup = u;
 unicode = 043D;
 },
 {
-color = 6;
 glyphname = "o-cy";
 layers = (
 {
@@ -37954,7 +37792,6 @@ rightKerningGroup = o;
 unicode = 043E;
 },
 {
-color = 6;
 glyphname = "pe-cy";
 layers = (
 {
@@ -37993,7 +37830,6 @@ rightKerningGroup = u;
 unicode = 043F;
 },
 {
-color = 6;
 glyphname = "pe-cy.loclSRB";
 layers = (
 {
@@ -38027,7 +37863,6 @@ leftKerningGroup = u;
 rightKerningGroup = u;
 },
 {
-color = 6;
 glyphname = "er-cy";
 layers = (
 {
@@ -38054,7 +37889,6 @@ rightKerningGroup = o;
 unicode = 0440;
 },
 {
-color = 6;
 glyphname = "es-cy";
 layers = (
 {
@@ -38093,7 +37927,6 @@ rightKerningGroup = c;
 unicode = 0441;
 },
 {
-color = 6;
 glyphname = "te-cy";
 layers = (
 {
@@ -38120,7 +37953,6 @@ rightKerningGroup = u;
 unicode = 0442;
 },
 {
-color = 6;
 glyphname = "te-cy.loclSRB";
 layers = (
 {
@@ -38168,7 +38000,6 @@ leftKerningGroup = u;
 rightKerningGroup = u;
 },
 {
-color = 6;
 glyphname = "u-cy";
 layers = (
 {
@@ -38207,7 +38038,6 @@ rightKerningGroup = y;
 unicode = 0443;
 },
 {
-color = 6;
 glyphname = "ushort-cy";
 layers = (
 {
@@ -38242,7 +38072,6 @@ rightKerningGroup = v;
 unicode = 045E;
 },
 {
-color = 6;
 glyphname = "ef-cy";
 layers = (
 {
@@ -38463,7 +38292,6 @@ rightMetricsKey = o;
 unicode = 0444;
 },
 {
-color = 6;
 glyphname = "ha-cy";
 layers = (
 {
@@ -38490,7 +38318,6 @@ rightKerningGroup = x;
 unicode = 0445;
 },
 {
-color = 6;
 glyphname = "che-cy";
 layers = (
 {
@@ -38669,7 +38496,6 @@ rightKerningGroup = u;
 unicode = 0447;
 },
 {
-color = 6;
 glyphname = "che-cy.loclBGR";
 layers = (
 {
@@ -38827,7 +38653,6 @@ rightKerningGroup = u;
 rightMetricsKey = "en-cy";
 },
 {
-color = 6;
 glyphname = "tse-cy";
 layers = (
 {
@@ -39018,7 +38843,7 @@ nodes = (
 );
 }
 );
-width = 644;
+width = 622;
 }
 );
 leftKerningGroup = u;
@@ -39026,7 +38851,6 @@ rightKerningGroup = "tse-cy";
 unicode = 0446;
 },
 {
-color = 6;
 glyphname = "sha-cy";
 layers = (
 {
@@ -39231,7 +39055,6 @@ rightKerningGroup = u;
 unicode = 0448;
 },
 {
-color = 6;
 glyphname = "shcha-cy";
 layers = (
 {
@@ -39308,7 +39131,6 @@ rightKerningGroup = "tse-cy";
 unicode = 0449;
 },
 {
-color = 6;
 glyphname = "dzhe-cy";
 layers = (
 {
@@ -39375,7 +39197,6 @@ rightKerningGroup = u;
 unicode = 045F;
 },
 {
-color = 6;
 glyphname = "softsign-cy";
 layers = (
 {
@@ -39490,7 +39311,6 @@ rightKerningGroup = "softsign-cy";
 unicode = 044C;
 },
 {
-color = 6;
 glyphname = "hardsign-cy";
 layers = (
 {
@@ -39708,7 +39528,6 @@ rightMetricsKey = "Softsign-cy";
 unicode = 044A;
 },
 {
-color = 6;
 glyphname = "yeru-cy";
 layers = (
 {
@@ -39814,7 +39633,6 @@ rightMetricsKey = "en-cy";
 unicode = 044B;
 },
 {
-color = 6;
 glyphname = "lje-cy";
 layers = (
 {
@@ -39975,7 +39793,6 @@ rightMetricsKey = "softsign-cy";
 unicode = 0459;
 },
 {
-color = 6;
 glyphname = "nje-cy";
 layers = (
 {
@@ -40163,7 +39980,6 @@ rightMetricsKey = "softsign-cy";
 unicode = 045A;
 },
 {
-color = 6;
 glyphname = "dze-cy";
 layers = (
 {
@@ -40190,7 +40006,6 @@ rightKerningGroup = s;
 unicode = 0455;
 },
 {
-color = 6;
 glyphname = "e-cy";
 layers = (
 {
@@ -40239,7 +40054,6 @@ rightKerningGroup = c;
 unicode = 0454;
 },
 {
-color = 6;
 glyphname = "ereversed-cy";
 layers = (
 {
@@ -40375,7 +40189,6 @@ rightMetricsKey = o;
 unicode = 044D;
 },
 {
-color = 6;
 glyphname = "i-cy";
 layers = (
 {
@@ -40402,7 +40215,6 @@ rightKerningGroup = i;
 unicode = 0456;
 },
 {
-color = 6;
 glyphname = "yi-cy";
 layers = (
 {
@@ -40437,7 +40249,6 @@ rightKerningGroup = i;
 unicode = 0457;
 },
 {
-color = 6;
 glyphname = "je-cy";
 layers = (
 {
@@ -40464,10 +40275,17 @@ rightKerningGroup = i;
 unicode = 0458;
 },
 {
-color = 6;
 glyphname = "tshe-cy";
 layers = (
 {
+background = {
+components = (
+{
+name = hbar;
+transform = "{1, 0, 0, 1, -10, 0}";
+}
+);
+};
 layerId = UUID0;
 paths = (
 {
@@ -40547,6 +40365,14 @@ nodes = (
 width = 576;
 },
 {
+background = {
+components = (
+{
+name = hbar;
+transform = "{1, 0, 0, 1, 60, 0}";
+}
+);
+};
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -40632,7 +40458,6 @@ rightMetricsKey = h;
 unicode = 045B;
 },
 {
-color = 6;
 glyphname = "iu-cy";
 layers = (
 {
@@ -40808,7 +40633,6 @@ rightMetricsKey = o;
 unicode = 044E;
 },
 {
-color = 6;
 glyphname = "iu-cy.loclBGR";
 layers = (
 {
@@ -40991,7 +40815,6 @@ rightKerningGroup = o;
 rightMetricsKey = "=o";
 },
 {
-color = 6;
 glyphname = "ia-cy";
 layers = (
 {
@@ -41163,7 +40986,6 @@ rightMetricsKey = "en-cy";
 unicode = 044F;
 },
 {
-color = 6;
 glyphname = "dje-cy";
 layers = (
 {
@@ -41396,7 +41218,6 @@ rightKerningGroup = u;
 unicode = 0452;
 },
 {
-color = 6;
 glyphname = "yat-cy";
 layers = (
 {
@@ -41575,7 +41396,6 @@ rightMetricsKey = "=softsign-cy";
 unicode = 0463;
 },
 {
-color = 6;
 glyphname = "yusbig-cy";
 layers = (
 {
@@ -41768,7 +41588,6 @@ rightKerningGroup = "yusbig-cy";
 unicode = 046B;
 },
 {
-color = 6;
 glyphname = "fita-cy";
 layers = (
 {
@@ -41865,7 +41684,6 @@ rightKerningGroup = o;
 unicode = 0473;
 },
 {
-color = 6;
 glyphname = "izhitsa-cy";
 layers = (
 {
@@ -42047,7 +41865,6 @@ rightKerningGroup = "izhitsa-cy";
 unicode = 0475;
 },
 {
-color = 6;
 glyphname = "ghestroke-cy";
 layers = (
 {
@@ -42204,7 +42021,6 @@ rightKerningGroup = "ge-cy";
 unicode = 0493;
 },
 {
-color = 6;
 glyphname = "ghestroke-cy.loclBSH";
 layers = (
 {
@@ -42304,7 +42120,6 @@ rightKerningGroup = "ge-cy";
 rightMetricsKey = "ge-cy.ss01";
 },
 {
-color = 6;
 glyphname = "ghemiddlehook-cy";
 layers = (
 {
@@ -42497,7 +42312,6 @@ rightKerningGroup = "midddehooka-cy-cy";
 unicode = 0495;
 },
 {
-color = 6;
 glyphname = "zhedescender-cy";
 layers = (
 {
@@ -42537,7 +42351,7 @@ nodes = (
 );
 }
 );
-width = 847;
+width = 848;
 },
 {
 components = (
@@ -42578,7 +42392,6 @@ rightKerningGroup = c;
 unicode = 0497;
 },
 {
-color = 6;
 glyphname = "zedescender-cy";
 layers = (
 {
@@ -42647,7 +42460,6 @@ rightKerningGroup = "ve-cy";
 unicode = 0499;
 },
 {
-color = 6;
 glyphname = "zedescender-cy.loclBSH";
 layers = (
 {
@@ -42726,7 +42538,6 @@ rightKerningGroup = "ze-cy";
 rightMetricsKey = "ze-cy";
 },
 {
-color = 6;
 glyphname = "kadescender-cy";
 layers = (
 {
@@ -42931,7 +42742,7 @@ nodes = (
 );
 }
 );
-width = 648;
+width = 626;
 }
 );
 leftKerningGroup = n;
@@ -42941,7 +42752,6 @@ rightMetricsKey = "=tse-cy";
 unicode = 049B;
 },
 {
-color = 6;
 glyphname = "kaverticalstroke-cy";
 layers = (
 {
@@ -43156,7 +42966,6 @@ rightMetricsKey = "=ka-cy";
 unicode = 049D;
 },
 {
-color = 6;
 glyphname = "kastroke-cy";
 layers = (
 {
@@ -43419,7 +43228,6 @@ rightMetricsKey = "ka-cy";
 unicode = 049F;
 },
 {
-color = 6;
 glyphname = "kabashkir-cy";
 layers = (
 {
@@ -43715,7 +43523,6 @@ rightMetricsKey = "ka-cy";
 unicode = 04A1;
 },
 {
-color = 6;
 glyphname = "endescender-cy";
 layers = (
 {
@@ -43892,7 +43699,7 @@ nodes = (
 );
 }
 );
-width = 647;
+width = 625;
 }
 );
 leftKerningGroup = n;
@@ -43902,7 +43709,6 @@ rightMetricsKey = "=tse-cy";
 unicode = 04A3;
 },
 {
-color = 6;
 glyphname = "enghe-cy";
 layers = (
 {
@@ -44047,7 +43853,6 @@ rightMetricsKey = "ghestroke-cy";
 unicode = 04A5;
 },
 {
-color = 6;
 glyphname = "pedescender-cy";
 layers = (
 {
@@ -44205,7 +44010,7 @@ nodes = (
 );
 }
 );
-width = 647;
+width = 625;
 }
 );
 leftKerningGroup = n;
@@ -44215,7 +44020,6 @@ rightMetricsKey = "=tse-cy";
 unicode = 0525;
 },
 {
-color = 6;
 glyphname = "haabkhasian-cy";
 layers = (
 {
@@ -44512,7 +44316,6 @@ rightKerningGroup = o;
 unicode = 04A9;
 },
 {
-color = 6;
 glyphname = "esdescender-cy";
 layers = (
 {
@@ -44581,7 +44384,6 @@ rightKerningGroup = c;
 unicode = 04AB;
 },
 {
-color = 6;
 glyphname = "esdescender-cy.loclBSH";
 layers = (
 {
@@ -44659,7 +44461,6 @@ leftKerningGroup = o;
 rightKerningGroup = c;
 },
 {
-color = 6;
 glyphname = "esdescender-cy.loclCHU";
 layers = (
 {
@@ -44685,7 +44486,6 @@ leftKerningGroup = o;
 rightKerningGroup = c;
 },
 {
-color = 6;
 glyphname = "tedescender-cy";
 layers = (
 {
@@ -44785,7 +44585,6 @@ rightMetricsKey = "te-cy";
 unicode = 04AD;
 },
 {
-color = 6;
 glyphname = "ustrait-cy";
 layers = (
 {
@@ -44936,7 +44735,6 @@ rightKerningGroup = "ustrait-cy";
 unicode = 04AF;
 },
 {
-color = 6;
 glyphname = "ustraitstroke-cy";
 layers = (
 {
@@ -45135,7 +44933,6 @@ rightKerningGroup = "ustrait-cy";
 unicode = 04B1;
 },
 {
-color = 6;
 glyphname = "hadescender-cy";
 layers = (
 {
@@ -45240,7 +45037,6 @@ rightKerningGroup = x;
 unicode = 04B3;
 },
 {
-color = 6;
 glyphname = "tetse-cy";
 layers = (
 {
@@ -45267,7 +45063,7 @@ transform = "{1, 0, 0, 1, 122, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-width = 644;
+width = 622;
 }
 );
 leftKerningGroup = "te-cy";
@@ -45275,7 +45071,6 @@ rightKerningGroup = "tse-cy";
 unicode = 04B5;
 },
 {
-color = 6;
 glyphname = "chedescender-cy";
 layers = (
 {
@@ -45370,7 +45165,7 @@ nodes = (
 );
 }
 );
-width = 647;
+width = 625;
 }
 );
 leftKerningGroup = "che-cy";
@@ -45380,7 +45175,6 @@ rightMetricsKey = "=tse-cy";
 unicode = 04B7;
 },
 {
-color = 6;
 glyphname = "cheverticalstroke-cy";
 layers = (
 {
@@ -45632,7 +45426,6 @@ rightKerningGroup = u;
 unicode = 04B9;
 },
 {
-color = 6;
 glyphname = "shha-cy";
 layers = (
 {
@@ -45659,7 +45452,6 @@ rightKerningGroup = u;
 unicode = 04BB;
 },
 {
-color = 6;
 glyphname = "shhadescender-cy";
 layers = (
 {
@@ -45823,7 +45615,7 @@ nodes = (
 );
 }
 );
-width = 611;
+width = 589;
 }
 );
 leftKerningGroup = h;
@@ -45833,7 +45625,6 @@ rightMetricsKey = "=tse-cy";
 unicode = 0527;
 },
 {
-color = 6;
 glyphname = "enlefthook-cy";
 layers = (
 {
@@ -46013,7 +45804,6 @@ rightKerningGroup = u;
 unicode = 0529;
 },
 {
-color = 6;
 glyphname = "eldescender-cy";
 layers = (
 {
@@ -46078,7 +45868,7 @@ nodes = (
 );
 }
 );
-width = 668;
+width = 646;
 }
 );
 leftKerningGroup = "el-cy";
@@ -46088,7 +45878,6 @@ rightMetricsKey = "tse-cy";
 unicode = 052F;
 },
 {
-color = 6;
 glyphname = "cheabkhasian-cy";
 layers = (
 {
@@ -46455,7 +46244,6 @@ rightMetricsKey = e;
 unicode = 04BD;
 },
 {
-color = 6;
 glyphname = "chedescenderabkhasian-cy";
 layers = (
 {
@@ -46528,7 +46316,6 @@ rightMetricsKey = "=e";
 unicode = 04BF;
 },
 {
-color = 6;
 glyphname = "palochka-cy";
 layers = (
 {
@@ -46555,7 +46342,6 @@ rightKerningGroup = l;
 unicode = 04CF;
 },
 {
-color = 6;
 glyphname = "zhebreve-cy";
 layers = (
 {
@@ -46590,7 +46376,6 @@ rightKerningGroup = c;
 unicode = 04C2;
 },
 {
-color = 6;
 glyphname = "kahook-cy";
 layers = (
 {
@@ -46894,7 +46679,6 @@ rightMetricsKey = "=ka-cy";
 unicode = 04C4;
 },
 {
-color = 6;
 glyphname = "eltail-cy";
 layers = (
 {
@@ -46985,7 +46769,6 @@ rightKerningGroup = "tail-cy";
 unicode = 04C6;
 },
 {
-color = 6;
 glyphname = "enhook-cy";
 layers = (
 {
@@ -47180,7 +46963,6 @@ rightKerningGroup = "hook-cy";
 unicode = 04C8;
 },
 {
-color = 6;
 glyphname = "entail-cy";
 layers = (
 {
@@ -47250,7 +47032,6 @@ rightKerningGroup = "tail-cy";
 unicode = 04CA;
 },
 {
-color = 6;
 glyphname = "chekhakassian-cy";
 layers = (
 {
@@ -47325,7 +47106,6 @@ rightKerningGroup = u;
 unicode = 04CC;
 },
 {
-color = 6;
 glyphname = "emtail-cy";
 layers = (
 {
@@ -47394,7 +47174,6 @@ rightKerningGroup = "tail-cy";
 unicode = 04CE;
 },
 {
-color = 6;
 glyphname = "abreve-cy";
 layers = (
 {
@@ -47429,7 +47208,6 @@ rightKerningGroup = a;
 unicode = 04D1;
 },
 {
-color = 6;
 glyphname = "adieresis-cy";
 layers = (
 {
@@ -47464,7 +47242,6 @@ rightKerningGroup = a;
 unicode = 04D3;
 },
 {
-color = 6;
 glyphname = "aie-cy";
 layers = (
 {
@@ -47493,7 +47270,6 @@ rightMetricsKey = ae;
 unicode = 04D5;
 },
 {
-color = 6;
 glyphname = "iebreve-cy";
 layers = (
 {
@@ -47528,7 +47304,6 @@ rightKerningGroup = e;
 unicode = 04D7;
 },
 {
-color = 6;
 glyphname = "schwa-cy";
 layers = (
 {
@@ -47698,7 +47473,6 @@ rightMetricsKey = o;
 unicode = 04D9;
 },
 {
-color = 6;
 glyphname = "schwadieresis-cy";
 layers = (
 {
@@ -47735,7 +47509,6 @@ rightKerningGroup = o;
 unicode = 04DB;
 },
 {
-color = 6;
 glyphname = "zhedieresis-cy";
 layers = (
 {
@@ -47770,7 +47543,6 @@ rightKerningGroup = x;
 unicode = 04DD;
 },
 {
-color = 6;
 glyphname = "zedieresis-cy";
 layers = (
 {
@@ -47805,7 +47577,6 @@ rightKerningGroup = "ve-cy";
 unicode = 04DF;
 },
 {
-color = 6;
 glyphname = "dzeabkhasian-cy";
 layers = (
 {
@@ -47972,7 +47743,6 @@ rightKerningGroup = "ze-cy.loclBGR";
 unicode = 04E1;
 },
 {
-color = 6;
 glyphname = "imacron-cy";
 layers = (
 {
@@ -48007,7 +47777,6 @@ rightKerningGroup = u;
 unicode = 04E3;
 },
 {
-color = 6;
 glyphname = "idieresis-cy";
 layers = (
 {
@@ -48042,7 +47811,6 @@ rightKerningGroup = u;
 unicode = 04E5;
 },
 {
-color = 6;
 glyphname = "odieresis-cy";
 layers = (
 {
@@ -48077,7 +47845,6 @@ rightKerningGroup = o;
 unicode = 04E7;
 },
 {
-color = 6;
 glyphname = "obarred-cy";
 layers = (
 {
@@ -48138,7 +47905,6 @@ rightKerningGroup = o;
 unicode = 04E9;
 },
 {
-color = 6;
 glyphname = "obarreddieresis-cy";
 layers = (
 {
@@ -48173,7 +47939,6 @@ rightKerningGroup = o;
 unicode = 04EB;
 },
 {
-color = 6;
 glyphname = "edieresis-cy";
 layers = (
 {
@@ -48210,7 +47975,6 @@ rightMetricsKey = "=ereversed-cy";
 unicode = 04ED;
 },
 {
-color = 6;
 glyphname = "umacron-cy";
 layers = (
 {
@@ -48245,7 +48009,6 @@ rightKerningGroup = y;
 unicode = 04EF;
 },
 {
-color = 6;
 glyphname = "udieresis-cy";
 layers = (
 {
@@ -48280,7 +48043,6 @@ rightKerningGroup = y;
 unicode = 04F1;
 },
 {
-color = 6;
 glyphname = "uhungarumlaut-cy";
 layers = (
 {
@@ -48315,7 +48077,6 @@ rightKerningGroup = y;
 unicode = 04F3;
 },
 {
-color = 6;
 glyphname = "chedieresis-cy";
 layers = (
 {
@@ -48350,7 +48111,6 @@ rightKerningGroup = u;
 unicode = 04F5;
 },
 {
-color = 6;
 glyphname = "gedescender-cy";
 layers = (
 {
@@ -48538,7 +48298,6 @@ rightMetricsKey = "ge-cy";
 unicode = 04F7;
 },
 {
-color = 6;
 glyphname = "yerudieresis-cy";
 layers = (
 {
@@ -48573,7 +48332,6 @@ rightKerningGroup = u;
 unicode = 04F9;
 },
 {
-color = 6;
 glyphname = "gestrokehook-cy";
 layers = (
 {
@@ -48657,7 +48415,6 @@ rightMetricsKey = "ge-cy";
 unicode = 04FB;
 },
 {
-color = 6;
 glyphname = "hahook-cy";
 layers = (
 {
@@ -48824,7 +48581,6 @@ rightKerningGroup = x;
 unicode = 04FD;
 },
 {
-color = 6;
 glyphname = "hastroke-cy";
 layers = (
 {
@@ -48875,7 +48631,6 @@ rightKerningGroup = x;
 unicode = 04FF;
 },
 {
-color = 6;
 glyphname = "reversedze-cy";
 layers = (
 {
@@ -49096,7 +48851,6 @@ rightKerningGroup = c;
 unicode = 0511;
 },
 {
-color = 6;
 glyphname = "elhook-cy";
 layers = (
 {
@@ -49246,7 +49000,6 @@ rightMetricsKey = "enhook-cy";
 unicode = 0513;
 },
 {
-color = 6;
 glyphname = "qa-cy";
 layers = (
 {
@@ -49273,7 +49026,6 @@ rightKerningGroup = q;
 unicode = 051B;
 },
 {
-color = 6;
 glyphname = "we-cy";
 layers = (
 {
@@ -49300,7 +49052,6 @@ rightKerningGroup = v;
 unicode = 051D;
 },
 {
-color = 6;
 glyphname = "semisoftsign-cy";
 layers = (
 {
@@ -49630,7 +49381,6 @@ rightKerningGroup = "softsign-cy";
 unicode = 048D;
 },
 {
-color = 6;
 glyphname = "ertick-cy";
 layers = (
 {
@@ -49683,7 +49433,7 @@ rightMetricsKey = "=pe-cy";
 unicode = 048F;
 },
 {
-color = 6;
+color = 10;
 export = 0;
 glyphname = "ge-cy.ss01";
 layers = (
@@ -58508,78 +58258,78 @@ paths = (
 {
 closed = 1;
 nodes = (
-"114 22 LINE",
-"153 -16 LINE",
 "753 674 LINE",
-"709 716 LINE"
+"709 716 LINE",
+"114 22 LINE",
+"153 -16 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"125 714 OFFCURVE",
-"56 616 OFFCURVE",
-"51 522 CURVE SMOOTH",
-"46 426 OFFCURVE",
-"103 335 OFFCURVE",
-"222 335 CURVE SMOOTH",
 "324 335 OFFCURVE",
 "411 429 OFFCURVE",
 "416 532 CURVE SMOOTH",
 "421 624 OFFCURVE",
 "366 719 OFFCURVE",
-"242 716 CURVE SMOOTH"
+"242 716 CURVE SMOOTH",
+"125 714 OFFCURVE",
+"56 616 OFFCURVE",
+"51 522 CURVE SMOOTH",
+"46 426 OFFCURVE",
+"103 335 OFFCURVE",
+"222 335 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"316 679 OFFCURVE",
-"333 581 OFFCURVE",
-"329 514 CURVE SMOOTH",
-"326 452 OFFCURVE",
-"300 373 OFFCURVE",
-"227 373 CURVE SMOOTH",
 "148 373 OFFCURVE",
 "133 473 OFFCURVE",
 "138 537 CURVE SMOOTH",
 "140 588 OFFCURVE",
 "166 679 OFFCURVE",
-"241 679 CURVE SMOOTH"
+"241 679 CURVE SMOOTH",
+"316 679 OFFCURVE",
+"333 581 OFFCURVE",
+"329 514 CURVE SMOOTH",
+"326 452 OFFCURVE",
+"300 373 OFFCURVE",
+"227 373 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"731 327 OFFCURVE",
-"748 229 OFFCURVE",
-"744 162 CURVE SMOOTH",
-"741 100 OFFCURVE",
-"715 21 OFFCURVE",
-"642 21 CURVE SMOOTH",
-"563 21 OFFCURVE",
-"549 121 OFFCURVE",
-"553 185 CURVE SMOOTH",
-"556 235 OFFCURVE",
-"581 327 OFFCURVE",
-"656 327 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"540 363 OFFCURVE",
-"471 264 OFFCURVE",
-"466 171 CURVE SMOOTH",
-"461 75 OFFCURVE",
-"518 -16 OFFCURVE",
-"637 -16 CURVE SMOOTH",
 "739 -16 OFFCURVE",
 "826 77 OFFCURVE",
 "831 180 CURVE SMOOTH",
 "835 272 OFFCURVE",
 "781 367 OFFCURVE",
-"657 365 CURVE SMOOTH"
+"657 365 CURVE SMOOTH",
+"540 363 OFFCURVE",
+"471 264 OFFCURVE",
+"466 171 CURVE SMOOTH",
+"461 75 OFFCURVE",
+"518 -16 OFFCURVE",
+"637 -16 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"563 21 OFFCURVE",
+"549 121 OFFCURVE",
+"553 185 CURVE SMOOTH",
+"556 235 OFFCURVE",
+"581 327 OFFCURVE",
+"656 327 CURVE SMOOTH",
+"731 327 OFFCURVE",
+"748 229 OFFCURVE",
+"744 162 CURVE SMOOTH",
+"741 100 OFFCURVE",
+"715 21 OFFCURVE",
+"642 21 CURVE SMOOTH"
 );
 }
 );
@@ -58591,78 +58341,78 @@ paths = (
 {
 closed = 1;
 nodes = (
-"105 44 LINE",
-"167 -17 LINE",
 "780 650 LINE",
-"710 716 LINE"
+"710 716 LINE",
+"105 44 LINE",
+"167 -17 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"284 648 OFFCURVE",
-"298 584 OFFCURVE",
-"298 525 CURVE SMOOTH",
-"298 479 OFFCURVE",
-"282 393 OFFCURVE",
-"227 393 CURVE SMOOTH",
-"177 393 OFFCURVE",
-"164 468 OFFCURVE",
-"164 518 CURVE SMOOTH",
-"164 555 OFFCURVE",
-"175 648 OFFCURVE",
-"237 648 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"121 713 OFFCURVE",
-"49 611 OFFCURVE",
-"44 517 CURVE SMOOTH",
-"40 418 OFFCURVE",
-"100 325 OFFCURVE",
-"223 325 CURVE SMOOTH",
 "328 325 OFFCURVE",
 "413 420 OFFCURVE",
 "418 526 CURVE SMOOTH",
 "423 618 OFFCURVE",
 "363 718 OFFCURVE",
-"241 716 CURVE SMOOTH"
+"241 716 CURVE SMOOTH",
+"121 713 OFFCURVE",
+"49 611 OFFCURVE",
+"44 517 CURVE SMOOTH",
+"40 418 OFFCURVE",
+"100 325 OFFCURVE",
+"223 325 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"713 307 OFFCURVE",
-"728 244 OFFCURVE",
-"728 185 CURVE SMOOTH",
-"728 138 OFFCURVE",
-"711 52 OFFCURVE",
-"656 52 CURVE SMOOTH",
-"606 52 OFFCURVE",
-"593 127 OFFCURVE",
-"593 177 CURVE SMOOTH",
-"593 214 OFFCURVE",
-"604 307 OFFCURVE",
-"667 307 CURVE SMOOTH"
+"177 393 OFFCURVE",
+"164 468 OFFCURVE",
+"164 518 CURVE SMOOTH",
+"164 555 OFFCURVE",
+"175 648 OFFCURVE",
+"237 648 CURVE SMOOTH",
+"284 648 OFFCURVE",
+"298 584 OFFCURVE",
+"298 525 CURVE SMOOTH",
+"298 479 OFFCURVE",
+"282 393 OFFCURVE",
+"227 393 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"550 373 OFFCURVE",
-"479 270 OFFCURVE",
-"474 176 CURVE SMOOTH",
-"468 77 OFFCURVE",
-"528 -16 OFFCURVE",
-"651 -16 CURVE SMOOTH",
 "761 -16 OFFCURVE",
 "842 80 OFFCURVE",
 "848 185 CURVE SMOOTH",
 "853 277 OFFCURVE",
 "792 378 OFFCURVE",
-"669 375 CURVE SMOOTH"
+"669 375 CURVE SMOOTH",
+"550 373 OFFCURVE",
+"479 270 OFFCURVE",
+"474 176 CURVE SMOOTH",
+"468 77 OFFCURVE",
+"528 -16 OFFCURVE",
+"651 -16 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"606 52 OFFCURVE",
+"593 127 OFFCURVE",
+"593 177 CURVE SMOOTH",
+"593 214 OFFCURVE",
+"604 307 OFFCURVE",
+"667 307 CURVE SMOOTH",
+"713 307 OFFCURVE",
+"728 244 OFFCURVE",
+"728 185 CURVE SMOOTH",
+"728 138 OFFCURVE",
+"711 52 OFFCURVE",
+"656 52 CURVE SMOOTH"
 );
 }
 );
@@ -64212,7 +63962,6 @@ width = 293;
 );
 },
 {
-color = 6;
 glyphname = "brevecomb-cy.case";
 layers = (
 {
@@ -64302,7 +64051,6 @@ width = 413;
 );
 },
 {
-color = 6;
 glyphname = "brevecomb-cy";
 layers = (
 {
@@ -64392,64 +64140,7 @@ width = 515;
 );
 },
 {
-color = 6;
-export = 0;
-glyphname = "descender-cy.case";
-layers = (
-{
-anchors = (
-{
-name = _bottomright;
-position = "{-13, 0}";
-}
-);
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"104 -177 LINE",
-"114 44 LINE",
-"102 44 LINE",
-"-11 37 LINE",
-"-13 0 LINE",
-"53 0 OFFCURVE",
-"67 -63 OFFCURVE",
-"62 -177 CURVE"
-);
-}
-);
-width = 175;
-},
-{
-anchors = (
-{
-name = _bottomright;
-position = "{-15, 0}";
-}
-);
-layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-paths = (
-{
-closed = 1;
-nodes = (
-"131 -177 LINE",
-"145 79 LINE",
-"121 78 LINE",
-"34 74 LINE",
-"-3 0 LINE",
-"55 0 OFFCURVE",
-"66 -73 OFFCURVE",
-"58 -177 CURVE"
-);
-}
-);
-width = 164;
-}
-);
-},
-{
-color = 6;
+color = 10;
 export = 0;
 glyphname = "tail-cy.case";
 layers = (
@@ -64520,64 +64211,7 @@ width = 183;
 );
 },
 {
-color = 6;
-export = 0;
-glyphname = "descender-cy";
-layers = (
-{
-anchors = (
-{
-name = _bottomright;
-position = "{-13, 0}";
-}
-);
-layerId = UUID0;
-paths = (
-{
-closed = 1;
-nodes = (
-"98 -176 LINE",
-"109 42 LINE",
-"83 41 LINE",
-"-11 36 LINE",
-"-13 0 LINE",
-"53 0 OFFCURVE",
-"66 -77 OFFCURVE",
-"61 -176 CURVE"
-);
-}
-);
-width = 171;
-},
-{
-anchors = (
-{
-name = _bottomright;
-position = "{-13, 0}";
-}
-);
-layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
-paths = (
-{
-closed = 1;
-nodes = (
-"121 -181 LINE",
-"135 77 LINE",
-"104 76 LINE",
-"-9 73 LINE",
-"-13 0 LINE",
-"38 0 OFFCURVE",
-"65 -48 OFFCURVE",
-"57 -181 CURVE"
-);
-}
-);
-width = 194;
-}
-);
-},
-{
-color = 6;
+color = 10;
 export = 0;
 glyphname = "tail-cy";
 layers = (
@@ -65184,6 +64818,120 @@ transform = "{0.8264, 0, 0, 0.8264, -18, 212}";
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 width = 293;
+}
+);
+},
+{
+color = 10;
+export = 0;
+glyphname = "__descender-cy";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+position = "{-13, 0}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"98 -176 LINE",
+"109 42 LINE",
+"83 41 LINE",
+"-11 36 LINE",
+"-13 0 LINE",
+"53 0 OFFCURVE",
+"66 -77 OFFCURVE",
+"61 -176 CURVE"
+);
+}
+);
+width = 171;
+},
+{
+anchors = (
+{
+name = _bottomright;
+position = "{-13, 0}";
+}
+);
+layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
+paths = (
+{
+closed = 1;
+nodes = (
+"121 -181 LINE",
+"135 77 LINE",
+"104 76 LINE",
+"-9 73 LINE",
+"-13 0 LINE",
+"38 0 OFFCURVE",
+"65 -48 OFFCURVE",
+"57 -181 CURVE"
+);
+}
+);
+width = 194;
+}
+);
+},
+{
+color = 10;
+export = 0;
+glyphname = "__descender-cy.case";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+position = "{-13, 0}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"104 -177 LINE",
+"114 44 LINE",
+"102 44 LINE",
+"-11 37 LINE",
+"-13 0 LINE",
+"53 0 OFFCURVE",
+"67 -63 OFFCURVE",
+"62 -177 CURVE"
+);
+}
+);
+width = 175;
+},
+{
+anchors = (
+{
+name = _bottomright;
+position = "{-15, 0}";
+}
+);
+layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
+paths = (
+{
+closed = 1;
+nodes = (
+"131 -177 LINE",
+"145 79 LINE",
+"121 78 LINE",
+"34 74 LINE",
+"-3 0 LINE",
+"55 0 OFFCURVE",
+"66 -73 OFFCURVE",
+"58 -177 CURVE"
+);
+}
+);
+width = 164;
 }
 );
 },
@@ -66329,12 +66077,14 @@ isItalic = 1;
 name = Italic;
 },
 {
+exports = 0;
 interpolationWeight = 500;
 instanceInterpolations = {
 "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = 0.33333;
 UUID0 = 0.66667;
 };
 isItalic = 1;
+linkStyle = Medium;
 name = "Medium Italic";
 weightClass = Medium;
 },
@@ -66345,6 +66095,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
+linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }
