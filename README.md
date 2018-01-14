@@ -15,10 +15,12 @@ Lora is a Unicode typeface family that supports
 languages that use the Latin and Cyrillic scripts and its variants, and 
 could be expanded to support other scripts.
 
-
 ![Lora Font](sources/sample2.png "Lora Font by Cyreal")
 
 Project [information](http://www.cyreal.org/2012/07/lora/) on Cyreal Fonts' website:
+
+### Variable Fonts
+[Version 2.200](https://github.com/cyrealtype/Lora-Cyrillic/releases/tag/v2.200) includes a variable font version with one weight axis.
 
 ### Cyrillic 
 
