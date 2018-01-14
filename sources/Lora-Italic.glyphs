@@ -47,7 +47,7 @@ name = "TTFAutohint options";
 value = "New Value";
 }
 );
-date = "2017-11-21 07:56:42 +0000";
+date = "2018-01-14 13:31:25 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -70613,5 +70613,5 @@ tH = 79;
 };
 };
 versionMajor = 2;
-versionMinor = 103;
+versionMinor = 200;
 }
