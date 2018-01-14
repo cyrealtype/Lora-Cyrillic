@@ -87,8 +87,8 @@ code = "lookup ccmp_Other_1 {
 	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb strokelongcomb strokeshortcomb];
 	sub [i]' @CombiningTopAccents by [idotless];
 	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];
-	@Markscomb = [dieresiscomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb cedillacomb breve circumflex hungarumlaut brevecomb-cy brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
-	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case cedillacomb.case breve.case circumflex.case hungarumlaut.case brevecomb-cy.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
+	@Markscomb = [dieresiscomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb cedillacomb circumflex hungarumlaut brevecomb-cy brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
+	@MarkscombCase = [dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case cedillacomb.case circumflex.case hungarumlaut.case brevecomb-cy.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_1;
@@ -207,7 +207,6 @@ sub brevecomb by brevecomb.case;
 sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
 sub cedillacomb by cedillacomb.case;
-sub breve by breve.case;
 sub circumflex by circumflex.case;
 sub hungarumlaut by hungarumlaut.case;
 sub brevecomb-cy by brevecomb-cy.case;
