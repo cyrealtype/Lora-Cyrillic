@@ -45,6 +45,15 @@ value = 1;
 {
 name = "TTFAutohint options";
 value = "--strong-stem-width=GD";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2018-01-14 13:31:16 +0000";
@@ -261,6 +270,19 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 0;
+}
+);
 }
 );
 descender = -255;
@@ -328,6 +350,15 @@ value = 0;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "700";
+}
+);
 }
 );
 descender = -275;
