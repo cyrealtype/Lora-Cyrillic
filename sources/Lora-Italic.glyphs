@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+t
+);
 classes = (
 {
 automatic = 1;
@@ -56,7 +59,7 @@ Tag = wght;
 );
 }
 );
-date = "2018-01-14 13:31:25 +0000";
+date = "2018-01-14 21:20:18 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -19114,7 +19117,7 @@ position = "{199, 0}";
 },
 {
 name = center;
-position = "{195, 286}";
+position = "{155, 286}";
 }
 );
 layerId = UUID0;
@@ -19124,7 +19127,7 @@ closed = 1;
 nodes = (
 "179 641 LINE",
 "153 551 OFFCURVE",
-"107 500 OFFCURVE",
+"117 500 OFFCURVE",
 "25 500 CURVE",
 "22 458 LINE",
 "111 459 LINE",
@@ -19150,9 +19153,7 @@ nodes = (
 "355 462 LINE",
 "358 500 LINE",
 "199 500 LINE",
-"205 547 OFFCURVE",
-"212 602 OFFCURVE",
-"217 641 CURVE"
+"217 641 LINE"
 );
 }
 );
@@ -19175,7 +19176,7 @@ paths = (
 closed = 1;
 nodes = (
 "186 651 LINE",
-"169 563 OFFCURVE",
+"167 553 OFFCURVE",
 "126 500 OFFCURVE",
 "27 500 CURVE",
 "18 427 LINE",
@@ -19202,9 +19203,7 @@ nodes = (
 "352 431 LINE",
 "358 500 LINE",
 "233 500 LINE",
-"240 550 OFFCURVE",
-"246 601 OFFCURVE",
-"253 651 CURVE"
+"253 651 LINE"
 );
 }
 );
@@ -70390,5 +70389,5 @@ tH = 79;
 };
 };
 versionMajor = 2;
-versionMinor = 200;
+versionMinor = 201;
 }

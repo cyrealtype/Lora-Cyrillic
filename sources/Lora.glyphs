@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+t
+);
 classes = (
 {
 automatic = 1;
@@ -56,7 +59,7 @@ Tag = wght;
 );
 }
 );
-date = "2018-01-14 13:31:16 +0000";
+date = "2018-01-14 21:20:11 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -19910,7 +19913,7 @@ position = "{253, 0}";
 },
 {
 name = center;
-position = "{194, 250}";
+position = "{174, 250}";
 }
 );
 layerId = UUID0;
@@ -19918,35 +19921,31 @@ paths = (
 {
 closed = 1;
 nodes = (
+"265 -16 OFFCURVE",
+"324 -9 OFFCURVE",
+"383 79 CURVE",
+"356 101 LINE",
+"330 63 OFFCURVE",
+"297 41 OFFCURVE",
+"260 41 CURVE SMOOTH",
+"205 41 OFFCURVE",
+"184 90 OFFCURVE",
+"184 181 CURVE",
+"186 459 LINE",
 "354 461 LINE",
 "354 500 LINE",
 "186 500 LINE",
-"186 541 OFFCURVE",
-"186 587 OFFCURVE",
-"186 640 CURVE",
+"186 640 LINE",
 "152 640 LINE",
-"135 583 OFFCURVE",
-"92 501 OFFCURVE",
+"135 563 OFFCURVE",
+"72 501 OFFCURVE",
 "21 500 CURVE",
 "21 457 LINE",
 "98 458 LINE",
 "96 168 LINE SMOOTH",
 "95 8 OFFCURVE",
-"172 -16 OFFCURVE",
-"232 -16 CURVE SMOOTH",
-"266 -16 OFFCURVE",
-"324 -9 OFFCURVE",
-"383 79 CURVE",
-"356 101 LINE",
-"330 63 OFFCURVE",
-"294 41 OFFCURVE",
-"260 41 CURVE SMOOTH",
-"202 41 OFFCURVE",
-"184 90 OFFCURVE",
-"184 181 CURVE SMOOTH",
-"184 182 OFFCURVE",
-"185 199 OFFCURVE",
-"186 459 CURVE"
+"171 -16 OFFCURVE",
+"232 -16 CURVE SMOOTH"
 );
 }
 );
@@ -19968,35 +19967,31 @@ paths = (
 {
 closed = 1;
 nodes = (
+"261 -16 OFFCURVE",
+"353 -14 OFFCURVE",
+"425 92 CURVE",
+"377 137 LINE",
+"339 84 OFFCURVE",
+"305 77 OFFCURVE",
+"286 77 CURVE SMOOTH",
+"236 77 OFFCURVE",
+"226 128 OFFCURVE",
+"226 174 CURVE",
+"227 420 LINE",
 "354 423 LINE",
 "354 500 LINE",
 "227 500 LINE",
-"227 542 OFFCURVE",
-"228 583 OFFCURVE",
-"228 625 CURVE",
-"154 625 LINE",
-"140 574 OFFCURVE",
-"89 501 OFFCURVE",
+"228 640 LINE",
+"154 640 LINE",
+"140 569 OFFCURVE",
+"79 501 OFFCURVE",
 "17 500 CURVE",
 "17 417 LINE",
 "85 417 LINE",
 "83 176 LINE SMOOTH",
 "83 9 OFFCURVE",
-"173 -16 OFFCURVE",
-"239 -16 CURVE SMOOTH",
-"274 -16 OFFCURVE",
-"353 -14 OFFCURVE",
-"425 92 CURVE",
-"377 137 LINE",
-"339 84 OFFCURVE",
-"304 77 OFFCURVE",
-"286 77 CURVE SMOOTH",
-"235 77 OFFCURVE",
-"226 128 OFFCURVE",
-"226 174 CURVE SMOOTH",
-"226 179 OFFCURVE",
-"226 231 OFFCURVE",
-"227 420 CURVE"
+"160 -16 OFFCURVE",
+"239 -16 CURVE SMOOTH"
 );
 }
 );
@@ -30549,11 +30544,11 @@ name = "En-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 663, 0}";
+transform = "{1, 0, 0, 1, 626, 0}";
 }
 );
 layerId = UUID0;
-width = 951;
+width = 780;
 },
 {
 background = {
@@ -31868,11 +31863,11 @@ name = "Che-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 578, 0}";
+transform = "{1, 0, 0, 1, 541, 0}";
 }
 );
 layerId = UUID0;
-width = 873;
+width = 702;
 },
 {
 components = (
@@ -35243,11 +35238,11 @@ name = "El-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 576, 0}";
+transform = "{1, 0, 0, 1, 539, 0}";
 }
 );
 layerId = UUID0;
-width = 871;
+width = 700;
 },
 {
 components = (
@@ -74388,5 +74383,5 @@ tH = 83;
 };
 };
 versionMajor = 2;
-versionMinor = 200;
+versionMinor = 201;
 }
