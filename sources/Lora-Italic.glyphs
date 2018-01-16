@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-t
+lazy
 );
 classes = (
 {
@@ -393,11 +393,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{302, 0}";
+position = "{282, 0}";
 },
 {
 name = ogonek;
-position = "{555, 5}";
+position = "{555, 0}";
 },
 {
 name = top;
@@ -417,15 +417,11 @@ nodes = (
 "-14 0 LINE",
 "169 0 LINE",
 "171 44 LINE",
-"146 43 OFFCURVE",
-"121 41 OFFCURVE",
-"96 40 CURVE",
+"96 40 LINE",
 "108 62 OFFCURVE",
 "115 77 OFFCURVE",
-"127 109 CURVE SMOOTH",
-"139 140 OFFCURVE",
-"152 175 OFFCURVE",
-"167 216 CURVE",
+"127 109 CURVE",
+"167 216 LINE",
 "423 222 LINE",
 "452 128 LINE SMOOTH",
 "463 91 OFFCURVE",
@@ -434,9 +430,7 @@ nodes = (
 "399 0 LINE",
 "616 0 LINE",
 "618 44 LINE",
-"596 43 OFFCURVE",
-"575 41 OFFCURVE",
-"553 40 CURVE",
+"553 40 LINE",
 "556 70 OFFCURVE",
 "542 122 OFFCURVE",
 "532 150 CURVE SMOOTH",
@@ -464,11 +458,11 @@ width = 631;
 anchors = (
 {
 name = bottom;
-position = "{320, 0}";
+position = "{300, 0}";
 },
 {
 name = ogonek;
-position = "{600, 5}";
+position = "{600, 0}";
 },
 {
 name = top;
@@ -488,15 +482,11 @@ nodes = (
 "-12 0 LINE",
 "202 0 LINE",
 "207 80 LINE",
-"192 80 OFFCURVE",
-"155 79 OFFCURVE",
-"133 77 CURVE",
+"133 77 LINE",
 "146 100 OFFCURVE",
 "162 140 OFFCURVE",
-"169 158 CURVE SMOOTH",
-"175 174 OFFCURVE",
-"182 189 OFFCURVE",
-"188 205 CURVE",
+"169 158 CURVE",
+"188 205 LINE",
 "407 209 LINE",
 "424 154 LINE SMOOTH",
 "440 104 OFFCURVE",
@@ -505,9 +495,7 @@ nodes = (
 "378 0 LINE",
 "646 0 LINE",
 "649 77 LINE",
-"635 77 OFFCURVE",
-"613 76 OFFCURVE",
-"592 74 CURVE",
+"592 74 LINE",
 "590 104 OFFCURVE",
 "575 153 OFFCURVE",
 "569 173 CURVE SMOOTH",
@@ -519,10 +507,10 @@ closed = 1;
 nodes = (
 "319 505 OFFCURVE",
 "332 453 OFFCURVE",
-"346 405 CURVE",
+"346 405 CURVE SMOOTH",
 "385 280 LINE",
 "217 280 LINE",
-"268 410 LINE SMOOTH",
+"268 410 LINE",
 "293 472 OFFCURVE",
 "309 519 OFFCURVE",
 "315 542 CURVE"
@@ -648,7 +636,7 @@ name = A;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 203, 0}";
+transform = "{1, 0, 0, 1, 183, 0}";
 },
 {
 name = brevecomb.case;
@@ -888,7 +876,7 @@ name = A;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 203, 0}";
+transform = "{1, 0, 0, 1, 183, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -1062,7 +1050,7 @@ name = A;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 203, 0}";
+transform = "{1, 0, 0, 1, 183, 0}";
 }
 );
 layerId = UUID0;
@@ -1193,8 +1181,8 @@ components = (
 name = A;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 298, -22}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 297, -27}";
 }
 );
 layerId = UUID0;
@@ -1206,8 +1194,8 @@ components = (
 name = A;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 324, 5}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 323, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -3044,8 +3032,8 @@ components = (
 name = E;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 287, -22}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 286, -22}";
 }
 );
 layerId = UUID0;
@@ -3057,8 +3045,8 @@ components = (
 name = E;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 285, 5}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 284, 5}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -4457,8 +4445,8 @@ components = (
 name = I;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 5, -27}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 4, -27}";
 }
 );
 layerId = UUID0;
@@ -4470,8 +4458,8 @@ components = (
 name = I;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 42, 0}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 41, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -9353,8 +9341,8 @@ components = (
 name = U;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 223, -22}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 222, -22}";
 }
 );
 layerId = UUID0;
@@ -9366,8 +9354,8 @@ components = (
 name = U;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 216, 5}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 215, 5}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -11223,8 +11211,8 @@ components = (
 name = a;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 215, -22}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 214, -22}";
 }
 );
 layerId = UUID0;
@@ -11236,8 +11224,8 @@ components = (
 name = a;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 186, 5}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 185, 5}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -13047,8 +13035,8 @@ components = (
 name = e;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 50, -22}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 49, -22}";
 }
 );
 layerId = UUID0;
@@ -13060,8 +13048,8 @@ components = (
 name = e;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 37, 5}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 36, 5}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -13872,39 +13860,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"180 755 LINE",
-"164 741 OFFCURVE",
-"141 728 OFFCURVE",
-"53 728 CURVE",
-"49 688 LINE",
-"72 689 OFFCURVE",
-"96 691 OFFCURVE",
-"119 692 CURVE",
-"116 675 OFFCURVE",
-"115 673 OFFCURVE",
-"110 639 CURVE SMOOTH",
-"87 484 OFFCURVE",
-"60 117 OFFCURVE",
-"60 26 CURVE SMOOTH",
-"60 15 OFFCURVE",
-"60 9 OFFCURVE",
-"61 0 CURVE",
-"143 0 LINE",
-"142 17 OFFCURVE",
-"141 33 OFFCURVE",
-"141 53 CURVE SMOOTH",
-"141 238 OFFCURVE",
-"243 464 OFFCURVE",
-"332 464 CURVE SMOOTH",
-"371 464 OFFCURVE",
-"380 426 OFFCURVE",
-"380 403 CURVE SMOOTH",
-"380 298 OFFCURVE",
-"351 160 OFFCURVE",
-"351 85 CURVE SMOOTH",
-"351 23 OFFCURVE",
-"369 -11 OFFCURVE",
-"432 -11 CURVE SMOOTH",
 "512 -11 OFFCURVE",
 "550 83 OFFCURVE",
 "559 129 CURVE",
@@ -13930,7 +13885,38 @@ nodes = (
 "182 585 CURVE SMOOTH",
 "188 630 OFFCURVE",
 "201 705 OFFCURVE",
-"209 755 CURVE"
+"209 755 CURVE",
+"180 755 LINE",
+"164 741 OFFCURVE",
+"141 728 OFFCURVE",
+"53 728 CURVE",
+"49 688 LINE",
+"119 692 LINE",
+"116 675 OFFCURVE",
+"115 673 OFFCURVE",
+"110 639 CURVE SMOOTH",
+"87 484 OFFCURVE",
+"60 117 OFFCURVE",
+"60 26 CURVE SMOOTH",
+"60 15 OFFCURVE",
+"60 9 OFFCURVE",
+"61 0 CURVE",
+"143 0 LINE",
+"142 17 OFFCURVE",
+"141 33 OFFCURVE",
+"141 53 CURVE SMOOTH",
+"141 238 OFFCURVE",
+"243 464 OFFCURVE",
+"332 464 CURVE SMOOTH",
+"371 464 OFFCURVE",
+"380 426 OFFCURVE",
+"380 403 CURVE SMOOTH",
+"380 298 OFFCURVE",
+"351 160 OFFCURVE",
+"351 85 CURVE SMOOTH",
+"351 23 OFFCURVE",
+"369 -11 OFFCURVE",
+"432 -11 CURVE SMOOTH"
 );
 }
 );
@@ -13952,39 +13938,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"181 755 LINE",
-"167 742 OFFCURVE",
-"122 725 OFFCURVE",
-"29 725 CURVE",
-"25 649 LINE",
-"40 650 OFFCURVE",
-"74 651 OFFCURVE",
-"95 652 CURVE",
-"89 625 OFFCURVE",
-"84 582 OFFCURVE",
-"82 559 CURVE SMOOTH",
-"68 440 OFFCURVE",
-"51 212 OFFCURVE",
-"51 48 CURVE SMOOTH",
-"51 35 OFFCURVE",
-"51 28 OFFCURVE",
-"54 0 CURVE",
-"182 0 LINE",
-"181 16 OFFCURVE",
-"179 54 OFFCURVE",
-"179 72 CURVE SMOOTH",
-"179 212 OFFCURVE",
-"258 419 OFFCURVE",
-"319 419 CURVE SMOOTH",
-"339 419 OFFCURVE",
-"347 407 OFFCURVE",
-"347 377 CURVE SMOOTH",
-"347 315 OFFCURVE",
-"322 181 OFFCURVE",
-"322 102 CURVE SMOOTH",
-"322 31 OFFCURVE",
-"343 -11 OFFCURVE",
-"417 -11 CURVE SMOOTH",
 "507 -11 OFFCURVE",
 "557 88 OFFCURVE",
 "568 145 CURVE",
@@ -14010,7 +13963,38 @@ nodes = (
 "210 551 CURVE SMOOTH",
 "216 591 OFFCURVE",
 "228 697 OFFCURVE",
-"235 755 CURVE"
+"235 755 CURVE",
+"181 755 LINE",
+"167 742 OFFCURVE",
+"122 725 OFFCURVE",
+"29 725 CURVE",
+"25 649 LINE",
+"95 652 LINE",
+"89 625 OFFCURVE",
+"84 582 OFFCURVE",
+"82 559 CURVE SMOOTH",
+"68 440 OFFCURVE",
+"51 212 OFFCURVE",
+"51 48 CURVE SMOOTH",
+"51 35 OFFCURVE",
+"51 28 OFFCURVE",
+"54 0 CURVE",
+"182 0 LINE",
+"181 16 OFFCURVE",
+"179 54 OFFCURVE",
+"179 72 CURVE SMOOTH",
+"179 212 OFFCURVE",
+"258 419 OFFCURVE",
+"319 419 CURVE SMOOTH",
+"339 419 OFFCURVE",
+"347 407 OFFCURVE",
+"347 377 CURVE SMOOTH",
+"347 315 OFFCURVE",
+"322 181 OFFCURVE",
+"322 102 CURVE SMOOTH",
+"322 31 OFFCURVE",
+"343 -11 OFFCURVE",
+"417 -11 CURVE SMOOTH"
 );
 }
 );
@@ -14336,7 +14320,7 @@ position = "{149, 0}";
 },
 {
 name = ogonek;
-position = "{279, 5}";
+position = "{239, 5}";
 },
 {
 name = top;
@@ -14393,7 +14377,7 @@ position = "{159, 0}";
 },
 {
 name = ogonek;
-position = "{296, 5}";
+position = "{247, 8}";
 },
 {
 name = top;
@@ -14811,12 +14795,12 @@ components = (
 name = idotless;
 },
 {
-name = dotaccent;
+name = dotaccentcomb;
 transform = "{1, 0, 0, 1, 84, 0}";
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 22, -22}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, -19, -22}";
 }
 );
 layerId = UUID0;
@@ -14828,12 +14812,12 @@ components = (
 name = idotless;
 },
 {
-name = dotaccent;
+name = dotaccentcomb;
 transform = "{1, 0, 0, 1, 72, 0}";
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 20, 5}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, -30, 8}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -19225,7 +19209,7 @@ name = t;
 },
 {
 name = strokeshortcomb;
-transform = "{1, 0, 0, 1, -65, -41}";
+transform = "{1, 0, 0, 1, -105, -41}";
 }
 );
 layerId = UUID0;
@@ -19360,7 +19344,7 @@ position = "{283, 0}";
 },
 {
 name = ogonek;
-position = "{521, 5}";
+position = "{512, 5}";
 },
 {
 name = top;
@@ -20116,8 +20100,8 @@ components = (
 name = u;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 264, -22}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 254, -22}";
 }
 );
 layerId = UUID0;
@@ -20129,8 +20113,8 @@ components = (
 name = u;
 },
 {
-name = ogonek;
-transform = "{1, 0, 0, 1, 235, 5}";
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 234, 5}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -61657,7 +61641,7 @@ layers = (
 anchors = (
 {
 name = _ogonek;
-position = "{256, 0}";
+position = "{258, 27}";
 }
 );
 components = (
