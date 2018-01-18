@@ -20,7 +20,8 @@ could be expanded to support other scripts.
 Project [information](http://www.cyreal.org/2012/07/lora/) on Cyreal Fonts' website:
 
 ### Variable Fonts
-[Version 2.200](https://github.com/cyrealtype/Lora-Cyrillic/releases/tag/v2.200) includes a variable font version with one weight axis.
+[Version 2.202](https://github.com/cyrealtype/Lora-Cyrillic/releases/tag/v2.202)
+includes a variable font version with one weight axis.
 
 ### Cyrillic 
 
