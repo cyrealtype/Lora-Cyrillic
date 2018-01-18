@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/fita-cy"
+);
 classes = (
 {
 automatic = 1;
@@ -73690,7 +73693,6 @@ UUID0 = 1;
 name = Regular;
 },
 {
-exports = 0;
 interpolationWeight = 500;
 instanceInterpolations = {
 "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = 0.33333;

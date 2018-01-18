@@ -60,7 +60,7 @@ date = "2018-01-18 12:29:41 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
-familyName = Lora;
+familyName = "Lora Italic";
 featurePrefixes = (
 {
 automatic = 1;
@@ -68072,7 +68072,6 @@ isItalic = 1;
 name = Italic;
 },
 {
-exports = 0;
 interpolationWeight = 500;
 instanceInterpolations = {
 "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = 0.33333;
