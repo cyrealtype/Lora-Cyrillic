@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/fita-cy"
+);
 classes = (
 {
 automatic = 1;
