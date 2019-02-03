@@ -249,6 +249,7 @@ alignmentZones = (
 );
 ascender = 961;
 capHeight = 700;
+custom = Italic;
 customParameters = (
 {
 name = winAscent;
@@ -69090,7 +69091,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }
