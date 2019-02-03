@@ -9,6 +9,10 @@ name = Uppercase;
 {
 code = "zero one two three four five six seven eight nine ";
 name = figures;
+},
+{
+code = "zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf ";
+name = figures_tf;
 }
 );
 copyright = "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name \"Lora\".";
@@ -217,7 +221,6 @@ sub N o period by numero;
 name = ordn;
 },
 {
-automatic = 1;
 code = "sub zero.tf by zero;
 sub one.tf by one;
 sub two.tf by two;
@@ -260,11 +263,11 @@ sub approxequal.tf by approxequal;
 sub logicalnot.tf by logicalnot;
 sub percent.tf by percent;
 sub section.tf by section;
+sub colon.tf.case by colon.case;
 ";
 name = pnum;
 },
 {
-automatic = 1;
 code = "sub zero by zero.tf;
 sub one by one.tf;
 sub two by two.tf;
@@ -307,12 +310,14 @@ sub approxequal by approxequal.tf;
 sub logicalnot by logicalnot.tf;
 sub percent by percent.tf;
 sub section by section.tf;
+sub colon.case by colon.tf.case;
 ";
 name = tnum;
 },
 {
 automatic = 1;
 code = "sub colon by colon.case;
+sub colon.tf by colon.tf.case;
 sub dieresiscomb by dieresiscomb.case;
 sub gravecomb by gravecomb.case;
 sub acutecomb by acutecomb.case;
@@ -344,7 +349,10 @@ name = liga;
 },
 {
 code = "sub @figures colon' by colon.case;
-sub colon' @figures by colon.case;";
+sub colon' @figures by colon.case;
+
+sub @figures_tf colon.tf' by colon.tf.case;
+sub colon.tf' @figures_tf by colon.tf.case;";
 name = calt;
 }
 );
@@ -59185,6 +59193,41 @@ layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 width = 250;
 }
 );
+},
+{
+color = 4;
+glyphname = colon.tf.case;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 40, 110}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 40, 513}";
+}
+);
+layerId = UUID0;
+width = 325;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 46, 110}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 46, 513}";
+}
+);
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+width = 325;
+}
+);
+widthMetricsKey = colon.tf;
 },
 {
 color = 4;
