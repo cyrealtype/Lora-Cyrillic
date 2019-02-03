@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy" format="2">
+  <advance width="504.3333333333333"/>
+  <unicode hex="04AD"/>
+  <outline>
+    <contour>
+      <point x="374.0" y="-177.66666666666666" type="curve"/>
+      <point x="425.6666666666667" y="-177.66666666666666" type="line"/>
+      <point x="425.6666666666667" y="56.0" type="line"/>
+      <point x="300.6666666666667" y="53.666666666666664" type="line"/>
+      <point x="303.6666666666667" y="77.0"/>
+      <point x="304.0" y="101.33333333333333"/>
+      <point x="304.0" y="124.33333333333333" type="curve" smooth="yes"/>
+      <point x="304.0" y="446.0" type="line"/>
+      <point x="352.6666666666667" y="446.0" type="line" smooth="yes"/>
+      <point x="414.6666666666667" y="446.0"/>
+      <point x="436.3333333333333" y="421.0"/>
+      <point x="437.6666666666667" y="338.6666666666667" type="curve"/>
+      <point x="484.6666666666667" y="338.6666666666667" type="line"/>
+      <point x="480.0" y="500.0" type="line"/>
+      <point x="23.666666666666668" y="500.0" type="line"/>
+      <point x="19.666666666666668" y="338.6666666666667" type="line"/>
+      <point x="66.66666666666667" y="338.6666666666667" type="line"/>
+      <point x="66.66666666666667" y="421.0"/>
+      <point x="91.66666666666667" y="446.0"/>
+      <point x="147.66666666666666" y="446.0" type="curve" smooth="yes"/>
+      <point x="203.33333333333334" y="446.0" type="line"/>
+      <point x="200.0" y="420.6666666666667"/>
+      <point x="199.66666666666666" y="399.6666666666667"/>
+      <point x="199.66666666666666" y="375.6666666666667" type="curve" smooth="yes"/>
+      <point x="199.66666666666666" y="152.66666666666666" type="line" smooth="yes"/>
+      <point x="199.0" y="87.0"/>
+      <point x="199.0" y="41.666666666666664"/>
+      <point x="139.66666666666666" y="41.666666666666664" type="curve"/>
+      <point x="139.66666666666666" y="0.0" type="line"/>
+      <point x="299.0" y="0.0" type="line" smooth="yes"/>
+      <point x="360.3333333333333" y="0.0"/>
+      <point x="374.6666666666667" y="-76.33333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>te-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>te-cy</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy.loclBGR" format="2">
+  <advance width="505.0"/>
+  <outline>
+    <contour>
+      <point x="3.0" y="0.0" type="line"/>
+      <point x="161.0" y="0.0" type="line"/>
+      <point x="161.0" y="41.0" type="line"/>
+      <point x="97.0" y="38.0" type="line"/>
+      <point x="103.0" y="50.0"/>
+      <point x="116.0" y="75.0"/>
+      <point x="127.0" y="107.0" type="curve" smooth="yes"/>
+      <point x="207.0" y="349.0" type="line" smooth="yes"/>
+      <point x="219.0" y="387.0"/>
+      <point x="221.0" y="393.0"/>
+      <point x="233.0" y="419.0" type="curve"/>
+      <point x="242.0" y="392.0"/>
+      <point x="253.0" y="359.0"/>
+      <point x="262.0" y="336.0" type="curve" smooth="yes"/>
+      <point x="338.0" y="141.0" type="line" smooth="yes"/>
+      <point x="361.0" y="82.0"/>
+      <point x="376.0" y="30.0"/>
+      <point x="315.0" y="30.0" type="curve"/>
+      <point x="315.0" y="0.0" type="line"/>
+      <point x="499.0" y="0.0" type="line"/>
+      <point x="499.0" y="41.0" type="line"/>
+      <point x="458.0" y="38.0" type="line"/>
+      <point x="455.0" y="61.0"/>
+      <point x="445.0" y="101.0"/>
+      <point x="414.0" y="177.0" type="curve" smooth="yes"/>
+      <point x="271.0" y="526.0" type="line"/>
+      <point x="231.0" y="526.0" type="line"/>
+      <point x="100.0" y="165.0" type="line" smooth="yes"/>
+      <point x="67.0" y="75.0"/>
+      <point x="47.0" y="30.0"/>
+      <point x="3.0" y="30.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|v</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|v</string>
+    </dict>
+  </lib>
+</glyph>

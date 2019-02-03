@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u-cy" format="2">
+  <advance width="535.6666666666666"/>
+  <unicode hex="0443"/>
+  <anchor x="271.3333333333333" y="500.0" name="top"/>
+  <anchor x="370.6666666666667" y="0.0" name="bottom"/>
+  <outline>
+    <component base="y"/>
+  </outline>
+</glyph>

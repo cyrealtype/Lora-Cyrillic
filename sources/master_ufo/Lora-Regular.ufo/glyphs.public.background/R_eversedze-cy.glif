@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Reversedze-cy" format="2">
+  <outline>
+    <contour>
+      <point x="283.0" y="676.0" type="move"/>
+      <point x="399.0" y="676.0"/>
+      <point x="477.0" y="602.0"/>
+      <point x="491.0" y="477.0" type="curve"/>
+      <point x="527.0" y="477.0" type="line"/>
+      <point x="527.0" y="709.0" type="line"/>
+      <point x="473.0" y="709.0" type="line"/>
+      <point x="478.0" y="655.0" type="line"/>
+      <point x="416.0" y="696.0"/>
+      <point x="351.0" y="716.0"/>
+      <point x="276.0" y="716.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

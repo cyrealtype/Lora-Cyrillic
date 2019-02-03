@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedescender-cy" format="2">
+  <advance width="459.0"/>
+  <unicode hex="0499"/>
+  <anchor x="230.0" y="0.0" name="bottom"/>
+  <anchor x="225.0" y="500.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="210.0" y="-166.0" type="line" smooth="yes"/>
+      <point x="264.0" y="-166.0" type="line"/>
+      <point x="253.0" y="0.0" type="line"/>
+      <point x="210.0" y="-1.0" type="line"/>
+    </contour>
+    <component base="ze-cy"/>
+  </outline>
+</glyph>

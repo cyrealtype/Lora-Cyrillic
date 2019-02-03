@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzeabkhasian-cy" format="2">
+  <advance width="602.0"/>
+  <unicode hex="04E0"/>
+  <anchor x="307.0" y="0.0" name="bottom"/>
+  <anchor x="319.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="321.0" y="409.0" type="curve" smooth="yes"/>
+      <point x="239.0" y="409.0" type="line"/>
+      <point x="239.0" y="367.0" type="line"/>
+      <point x="264.0" y="368.0" type="line"/>
+      <point x="407.0" y="362.0"/>
+      <point x="475.0" y="310.0"/>
+      <point x="475.0" y="202.0" type="curve" smooth="yes"/>
+      <point x="475.0" y="89.0"/>
+      <point x="390.0" y="32.0"/>
+      <point x="291.0" y="32.0" type="curve" smooth="yes"/>
+      <point x="205.0" y="32.0"/>
+      <point x="120.0" y="76.0"/>
+      <point x="66.0" y="151.0" type="curve"/>
+      <point x="40.0" y="130.0" type="line"/>
+      <point x="111.0" y="31.0"/>
+      <point x="206.0" y="-16.0"/>
+      <point x="313.0" y="-16.0" type="curve" smooth="yes"/>
+      <point x="445.0" y="-16.0"/>
+      <point x="574.0" y="57.0"/>
+      <point x="574.0" y="201.0" type="curve" smooth="yes"/>
+      <point x="574.0" y="318.0"/>
+      <point x="488.0" y="409.0"/>
+    </contour>
+    <contour>
+      <point x="389.0" y="583.0" type="curve" smooth="yes"/>
+      <point x="239.0" y="409.0" type="line"/>
+      <point x="309.0" y="373.0" type="line"/>
+      <point x="562.0" y="665.0" type="line"/>
+      <point x="563.0" y="700.0" type="line"/>
+      <point x="81.0" y="700.0" type="line"/>
+      <point x="75.0" y="493.0" type="line"/>
+      <point x="109.0" y="493.0" type="line"/>
+      <point x="109.0" y="607.0"/>
+      <point x="148.0" y="658.0"/>
+      <point x="227.0" y="659.0" type="curve" smooth="yes"/>
+      <point x="477.0" y="663.0" type="line"/>
+      <point x="438.0" y="639.0"/>
+      <point x="416.0" y="615.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Be-cy</string>
+    </dict>
+  </lib>
+</glyph>

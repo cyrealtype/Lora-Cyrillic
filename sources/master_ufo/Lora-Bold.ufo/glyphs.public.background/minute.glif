@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <outline>
+    <contour>
+      <point x="222.0" y="752.0" type="line"/>
+      <point x="149.0" y="781.0" type="line"/>
+      <point x="64.0" y="513.0" type="line"/>
+      <point x="99.0" y="498.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

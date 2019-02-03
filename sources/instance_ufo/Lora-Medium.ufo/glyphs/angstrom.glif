@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="angstrom" format="2">
+  <advance width="640.0"/>
+  <unicode hex="212B"/>
+  <anchor x="320.0" y="0.0" name="bottom"/>
+  <anchor x="575.6666666666666" y="0.0" name="ogonek"/>
+  <anchor x="322.6666666666667" y="929.3333333333334" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb.case" xOffset="157.0" yOffset="-30.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

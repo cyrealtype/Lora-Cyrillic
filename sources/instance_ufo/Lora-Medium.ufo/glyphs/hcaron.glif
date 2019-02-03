@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcaron" format="2">
+  <advance width="606.3333333333334"/>
+  <unicode hex="021F"/>
+  <anchor x="303.6666666666667" y="250.0" name="center"/>
+  <anchor x="336.0" y="975.6666666666666" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="caroncomb" xOffset="136.66666666666666" yOffset="203.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

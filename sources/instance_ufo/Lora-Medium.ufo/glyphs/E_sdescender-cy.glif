@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Esdescender-cy" format="2">
+  <advance width="695.3333333333334"/>
+  <unicode hex="04AA"/>
+  <anchor x="352.0" y="0.0" name="bottom"/>
+  <anchor x="393.6666666666667" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="347.0" y="-183.33333333333334" type="line" smooth="yes"/>
+      <point x="418.6666666666667" y="-182.66666666666666" type="line"/>
+      <point x="408.0" y="13.0" type="line"/>
+      <point x="347.0" y="12.333333333333332" type="line"/>
+    </contour>
+    <component base="Es-cy"/>
+  </outline>
+</glyph>

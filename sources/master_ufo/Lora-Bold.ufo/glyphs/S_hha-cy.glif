@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shha-cy" format="2">
+  <advance width="737.0"/>
+  <unicode hex="04BA"/>
+  <anchor x="123.0" y="700.0" name="bottomright"/>
+  <anchor x="423.0" y="399.0" name="center"/>
+  <anchor x="372.0" y="0.0" name="top"/>
+  <outline>
+    <component base="Che-cy" xScale="-1.0" yScale="-1.0" xOffset="737.0" yOffset="700.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|Che</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|Che</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gstroke" format="2">
+  <advance width="575.0"/>
+  <unicode hex="01E5"/>
+  <outline>
+    <contour>
+      <point x="277.0" y="-95.0" type="line"/>
+      <point x="562.0" y="-91.0" type="line"/>
+      <point x="562.0" y="-52.0" type="line"/>
+      <point x="277.0" y="-52.0" type="line"/>
+    </contour>
+    <component base="de-cy.loclBGR"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

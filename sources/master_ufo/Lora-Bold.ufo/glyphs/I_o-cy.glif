@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Io-cy" format="2">
+  <advance width="624.0"/>
+  <unicode hex="0401"/>
+  <anchor x="383.0" y="0.0" name="bottom"/>
+  <anchor x="562.0" y="5.0" name="ogonek"/>
+  <anchor x="324.0" y="949.0" name="top"/>
+  <anchor x="20.0" y="700.0" name="topleft"/>
+  <outline>
+    <component base="Edieresis"/>
+  </outline>
+</glyph>

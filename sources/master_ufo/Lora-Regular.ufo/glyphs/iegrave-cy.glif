@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iegrave-cy" format="2">
+  <advance width="542.0"/>
+  <unicode hex="0450"/>
+  <anchor x="325.0" y="0.0" name="bottom"/>
+  <anchor x="389.0" y="5.0" name="ogonek"/>
+  <anchor x="280.0" y="500.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave" xOffset="154.0"/>
+  </outline>
+</glyph>

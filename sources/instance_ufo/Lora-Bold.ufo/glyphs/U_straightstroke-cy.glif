@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightstroke-cy" format="2">
+  <advance width="667.0"/>
+  <unicode hex="04B0"/>
+  <anchor x="334.0" y="0.0" name="bottom"/>
+  <anchor x="345.0" y="700.0" name="top"/>
+  <anchor x="20.0" y="700.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="145.0" y="200.0" type="line"/>
+      <point x="546.0" y="203.0" type="line"/>
+      <point x="546.0" y="279.0" type="line"/>
+      <point x="145.0" y="279.0" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+</glyph>

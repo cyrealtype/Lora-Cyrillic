@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+  <outline>
+    <contour>
+      <point x="346.636" y="605.064" type="line"/>
+      <point x="365.643" y="629.856" type="line"/>
+      <point x="244.162" y="746.378" type="line"/>
+      <point x="242.51" y="746.378" type="line"/>
+      <point x="114.418" y="629.03" type="line"/>
+      <point x="135.078" y="605.064" type="line"/>
+      <point x="240.03" y="674.482" type="line"/>
+    </contour>
+    <contour>
+      <point x="367.0" y="699.0" type="curve"/>
+      <point x="408.0" y="699.0" type="line"/>
+      <point x="408.0" y="710.0"/>
+      <point x="422.0" y="719.0"/>
+      <point x="438.0" y="731.0" type="curve" smooth="yes"/>
+      <point x="462.0" y="749.0"/>
+      <point x="479.0" y="766.0"/>
+      <point x="479.0" y="800.0" type="curve" smooth="yes"/>
+      <point x="479.0" y="840.0"/>
+      <point x="440.0" y="881.0"/>
+      <point x="370.0" y="881.0" type="curve" smooth="yes"/>
+      <point x="303.0" y="881.0"/>
+      <point x="266.0" y="845.0"/>
+      <point x="266.0" y="811.0" type="curve" smooth="yes"/>
+      <point x="266.0" y="784.0"/>
+      <point x="283.0" y="773.0"/>
+      <point x="299.0" y="773.0" type="curve" smooth="yes"/>
+      <point x="315.0" y="773.0"/>
+      <point x="330.0" y="783.0"/>
+      <point x="330.0" y="799.0" type="curve" smooth="yes"/>
+      <point x="330.0" y="805.0"/>
+      <point x="327.0" y="811.0"/>
+      <point x="324.0" y="815.0" type="curve"/>
+      <point x="326.0" y="829.0"/>
+      <point x="347.0" y="845.0"/>
+      <point x="371.0" y="845.0" type="curve" smooth="yes"/>
+      <point x="404.0" y="845.0"/>
+      <point x="424.0" y="820.0"/>
+      <point x="424.0" y="793.0" type="curve" smooth="yes"/>
+      <point x="424.0" y="779.0"/>
+      <point x="418.0" y="763.0"/>
+      <point x="405.0" y="752.0" type="curve" smooth="yes"/>
+      <point x="388.0" y="737.0"/>
+      <point x="367.0" y="723.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>480.0</real>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

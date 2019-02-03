@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="413.0"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="239.0" y="-16.0" type="curve" smooth="yes"/>
+      <point x="261.0" y="-16.0"/>
+      <point x="353.0" y="-14.0"/>
+      <point x="425.0" y="92.0" type="curve"/>
+      <point x="377.0" y="137.0" type="line"/>
+      <point x="339.0" y="84.0"/>
+      <point x="305.0" y="77.0"/>
+      <point x="286.0" y="77.0" type="curve" smooth="yes"/>
+      <point x="236.0" y="77.0"/>
+      <point x="226.0" y="128.0"/>
+      <point x="226.0" y="174.0" type="curve"/>
+      <point x="227.0" y="420.0" type="line"/>
+      <point x="354.0" y="423.0" type="line"/>
+      <point x="354.0" y="500.0" type="line"/>
+      <point x="227.0" y="500.0" type="line"/>
+      <point x="228.0" y="640.0" type="line"/>
+      <point x="154.0" y="640.0" type="line"/>
+      <point x="140.0" y="569.0"/>
+      <point x="79.0" y="501.0"/>
+      <point x="17.0" y="500.0" type="curve"/>
+      <point x="17.0" y="417.0" type="line"/>
+      <point x="85.0" y="417.0" type="line"/>
+      <point x="83.0" y="176.0" type="line" smooth="yes"/>
+      <point x="83.0" y="9.0"/>
+      <point x="160.0" y="-16.0"/>
+    </contour>
+    <contour>
+      <point x="319.0" y="553.0" type="line"/>
+      <point x="366.0" y="599.0"/>
+      <point x="410.0" y="662.0"/>
+      <point x="410.0" y="728.0" type="curve" smooth="yes"/>
+      <point x="410.0" y="745.0"/>
+      <point x="406.0" y="758.0"/>
+      <point x="396.0" y="778.0" type="curve"/>
+      <point x="307.0" y="795.0" type="line"/>
+      <point x="324.0" y="731.0"/>
+      <point x="329.0" y="672.0"/>
+      <point x="280.0" y="582.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance width="761.0"/>
+  <unicode hex="03A0"/>
+  <anchor x="638.0" y="2.0" name="bottomright"/>
+  <outline>
+    <component base="Pe-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

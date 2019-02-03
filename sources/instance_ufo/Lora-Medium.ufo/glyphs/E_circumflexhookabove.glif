@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexhookabove" format="2">
+  <advance width="622.6666666666666"/>
+  <unicode hex="1EC2"/>
+  <anchor x="375.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="560.6666666666666" y="5.0" name="ogonek"/>
+  <anchor x="326.0" y="700.0" name="top"/>
+  <anchor x="20.0" y="700.0" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb_hookabovecomb.case" xOffset="80.0" yOffset="197.66666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

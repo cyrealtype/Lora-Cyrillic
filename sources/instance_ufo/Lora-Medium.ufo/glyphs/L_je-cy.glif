@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lje-cy" format="2">
+  <advance width="978.3333333333334"/>
+  <unicode hex="0409"/>
+  <outline>
+    <contour>
+      <point x="109.33333333333333" y="-16.0" type="curve" smooth="yes"/>
+      <point x="252.0" y="-16.0"/>
+      <point x="312.6666666666667" y="237.33333333333334"/>
+      <point x="316.0" y="575.6666666666666" type="curve" smooth="yes"/>
+      <point x="317.6666666666667" y="623.6666666666666"/>
+      <point x="329.3333333333333" y="647.0"/>
+      <point x="373.0" y="647.3333333333334" type="curve" smooth="yes"/>
+      <point x="496.6666666666667" y="648.0" type="line"/>
+      <point x="496.6666666666667" y="155.0" type="line" smooth="yes"/>
+      <point x="496.6666666666667" y="79.33333333333333"/>
+      <point x="490.6666666666667" y="46.0"/>
+      <point x="427.0" y="44.0" type="curve"/>
+      <point x="427.0" y="0.0" type="line"/>
+      <point x="711.0" y="0.0" type="line" smooth="yes"/>
+      <point x="847.6666666666666" y="0.0"/>
+      <point x="948.6666666666666" y="71.66666666666667"/>
+      <point x="948.6666666666666" y="208.33333333333334" type="curve" smooth="yes"/>
+      <point x="948.6666666666666" y="322.3333333333333"/>
+      <point x="885.0" y="418.6666666666667"/>
+      <point x="658.6666666666666" y="409.6666666666667" type="curve" smooth="yes"/>
+      <point x="603.0" y="407.0" type="line"/>
+      <point x="603.0" y="545.0" type="line" smooth="yes"/>
+      <point x="603.0" y="619.3333333333334"/>
+      <point x="608.3333333333334" y="653.3333333333334"/>
+      <point x="672.6666666666666" y="656.0" type="curve"/>
+      <point x="672.6666666666666" y="700.0" type="line"/>
+      <point x="158.33333333333334" y="700.0" type="line"/>
+      <point x="158.33333333333334" y="645.0" type="line"/>
+      <point x="237.0" y="648.3333333333334" type="line"/>
+      <point x="259.3333333333333" y="648.6666666666666" type="line"/>
+      <point x="258.3333333333333" y="524.0" type="line" smooth="yes"/>
+      <point x="255.66666666666666" y="208.66666666666666"/>
+      <point x="179.0" y="38.33333333333333"/>
+      <point x="130.33333333333334" y="38.33333333333333" type="curve" smooth="yes"/>
+      <point x="123.66666666666666" y="38.33333333333333"/>
+      <point x="119.0" y="40.0"/>
+      <point x="114.0" y="44.666666666666664" type="curve"/>
+      <point x="121.33333333333333" y="52.666666666666664"/>
+      <point x="122.66666666666666" y="59.0"/>
+      <point x="122.66666666666666" y="72.0" type="curve" smooth="yes"/>
+      <point x="122.66666666666666" y="97.33333333333333"/>
+      <point x="106.0" y="124.33333333333333"/>
+      <point x="68.33333333333333" y="123.0" type="curve" smooth="yes"/>
+      <point x="30.0" y="122.33333333333333"/>
+      <point x="11.666666666666666" y="92.66666666666667"/>
+      <point x="11.666666666666666" y="59.0" type="curve" smooth="yes"/>
+      <point x="11.666666666666666" y="10.666666666666666"/>
+      <point x="53.333333333333336" y="-16.0"/>
+    </contour>
+    <contour>
+      <point x="599.6666666666666" y="50.33333333333333" type="curve" smooth="yes"/>
+      <point x="601.6666666666666" y="67.33333333333333"/>
+      <point x="603.0" y="95.66666666666667"/>
+      <point x="603.0" y="131.66666666666666" type="curve" smooth="yes"/>
+      <point x="603.0" y="357.6666666666667" type="line"/>
+      <point x="630.6666666666666" y="359.6666666666667"/>
+      <point x="641.3333333333334" y="360.3333333333333"/>
+      <point x="673.6666666666666" y="360.3333333333333" type="curve" smooth="yes"/>
+      <point x="760.0" y="360.3333333333333"/>
+      <point x="832.0" y="326.0"/>
+      <point x="832.0" y="208.33333333333334" type="curve" smooth="yes"/>
+      <point x="832.0" y="102.66666666666667"/>
+      <point x="773.6666666666666" y="50.666666666666664"/>
+      <point x="678.0" y="49.33333333333333" type="curve" smooth="yes"/>
+      <point x="662.0" y="49.0"/>
+      <point x="628.3333333333334" y="48.33333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>El-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+    </dict>
+  </lib>
+</glyph>

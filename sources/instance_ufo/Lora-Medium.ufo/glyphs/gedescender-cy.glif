@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gedescender-cy" format="2">
+  <advance width="457.3333333333333"/>
+  <unicode hex="04F7"/>
+  <outline>
+    <contour>
+      <point x="278.6666666666667" y="-177.66666666666666" type="curve"/>
+      <point x="330.3333333333333" y="-177.66666666666666" type="line"/>
+      <point x="330.3333333333333" y="56.0" type="line"/>
+      <point x="204.33333333333334" y="53.666666666666664" type="line"/>
+      <point x="207.33333333333334" y="77.0"/>
+      <point x="207.66666666666666" y="101.33333333333333"/>
+      <point x="207.66666666666666" y="124.33333333333333" type="curve" smooth="yes"/>
+      <point x="208.33333333333334" y="447.3333333333333" type="line"/>
+      <point x="271.0" y="447.3333333333333" type="line" smooth="yes"/>
+      <point x="362.6666666666667" y="447.3333333333333"/>
+      <point x="389.6666666666667" y="422.6666666666667"/>
+      <point x="391.0" y="338.6666666666667" type="curve"/>
+      <point x="438.0" y="338.6666666666667" type="line"/>
+      <point x="434.0" y="500.0" type="line"/>
+      <point x="44.0" y="500.0" type="line"/>
+      <point x="44.0" y="447.3333333333333" type="line"/>
+      <point x="107.33333333333333" y="450.3333333333333" type="line"/>
+      <point x="104.0" y="425.0"/>
+      <point x="103.66666666666667" y="400.0"/>
+      <point x="103.66666666666667" y="375.6666666666667" type="curve" smooth="yes"/>
+      <point x="103.66666666666667" y="152.66666666666666" type="line" smooth="yes"/>
+      <point x="103.0" y="87.0"/>
+      <point x="103.0" y="41.666666666666664"/>
+      <point x="43.666666666666664" y="41.666666666666664" type="curve"/>
+      <point x="43.666666666666664" y="0.0" type="line"/>
+      <point x="203.66666666666666" y="0.0" type="line" smooth="yes"/>
+      <point x="265.0" y="0.0"/>
+      <point x="279.3333333333333" y="-76.33333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ge-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

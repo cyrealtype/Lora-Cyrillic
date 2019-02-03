@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__verticalbar-cy.case" format="2">
+  <advance width="138.0"/>
+  <anchor x="69.0" y="304.0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="178.0" type="line"/>
+      <point x="88.0" y="178.0" type="line"/>
+      <point x="88.0" y="428.0" type="line"/>
+      <point x="50.0" y="428.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yi-cy" format="2">
+  <advance width="281.0"/>
+  <unicode hex="0457"/>
+  <anchor x="141.0" y="0.0" name="bottom"/>
+  <anchor x="253.0" y="10.0" name="ogonek"/>
+  <anchor x="141.0" y="730.0" name="top"/>
+  <outline>
+    <component base="idieresis"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o-cy" format="2">
+  <advance width="578.6666666666666"/>
+  <unicode hex="043E"/>
+  <anchor x="284.6666666666667" y="500.0" name="top"/>
+  <anchor x="289.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="289.6666666666667" y="250.0" name="center"/>
+  <anchor x="520.3333333333334" y="10.0" name="ogonek"/>
+  <anchor x="449.3333333333333" y="500.0" name="topright"/>
+  <outline>
+    <component base="o"/>
+  </outline>
+</glyph>

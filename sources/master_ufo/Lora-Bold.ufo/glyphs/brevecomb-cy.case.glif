@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy.case" format="2">
+  <anchor x="236.0" y="700.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="105.0" y="926.0" type="curve" smooth="yes"/>
+      <point x="66.0" y="926.0"/>
+      <point x="50.0" y="895.0"/>
+      <point x="50.0" y="863.0" type="curve" smooth="yes"/>
+      <point x="50.0" y="795.0"/>
+      <point x="136.0" y="760.0"/>
+      <point x="236.0" y="760.0" type="curve" smooth="yes"/>
+      <point x="335.0" y="760.0"/>
+      <point x="422.0" y="795.0"/>
+      <point x="422.0" y="863.0" type="curve" smooth="yes"/>
+      <point x="422.0" y="895.0"/>
+      <point x="405.0" y="926.0"/>
+      <point x="366.0" y="926.0" type="curve" smooth="yes"/>
+      <point x="320.0" y="928.0"/>
+      <point x="307.0" y="885.0"/>
+      <point x="307.0" y="870.0" type="curve" smooth="yes"/>
+      <point x="307.0" y="858.0"/>
+      <point x="310.0" y="844.0"/>
+      <point x="317.0" y="830.0" type="curve"/>
+      <point x="298.0" y="817.0"/>
+      <point x="266.0" y="810.0"/>
+      <point x="236.0" y="810.0" type="curve" smooth="yes"/>
+      <point x="205.0" y="810.0"/>
+      <point x="174.0" y="817.0"/>
+      <point x="154.0" y="830.0" type="curve"/>
+      <point x="161.0" y="844.0"/>
+      <point x="164.0" y="858.0"/>
+      <point x="164.0" y="870.0" type="curve" smooth="yes"/>
+      <point x="164.0" y="885.0"/>
+      <point x="152.0" y="928.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>472.0</real>
+    </dict>
+  </lib>
+</glyph>

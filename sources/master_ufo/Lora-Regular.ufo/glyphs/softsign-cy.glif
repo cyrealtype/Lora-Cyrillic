@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softsign-cy" format="2">
+  <advance width="507.0"/>
+  <unicode hex="044C"/>
+  <outline>
+    <contour>
+      <point x="44.0" y="0.0" type="line"/>
+      <point x="302.0" y="0.0" type="line" smooth="yes"/>
+      <point x="389.0" y="0.0"/>
+      <point x="465.0" y="52.0"/>
+      <point x="465.0" y="148.0" type="curve" smooth="yes"/>
+      <point x="465.0" y="228.0"/>
+      <point x="414.0" y="295.0"/>
+      <point x="252.0" y="292.0" type="curve" smooth="yes"/>
+      <point x="190.0" y="290.0" type="line"/>
+      <point x="190.0" y="382.0" type="line" smooth="yes"/>
+      <point x="190.0" y="420.0"/>
+      <point x="188.0" y="470.0"/>
+      <point x="249.0" y="470.0" type="curve"/>
+      <point x="249.0" y="500.0" type="line"/>
+      <point x="45.0" y="500.0" type="line"/>
+      <point x="45.0" y="459.0" type="line"/>
+      <point x="66.0" y="460.0"/>
+      <point x="87.0" y="461.0"/>
+      <point x="108.0" y="462.0" type="curve"/>
+      <point x="104.0" y="439.0"/>
+      <point x="104.0" y="421.0"/>
+      <point x="104.0" y="394.0" type="curve" smooth="yes"/>
+      <point x="104.0" y="115.0" type="line" smooth="yes"/>
+      <point x="104.0" y="63.0"/>
+      <point x="93.0" y="31.0"/>
+      <point x="44.0" y="30.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="188.0" y="41.0" type="curve"/>
+      <point x="189.0" y="53.0"/>
+      <point x="190.0" y="71.0"/>
+      <point x="190.0" y="97.0" type="curve" smooth="yes"/>
+      <point x="190.0" y="252.0" type="line"/>
+      <point x="212.0" y="253.0"/>
+      <point x="237.0" y="254.0"/>
+      <point x="266.0" y="254.0" type="curve" smooth="yes"/>
+      <point x="335.0" y="254.0"/>
+      <point x="377.0" y="214.0"/>
+      <point x="377.0" y="146.0" type="curve" smooth="yes"/>
+      <point x="377.0" y="69.0"/>
+      <point x="327.0" y="40.0"/>
+      <point x="266.0" y="40.0" type="curve" smooth="yes"/>
+      <point x="256.0" y="40.0"/>
+      <point x="210.0" y="39.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+    </dict>
+  </lib>
+</glyph>

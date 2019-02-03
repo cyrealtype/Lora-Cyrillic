@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescenderabkhasian-cy" format="2">
+  <advance width="849.6666666666666"/>
+  <unicode hex="04BE"/>
+  <outline>
+    <contour>
+      <point x="469.3333333333333" y="-183.33333333333334" type="line" smooth="yes"/>
+      <point x="541.0" y="-182.66666666666666" type="line"/>
+      <point x="530.3333333333334" y="13.0" type="line"/>
+      <point x="469.3333333333333" y="12.333333333333332" type="line"/>
+    </contour>
+    <component base="Cheabkhasian-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
+</glyph>
