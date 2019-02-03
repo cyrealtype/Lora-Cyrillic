@@ -65,7 +65,7 @@ Tag = wght;
 );
 }
 );
-date = "2018-01-18 12:29:49 +0000";
+date = "2019-02-03 11:56:05 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -79326,5 +79326,5 @@ tH = "40";
 };
 };
 versionMajor = 2;
-versionMinor = 202;
+versionMinor = 210;
 }
