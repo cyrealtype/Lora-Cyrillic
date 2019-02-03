@@ -1,10 +1,5 @@
 {
 .appVersion = "1192";
-DisplayStrings = (
-"/cent.tf/currency.tf/dollar.tf/euro.tf/florin.tf/liraTurkish.tf/ruble.tf/sterling.tf/tenge.tf/tugrik.tf/yen.tf/plus.tf/minus.tf/multiply.tf/divide.tf/equal.tf/notequal.tf/greater.tf/less.tf/greaterequal.tf/lessequal.tf/plusminus.tf/approxequal.tf/logicalnot.tf/percent.tf/section.tf",
-"/liraTurkish.tf",
-"/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf"
-);
 classes = (
 {
 automatic = 1;
@@ -57209,7 +57204,7 @@ width = 576;
 unicode = 0039;
 },
 {
-color = 9;
+color = 4;
 glyphname = zero.tf;
 layers = (
 {
@@ -57235,7 +57230,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = one.tf;
 layers = (
 {
@@ -57295,7 +57290,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = two.tf;
 layers = (
 {
@@ -57403,7 +57398,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = three.tf;
 layers = (
 {
@@ -57429,7 +57424,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = four.tf;
 layers = (
 {
@@ -57521,7 +57516,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = five.tf;
 layers = (
 {
@@ -57547,7 +57542,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = six.tf;
 layers = (
 {
@@ -57573,7 +57568,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = seven.tf;
 layers = (
 {
@@ -57599,7 +57594,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = eight.tf;
 layers = (
 {
@@ -57625,7 +57620,7 @@ width = 650;
 );
 },
 {
-color = 9;
+color = 4;
 glyphname = nine.tf;
 layers = (
 {
@@ -63054,23 +63049,119 @@ color = 4;
 glyphname = euro.tf;
 layers = (
 {
-components = (
+layerId = UUID0;
+paths = (
 {
-name = euro;
-transform = "{1, 0, 0, 1, -52, 0}";
+closed = 1;
+nodes = (
+"461 -16 OFFCURVE",
+"561 10 OFFCURVE",
+"641 129 CURVE",
+"615 150 LINE",
+"565 75 OFFCURVE",
+"490 39 OFFCURVE",
+"411 39 CURVE SMOOTH",
+"305 39 OFFCURVE",
+"221 120 OFFCURVE",
+"192 249 CURVE",
+"409 250 LINE",
+"437 306 LINE",
+"183 307 LINE",
+"182 322 OFFCURVE",
+"180 363 OFFCURVE",
+"183 395 CURVE",
+"472 396 LINE",
+"499 452 LINE",
+"190 454 LINE",
+"216 595 OFFCURVE",
+"301 674 OFFCURVE",
+"400 674 CURVE SMOOTH",
+"503 674 OFFCURVE",
+"549 601 OFFCURVE",
+"560 506 CURVE",
+"597 506 LINE",
+"616 708 LINE",
+"563 708 LINE",
+"562 659 LINE",
+"508 698 OFFCURVE",
+"456 716 OFFCURVE",
+"393 716 CURVE SMOOTH",
+"237 716 OFFCURVE",
+"138 596 OFFCURVE",
+"104 454 CURVE",
+"21 454 LINE",
+"8 394 LINE",
+"93 394 LINE",
+"90 360 OFFCURVE",
+"91 339 OFFCURVE",
+"92 308 CURVE",
+"21 308 LINE",
+"8 248 LINE",
+"100 249 LINE",
+"129 95 OFFCURVE",
+"232 -16 OFFCURVE",
+"387 -16 CURVE SMOOTH"
+);
 }
 );
-layerId = UUID0;
 width = 650;
 },
 {
-components = (
+layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
+paths = (
 {
-name = euro;
-transform = "{1, 0, 0, 1, -82, 0}";
+closed = 1;
+nodes = (
+"455 -16 OFFCURVE",
+"570 7 OFFCURVE",
+"664 144 CURVE",
+"616 188 LINE",
+"564 111 OFFCURVE",
+"481 65 OFFCURVE",
+"404 65 CURVE SMOOTH",
+"311 65 OFFCURVE",
+"250 125 OFFCURVE",
+"224 232 CURVE",
+"423 233 LINE",
+"473 308 LINE",
+"212 309 LINE",
+"207 329 OFFCURVE",
+"209 347 OFFCURVE",
+"209 369 CURVE",
+"480 370 LINE",
+"527 445 LINE",
+"219 446 LINE",
+"240 554 OFFCURVE",
+"299 644 OFFCURVE",
+"402 644 CURVE SMOOTH",
+"482 644 OFFCURVE",
+"528 588 OFFCURVE",
+"526 490 CURVE",
+"593 490 LINE",
+"615 709 LINE",
+"541 709 LINE",
+"538 667 LINE",
+"490 702 OFFCURVE",
+"432 716 OFFCURVE",
+"388 716 CURVE SMOOTH",
+"212 716 OFFCURVE",
+"111 590 OFFCURVE",
+"79 446 CURVE",
+"2 446 LINE",
+"-15 368 LINE",
+"67 368 LINE",
+"68 349 OFFCURVE",
+"67 329 OFFCURVE",
+"69 309 CURVE",
+"2 310 LINE",
+"-15 231 LINE",
+"81 232 LINE",
+"119 87 OFFCURVE",
+"229 -16 OFFCURVE",
+"382 -16 CURVE SMOOTH"
+);
 }
 );
-layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 width = 650;
 }
 );
