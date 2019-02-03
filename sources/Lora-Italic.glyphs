@@ -46301,7 +46301,6 @@ hints = (
 {
 horizontal = 1;
 place = "{42.719, 0}";
-type = Stem;
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -69260,8 +69259,8 @@ name = Italic;
 exports = 0;
 interpolationWeight = 500;
 instanceInterpolations = {
-"6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = 0.33333;
 UUID0 = 0.66667;
+"6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = 0.33333;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -70293,7 +70292,7 @@ slash = -89.8438;
 x = -12.207;
 };
 Q = {
-"@MMK_R_j" = 143.06599;
+"@MMK_R_j" = 143.066;
 braceright = 42.9688;
 bracketright = 70.8008;
 parenright = 37.1094;
@@ -70571,7 +70570,7 @@ five = -56.1523;
 four = -71.7773;
 nine = -65.918;
 one = -49.8047;
-quotedbl = -130.85899;
+quotedbl = -130.859;
 quoteright = -98.1445;
 quotesingle = -99.1211;
 seven = -84.9609;
@@ -70855,6 +70854,8 @@ hyphen = -12.207;
 parenright = -12.207;
 periodcentered = -16.1133;
 slash = -19.043;
+minus = -11.2305;
+plus = -9.76562;
 };
 p = {
 "@MMK_R_A" = -15.1367;
@@ -71021,7 +71022,7 @@ quotedblbase = -125.977;
 slash = -104.98;
 };
 quotedblbase = {
-quotedbl = -140.13699;
+quotedbl = -140.137;
 };
 quotedblleft = {
 "@MMK_R_A" = -53.2227;
@@ -71137,6 +71138,8 @@ period = -40.0391;
 periodcentered = -20.0195;
 seven = 22.9492;
 slash = -82.0312;
+minus = -19.043;
+plus = -14.1602;
 };
 six = {
 braceright = -15.1367;
@@ -71165,7 +71168,7 @@ four = -42.9688;
 p = -21.9727;
 seven = 18.0664;
 six = -9.76562;
-slash = -327.14801;
+slash = -327.148;
 thorn = 23.9258;
 x = -21.9727;
 };
@@ -71197,6 +71200,8 @@ fraction = 24.9023;
 hyphen = -18.0664;
 periodcentered = -20.0195;
 slash = -21.9727;
+minus = -15.1367;
+plus = -9.76562;
 };
 w = {
 trademark = -16.1133;
@@ -71232,6 +71237,22 @@ bracketright = -36.1328;
 parenright = -21.9727;
 period = -12.207;
 slash = -54.1992;
+};
+equal = {
+one = -12.207;
+seven = -36.1328;
+};
+minus = {
+one = -24.9023;
+seven = -55.1758;
+three = -13.1836;
+two = -23.9258;
+};
+plus = {
+one = -21.9727;
+seven = -43.9453;
+three = -13.1836;
+two = -21.9727;
 };
 };
 "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = {
@@ -73293,7 +73314,7 @@ quotedblbase = {
 "@MMK_R_A" = 8.30078;
 "@MMK_R_f" = 2.44141;
 "@MMK_R_j" = -2.92969;
-quotedbl = -134.27699;
+quotedbl = -134.277;
 };
 quotedblright = {
 "@MMK_R_i" = 11.2305;
@@ -73399,7 +73420,7 @@ lslash = 0.48828;
 p = -26.8555;
 seven = 21.9727;
 six = -10.7422;
-slash = -330.56601;
+slash = -330.566;
 thorn = 39.0625;
 v = -18.0664;
 w = -19.5312;

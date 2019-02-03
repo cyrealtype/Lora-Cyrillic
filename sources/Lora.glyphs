@@ -367,7 +367,6 @@ alignmentZones = (
 );
 ascender = 948;
 capHeight = 700;
-custom = Italic;
 customParameters = (
 {
 name = winAscent;
@@ -454,7 +453,6 @@ alignmentZones = (
 );
 ascender = 948;
 capHeight = 700;
-custom = Italic;
 customParameters = (
 {
 name = winAscent;
@@ -75537,8 +75535,8 @@ name = Regular;
 exports = 0;
 interpolationWeight = 500;
 instanceInterpolations = {
-"4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = 0.33333;
 UUID0 = 0.66667;
+"4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = 0.33333;
 };
 name = Medium;
 weightClass = Medium;
@@ -76154,6 +76152,7 @@ three = -23.9258;
 two = -32.2266;
 v = 26.8555;
 w = -7.8125;
+one = -25.8789;
 };
 "@MMK_L_i" = {
 "@MMK_R_I" = -6.83594;
@@ -76853,6 +76852,7 @@ v = -71.7773;
 w = -69.8242;
 x = -14.1602;
 zero = -48.8281;
+one = -29.7852;
 };
 bar = {
 "@MMK_R_j" = 37.1094;
@@ -76884,6 +76884,7 @@ three = -9.76562;
 v = -18.0664;
 w = -18.0664;
 zero = -17.0898;
+one = -9.76562;
 };
 braceright = {
 braceright = -11.2305;
@@ -76926,6 +76927,7 @@ v = -42.9688;
 w = -42.9688;
 x = -34.1797;
 zero = -29.7852;
+one = -21.9727;
 };
 comma = {
 "@MMK_R_quoteleft" = -125.977;
@@ -77017,6 +77019,7 @@ minus = {
 seven = -56.1523;
 three = -18.0664;
 two = -25.8789;
+one = -25.8789;
 };
 nine = {
 "@MMK_R_period" = -16.1133;
@@ -77077,11 +77080,13 @@ eight = -14.1602;
 seven = -65.918;
 three = -26.8555;
 two = -33.2031;
+one = -29.7852;
 };
 plus = {
 seven = -36.1328;
 three = -14.1602;
 two = -20.0195;
+one = -19.043;
 };
 q = {
 "@MMK_R_I" = -16.1133;
@@ -77193,7 +77198,7 @@ AE = -68.8477;
 four = -42.9688;
 p = -26.8555;
 six = -16.1133;
-slash = -320.80099;
+slash = -320.801;
 v = -12.207;
 w = -12.207;
 x = -15.1367;
@@ -77305,6 +77310,19 @@ parenright = -20.0195;
 seven = -21.9727;
 slash = -48.8281;
 two = -7.32422;
+};
+equal = {
+one = -11.2305;
+seven = -35.1562;
+};
+one = {
+"@MMK_R_A" = 12.207;
+"@MMK_R_hyphen" = -12.207;
+bracketright = -13.1836;
+fraction = 19.043;
+minus = -11.2305;
+periodcentered = -17.0898;
+slash = -18.0664;
 };
 };
 "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = {
@@ -78912,7 +78930,7 @@ bracketleft = {
 "@MMK_R_f" = -32.2266;
 "@MMK_R_h" = 20.9961;
 "@MMK_R_i" = -20.9961;
-"@MMK_R_j" = 128.90601;
+"@MMK_R_j" = 128.906;
 "@MMK_R_l" = 20.9961;
 "@MMK_R_n" = -59.082;
 "@MMK_R_o" = -62.0117;
