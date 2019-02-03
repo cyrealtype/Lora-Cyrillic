@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hardsign-cy" format="2">
+  <advance width="726.0"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="169.0" y="0.0" type="line"/>
+      <point x="458.0" y="0.0" type="line" smooth="yes"/>
+      <point x="593.0" y="0.0"/>
+      <point x="701.0" y="68.0"/>
+      <point x="701.0" y="205.0" type="curve" smooth="yes"/>
+      <point x="701.0" y="321.0"/>
+      <point x="625.0" y="390.0"/>
+      <point x="426.0" y="385.0" type="curve" smooth="yes"/>
+      <point x="342.0" y="383.0" type="line"/>
+      <point x="351.0" y="554.0" type="line" smooth="yes"/>
+      <point x="354.0" y="625.0"/>
+      <point x="355.0" y="664.0"/>
+      <point x="425.0" y="667.0" type="curve"/>
+      <point x="427.0" y="700.0" type="line"/>
+      <point x="53.0" y="700.0" type="line"/>
+      <point x="36.0" y="489.0" type="line"/>
+      <point x="73.0" y="489.0" type="line"/>
+      <point x="79.0" y="607.0"/>
+      <point x="113.0" y="662.0"/>
+      <point x="197.0" y="662.0" type="curve" smooth="yes"/>
+      <point x="278.0" y="662.0" type="line"/>
+      <point x="273.0" y="642.0"/>
+      <point x="271.0" y="616.0"/>
+      <point x="269.0" y="588.0" type="curve" smooth="yes"/>
+      <point x="247.0" y="161.0" type="line" smooth="yes"/>
+      <point x="243.0" y="86.0"/>
+      <point x="246.0" y="35.0"/>
+      <point x="171.0" y="33.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="321.0" y="41.0" type="curve"/>
+      <point x="324.0" y="58.0"/>
+      <point x="326.0" y="83.0"/>
+      <point x="328.0" y="119.0" type="curve" smooth="yes"/>
+      <point x="340.0" y="344.0" type="line"/>
+      <point x="372.0" y="346.0"/>
+      <point x="403.0" y="347.0"/>
+      <point x="443.0" y="347.0" type="curve" smooth="yes"/>
+      <point x="534.0" y="347.0"/>
+      <point x="613.0" y="308.0"/>
+      <point x="607.0" y="195.0" type="curve" smooth="yes"/>
+      <point x="602.0" y="90.0"/>
+      <point x="530.0" y="39.0"/>
+      <point x="427.0" y="39.0" type="curve" smooth="yes"/>
+      <point x="414.0" y="39.0"/>
+      <point x="352.0" y="38.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+    </dict>
+  </lib>
+</glyph>

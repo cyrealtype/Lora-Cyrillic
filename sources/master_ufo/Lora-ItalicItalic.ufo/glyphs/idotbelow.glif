@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotbelow" format="2">
+  <advance width="324.0"/>
+  <unicode hex="1ECB"/>
+  <anchor x="138.0" y="-187.0" name="bottom"/>
+  <outline>
+    <component base="i"/>
+    <component base="dotbelowcomb" xOffset="50.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

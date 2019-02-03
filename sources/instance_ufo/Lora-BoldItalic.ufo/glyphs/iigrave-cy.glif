@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iigrave-cy" format="2">
+  <advance width="598.0"/>
+  <unicode hex="045D"/>
+  <anchor x="565.0" y="0.0" name="bottomright"/>
+  <anchor x="511.0" y="5.0" name="ogonek"/>
+  <anchor x="308.0" y="500.0" name="top"/>
+  <anchor x="549.0" y="500.0" name="topright"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="grave" xOffset="161.0"/>
+  </outline>
+</glyph>

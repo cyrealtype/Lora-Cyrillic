@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pemiddlehook-cy" format="2">
+  <advance width="1057.0"/>
+  <unicode hex="04A6"/>
+  <anchor x="757.0" y="0.0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="773.0" y="-229.0" type="curve" smooth="yes"/>
+      <point x="919.0" y="-229.0"/>
+      <point x="1028.0" y="-107.0"/>
+      <point x="1039.0" y="106.0" type="curve" smooth="yes"/>
+      <point x="1049.0" y="302.0"/>
+      <point x="970.0" y="406.0"/>
+      <point x="803.0" y="406.0" type="curve" smooth="yes"/>
+      <point x="742.0" y="406.0"/>
+      <point x="662.0" y="391.0"/>
+      <point x="622.0" y="368.0" type="curve"/>
+      <point x="595.0" y="289.0" type="line"/>
+      <point x="626.0" y="308.0"/>
+      <point x="701.0" y="327.0"/>
+      <point x="749.0" y="327.0" type="curve" smooth="yes"/>
+      <point x="823.0" y="327.0"/>
+      <point x="894.0" y="275.0"/>
+      <point x="880.0" y="98.0" type="curve" smooth="yes"/>
+      <point x="870.0" y="-37.0"/>
+      <point x="846.0" y="-151.0"/>
+      <point x="751.0" y="-151.0" type="curve" smooth="yes"/>
+      <point x="737.0" y="-151.0"/>
+      <point x="711.0" y="-149.0"/>
+      <point x="695.0" y="-146.0" type="curve"/>
+      <point x="680.0" y="-216.0" type="line"/>
+      <point x="711.0" y="-225.0"/>
+      <point x="746.0" y="-229.0"/>
+    </contour>
+    <component base="Pe-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+    </dict>
+  </lib>
+</glyph>

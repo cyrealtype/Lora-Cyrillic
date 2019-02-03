@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <outline>
+    <contour>
+      <point x="161.0" y="577.0" type="curve" smooth="yes"/>
+      <point x="213.0" y="577.0"/>
+      <point x="266.0" y="607.0"/>
+      <point x="297.0" y="673.0" type="curve"/>
+      <point x="276.0" y="682.0" type="line"/>
+      <point x="252.0" y="647.0"/>
+      <point x="211.0" y="622.0"/>
+      <point x="167.0" y="622.0" type="curve" smooth="yes"/>
+      <point x="124.0" y="622.0"/>
+      <point x="82.0" y="648.0"/>
+      <point x="64.0" y="679.0" type="curve"/>
+      <point x="41.0" y="671.0" type="line"/>
+      <point x="62.0" y="606.0"/>
+      <point x="118.0" y="577.0"/>
+    </contour>
+    <contour>
+      <point x="169.314" y="675.486" type="line"/>
+      <point x="189.148" y="692.014" type="line"/>
+      <point x="124.689" y="801.098" type="line" smooth="yes"/>
+      <point x="102.376" y="839.113"/>
+      <point x="78.41" y="825.89"/>
+      <point x="73.452" y="820.932" type="curve" smooth="yes"/>
+      <point x="66.841" y="814.321"/>
+      <point x="55.271" y="794.487"/>
+      <point x="84.195" y="763.91" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>293.0</real>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

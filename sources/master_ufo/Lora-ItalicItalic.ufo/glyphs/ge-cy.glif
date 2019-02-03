@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy" format="2">
+  <advance width="442.0"/>
+  <unicode hex="0433"/>
+  <anchor x="375.0" y="0.0" name="bottomright"/>
+  <anchor x="200.0" y="256.0" name="center"/>
+  <anchor x="253.0" y="512.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="212.0" y="-17.0" type="curve" smooth="yes"/>
+      <point x="296.0" y="-17.0"/>
+      <point x="359.0" y="25.0"/>
+      <point x="410.0" y="107.0" type="curve"/>
+      <point x="384.0" y="124.0" type="line"/>
+      <point x="341.0" y="59.0"/>
+      <point x="291.0" y="27.0"/>
+      <point x="229.0" y="27.0" type="curve" smooth="yes"/>
+      <point x="177.0" y="27.0"/>
+      <point x="136.0" y="55.0"/>
+      <point x="138.0" y="107.0" type="curve" smooth="yes"/>
+      <point x="141.0" y="161.0"/>
+      <point x="183.0" y="201.0"/>
+      <point x="255.0" y="245.0" type="curve" smooth="yes"/>
+      <point x="345.0" y="300.0"/>
+      <point x="396.0" y="339.0"/>
+      <point x="399.0" y="406.0" type="curve" smooth="yes"/>
+      <point x="402.0" y="473.0"/>
+      <point x="346.0" y="512.0"/>
+      <point x="253.0" y="512.0" type="curve" smooth="yes"/>
+      <point x="177.0" y="512.0"/>
+      <point x="99.0" y="477.0"/>
+      <point x="41.0" y="396.0" type="curve"/>
+      <point x="71.0" y="376.0" type="line"/>
+      <point x="111.0" y="439.0"/>
+      <point x="180.0" y="471.0"/>
+      <point x="224.0" y="471.0" type="curve" smooth="yes"/>
+      <point x="271.0" y="471.0"/>
+      <point x="306.0" y="451.0"/>
+      <point x="306.0" y="403.0" type="curve" smooth="yes"/>
+      <point x="306.0" y="356.0"/>
+      <point x="278.0" y="327.0"/>
+      <point x="223.0" y="292.0" type="curve" smooth="yes"/>
+      <point x="129.0" y="233.0"/>
+      <point x="46.0" y="191.0"/>
+      <point x="41.0" y="106.0" type="curve" smooth="yes"/>
+      <point x="37.0" y="26.0"/>
+      <point x="107.0" y="-17.0"/>
+    </contour>
+  </outline>
+</glyph>

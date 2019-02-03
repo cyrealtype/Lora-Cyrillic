@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghemiddlehook-cy" format="2">
+  <advance width="676.0"/>
+  <unicode hex="0494"/>
+  <anchor x="533.0" y="0.0" name="bottomright"/>
+  <anchor x="288.0" y="350.0" name="center"/>
+  <anchor x="307.0" y="700.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="365.0" y="-229.0" type="curve" smooth="yes"/>
+      <point x="511.0" y="-229.0"/>
+      <point x="620.0" y="-107.0"/>
+      <point x="631.0" y="106.0" type="curve" smooth="yes"/>
+      <point x="641.0" y="302.0"/>
+      <point x="562.0" y="406.0"/>
+      <point x="395.0" y="406.0" type="curve" smooth="yes"/>
+      <point x="334.0" y="406.0"/>
+      <point x="254.0" y="391.0"/>
+      <point x="214.0" y="368.0" type="curve"/>
+      <point x="187.0" y="289.0" type="line"/>
+      <point x="218.0" y="308.0"/>
+      <point x="293.0" y="327.0"/>
+      <point x="341.0" y="327.0" type="curve" smooth="yes"/>
+      <point x="415.0" y="327.0"/>
+      <point x="486.0" y="275.0"/>
+      <point x="472.0" y="98.0" type="curve" smooth="yes"/>
+      <point x="462.0" y="-37.0"/>
+      <point x="438.0" y="-151.0"/>
+      <point x="343.0" y="-151.0" type="curve" smooth="yes"/>
+      <point x="329.0" y="-151.0"/>
+      <point x="303.0" y="-149.0"/>
+      <point x="287.0" y="-146.0" type="curve"/>
+      <point x="272.0" y="-216.0" type="line"/>
+      <point x="303.0" y="-225.0"/>
+      <point x="338.0" y="-229.0"/>
+    </contour>
+    <component base="Ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

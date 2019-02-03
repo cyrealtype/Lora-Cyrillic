@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1059.0"/>
+  <unicode hex="2116"/>
+  <anchor x="368.0" y="0.0" name="bottom"/>
+  <anchor x="405.0" y="702.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="694.0" yOffset="-91.0"/>
+    <component base="macron" xOffset="702.0" yOffset="-474.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

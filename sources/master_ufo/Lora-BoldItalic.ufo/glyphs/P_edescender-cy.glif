@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pedescender-cy" format="2">
+  <advance width="794.0"/>
+  <unicode hex="0524"/>
+  <anchor x="757.0" y="0.0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="678.0" y="-177.0" type="curve"/>
+      <point x="751.0" y="-177.0" type="line"/>
+      <point x="765.0" y="79.0" type="line"/>
+      <point x="654.0" y="74.0" type="line"/>
+      <point x="617.0" y="0.0" type="line"/>
+      <point x="675.0" y="0.0"/>
+      <point x="686.0" y="-73.0"/>
+    </contour>
+    <component base="Pe-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=Pe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

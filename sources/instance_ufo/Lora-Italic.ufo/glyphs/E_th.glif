@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="738.0"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="40.0" y="0.0" type="line"/>
+      <point x="299.0" y="0.0" type="line" smooth="yes"/>
+      <point x="564.0" y="0.0"/>
+      <point x="695.0" y="181.0"/>
+      <point x="695.0" y="376.0" type="curve" smooth="yes"/>
+      <point x="695.0" y="599.0"/>
+      <point x="541.0" y="702.0"/>
+      <point x="309.0" y="701.0" type="curve" smooth="yes"/>
+      <point x="77.0" y="700.0" type="line"/>
+      <point x="74.0" y="656.0" type="line"/>
+      <point x="99.0" y="657.0"/>
+      <point x="123.0" y="659.0"/>
+      <point x="148.0" y="660.0" type="curve"/>
+      <point x="145.0" y="640.0"/>
+      <point x="143.0" y="615.0"/>
+      <point x="141.0" y="588.0" type="curve" smooth="yes"/>
+      <point x="129.0" y="378.0" type="line"/>
+      <point x="26.0" y="378.0" type="line"/>
+      <point x="24.0" y="328.0" type="line"/>
+      <point x="127.0" y="329.0" type="line"/>
+      <point x="117.0" y="156.0" type="line" smooth="yes"/>
+      <point x="114.0" y="85.0"/>
+      <point x="117.0" y="36.0"/>
+      <point x="42.0" y="33.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="298.0" y="38.0" type="curve" smooth="yes"/>
+      <point x="265.0" y="38.0"/>
+      <point x="235.0" y="38.0"/>
+      <point x="191.0" y="40.0" type="curve"/>
+      <point x="194.0" y="57.0"/>
+      <point x="196.0" y="82.0"/>
+      <point x="198.0" y="118.0" type="curve" smooth="yes"/>
+      <point x="209.0" y="330.0" type="line"/>
+      <point x="340.0" y="332.0" type="line"/>
+      <point x="342.0" y="378.0" type="line"/>
+      <point x="212.0" y="378.0" type="line"/>
+      <point x="221.0" y="551.0" type="line" smooth="yes"/>
+      <point x="225.0" y="629.0"/>
+      <point x="227.0" y="664.0"/>
+      <point x="303.0" y="664.0" type="curve" smooth="yes"/>
+      <point x="507.0" y="664.0"/>
+      <point x="602.0" y="552.0"/>
+      <point x="602.0" y="380.0" type="curve" smooth="yes"/>
+      <point x="602.0" y="188.0"/>
+      <point x="479.0" y="38.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D</string>
+    </dict>
+  </lib>
+</glyph>

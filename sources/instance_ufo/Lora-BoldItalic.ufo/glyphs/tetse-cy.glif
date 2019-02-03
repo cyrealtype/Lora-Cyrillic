@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetse-cy" format="2">
+  <advance width="622.0"/>
+  <unicode hex="04B5"/>
+  <anchor x="323.0" y="722.0" name="top"/>
+  <outline>
+    <component base="tse-cy"/>
+    <component base="macroncomb" xOffset="122.0"/>
+  </outline>
+</glyph>

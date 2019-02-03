@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraitstroke-cy" format="2">
+  <advance width="500.0"/>
+  <unicode hex="04B1"/>
+  <anchor x="266.0" y="0.0" name="center"/>
+  <outline>
+    <contour>
+      <point x="92.0" y="0.0" type="line"/>
+      <point x="445.0" y="0.0" type="line"/>
+      <point x="445.0" y="39.0" type="line"/>
+      <point x="92.0" y="43.0" type="line"/>
+    </contour>
+    <component base="ustrait-cy"/>
+  </outline>
+</glyph>

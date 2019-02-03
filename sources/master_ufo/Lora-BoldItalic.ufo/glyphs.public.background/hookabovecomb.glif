@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
+  <outline>
+    <contour>
+      <point x="184.0" y="559.0" type="curve"/>
+      <point x="246.0" y="559.0" type="line"/>
+      <point x="246.0" y="571.0"/>
+      <point x="258.0" y="585.0"/>
+      <point x="275.0" y="598.0" type="curve" smooth="yes"/>
+      <point x="295.0" y="614.0"/>
+      <point x="318.0" y="628.0"/>
+      <point x="320.0" y="664.0" type="curve" smooth="yes"/>
+      <point x="323.0" y="721.0"/>
+      <point x="279.0" y="757.0"/>
+      <point x="200.0" y="757.0" type="curve" smooth="yes"/>
+      <point x="129.0" y="757.0"/>
+      <point x="86.0" y="708.0"/>
+      <point x="83.0" y="663.0" type="curve" smooth="yes"/>
+      <point x="81.0" y="635.0"/>
+      <point x="102.0" y="612.0"/>
+      <point x="133.0" y="612.0" type="curve" smooth="yes"/>
+      <point x="156.0" y="612.0"/>
+      <point x="168.0" y="628.0"/>
+      <point x="169.0" y="643.0" type="curve" smooth="yes"/>
+      <point x="170.0" y="657.0"/>
+      <point x="161.0" y="670.0"/>
+      <point x="141.0" y="670.0" type="curve"/>
+      <point x="143.0" y="679.0"/>
+      <point x="159.0" y="697.0"/>
+      <point x="197.0" y="697.0" type="curve" smooth="yes"/>
+      <point x="225.0" y="697.0"/>
+      <point x="247.0" y="683.0"/>
+      <point x="245.0" y="655.0" type="curve" smooth="yes"/>
+      <point x="244.0" y="638.0"/>
+      <point x="235.0" y="626.0"/>
+      <point x="226.0" y="616.0" type="curve" smooth="yes"/>
+      <point x="209.0" y="598.0"/>
+      <point x="185.0" y="587.0"/>
+    </contour>
+  </outline>
+</glyph>

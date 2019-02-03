@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal" format="2">
+  <advance width="530.0"/>
+  <unicode hex="003D"/>
+  <guideline x="509.0" y="365.0" angle="0.0"/>
+  <outline>
+    <contour>
+      <point x="53.0" y="465.0" type="line"/>
+      <point x="51.0" y="415.0" type="line"/>
+      <point x="497.0" y="415.0" type="line"/>
+      <point x="499.0" y="465.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="45.0" y="315.0" type="line"/>
+      <point x="43.0" y="265.0" type="line"/>
+      <point x="489.0" y="265.0" type="line"/>
+      <point x="491.0" y="315.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>plus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>plus</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

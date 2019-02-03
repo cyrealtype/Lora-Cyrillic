@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance width="665.0"/>
+  <unicode hex="00DD"/>
+  <anchor x="319.0" y="0.0" name="bottom"/>
+  <anchor x="377.0" y="700.0" name="top"/>
+  <anchor x="33.0" y="700.0" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acutecomb.case" xOffset="267.0"/>
+  </outline>
+</glyph>

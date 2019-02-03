@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ushort-cy" format="2">
+  <advance width="561.0"/>
+  <unicode hex="045E"/>
+  <anchor x="466.0" y="0.0" name="bottom"/>
+  <anchor x="294.0" y="500.0" name="top"/>
+  <outline>
+    <component base="u-cy"/>
+    <component base="brevecomb-cy" xOffset="22.0"/>
+  </outline>
+</glyph>

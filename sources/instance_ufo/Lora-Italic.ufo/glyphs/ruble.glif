@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="597.0"/>
+  <unicode hex="20BD"/>
+  <outline>
+    <contour>
+      <point x="41.0" y="201.0" type="line"/>
+      <point x="39.0" y="163.0" type="line"/>
+      <point x="387.0" y="167.0" type="line"/>
+      <point x="389.0" y="201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="41.0" y="307.0" type="line"/>
+      <point x="39.0" y="269.0" type="line"/>
+      <point x="162.0" y="270.0" type="line"/>
+      <point x="163.009" y="307.0" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+</glyph>

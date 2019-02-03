@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorn" format="2">
+  <advance width="593.0"/>
+  <unicode hex="01B0"/>
+  <anchor x="283.0" y="0.0" name="bottom"/>
+  <anchor x="512.0" y="5.0" name="ogonek"/>
+  <anchor x="310.0" y="512.0" name="top"/>
+  <anchor x="528.0" y="505.0" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="horncomb" xOffset="337.0" yOffset="-7.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

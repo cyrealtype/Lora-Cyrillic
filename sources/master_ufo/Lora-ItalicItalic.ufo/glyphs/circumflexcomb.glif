@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <unicode hex="0302"/>
+  <anchor x="251.0" y="512.0" name="_top"/>
+  <anchor x="261.0" y="705.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="375.0" y="563.0" type="line"/>
+      <point x="391.0" y="588.0" type="line"/>
+      <point x="264.0" y="688.0" type="line"/>
+      <point x="262.0" y="688.0" type="line"/>
+      <point x="125.0" y="589.0" type="line"/>
+      <point x="139.0" y="564.0" type="line"/>
+      <point x="255.0" y="624.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>469.0</real>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

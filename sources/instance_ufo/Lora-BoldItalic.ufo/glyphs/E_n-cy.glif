@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="En-cy" format="2">
+  <advance width="802.0"/>
+  <unicode hex="041D"/>
+  <anchor x="660.0" y="0.0" name="bottomright"/>
+  <anchor x="401.0" y="350.0" name="center"/>
+  <anchor x="429.0" y="700.0" name="top"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>auto</string>
+    </dict>
+  </lib>
+</glyph>

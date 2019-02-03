@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide.alt" format="2">
+  <advance width="530.0"/>
+  <outline>
+    <component base="period" xOffset="163.0" yOffset="139.0"/>
+    <component base="period" xOffset="180.0" yOffset="462.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

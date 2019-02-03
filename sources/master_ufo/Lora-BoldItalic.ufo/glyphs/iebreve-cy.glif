@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iebreve-cy" format="2">
+  <advance width="470.0"/>
+  <unicode hex="04D7"/>
+  <anchor x="260.0" y="0.0" name="bottom"/>
+  <anchor x="313.0" y="5.0" name="ogonek"/>
+  <anchor x="268.0" y="500.0" name="top"/>
+  <outline>
+    <component base="ie-cy"/>
+    <component base="brevecomb-cy" xOffset="-4.0"/>
+  </outline>
+</glyph>

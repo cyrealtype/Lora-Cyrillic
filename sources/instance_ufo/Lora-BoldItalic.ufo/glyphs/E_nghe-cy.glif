@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="950.0"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="35.0" y="0.0" type="line"/>
+      <point x="322.0" y="0.0" type="line"/>
+      <point x="326.0" y="77.0" type="line"/>
+      <point x="312.0" y="77.0"/>
+      <point x="272.0" y="76.0"/>
+      <point x="251.0" y="74.0" type="curve"/>
+      <point x="254.0" y="91.0"/>
+      <point x="258.0" y="128.0"/>
+      <point x="260.0" y="164.0" type="curve" smooth="yes"/>
+      <point x="267.0" y="312.0" type="line"/>
+      <point x="543.0" y="315.0" type="line"/>
+      <point x="546.0" y="391.0" type="line"/>
+      <point x="271.0" y="391.0" type="line"/>
+      <point x="280.0" y="547.0" type="line" smooth="yes"/>
+      <point x="284.0" y="628.0"/>
+      <point x="310.0" y="632.0"/>
+      <point x="355.0" y="634.0" type="curve"/>
+      <point x="359.0" y="700.0" type="line"/>
+      <point x="72.0" y="700.0" type="line"/>
+      <point x="68.0" y="623.0" type="line"/>
+      <point x="82.0" y="624.0"/>
+      <point x="122.0" y="625.0"/>
+      <point x="143.0" y="626.0" type="curve"/>
+      <point x="140.0" y="609.0"/>
+      <point x="136.0" y="572.0"/>
+      <point x="134.0" y="536.0" type="curve" smooth="yes"/>
+      <point x="114.0" y="153.0" type="line" smooth="yes"/>
+      <point x="110.0" y="72.0"/>
+      <point x="84.0" y="68.0"/>
+      <point x="38.0" y="66.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="439.0" y="0.0" type="line"/>
+      <point x="737.0" y="0.0" type="line"/>
+      <point x="741.0" y="77.0" type="line"/>
+      <point x="727.0" y="77.0"/>
+      <point x="674.0" y="76.0"/>
+      <point x="653.0" y="74.0" type="curve"/>
+      <point x="656.0" y="91.0"/>
+      <point x="659.0" y="128.0"/>
+      <point x="661.0" y="164.0" type="curve" smooth="yes"/>
+      <point x="681.0" y="547.0" type="line" smooth="yes"/>
+      <point x="685.0" y="625.0"/>
+      <point x="711.0" y="631.0"/>
+      <point x="753.0" y="634.0" type="curve" smooth="yes"/>
+      <point x="769.0" y="635.0" type="line" smooth="yes"/>
+      <point x="823.0" y="638.0"/>
+      <point x="889.0" y="615.0"/>
+      <point x="884.0" y="506.0" type="curve"/>
+      <point x="949.0" y="506.0" type="line"/>
+      <point x="954.0" y="700.0" type="line"/>
+      <point x="476.0" y="700.0" type="line"/>
+      <point x="472.0" y="623.0" type="line"/>
+      <point x="486.0" y="624.0"/>
+      <point x="526.0" y="625.0"/>
+      <point x="547.0" y="626.0" type="curve"/>
+      <point x="544.0" y="609.0"/>
+      <point x="540.0" y="572.0"/>
+      <point x="538.0" y="536.0" type="curve" smooth="yes"/>
+      <point x="518.0" y="153.0" type="line" smooth="yes"/>
+      <point x="514.0" y="72.0"/>
+      <point x="487.0" y="68.0"/>
+      <point x="443.0" y="66.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

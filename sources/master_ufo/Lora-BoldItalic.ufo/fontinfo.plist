@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <real>961.0</real>
+    <key>capHeight</key>
+    <real>700.0</real>
+    <key>copyright</key>
+    <string>Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name "Lora".</string>
+    <key>descender</key>
+    <real>-275.0</real>
+    <key>familyName</key>
+    <string>Lora</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <real>-3.0</real>
+    <key>openTypeHeadCreated</key>
+    <string>2019/02/03 11:57:16</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1033</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-274</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Olga Karpushina, Alexei Vanyashin (Cyrillic)</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://cyreal.org</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Cyreal</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://cyreal.org</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1033</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-274</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>CYRE</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>700</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1206</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>294</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <real>-271.0</real>
+      <real>-255.0</real>
+      <real>-16.0</real>
+      <real>0.0</real>
+      <real>500.0</real>
+      <real>516.0</real>
+      <real>700.0</real>
+      <real>716.0</real>
+      <real>744.0</real>
+      <real>760.0</real>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>78</integer>
+      <integer>70</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>142</integer>
+      <integer>127</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Lora Bold</string>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>styleName</key>
+    <string>Bold Italic</string>
+    <key>trademark</key>
+    <string>Lora is a trademark of Cyreal.</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>210</integer>
+    <key>xHeight</key>
+    <real>500.0</real>
+  </dict>
+</plist>
