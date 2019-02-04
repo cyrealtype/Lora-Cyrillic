@@ -325,8 +325,8 @@
       <string>Y</string>
       <string>Yacute</string>
       <string>Ydieresis</string>
-      <string>Ustrait-cy</string>
-      <string>Ustraitstroke-cy</string>
+      <string>Ustraight-cy</string>
+      <string>Ustraightstroke-cy</string>
     </array>
     <key>public.kern1.Z</key>
     <array>
@@ -644,8 +644,8 @@
     </array>
     <key>public.kern1.ustrait-cy</key>
     <array>
-      <string>ustrait-cy</string>
-      <string>ustraitstroke-cy</string>
+      <string>ustraight-cy</string>
+      <string>ustraightstroke-cy</string>
     </array>
     <key>public.kern1.v</key>
     <array>
@@ -990,8 +990,8 @@
       <string>Y</string>
       <string>Yacute</string>
       <string>Ydieresis</string>
-      <string>Ustrait-cy</string>
-      <string>Ustraitstroke-cy</string>
+      <string>Ustraight-cy</string>
+      <string>Ustraightstroke-cy</string>
     </array>
     <key>public.kern2.Z</key>
     <array>
@@ -1309,8 +1309,8 @@
     <key>public.kern2.v</key>
     <array>
       <string>izhitsa-cy</string>
-      <string>ustrait-cy</string>
-      <string>ustraitstroke-cy</string>
+      <string>ustraight-cy</string>
+      <string>ustraightstroke-cy</string>
       <string>we-cy</string>
     </array>
     <key>public.kern2.ve-cy.loclBGR</key>

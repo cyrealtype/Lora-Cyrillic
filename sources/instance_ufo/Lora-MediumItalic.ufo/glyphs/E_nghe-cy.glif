@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="950.0"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="39.0" y="0.0" type="line"/>
+      <point x="284.6666666666667" y="0.0" type="line"/>
+      <point x="287.3333333333333" y="55.0" type="line"/>
+      <point x="266.6666666666667" y="54.33333333333333"/>
+      <point x="237.33333333333334" y="52.666666666666664"/>
+      <point x="214.33333333333334" y="51.33333333333333" type="curve"/>
+      <point x="217.33333333333334" y="68.33333333333333"/>
+      <point x="220.0" y="98.0"/>
+      <point x="222.0" y="134.0" type="curve" smooth="yes"/>
+      <point x="232.33333333333334" y="326.6666666666667" type="line"/>
+      <point x="563.6666666666666" y="330.3333333333333" type="line"/>
+      <point x="566.0" y="382.3333333333333" type="line"/>
+      <point x="235.0" y="382.3333333333333" type="line"/>
+      <point x="244.0" y="545.0" type="line" smooth="yes"/>
+      <point x="247.33333333333334" y="619.3333333333334"/>
+      <point x="254.0" y="653.3333333333334"/>
+      <point x="319.0" y="656.0" type="curve"/>
+      <point x="321.6666666666667" y="700.0" type="line"/>
+      <point x="76.0" y="700.0" type="line"/>
+      <point x="72.66666666666667" y="645.0" type="line"/>
+      <point x="93.33333333333333" y="646.0"/>
+      <point x="123.33333333333333" y="647.6666666666666"/>
+      <point x="146.33333333333334" y="648.6666666666666" type="curve"/>
+      <point x="143.33333333333334" y="629.6666666666666"/>
+      <point x="140.0" y="600.6666666666666"/>
+      <point x="138.66666666666666" y="570.6666666666666" type="curve" smooth="yes"/>
+      <point x="116.66666666666667" y="155.0" type="line" smooth="yes"/>
+      <point x="112.66666666666667" y="80.66666666666667"/>
+      <point x="106.66666666666667" y="46.666666666666664"/>
+      <point x="41.333333333333336" y="44.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="470.3333333333333" y="0.0" type="line"/>
+      <point x="739.6666666666666" y="0.0" type="line"/>
+      <point x="742.3333333333334" y="55.0" type="line"/>
+      <point x="715.0" y="54.33333333333333"/>
+      <point x="674.6666666666666" y="52.666666666666664"/>
+      <point x="645.0" y="51.33333333333333" type="curve"/>
+      <point x="648.0" y="68.33333333333333"/>
+      <point x="650.3333333333334" y="98.0"/>
+      <point x="652.3333333333334" y="134.0" type="curve" smooth="yes"/>
+      <point x="673.6666666666666" y="542.3333333333334" type="line" smooth="yes"/>
+      <point x="677.6666666666666" y="614.3333333333334"/>
+      <point x="685.0" y="649.6666666666666"/>
+      <point x="748.3333333333334" y="653.3333333333334" type="curve" smooth="yes"/>
+      <point x="775.6666666666666" y="655.0" type="line" smooth="yes"/>
+      <point x="843.6666666666666" y="659.3333333333334"/>
+      <point x="904.3333333333334" y="633.6666666666666"/>
+      <point x="898.6666666666666" y="518.6666666666666" type="curve"/>
+      <point x="945.0" y="518.6666666666666" type="line"/>
+      <point x="949.3333333333334" y="700.0" type="line"/>
+      <point x="507.3333333333333" y="700.0" type="line"/>
+      <point x="504.0" y="645.0" type="line"/>
+      <point x="524.6666666666666" y="646.0"/>
+      <point x="554.6666666666666" y="647.6666666666666"/>
+      <point x="577.6666666666666" y="648.6666666666666" type="curve"/>
+      <point x="574.6666666666666" y="629.6666666666666"/>
+      <point x="571.3333333333334" y="600.6666666666666"/>
+      <point x="570.0" y="570.6666666666666" type="curve" smooth="yes"/>
+      <point x="548.0" y="155.0" type="line" smooth="yes"/>
+      <point x="544.0" y="80.66666666666667"/>
+      <point x="537.6666666666666" y="46.666666666666664"/>
+      <point x="473.0" y="44.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

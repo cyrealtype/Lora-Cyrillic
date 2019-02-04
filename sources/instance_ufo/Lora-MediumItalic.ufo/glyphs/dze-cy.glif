@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dze-cy" format="2">
+  <advance width="434.0"/>
+  <unicode hex="0455"/>
+  <anchor x="218.66666666666666" y="0.0" name="bottom"/>
+  <anchor x="231.0" y="508.0" name="top"/>
+  <outline>
+    <component base="s"/>
+  </outline>
+</glyph>

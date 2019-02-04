@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring" format="2">
+  <advance width="643.0"/>
+  <unicode hex="00C5"/>
+  <anchor x="288.0" y="0.0" name="bottom"/>
+  <anchor x="570.0" y="0.0" name="ogonek"/>
+  <anchor x="344.0" y="959.3333333333334" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb.case" xOffset="173.66666666666666" yOffset="1.3333333333333335"/>
+  </outline>
+</glyph>

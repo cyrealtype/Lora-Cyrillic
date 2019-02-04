@@ -308,7 +308,6 @@
       <string>gstroke</string>
       <string>h</string>
       <string>hbar</string>
-      <string>hbar.001</string>
       <string>hcaron</string>
       <string>hcircumflex</string>
       <string>i</string>
@@ -501,8 +500,8 @@
       <string>Esdescender-cy.loclBSH</string>
       <string>Esdescender-cy.loclCHU</string>
       <string>Tedescender-cy</string>
-      <string>Ustrait-cy</string>
-      <string>Ustraitstroke-cy</string>
+      <string>Ustraight-cy</string>
+      <string>Ustraightstroke-cy</string>
       <string>Hadescender-cy</string>
       <string>Tetse-cy</string>
       <string>Chedescender-cy</string>
@@ -637,8 +636,8 @@
       <string>esdescender-cy.loclBSH</string>
       <string>esdescender-cy.loclCHU</string>
       <string>tedescender-cy</string>
-      <string>ustrait-cy</string>
-      <string>ustraitstroke-cy</string>
+      <string>ustraight-cy</string>
+      <string>ustraightstroke-cy</string>
       <string>hadescender-cy</string>
       <string>tetse-cy</string>
       <string>chedescender-cy</string>
@@ -1286,10 +1285,10 @@
       <string>uni04EE</string>
       <key>Ushort-cy</key>
       <string>uni040E</string>
-      <key>Ustrait-cy</key>
-      <string>Ustraitcy</string>
-      <key>Ustraitstroke-cy</key>
-      <string>Ustraitstrokecy</string>
+      <key>Ustraight-cy</key>
+      <string>uni04AE</string>
+      <key>Ustraightstroke-cy</key>
+      <string>uni04B0</string>
       <key>Ve-cy</key>
       <string>uni0412</string>
       <key>We-cy</key>
@@ -1836,10 +1835,10 @@
       <string>uni04EF</string>
       <key>ushort-cy</key>
       <string>uni045E</string>
-      <key>ustrait-cy</key>
-      <string>ustraitcy</string>
-      <key>ustraitstroke-cy</key>
-      <string>ustraitstrokecy</string>
+      <key>ustraight-cy</key>
+      <string>uni04AF</string>
+      <key>ustraightstroke-cy</key>
+      <string>uni04B1</string>
       <key>ve-cy</key>
       <string>uni0432</string>
       <key>ve-cy.loclBGR</key>

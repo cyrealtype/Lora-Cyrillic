@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Semisoftsign-cy" format="2">
+  <advance width="622.3333333333334"/>
+  <unicode hex="048C"/>
+  <outline>
+    <contour>
+      <point x="34.0" y="508.3333333333333" type="line"/>
+      <point x="410.0" y="512.0" type="line"/>
+      <point x="412.6666666666667" y="566.0" type="line"/>
+      <point x="37.0" y="566.0" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="7.333333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Softsign-cy</string>
+    </dict>
+  </lib>
+</glyph>

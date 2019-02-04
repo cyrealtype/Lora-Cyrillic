@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gstroke" format="2">
+  <advance width="518.6666666666666"/>
+  <unicode hex="01E5"/>
+  <anchor x="296.3333333333333" y="508.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="476.0" y="-55.333333333333336" type="line"/>
+      <point x="184.33333333333334" y="-55.333333333333336" type="line"/>
+      <point x="182.33333333333334" y="-101.66666666666667" type="line"/>
+      <point x="474.0" y="-97.66666666666667" type="line"/>
+    </contour>
+    <component base="g"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

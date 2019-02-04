@@ -7,9 +7,9 @@
   <outline>
     <contour>
       <point x="27.0" y="0.0" type="line"/>
-      <point x="30.0" y="52.0" type="line"/>
-      <point x="475.0" y="56.0" type="line"/>
       <point x="472.0" y="0.0" type="line"/>
+      <point x="475.0" y="56.0" type="line"/>
+      <point x="30.0" y="52.0" type="line"/>
     </contour>
     <component base="greater" xOffset="3.0" yOffset="27.0"/>
   </outline>

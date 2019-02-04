@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <advance width="524.3333333333334"/>
+  <unicode hex="048F"/>
+  <outline>
+    <contour>
+      <point x="407.0" y="-95.0" type="line"/>
+      <point x="442.6666666666667" y="-67.66666666666667" type="line"/>
+      <point x="287.3333333333333" y="154.33333333333334" type="line"/>
+      <point x="252.0" y="127.66666666666667" type="line"/>
+    </contour>
+    <component base="p" xOffset="-7.666666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=pe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=pe-cy</string>
+    </dict>
+  </lib>
+</glyph>

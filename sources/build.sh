@@ -4,17 +4,17 @@ set -e
 
 echo "Generating Static fonts"
 #mkdir -p ../fonts
-fontmake -g Lora.glyphs -i -o ttf --output-dir ../fonts/TTF/
-fontmake -g Lora-Italic.glyphs -i -o ttf --output-dir ../fonts/TTF/
-fontmake -g Lora.glyphs -i -a -o otf --output-dir ../fonts/OTF/
-fontmake -g Lora-Italic.glyphs -i -a -o otf --output-dir ../fonts/OTF/
+#fontmake -g Lora.glyphs -i -o ttf --output-dir ../fonts/TTF/
+#fontmake -g Lora-Italic.glyphs -i -o ttf --output-dir ../fonts/TTF/
+#fontmake -g Lora.glyphs -i -a -o otf --output-dir ../fonts/OTF/
+#fontmake -g Lora-Italic.glyphs -i -a -o otf --output-dir ../fonts/OTF/
 
 
 echo "Generating VFs"
-fontmake -g Lora.glyphs -o variable --output-path ../fonts/variable/Lora-VF.ttf
-fontmake -g Lora-Italic.glyphs -o variable --output-path ../fonts/variable/Lora-Italic-VF.ttf
+#fontmake -g Lora.glyphs -o variable --output-path ../fonts/variable/Lora-VF.ttf
+#fontmake -g Lora-Italic.glyphs -o variable --output-path ../fonts/variable/Lora-Italic-VF.ttf
 
-rm -rf master_ufo/ instance_ufo/
+#rm -rf master_ufo/ instance_ufo/
 
 
 echo "Post processing"

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarred-cy" format="2">
+  <advance width="779.3333333333334"/>
+  <unicode hex="04E8"/>
+  <anchor x="413.0" y="700.0" name="top"/>
+  <anchor x="376.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="394.6666666666667" y="350.0" name="center"/>
+  <anchor x="688.0" y="5.0" name="ogonek"/>
+  <anchor x="33.0" y="700.0" name="topleft"/>
+  <anchor x="609.3333333333334" y="700.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="149.33333333333334" y="328.0" type="line"/>
+      <point x="636.3333333333334" y="331.6666666666667" type="line"/>
+      <point x="636.3333333333334" y="381.0" type="line"/>
+      <point x="149.33333333333334" y="381.0" type="line"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+</glyph>

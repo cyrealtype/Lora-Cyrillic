@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enghe-cy" format="2">
+  <advance width="728.6666666666666"/>
+  <unicode hex="04A5"/>
+  <anchor x="568.3333333333334" y="0.0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="660.0" y="341.6666666666667" type="curve"/>
+      <point x="707.0" y="341.6666666666667" type="line"/>
+      <point x="718.0" y="500.0" type="line"/>
+      <point x="456.0" y="500.0" type="line"/>
+      <point x="454.0" y="450.3333333333333" type="line"/>
+      <point x="557.6666666666666" y="450.3333333333333" type="line"/>
+      <point x="642.0" y="450.3333333333333"/>
+      <point x="667.3333333333334" y="425.6666666666667"/>
+    </contour>
+    <component base="en-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ghestroke-cy</string>
+    </dict>
+  </lib>
+</glyph>

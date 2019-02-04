@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraightstroke-cy" format="2">
+  <advance width="649.0"/>
+  <unicode hex="04B0"/>
+  <anchor x="311.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="365.0" y="701.3333333333334" name="top"/>
+  <anchor x="33.0" y="700.0" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="134.33333333333334" y="243.33333333333334" type="line"/>
+      <point x="524.6666666666666" y="247.0" type="line"/>
+      <point x="526.0" y="295.0" type="line"/>
+      <point x="135.66666666666666" y="295.0" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=Y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Y</string>
+    </dict>
+  </lib>
+</glyph>

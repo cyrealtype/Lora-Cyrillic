@@ -27,6 +27,13 @@
       <kerning/>
       <info/>
     </instance>
+    <instance name="Lora Medium Italic" familyname="Lora" stylename="Medium Italic" filename="../instance_ufo/Lora-MediumItalic.ufo" stylemapfamilyname="Lora Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
     <instance name="Lora Bold Italic" familyname="Lora" stylename="Bold Italic" filename="../instance_ufo/Lora-BoldItalic.ufo" stylemapfamilyname="Lora" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="700"/>

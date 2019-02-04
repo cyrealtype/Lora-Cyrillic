@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <anchor x="121.66666666666667" y="0.0" name="_bottom"/>
+  <anchor x="131.66666666666666" y="-246.33333333333334" name="bottom"/>
+  <outline>
+    <component base="cedilla"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>293.0</real>
+    </dict>
+  </lib>
+</glyph>

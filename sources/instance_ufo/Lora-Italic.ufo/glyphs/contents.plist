@@ -554,10 +554,10 @@
     <string>U_ring.glif</string>
     <key>Ushort-cy</key>
     <string>U_short-cy.glif</string>
-    <key>Ustrait-cy</key>
-    <string>U_strait-cy.glif</string>
-    <key>Ustraitstroke-cy</key>
-    <string>U_straitstroke-cy.glif</string>
+    <key>Ustraight-cy</key>
+    <string>U_straight-cy.glif</string>
+    <key>Ustraightstroke-cy</key>
+    <string>U_straightstroke-cy.glif</string>
     <key>Utilde</key>
     <string>U_tilde.glif</string>
     <key>V</key>
@@ -1116,8 +1116,6 @@
     <string>hastroke-cy.glif</string>
     <key>hbar</key>
     <string>hbar.glif</string>
-    <key>hbar.001</key>
-    <string>hbar.001.glif</string>
     <key>hcaron</key>
     <string>hcaron.glif</string>
     <key>hcircumflex</key>
@@ -1670,10 +1668,10 @@
     <string>uring.glif</string>
     <key>ushort-cy</key>
     <string>ushort-cy.glif</string>
-    <key>ustrait-cy</key>
-    <string>ustrait-cy.glif</string>
-    <key>ustraitstroke-cy</key>
-    <string>ustraitstroke-cy.glif</string>
+    <key>ustraight-cy</key>
+    <string>ustraight-cy.glif</string>
+    <key>ustraightstroke-cy</key>
+    <string>ustraightstroke-cy.glif</string>
     <key>utilde</key>
     <string>utilde.glif</string>
     <key>v</key>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave" format="2">
+  <advance width="330.6666666666667"/>
+  <unicode hex="00EC"/>
+  <anchor x="152.33333333333334" y="0.0" name="bottom"/>
+  <anchor x="241.66666666666666" y="6.0" name="ogonek"/>
+  <anchor x="178.33333333333334" y="508.0" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="grave" xOffset="41.333333333333336"/>
+  </outline>
+</glyph>

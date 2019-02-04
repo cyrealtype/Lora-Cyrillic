@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="622.3333333333334"/>
+  <unicode hex="048B"/>
+  <anchor x="569.3333333333334" y="0.0" name="bottomright"/>
+  <anchor x="519.3333333333334" y="5.0" name="ogonek"/>
+  <anchor x="319.0" y="508.0" name="top"/>
+  <anchor x="542.6666666666666" y="503.3333333333333" name="topright"/>
+  <outline>
+    <contour>
+      <point x="508.3333333333333" y="-208.0" type="line"/>
+      <point x="595.6666666666666" y="-134.66666666666666"/>
+      <point x="616.3333333333334" y="-65.0"/>
+      <point x="580.6666666666666" y="-7.0" type="curve" smooth="yes"/>
+      <point x="565.3333333333334" y="17.0"/>
+      <point x="567.3333333333334" y="43.0"/>
+      <point x="576.0" y="67.66666666666667" type="curve" smooth="yes"/>
+      <point x="589.3333333333334" y="108.0" type="line"/>
+      <point x="556.3333333333334" y="115.66666666666666" type="line"/>
+      <point x="527.3333333333334" y="62.333333333333336" type="line"/>
+      <point x="519.3333333333334" y="6.0" type="line"/>
+      <point x="530.3333333333334" y="1.0" type="line"/>
+      <point x="517.0" y="-22.666666666666668"/>
+      <point x="508.6666666666667" y="-46.333333333333336"/>
+      <point x="517.6666666666666" y="-76.33333333333333" type="curve" smooth="yes"/>
+      <point x="524.3333333333334" y="-99.33333333333333"/>
+      <point x="525.6666666666666" y="-124.66666666666667"/>
+      <point x="480.3333333333333" y="-180.0" type="curve"/>
+    </contour>
+    <component base="brevecomb-cy" xOffset="63.333333333333336" yOffset="-0.6666666666666667"/>
+    <component base="ii-cy" xOffset="7.666666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=en-cy</string>
+    </dict>
+  </lib>
+</glyph>

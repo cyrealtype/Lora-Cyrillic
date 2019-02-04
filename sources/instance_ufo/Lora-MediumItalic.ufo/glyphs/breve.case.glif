@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.case" format="2">
+  <advance width="293.0"/>
+  <anchor x="172.0" y="700.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="180.43333333333334" y="791.6666666666666" type="curve" smooth="yes"/>
+      <point x="249.6" y="791.6666666666666"/>
+      <point x="313.2" y="829.3333333333334"/>
+      <point x="352.5" y="915.0" type="curve"/>
+      <point x="316.2" y="930.3333333333334" type="line"/>
+      <point x="288.7" y="889.6666666666666"/>
+      <point x="242.73333333333332" y="857.0"/>
+      <point x="187.46666666666667" y="857.0" type="curve" smooth="yes"/>
+      <point x="132.63333333333333" y="857.0"/>
+      <point x="85.13333333333334" y="890.6666666666666"/>
+      <point x="62.33333333333333" y="927.6666666666666" type="curve"/>
+      <point x="23.166666666666668" y="912.0" type="line"/>
+      <point x="52.699999999999996" y="827.3333333333334"/>
+      <point x="123.60000000000001" y="791.6666666666666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

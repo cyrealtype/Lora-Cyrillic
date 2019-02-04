@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply" format="2">
+  <advance width="530.0"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="144.33333333333334" y="541.0" type="line"/>
+      <point x="99.66666666666667" y="499.3333333333333" type="line"/>
+      <point x="399.0" y="183.66666666666666" type="line"/>
+      <point x="443.0" y="226.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="454.3333333333333" y="497.6666666666667" type="line"/>
+      <point x="416.0" y="538.3333333333334" type="line"/>
+      <point x="83.66666666666667" y="222.33333333333334" type="line"/>
+      <point x="122.0" y="181.66666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>plus</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

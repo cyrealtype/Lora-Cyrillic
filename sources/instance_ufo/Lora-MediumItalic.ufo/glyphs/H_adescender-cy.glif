@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance width="694.6666666666666"/>
+  <unicode hex="04B2"/>
+  <outline>
+    <contour>
+      <point x="629.3333333333334" y="-177.0" type="curve"/>
+      <point x="681.6666666666666" y="-177.0" type="line"/>
+      <point x="694.3333333333334" y="57.666666666666664" type="line"/>
+      <point x="606.0" y="52.666666666666664" type="line"/>
+      <point x="561.0" y="0.0" type="line"/>
+      <point x="624.3333333333334" y="0.0"/>
+      <point x="636.0" y="-66.33333333333333"/>
+    </contour>
+    <component base="Ha-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ezhcaron" format="2">
+  <advance width="596.3333333333334"/>
+  <unicode hex="01EE"/>
+  <anchor x="285.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="335.3333333333333" y="950.6666666666666" name="top"/>
+  <outline>
+    <component base="Ezh"/>
+    <component base="caroncomb.case" xOffset="79.33333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <outline>
+    <contour>
+      <point x="164.66666666666666" y="571.0" type="curve" smooth="yes"/>
+      <point x="221.66666666666666" y="571.0"/>
+      <point x="274.0" y="602.3333333333334"/>
+      <point x="306.3333333333333" y="673.0" type="curve"/>
+      <point x="277.0" y="685.6666666666666" type="line"/>
+      <point x="254.0" y="652.6666666666666"/>
+      <point x="216.0" y="625.3333333333334"/>
+      <point x="170.0" y="625.3333333333334" type="curve" smooth="yes"/>
+      <point x="124.66666666666667" y="625.3333333333334"/>
+      <point x="86.0" y="653.0"/>
+      <point x="66.33333333333333" y="683.6666666666666" type="curve"/>
+      <point x="34.666666666666664" y="670.3333333333334" type="line"/>
+      <point x="59.0" y="600.6666666666666"/>
+      <point x="117.66666666666667" y="571.0"/>
+    </contour>
+    <contour>
+      <point x="175.86466666666666" y="676.296" type="line"/>
+      <point x="267.5946666666667" y="764.4446666666666" type="line" smooth="yes"/>
+      <point x="294.866" y="791.4406666666666"/>
+      <point x="291.2846666666667" y="817.6103333333333"/>
+      <point x="278.338" y="829.7306666666667" type="curve" smooth="yes"/>
+      <point x="267.044" y="840.198"/>
+      <point x="238.946" y="844.606"/>
+      <point x="218.01066666666665" y="809.8966666666666" type="curve" smooth="yes"/>
+      <point x="150.52133333333333" y="698.6086666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>293.0</real>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

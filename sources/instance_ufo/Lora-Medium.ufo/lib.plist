@@ -413,9 +413,7 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>/hryvnia</string>
-    </array>
+    <string></string>
     <key>com.schriftgestaltung.customParameter.GSFont.TTFAutohint options</key>
     <string>--strong-stem-width=GD</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
@@ -1339,7 +1337,6 @@
       <string>uni0000</string>
       <string>uni1C81</string>
       <string>uni1C85</string>
-      <string>_corner.UC</string>
       <string>uniEFFD</string>
       <string>__descender-cy.case</string>
       <string>__descender-cy</string>

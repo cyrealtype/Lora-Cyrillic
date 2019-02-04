@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <advance width="735.3333333333334"/>
+  <unicode hex="044B"/>
+  <anchor x="381.3333333333333" y="508.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="588.3333333333334" y="-11.0" type="curve" smooth="yes"/>
+      <point x="671.0" y="-11.0"/>
+      <point x="716.0" y="84.66666666666667"/>
+      <point x="726.0" y="135.0" type="curve"/>
+      <point x="689.0" y="144.33333333333334" type="line"/>
+      <point x="670.0" y="77.0"/>
+      <point x="643.3333333333334" y="54.0"/>
+      <point x="624.3333333333334" y="54.0" type="curve" smooth="yes"/>
+      <point x="608.0" y="54.0"/>
+      <point x="601.6666666666666" y="68.66666666666667"/>
+      <point x="601.6666666666666" y="92.0" type="curve" smooth="yes"/>
+      <point x="601.6666666666666" y="149.66666666666666"/>
+      <point x="640.0" y="387.3333333333333"/>
+      <point x="640.0" y="466.6666666666667" type="curve" smooth="yes"/>
+      <point x="640.0" y="478.3333333333333"/>
+      <point x="640.0" y="484.6666666666667"/>
+      <point x="638.3333333333334" y="500.0" type="curve"/>
+      <point x="537.6666666666666" y="500.0" type="line"/>
+      <point x="538.6666666666666" y="481.0"/>
+      <point x="539.6666666666666" y="463.0"/>
+      <point x="539.6666666666666" y="444.0" type="curve" smooth="yes"/>
+      <point x="540.3333333333334" y="317.6666666666667"/>
+      <point x="506.3333333333333" y="152.33333333333334"/>
+      <point x="506.3333333333333" y="82.66666666666667" type="curve" smooth="yes"/>
+      <point x="506.3333333333333" y="19.666666666666668"/>
+      <point x="538.0" y="-11.0"/>
+    </contour>
+    <component base="softsign-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+    </dict>
+  </lib>
+</glyph>
