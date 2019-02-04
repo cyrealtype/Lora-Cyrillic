@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="tshe-cy" format="2">
-  <anchor x="311.0" y="250.0" name="center"/>
-  <anchor x="170.0" y="704.0" name="top"/>
-  <outline>
-    <component base="hbar"/>
-  </outline>
-</glyph>

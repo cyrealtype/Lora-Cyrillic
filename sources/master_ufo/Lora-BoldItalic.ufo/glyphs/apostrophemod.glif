@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="apostrophemod" format="2">
-  <advance width="139.0"/>
-  <unicode hex="02BC"/>
-  <outline>
-    <component base="comma" xOffset="-30.0" yOffset="601.0"/>
-  </outline>
-</glyph>

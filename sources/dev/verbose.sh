@@ -1,0 +1,43 @@
+#!/bin/sh
+
+echo "Post processing"
+gftools fix-dsig -f ../fonts/variable/Lora-VF.ttf;
+gftools fix-dsig -f ../fonts/variable/Lora-Italic-VF.ttf;
+
+gftools fix-vf-meta ../fonts/variable/Lora-VF.ttf;
+
+
+./ttfautohint-vf  --stem-width-mode nnn ../fonts/variable/Lora-VF.ttf ../fonts/variable/Lora-VF-hint.ttf;
+
+
+./ttfautohint-vf ../fonts/TTF/Lora-Regular.ttf ../fonts/TTF/Lora-Regular.fix;
+./ttfautohint-vf ../fonts/TTF/Lora-Bold.ttf ../fonts/TTF/Lora-Bold.fix;
+./ttfautohint-vf ../fonts/TTF/Lora-BoldItalic.ttf ../fonts/TTF/Lora-BoldItalic.fix;
+./ttfautohint-vf ../fonts/TTF/Lora-Italic.ttf ../fonts/TTF/Lora-Italic.fix;
+
+
+./ttfautohint-vf  Podkova-VF.ttf Podkova-VF-hint.ttf;
+
+ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
+rtrip=$(basename -s .ttf ) # LoraGX-hint
+new_file=../fonts/$rtrip.ttx; # ../fonts/variable/LoraGX-hint.ttx
+rm $vf; # rm LoraGX-hint.ttf
+ttx $new_file # ttx LoraGX-hint.ttx
+rm $new_file
+
+
+pip install beautifulsoup4 defusedxml font-v lxml opentype-sanitizer ufolint
+pip install pybrowserstack-screenshots==0.1
+pip install nose==1.3.7 olefile==0.44
+pip install freetype-py==2.0.0.post6
+pip install Pillow==5.3.0
+pip install pycairo==1.18.0 uharfbuzz==0.3.0
+
+uharfbuzz==0.3.0
+
+
+fontdiffenator 0.6.5 has requirement Pillow==5.3.0, but you'll have pillow 5.4.1 which is incompatible.
+
+
+
+pkg_resources.DistributionNotFound: The 'pybrowserstack-screenshots==0.1' distribution was not found and is required by gfdiffbrowsers

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ka-cy.loclBGR" format="2">
-  <advance width="537.0"/>
-  <anchor x="269.0" y="0.0" name="bottom"/>
-  <anchor x="287.0" y="755.0" name="top"/>
-  <outline>
-    <component base="k"/>
-  </outline>
-</glyph>
