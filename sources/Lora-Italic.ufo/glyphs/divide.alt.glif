@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide.alt" format="2">
+  <advance width="530"/>
+  <guideline x="503" y="365" angle="0"/>
+  <outline>
+    <component base="period" xOffset="162" yOffset="146"/>
+    <component base="period" xOffset="179" yOffset="478"/>
+  </outline>
+</glyph>

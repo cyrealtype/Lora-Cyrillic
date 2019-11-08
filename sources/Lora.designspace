@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400"/>
+  </axes>
+  <rules>
+    <rule name="BRACKET.600.700">
+      <conditionset>
+        <condition name="Weight" minimum="600" maximum="700"/>
+      </conditionset>
+      <sub name="Dje-cy" with="Dje-cy.BRACKET.600"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Lora-Regular.ufo" name="Lora Regular" familyname="Lora" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Lora-Bold.ufo" name="Lora Bold" familyname="Lora" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Lora Regular" familyname="Lora" stylename="Regular" filename="instance_ufos/Lora-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>UUID0</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Lora Medium" familyname="Lora" stylename="Medium" filename="instance_ufos/Lora-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4C2B4986-1645-43C1-94B7-5E4C57EFF0D9</key>
+            <real>0.33333</real>
+            <key>UUID0</key>
+            <real>0.66667</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Lora Bold" familyname="Lora" stylename="Bold" filename="instance_ufos/Lora-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4C2B4986-1645-43C1-94B7-5E4C57EFF0D9</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>2D22BCDB-0E44-4AB8-B479-72FB20A76161</key>
+        <dict>
+          <key>HH</key>
+          <integer>161</integer>
+          <key>HV</key>
+          <integer>296</integer>
+          <key>OH</key>
+          <integer>150</integer>
+          <key>OV</key>
+          <integer>323</integer>
+          <key>nV</key>
+          <integer>190</integer>
+          <key>nd</key>
+          <integer>150</integer>
+          <key>oH</key>
+          <integer>144</integer>
+          <key>oV</key>
+          <integer>303</integer>
+          <key>tH</key>
+          <integer>160</integer>
+        </dict>
+        <key>4C2B4986-1645-43C1-94B7-5E4C57EFF0D9</key>
+        <dict>
+          <key>HH</key>
+          <string>78</string>
+          <key>HV</key>
+          <string>145</string>
+          <key>OH</key>
+          <string>73</string>
+          <key>OV</key>
+          <string>158</string>
+          <key>nV</key>
+          <string>142</string>
+          <key>nd</key>
+          <string>70</string>
+          <key>oH</key>
+          <string>70</string>
+          <key>oV</key>
+          <string>146</string>
+          <key>tH</key>
+          <string>78</string>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HH</key>
+          <string>42</string>
+          <key>HV</key>
+          <integer>178</integer>
+          <key>OH</key>
+          <string>40</string>
+          <key>OV</key>
+          <string>100</string>
+          <key>nV</key>
+          <string>86</string>
+          <key>nd</key>
+          <string>40</string>
+          <key>oH</key>
+          <string>38</string>
+          <key>oV</key>
+          <string>103</string>
+          <key>tH</key>
+          <string>40</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

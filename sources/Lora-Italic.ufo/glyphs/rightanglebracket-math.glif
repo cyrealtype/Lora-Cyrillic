@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightanglebracket-math" format="2">
+  <advance width="363"/>
+  <unicode hex="27E9"/>
+  <outline>
+    <component base="leftanglebracket-math" xScale="-1" xOffset="375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|leftanglebracket-math</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|leftanglebracket-math</string>
+    </dict>
+  </lib>
+</glyph>

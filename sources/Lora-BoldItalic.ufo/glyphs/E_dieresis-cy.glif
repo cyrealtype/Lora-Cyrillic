@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edieresis-cy" format="2">
+  <advance width="702"/>
+  <unicode hex="04EC"/>
+  <outline>
+    <component base="Ereversed-cy"/>
+    <component base="dieresiscomb" xOffset="138" yOffset="200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=O</string>
+    </dict>
+  </lib>
+</glyph>

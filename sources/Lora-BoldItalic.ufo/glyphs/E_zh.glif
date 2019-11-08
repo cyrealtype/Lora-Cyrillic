@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ezh" format="2">
+  <advance width="631"/>
+  <unicode hex="01B7"/>
+  <anchor x="303" y="0" name="bottom"/>
+  <anchor x="340" y="700" name="top"/>
+  <outline>
+    <component base="Dzeabkhasian-cy"/>
+  </outline>
+</glyph>

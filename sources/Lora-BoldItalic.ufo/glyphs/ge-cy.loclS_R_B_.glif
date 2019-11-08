@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy.loclSRB" format="2">
+  <advance width="344"/>
+  <anchor x="311" y="0" name="bottomright"/>
+  <anchor x="172" y="250" name="center"/>
+  <anchor x="185" y="671" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="macron" xOffset="-4"/>
+  </outline>
+</glyph>

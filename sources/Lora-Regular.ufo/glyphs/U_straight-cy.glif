@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraight-cy" format="2">
+  <advance width="634"/>
+  <unicode hex="04AE"/>
+  <anchor x="330" y="265" name="center"/>
+  <outline>
+    <component base="Y"/>
+  </outline>
+</glyph>
