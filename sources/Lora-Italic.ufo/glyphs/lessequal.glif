@@ -2,8 +2,8 @@
 <glyph name="lessequal" format="2">
   <advance width="530"/>
   <unicode hex="2264"/>
-  <guideline x="206" y="571" angle="0"/>
-  <guideline x="29" y="28" angle="266.9335"/>
+  <guideline x="206" y="571" angle="0" identifier="jg9aiW26Tq"/>
+  <guideline x="29" y="28" angle="266.9335" identifier="qtPucPTavF"/>
   <outline>
     <contour>
       <point x="30" y="56" type="line"/>
