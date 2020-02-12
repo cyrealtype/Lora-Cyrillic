@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="che-cy.loclBGR" format="2">
+  <advance width="563"/>
+  <outline>
+    <contour>
+      <point x="315" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="519" y="41" type="line"/>
+      <point x="456" y="38" type="line"/>
+      <point x="460" y="61"/>
+      <point x="460" y="79"/>
+      <point x="460" y="106" type="curve" smooth="yes"/>
+      <point x="462" y="510" type="line"/>
+      <point x="433" y="510" type="line"/>
+      <point x="408" y="487"/>
+      <point x="382" y="483"/>
+      <point x="308" y="483" type="curve"/>
+      <point x="308" y="442" type="line"/>
+      <point x="332" y="443"/>
+      <point x="356" y="444"/>
+      <point x="380" y="445" type="curve"/>
+      <point x="376" y="422"/>
+      <point x="375" y="401"/>
+      <point x="375" y="369" type="curve" smooth="yes"/>
+      <point x="374" y="235" type="line"/>
+      <point x="343" y="227"/>
+      <point x="306" y="223"/>
+      <point x="279" y="223" type="curve" smooth="yes"/>
+      <point x="204" y="223"/>
+      <point x="168" y="269"/>
+      <point x="168" y="337" type="curve" smooth="yes"/>
+      <point x="168" y="510" type="line"/>
+      <point x="139" y="510" type="line"/>
+      <point x="113" y="486"/>
+      <point x="91" y="483"/>
+      <point x="17" y="483" type="curve"/>
+      <point x="17" y="442" type="line"/>
+      <point x="40" y="443"/>
+      <point x="63" y="444"/>
+      <point x="86" y="445" type="curve"/>
+      <point x="83" y="427"/>
+      <point x="82" y="388"/>
+      <point x="82" y="342" type="curve" smooth="yes"/>
+      <point x="82" y="236"/>
+      <point x="146" y="172"/>
+      <point x="261" y="172" type="curve" smooth="yes"/>
+      <point x="290" y="172"/>
+      <point x="335" y="176"/>
+      <point x="374" y="186" type="curve"/>
+      <point x="374" y="152" type="line" smooth="yes"/>
+      <point x="374" y="80"/>
+      <point x="376" y="30"/>
+      <point x="315" y="30" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>en-cy</string>
+    </dict>
+  </lib>
+</glyph>

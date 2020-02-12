@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ezh" format="2">
+  <advance width="524"/>
+  <unicode hex="0292"/>
+  <guideline x="242" y="433" angle="0"/>
+  <anchor x="251" y="-275" name="bottom"/>
+  <anchor x="262" y="500" name="top"/>
+  <outline>
+    <component base="dzeabkhasian-cy"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gstroke" format="2">
+  <advance width="575"/>
+  <unicode hex="01E5"/>
+  <outline>
+    <contour>
+      <point x="277" y="-95" type="line"/>
+      <point x="562" y="-91" type="line"/>
+      <point x="562" y="-52" type="line"/>
+      <point x="277" y="-52" type="line"/>
+    </contour>
+    <component base="de-cy.loclBGR"/>
+  </outline>
+</glyph>

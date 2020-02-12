@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik.tf" format="2">
+  <advance width="650"/>
+  <outline>
+    <component base="tugrik" xOffset="1"/>
+  </outline>
+</glyph>

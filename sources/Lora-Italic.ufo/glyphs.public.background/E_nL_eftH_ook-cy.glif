@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="EnLeftHook-cy" format="2">
+  <outline>
+    <contour>
+      <point x="200" y="119" type="move"/>
+      <point x="211" y="334" type="line"/>
+      <point x="570" y="338" type="line"/>
+      <point x="560" y="156" type="line"/>
+      <point x="557" y="85"/>
+      <point x="560" y="36"/>
+      <point x="485" y="33" type="curve"/>
+      <point x="483" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="706" y="44" type="line"/>
+      <point x="634" y="40" type="line"/>
+      <point x="637" y="57"/>
+      <point x="639" y="83"/>
+      <point x="641" y="119" type="curve" smooth="yes"/>
+      <point x="664" y="557" type="line" smooth="yes"/>
+      <point x="668" y="628"/>
+      <point x="674" y="664"/>
+      <point x="739" y="667" type="curve"/>
+      <point x="741" y="700" type="line"/>
+      <point x="520" y="700" type="line"/>
+      <point x="518" y="656" type="line"/>
+      <point x="590" y="660" type="line"/>
+      <point x="587" y="640"/>
+      <point x="584" y="615"/>
+      <point x="583" y="588" type="curve" smooth="yes"/>
+      <point x="572" y="378" type="line"/>
+      <point x="213" y="378" type="line"/>
+      <point x="223" y="556" type="line" smooth="yes"/>
+      <point x="227" y="627"/>
+      <point x="233" y="664"/>
+      <point x="298" y="667" type="curve"/>
+      <point x="300" y="700" type="line"/>
+      <point x="79" y="700" type="line"/>
+      <point x="77" y="656" type="line"/>
+      <point x="149" y="660" type="line"/>
+      <point x="146" y="640"/>
+      <point x="144" y="615"/>
+      <point x="142" y="588" type="curve" smooth="yes"/>
+      <point x="119" y="156" type="line"/>
+    </contour>
+  </outline>
+</glyph>

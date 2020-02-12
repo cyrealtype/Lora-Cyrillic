@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ze-cy" format="2">
+  <advance width="595"/>
+  <unicode hex="0417"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="321" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="290" y="-17" type="curve" smooth="yes"/>
+      <point x="418" y="-17"/>
+      <point x="540" y="57"/>
+      <point x="548" y="191" type="curve" smooth="yes"/>
+      <point x="554" y="285"/>
+      <point x="496" y="363"/>
+      <point x="354" y="367" type="curve"/>
+      <point x="354" y="369" type="line"/>
+      <point x="455" y="379"/>
+      <point x="523" y="456"/>
+      <point x="529" y="545" type="curve" smooth="yes"/>
+      <point x="536" y="650"/>
+      <point x="454" y="716"/>
+      <point x="325" y="716" type="curve" smooth="yes"/>
+      <point x="266" y="716"/>
+      <point x="199" y="697"/>
+      <point x="148" y="655" type="curve"/>
+      <point x="155" y="709" type="line"/>
+      <point x="101" y="709" type="line"/>
+      <point x="89" y="477" type="line"/>
+      <point x="125" y="477" type="line"/>
+      <point x="160" y="608"/>
+      <point x="233" y="675"/>
+      <point x="320" y="675" type="curve" smooth="yes"/>
+      <point x="389" y="675"/>
+      <point x="442" y="637"/>
+      <point x="437" y="539" type="curve" smooth="yes"/>
+      <point x="433" y="462"/>
+      <point x="393" y="388"/>
+      <point x="280" y="386" type="curve" smooth="yes"/>
+      <point x="195" y="386" type="line"/>
+      <point x="193" y="342" type="line"/>
+      <point x="273" y="343" type="line"/>
+      <point x="397" y="339"/>
+      <point x="457" y="298"/>
+      <point x="451" y="202" type="curve" smooth="yes"/>
+      <point x="445" y="89"/>
+      <point x="365" y="31"/>
+      <point x="261" y="31" type="curve" smooth="yes"/>
+      <point x="180" y="31"/>
+      <point x="112" y="71"/>
+      <point x="51" y="146" type="curve"/>
+      <point x="24" y="125" type="line"/>
+      <point x="86" y="26"/>
+      <point x="188" y="-17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>B</string>
+    </dict>
+  </lib>
+</glyph>

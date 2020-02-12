@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="530"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="480" y="72" type="line"/>
+      <point x="486" y="173" type="line"/>
+      <point x="172" y="315" type="line"/>
+      <point x="500" y="457" type="line"/>
+      <point x="506" y="557" type="line"/>
+      <point x="45" y="357" type="line"/>
+      <point x="41" y="268" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>plus</string>
+    </dict>
+  </lib>
+</glyph>

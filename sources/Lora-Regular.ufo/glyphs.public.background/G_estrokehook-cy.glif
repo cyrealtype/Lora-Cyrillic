@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <outline>
+    <contour>
+      <point x="310" y="0" type="curve"/>
+      <point x="223" y="0" type="line"/>
+      <point x="222" y="-132"/>
+      <point x="183" y="-222"/>
+      <point x="53" y="-183" type="curve"/>
+      <point x="43" y="-213" type="line"/>
+      <point x="236" y="-270"/>
+      <point x="306" y="-171"/>
+    </contour>
+  </outline>
+</glyph>

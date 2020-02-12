@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>old</string>
+      <string>glyphs.old</string>
+    </array>
+    <array>
+      <string>old.background</string>
+      <string>glyphs.old.background</string>
+    </array>
+    <array>
+      <string>Oct 30 17, 12:42</string>
+      <string>glyphs.O_ct 30 17, 12_42</string>
+    </array>
+    <array>
+      <string>Oct 30 17, 12:42.background</string>
+      <string>glyphs.O_ct 30 17, 12_42.background</string>
+    </array>
+    <array>
+      <string>Dec 19 17, 17:01</string>
+      <string>glyphs.D_ec 19 17, 17_01</string>
+    </array>
+    <array>
+      <string>Dec 19 17, 17:01.background</string>
+      <string>glyphs.D_ec 19 17, 17_01.background</string>
+    </array>
+    <array>
+      <string>Olga</string>
+      <string>glyphs.O_lga</string>
+    </array>
+    <array>
+      <string>Olga.background</string>
+      <string>glyphs.O_lga.background</string>
+    </array>
+    <array>
+      <string>fix</string>
+      <string>glyphs.fix</string>
+    </array>
+    <array>
+      <string>fix.background</string>
+      <string>glyphs.fix.background</string>
+    </array>
+    <array>
+      <string>Oct 27 17, 20:19</string>
+      <string>glyphs.O_ct 27 17, 20_19</string>
+    </array>
+  </array>
+</plist>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pedescender-cy" format="2">
+  <outline>
+    <contour>
+      <point x="88" y="-178" type="line"/>
+      <point x="129" y="-178" type="line"/>
+      <point x="129" y="-63"/>
+      <point x="146" y="0"/>
+      <point x="212" y="0" type="curve" smooth="yes"/>
+      <point x="596" y="0" type="line" smooth="yes"/>
+      <point x="662" y="0"/>
+      <point x="679" y="-63"/>
+      <point x="679" y="-178" type="curve"/>
+      <point x="721" y="-178" type="line"/>
+      <point x="721" y="40" type="line"/>
+      <point x="634" y="40" type="line"/>
+      <point x="636" y="57"/>
+      <point x="637" y="83"/>
+      <point x="637" y="119" type="curve" smooth="yes"/>
+      <point x="637" y="544" type="line" smooth="yes"/>
+      <point x="637" y="615"/>
+      <point x="631" y="664"/>
+      <point x="706" y="667" type="curve"/>
+      <point x="706" y="700" type="line"/>
+      <point x="195" y="700" type="line"/>
+      <point x="195" y="656" type="line"/>
+      <point x="268" y="660" type="line"/>
+      <point x="292" y="660" type="line"/>
+      <point x="286" y="415"/>
+      <point x="275" y="40"/>
+      <point x="126" y="40" type="curve" smooth="yes"/>
+      <point x="88" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="40" type="line"/>
+      <point x="315" y="145"/>
+      <point x="332" y="416"/>
+      <point x="339" y="608" type="curve" smooth="yes"/>
+      <point x="340" y="637"/>
+      <point x="356" y="657"/>
+      <point x="393" y="660" type="curve"/>
+      <point x="550" y="661" type="line"/>
+      <point x="550" y="156" type="line" smooth="yes"/>
+      <point x="550" y="85"/>
+      <point x="556" y="40"/>
+      <point x="481" y="40" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

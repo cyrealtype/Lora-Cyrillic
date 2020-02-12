@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy.loclBSH" format="2">
+  <outline>
+    <contour>
+      <point x="364" y="266" type="line"/>
+      <point x="104" y="266" type="line"/>
+      <point x="104" y="223" type="line"/>
+      <point x="364" y="227" type="line"/>
+    </contour>
+    <component base="ge-cy"/>
+  </outline>
+</glyph>
