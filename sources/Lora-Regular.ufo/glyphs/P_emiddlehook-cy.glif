@@ -4,9 +4,9 @@
   <unicode hex="04A6"/>
   <outline>
     <contour>
-      <point x="705" y="-213" type="line"/>
-      <point x="900" y="-269"/>
-      <point x="1011" y="-87"/>
+      <point x="774" y="-223" type="curve" smooth="yes"/>
+      <point x="926" y="-223"/>
+      <point x="1011" y="-63"/>
       <point x="1011" y="107" type="curve" smooth="yes"/>
       <point x="1011" y="301"/>
       <point x="933" y="407"/>
@@ -27,6 +27,9 @@
       <point x="743" y="-188"/>
       <point x="726" y="-186"/>
       <point x="710" y="-183" type="curve"/>
+      <point x="705" y="-213" type="line"/>
+      <point x="729" y="-220"/>
+      <point x="752" y="-223"/>
     </contour>
     <component base="Pe-cy"/>
   </outline>
