@@ -499,6 +499,7 @@
       <string>Endescender-cy</string>
       <string>Enghe-cy</string>
       <string>Pedescender-cy</string>
+      <string>Pemiddlehook-cy</string>
       <string>Haabkhasian-cy</string>
       <string>Esdescender-cy</string>
       <string>Esdescender-cy.loclBSH</string>
@@ -635,6 +636,7 @@
       <string>endescender-cy</string>
       <string>enghe-cy</string>
       <string>pedescender-cy</string>
+      <string>pemiddlehook-cy</string>
       <string>haabkhasian-cy</string>
       <string>esdescender-cy</string>
       <string>esdescender-cy.loclBSH</string>
@@ -1225,6 +1227,8 @@
       <string>uni041F</string>
       <key>Pedescender-cy</key>
       <string>uni0524</string>
+      <key>Pemiddlehook-cy</key>
+      <string>uni04A6</string>
       <key>Qa-cy</key>
       <string>uni051A</string>
       <key>Rcommaaccent</key>
@@ -1745,6 +1749,8 @@
       <string>uni043F.loclSRB</string>
       <key>pedescender-cy</key>
       <string>uni0525</string>
+      <key>pemiddlehook-cy</key>
+      <string>uni04A7</string>
       <key>qa-cy</key>
       <string>uni051B</string>
       <key>rcommaaccent</key>
