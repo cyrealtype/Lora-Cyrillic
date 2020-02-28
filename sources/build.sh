@@ -62,8 +62,10 @@ do
 done
 for ttf in $ttfs
 do
-	gftools fix-hinting $ttf;
+	gftools fix-nonhinting $ttf $ttf.fix;
 	mv "$ttf.fix" $ttf;
 done
+
+rm ../fonts/ttf/*gasp.ttf
 rm ../fonts/vf/*gasp.ttf
 
