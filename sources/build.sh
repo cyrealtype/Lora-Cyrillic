@@ -38,7 +38,6 @@ vfs=$(ls ../fonts/vf/*.ttf)
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	./ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
 	mv "$vf.fix" $vf;
 done
 
@@ -59,12 +58,12 @@ done
 echo "Fixing Non-Hinting"
 for vf in $vfs
 do
-	gftools fix-nonhinting $vf;
+	gftools fix-nonhinting $vf $vf.fix;
 	mv "$vf.fix" $vf;
 done
 for ttf in $ttfs
 do
-	gftools fix-nonhinting $ttf;
+	gftools fix-hinting $ttf;
 	mv "$ttf.fix" $ttf;
 done
 
