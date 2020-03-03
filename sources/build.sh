@@ -38,7 +38,6 @@ vfs=$(ls ../fonts/vf/*.ttf)
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	mv "$vf.fix" $vf;
 done
 
 echo "Fixing VF Meta"
@@ -66,4 +65,5 @@ do
 	gftools fix-hinting $ttf;
 	mv "$ttf.fix" $ttf;
 done
+rm ../fonts/vf/*gasp.ttf
 
