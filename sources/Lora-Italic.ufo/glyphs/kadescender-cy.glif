@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="609"/>
+  <unicode hex="049B"/>
+  <outline>
+    <contour>
+      <point x="477" y="-212" type="line"/>
+      <point x="562" y="-139"/>
+      <point x="582" y="-70"/>
+      <point x="547" y="-13" type="curve" smooth="yes"/>
+      <point x="530" y="13"/>
+      <point x="533" y="41"/>
+      <point x="542" y="67" type="curve"/>
+      <point x="549" y="87"/>
+      <point x="556" y="108"/>
+      <point x="563" y="128" type="curve"/>
+      <point x="536" y="136" type="line"/>
+      <point x="503" y="63"/>
+      <point x="498" y="44"/>
+      <point x="477" y="44" type="curve" smooth="yes"/>
+      <point x="448" y="44"/>
+      <point x="439" y="75"/>
+      <point x="432" y="145" type="curve" smooth="yes"/>
+      <point x="425" y="210"/>
+      <point x="394" y="261"/>
+      <point x="312" y="263" type="curve"/>
+      <point x="343" y="279"/>
+      <point x="369" y="316"/>
+      <point x="386" y="363" type="curve" smooth="yes"/>
+      <point x="405" y="414"/>
+      <point x="417" y="435"/>
+      <point x="436" y="447" type="curve"/>
+      <point x="439" y="420"/>
+      <point x="458" y="405"/>
+      <point x="491" y="405" type="curve" smooth="yes"/>
+      <point x="521" y="405"/>
+      <point x="538" y="429"/>
+      <point x="538" y="456" type="curve" smooth="yes"/>
+      <point x="538" y="489"/>
+      <point x="517" y="511"/>
+      <point x="482" y="511" type="curve" smooth="yes"/>
+      <point x="421" y="511"/>
+      <point x="386" y="475"/>
+      <point x="351" y="380" type="curve" smooth="yes"/>
+      <point x="321" y="300"/>
+      <point x="292" y="272"/>
+      <point x="233" y="272" type="curve" smooth="yes"/>
+      <point x="201" y="272" type="line"/>
+      <point x="204" y="295"/>
+      <point x="207" y="319"/>
+      <point x="211" y="346" type="curve" smooth="yes"/>
+      <point x="227" y="450"/>
+      <point x="220" y="511"/>
+      <point x="146" y="511" type="curve" smooth="yes"/>
+      <point x="66" y="511"/>
+      <point x="23" y="417"/>
+      <point x="13" y="370" type="curve"/>
+      <point x="41" y="364" type="line"/>
+      <point x="62" y="435"/>
+      <point x="94" y="461"/>
+      <point x="116" y="461" type="curve" smooth="yes"/>
+      <point x="144" y="461"/>
+      <point x="143" y="430"/>
+      <point x="142" y="403" type="curve" smooth="yes"/>
+      <point x="141" y="382"/>
+      <point x="136" y="361"/>
+      <point x="120" y="231" type="curve" smooth="yes"/>
+      <point x="104" y="105"/>
+      <point x="101" y="60"/>
+      <point x="101" y="26" type="curve"/>
+      <point x="100" y="15"/>
+      <point x="100" y="9"/>
+      <point x="101" y="0" type="curve"/>
+      <point x="184" y="0" type="line"/>
+      <point x="183" y="20"/>
+      <point x="182" y="39"/>
+      <point x="182" y="55" type="curve"/>
+      <point x="181" y="88"/>
+      <point x="185" y="148"/>
+      <point x="197" y="243" type="curve"/>
+      <point x="280" y="244" type="line" smooth="yes"/>
+      <point x="328" y="244"/>
+      <point x="348" y="214"/>
+      <point x="356" y="120" type="curve" smooth="yes"/>
+      <point x="365" y="15"/>
+      <point x="392" y="-11"/>
+      <point x="438" y="-11" type="curve" smooth="yes"/>
+      <point x="463" y="-11"/>
+      <point x="479" y="-6"/>
+      <point x="492" y="6" type="curve"/>
+      <point x="501" y="1" type="line"/>
+      <point x="487" y="-22"/>
+      <point x="478" y="-50"/>
+      <point x="490" y="-78" type="curve" smooth="yes"/>
+      <point x="499" y="-100"/>
+      <point x="503" y="-128"/>
+      <point x="454" y="-189" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

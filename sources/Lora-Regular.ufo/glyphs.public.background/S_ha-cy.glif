@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha-cy" format="2">
+  <outline>
+    <contour>
+      <point x="458" y="122" type="move"/>
+      <point x="457" y="75"/>
+      <point x="448" y="44"/>
+      <point x="393" y="42" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

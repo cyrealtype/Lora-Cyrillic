@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="El-cy.loclBGR" format="2">
+  <advance width="668"/>
+  <outline>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="80" type="line"/>
+      <point x="147" y="77" type="line"/>
+      <point x="158" y="100"/>
+      <point x="173" y="140"/>
+      <point x="179" y="158" type="curve" smooth="yes"/>
+      <point x="301" y="534" type="line"/>
+      <point x="432" y="154" type="line" smooth="yes"/>
+      <point x="450" y="103"/>
+      <point x="450" y="66"/>
+      <point x="395" y="66" type="curve"/>
+      <point x="395" y="0" type="line"/>
+      <point x="664" y="0" type="line"/>
+      <point x="664" y="77" type="line"/>
+      <point x="606" y="74" type="line"/>
+      <point x="603" y="104"/>
+      <point x="586" y="153"/>
+      <point x="578" y="173" type="curve" smooth="yes"/>
+      <point x="363" y="718" type="line"/>
+      <point x="293" y="718" type="line"/>
+      <point x="100" y="183" type="line" smooth="yes"/>
+      <point x="78" y="123"/>
+      <point x="60" y="69"/>
+      <point x="4" y="69" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

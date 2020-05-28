@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="723"/>
+  <unicode hex="049E"/>
+  <outline>
+    <contour>
+      <point x="55" y="558" type="line"/>
+      <point x="360" y="562" type="line"/>
+      <point x="360" y="601" type="line"/>
+      <point x="55" y="601" type="line"/>
+    </contour>
+    <component base="K" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>K</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+    </dict>
+  </lib>
+</glyph>

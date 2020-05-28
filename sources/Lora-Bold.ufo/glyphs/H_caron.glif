@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcaron" format="2">
+  <advance width="807"/>
+  <unicode hex="021E"/>
+  <outline>
+    <component base="H"/>
+    <component base="caroncomb.case" xOffset="173"/>
+  </outline>
+</glyph>

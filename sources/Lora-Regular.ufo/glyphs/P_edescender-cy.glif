@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pedescender-cy" format="2">
+  <advance width="756"/>
+  <unicode hex="0524"/>
+  <outline>
+    <contour>
+      <point x="681" y="-176" type="curve"/>
+      <point x="722" y="-176" type="line"/>
+      <point x="722" y="51" type="line"/>
+      <point x="635" y="46" type="line"/>
+      <point x="636" y="62"/>
+      <point x="637" y="87"/>
+      <point x="637" y="119" type="curve" smooth="yes"/>
+      <point x="637" y="544" type="line" smooth="yes"/>
+      <point x="637" y="615"/>
+      <point x="631" y="664"/>
+      <point x="706" y="667" type="curve"/>
+      <point x="706" y="700" type="line"/>
+      <point x="55" y="700" type="line"/>
+      <point x="55" y="656" type="line"/>
+      <point x="79" y="657"/>
+      <point x="103" y="659"/>
+      <point x="127" y="660" type="curve"/>
+      <point x="125" y="640"/>
+      <point x="124" y="615"/>
+      <point x="124" y="588" type="curve" smooth="yes"/>
+      <point x="124" y="156" type="line" smooth="yes"/>
+      <point x="124" y="85"/>
+      <point x="130" y="36"/>
+      <point x="55" y="33" type="curve"/>
+      <point x="55" y="0" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="280" y="44" type="line"/>
+      <point x="256" y="43"/>
+      <point x="232" y="41"/>
+      <point x="208" y="40" type="curve"/>
+      <point x="210" y="57"/>
+      <point x="211" y="83"/>
+      <point x="211" y="119" type="curve" smooth="yes"/>
+      <point x="211" y="575" type="line" smooth="yes"/>
+      <point x="212" y="623"/>
+      <point x="221" y="655"/>
+      <point x="280" y="657" type="curve" smooth="yes"/>
+      <point x="550" y="661" type="line"/>
+      <point x="550" y="156" type="line" smooth="yes"/>
+      <point x="550" y="85"/>
+      <point x="556" y="36"/>
+      <point x="480" y="33" type="curve"/>
+      <point x="480" y="0" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="669" y="-13"/>
+      <point x="681" y="-85"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=Tse-cy</string>
+    </dict>
+  </lib>
+</glyph>
