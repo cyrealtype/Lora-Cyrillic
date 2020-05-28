@@ -1,5 +1,5 @@
 {
-.appVersion = "1192";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -64,7 +64,7 @@ Tag = wght;
 );
 }
 );
-date = "2019-02-03 11:57:16 +0000";
+date = "2020-05-28 08:25:08 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -3784,6 +3784,10 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+position = "{372, 0}";
+},
+{
 name = center;
 position = "{395, 351}";
 },
@@ -3860,6 +3864,10 @@ width = 773;
 },
 {
 anchors = (
+{
+name = bottom;
+position = "{387, 0}";
+},
 {
 name = center;
 position = "{401, 350}";
@@ -13895,6 +13903,10 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+position = "{247, 0}";
+},
+{
 name = center;
 position = "{299, 256}";
 },
@@ -13972,6 +13984,10 @@ width = 572;
 },
 {
 anchors = (
+{
+name = bottom;
+position = "{258, 0}";
+},
 {
 name = center;
 position = "{287, 250}";
@@ -73171,5 +73187,5 @@ tH = 79;
 };
 };
 versionMajor = 2;
-versionMinor = 210;
+versionMinor = 211;
 }
