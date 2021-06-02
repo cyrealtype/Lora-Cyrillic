@@ -52,6 +52,6 @@ ufolint==0.4.1
 uharfbuzz==0.5.1.post2
 unicodedata2==12.1.0
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.16.1
 wrapt==1.11.2
