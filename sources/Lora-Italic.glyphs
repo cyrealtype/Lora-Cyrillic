@@ -1,5 +1,5 @@
 {
-.appVersion = "1230";
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -69393,6 +69393,17 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
+interpolationWeight = 600;
+instanceInterpolations = {
+"6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = 0.66667;
+UUID0 = 0.33333;
+};
+isItalic = 1;
+linkStyle = SemiBold;
+name = "SemiBold Italic";
+weightClass = SemiBold;
+},
+{
 interpolationWeight = 700;
 instanceInterpolations = {
 "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094" = 1;
@@ -73187,5 +73198,5 @@ tH = 79;
 };
 };
 versionMajor = 2;
-versionMinor = 211;
+versionMinor = 212;
 }

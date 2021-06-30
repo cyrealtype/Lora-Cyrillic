@@ -1,9 +1,5 @@
 {
-.appVersion = "1230";
-DisplayStrings = (
-h,
-"Hh/hcircumflex"
-);
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -74215,11 +74211,21 @@ name = Medium;
 weightClass = Medium;
 },
 {
+interpolationWeight = 600;
+instanceInterpolations = {
+"4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = 0.66667;
+UUID0 = 0.33333;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
 interpolationWeight = 700;
 instanceInterpolations = {
 "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9" = 1;
 };
 isBold = 1;
+linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 }
@@ -78036,5 +78042,5 @@ tH = "40";
 };
 };
 versionMajor = 2;
-versionMinor = 211;
+versionMinor = 212;
 }
