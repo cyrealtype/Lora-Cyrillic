@@ -9,8 +9,6 @@ stat:
   - name: Weight
     tag: wght
     values:
-    - name: Light
-      value: 300
     - name: Regular
       value: 400
       linkedValue: 700
@@ -32,8 +30,6 @@ stat:
   - name: Weight
     tag: wght
     values:
-    - name: Light
-      value: 300
     - name: Regular
       value: 400
       linkedValue: 700
