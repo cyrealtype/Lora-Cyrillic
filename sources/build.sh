@@ -1,10 +1,16 @@
-#!/bin/sh
+#!/usr/bin/env bash
 set -e
 
 # Go the sources directory to run commands
-SOURCE="${BASH_SOURCE[0]}"
-DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
-cd $DIR
+if [ -z "$SOURCE" -a "${#BASH_SOURCE}" -gt 0 ]
+then
+	SOURCE="${BASH_SOURCE[0]}"
+fi
+if [ -n "$SOURCE" ]
+then
+	DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
+	cd $DIR
+fi
 echo $(pwd)
 
 echo "Generating Static fonts"
