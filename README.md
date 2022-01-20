@@ -9,18 +9,18 @@ Technically Lora is optimised for screen appearance, and works equally well in p
 
 Designed by Olga Karpushina, and Alexei Vanyashin for Cyreal.
 
-![Lora Font](sources/sample.png "Lora Font by Cyreal")
+![Lora Font](documentation/sample.png "Lora Font by Cyreal")
 
 Lora is a Unicode typeface family that supports 
 languages that use the Latin and Cyrillic scripts and its variants, and 
 could be expanded to support other scripts.
 
-![Lora Font](sources/sample2.png "Lora Font by Cyreal")
+![Lora Font](documentation/sample2.png "Lora Font by Cyreal")
 
-Project [information](http://www.cyreal.org/2012/07/lora/) on Cyreal Fonts' website:
+Project [information](http://www.cyreal.org/fonts/lora) on Cyreal Fonts' website:
 
 ### Variable Fonts
-[Version 2.202](https://github.com/cyrealtype/Lora-Cyrillic/releases/tag/v2.202)
+[Version 3.001](https://github.com/cyrealtype/Lora-Cyrillic/releases/tag/v3.001)
 includes a variable font version with one weight axis.
 
 ### Cyrillic 
