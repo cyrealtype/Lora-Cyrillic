@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="We-cy" format="2">
-  <advance width="1010"/>
-  <unicode hex="051C"/>
-  <anchor x="547" y="700" name="top"/>
-  <outline>
-    <component base="W"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="colon.case" format="2">
-  <advance width="250"/>
-  <outline>
-    <component base="period" xOffset="3" yOffset="110"/>
-    <component base="period" xOffset="3" yOffset="513"/>
-  </outline>
-</glyph>

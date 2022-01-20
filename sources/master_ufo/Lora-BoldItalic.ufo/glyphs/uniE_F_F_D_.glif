@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uniEFFD" format="2">
-  <advance width="551"/>
-  <unicode hex="EFFD"/>
-  <outline>
-    <component base=".notdef" xOffset="19"/>
-  </outline>
-</glyph>

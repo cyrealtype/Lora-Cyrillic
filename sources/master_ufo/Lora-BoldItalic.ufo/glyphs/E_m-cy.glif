@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Em-cy" format="2">
-  <advance width="970"/>
-  <unicode hex="041C"/>
-  <anchor x="838" y="0" name="bottomright"/>
-  <outline>
-    <component base="M"/>
-  </outline>
-</glyph>

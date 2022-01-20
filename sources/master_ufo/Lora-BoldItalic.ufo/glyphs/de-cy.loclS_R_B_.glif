@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="de-cy.loclSRB" format="2">
-  <advance width="520"/>
-  <anchor x="301" y="500" name="top"/>
-  <outline>
-    <component base="de-cy.loclBGR"/>
-  </outline>
-</glyph>
