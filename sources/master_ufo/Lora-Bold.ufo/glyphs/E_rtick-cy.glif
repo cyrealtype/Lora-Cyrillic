@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ertick-cy" format="2">
+  <advance width="639"/>
+  <unicode hex="048E"/>
+  <outline>
+    <contour>
+      <point x="466" y="172" type="line"/>
+      <point x="512" y="200" type="line"/>
+      <point x="357" y="456" type="line"/>
+      <point x="308" y="427" type="line"/>
+    </contour>
+    <component base="P"/>
+  </outline>
+</glyph>

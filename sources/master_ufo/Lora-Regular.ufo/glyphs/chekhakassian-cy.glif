@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chekhakassian-cy" format="2">
+  <advance width="558"/>
+  <unicode hex="04CC"/>
+  <outline>
+    <contour>
+      <point x="248" y="-178" type="line"/>
+      <point x="286" y="-178" type="line"/>
+      <point x="286" y="-78"/>
+      <point x="303" y="0"/>
+      <point x="369" y="0" type="curve" smooth="yes"/>
+      <point x="513" y="0" type="line"/>
+      <point x="513" y="41" type="line"/>
+      <point x="450" y="38" type="line"/>
+      <point x="454" y="61"/>
+      <point x="454" y="79"/>
+      <point x="454" y="106" type="curve" smooth="yes"/>
+      <point x="455" y="348" type="line" smooth="yes"/>
+      <point x="456" y="420"/>
+      <point x="453" y="470"/>
+      <point x="514" y="470" type="curve"/>
+      <point x="514" y="500" type="line"/>
+      <point x="310" y="500" type="line"/>
+      <point x="310" y="459" type="line"/>
+      <point x="373" y="462" type="line"/>
+      <point x="369" y="439"/>
+      <point x="369" y="421"/>
+      <point x="369" y="394" type="curve" smooth="yes"/>
+      <point x="368.438" y="257.926" type="line"/>
+      <point x="336.482" y="249.894"/>
+      <point x="300.458" y="246"/>
+      <point x="273" y="246" type="curve" smooth="yes"/>
+      <point x="198.31" y="246"/>
+      <point x="162.299" y="291.62"/>
+      <point x="162.002" y="359.158" type="curve" smooth="yes"/>
+      <point x="163.015" y="444.032"/>
+      <point x="175.029" y="470"/>
+      <point x="221" y="470" type="curve"/>
+      <point x="221" y="500" type="line"/>
+      <point x="17" y="500" type="line"/>
+      <point x="17" y="459" type="line"/>
+      <point x="80" y="462" type="line"/>
+      <point x="77" y="445"/>
+      <point x="76" y="415"/>
+      <point x="76" y="365" type="curve" smooth="yes"/>
+      <point x="76" y="258"/>
+      <point x="140" y="195"/>
+      <point x="255" y="195" type="curve" smooth="yes"/>
+      <point x="284.42" y="195"/>
+      <point x="329.042" y="199.471"/>
+      <point x="368.237" y="209.309" type="curve"/>
+      <point x="368" y="152" type="line" smooth="yes"/>
+      <point x="368" y="80"/>
+      <point x="370" y="33"/>
+      <point x="309" y="30" type="curve" smooth="yes"/>
+      <point x="248" y="27" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>che-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>che-cy</string>
+    </dict>
+  </lib>
+</glyph>

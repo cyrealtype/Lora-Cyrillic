@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1059"/>
+  <unicode hex="2116"/>
+  <anchor x="368" y="0" name="bottom"/>
+  <anchor x="405" y="702" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="694" yOffset="-91"/>
+    <component base="macron" xOffset="702" yOffset="-474"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ordmasculine</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="__descender-cy" format="2">
+  <advance width="194"/>
+  <anchor x="-13" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="57" y="-181" type="curve"/>
+      <point x="121" y="-181" type="line"/>
+      <point x="135" y="77" type="line"/>
+      <point x="104" y="76" type="line"/>
+      <point x="-9" y="73" type="line"/>
+      <point x="-13" y="0" type="line"/>
+      <point x="38" y="0"/>
+      <point x="65" y="-48"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

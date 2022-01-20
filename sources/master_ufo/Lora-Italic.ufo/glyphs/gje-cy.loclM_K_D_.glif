@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy.loclMKD" format="2">
+  <advance width="324"/>
+  <anchor x="291" y="0" name="bottomright"/>
+  <anchor x="162" y="256" name="center"/>
+  <anchor x="239" y="5" name="ogonek"/>
+  <anchor x="189" y="900" name="top"/>
+  <outline>
+    <component base="ge-cy.loclSRB"/>
+    <component base="acutecomb" xOffset="64" yOffset="137"/>
+  </outline>
+</glyph>

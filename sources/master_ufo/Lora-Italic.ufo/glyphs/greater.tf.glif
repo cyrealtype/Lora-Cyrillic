@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater.tf" format="2">
+  <advance width="650"/>
+  <outline>
+    <component base="greater" xOffset="61"/>
+  </outline>
+</glyph>

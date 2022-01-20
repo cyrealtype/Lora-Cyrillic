@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexdotbelow" format="2">
+  <advance width="623"/>
+  <unicode hex="1EC6"/>
+  <anchor x="333" y="-198" name="bottom"/>
+  <anchor x="561" y="5" name="ogonek"/>
+  <anchor x="343" y="700" name="top"/>
+  <anchor x="33" y="700" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb" xOffset="244"/>
+    <component base="circumflexcomb.case" xOffset="111"/>
+  </outline>
+</glyph>

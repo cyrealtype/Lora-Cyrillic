@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="491"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="329" y="76" type="line"/>
+      <point x="244" y="73" type="line"/>
+      <point x="248" y="103"/>
+      <point x="251" y="142"/>
+      <point x="252" y="161" type="curve" smooth="yes"/>
+      <point x="264" y="390" type="line" smooth="yes"/>
+      <point x="265" y="411"/>
+      <point x="273" y="422"/>
+      <point x="300" y="422" type="curve" smooth="yes"/>
+      <point x="332" y="422" type="line" smooth="yes"/>
+      <point x="391" y="422"/>
+      <point x="419" y="402"/>
+      <point x="415" y="318" type="curve"/>
+      <point x="480" y="318" type="line"/>
+      <point x="485" y="500" type="line"/>
+      <point x="75" y="500" type="line"/>
+      <point x="71" y="424" type="line"/>
+      <point x="85" y="424"/>
+      <point x="114" y="425"/>
+      <point x="135" y="427" type="curve"/>
+      <point x="132" y="397"/>
+      <point x="129" y="358"/>
+      <point x="128" y="339" type="curve" smooth="yes"/>
+      <point x="118" y="154" type="line" smooth="yes"/>
+      <point x="115" y="101"/>
+      <point x="109" y="65"/>
+      <point x="53" y="65" type="curve"/>
+    </contour>
+    <component base="strokeshortcomb" xOffset="-65" yOffset="-55"/>
+  </outline>
+</glyph>

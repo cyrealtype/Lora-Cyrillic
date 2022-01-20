@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400"/>
+  </axes>
+  <rules>
+    <rule name="BRACKET.699.700">
+      <conditionset>
+        <condition name="Weight" minimum="699" maximum="700"/>
+      </conditionset>
+      <sub name="Dje-cy" with="Dje-cy.BRACKET.699"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Lora-Italic.ufo" name="Lora Italic" familyname="Lora" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="Lora-BoldItalic.ufo" name="Lora Bold Italic" familyname="Lora" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Lora Italic" familyname="Lora" stylename="Italic" filename="../instance_ufo/Lora-Italic.ufo" stylemapfamilyname="Lora" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lora Medium Italic" familyname="Lora" stylename="Medium Italic" filename="../instance_ufo/Lora-MediumItalic.ufo" stylemapfamilyname="Lora Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lora SemiBold Italic" familyname="Lora" stylename="SemiBold Italic" filename="../instance_ufo/Lora-SemiBoldItalic.ufo" stylemapfamilyname="Lora SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Lora Bold Italic" familyname="Lora" stylename="Bold Italic" filename="../instance_ufo/Lora-BoldItalic.ufo" stylemapfamilyname="Lora" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094</key>
+        <dict>
+          <key>HH</key>
+          <integer>160</integer>
+          <key>HV</key>
+          <integer>178</integer>
+          <key>OH</key>
+          <integer>141</integer>
+          <key>OV</key>
+          <integer>313</integer>
+          <key>nV</key>
+          <integer>260</integer>
+          <key>nd</key>
+          <integer>148</integer>
+          <key>oH</key>
+          <integer>136</integer>
+          <key>oV</key>
+          <integer>283</integer>
+          <key>tH</key>
+          <integer>143</integer>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HH</key>
+          <string>86</string>
+          <key>HV</key>
+          <integer>178</integer>
+          <key>OH</key>
+          <integer>84</integer>
+          <key>OV</key>
+          <integer>199</integer>
+          <key>nV</key>
+          <integer>174</integer>
+          <key>nd</key>
+          <integer>72</integer>
+          <key>oH</key>
+          <integer>79</integer>
+          <key>oV</key>
+          <integer>182</integer>
+          <key>tH</key>
+          <integer>79</integer>
+        </dict>
+      </dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>__descender-cy</string>
+        <string>__descender-cy.case</string>
+        <string>breve.case</string>
+        <string>ge-cy.ss01</string>
+        <string>tail-cy</string>
+        <string>tail-cy.case</string>
+        <string>verticalbar-cy</string>
+        <string>verticalbar-cy.case</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

@@ -1,5 +1,8 @@
 {
-.appVersion = "1342";
+.appVersion = "3110";
+DisplayStrings = (
+"/idotless i/jdotless/space Jajakarta/space ajile"
+);
 classes = (
 {
 automatic = 1;
@@ -18,25 +21,9 @@ name = figures_tf;
 copyright = "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name \"Lora\".";
 customParameters = (
 {
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
 name = fsType;
 value = (
 );
-},
-{
-name = vendorID;
-value = CYRE;
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = trademark;
-value = "Lora is a trademark of Cyreal.";
 },
 {
 name = "Use Typo Metrics";
@@ -53,6 +40,22 @@ value = 1;
 {
 name = "TTFAutohint options";
 value = "--strong-stem-width=GD";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = CYRE;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "Lora is a trademark of Cyreal.";
 },
 {
 name = Axes;
@@ -5374,9 +5377,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
+alignment = -1;
 name = periodcentered.loclCAT;
 transform = "{1, 0, 0, 1, 240, 0}";
 }
@@ -5395,7 +5400,7 @@ transform = "{1, 0, 0, 1, 320, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 600;
+width = 604;
 }
 );
 unicode = 013F;
@@ -15388,10 +15393,12 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, -10, 0}";
 },
 {
+alignment = -1;
 name = i;
 }
 );
@@ -15401,10 +15408,12 @@ width = 281;
 {
 components = (
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 32, 0}";
 },
 {
+alignment = -1;
 name = i;
 }
 );
@@ -15520,7 +15529,7 @@ transform = "{1, 0, 0, 1, 34, 0}";
 }
 );
 layerId = UUID0;
-width = 212;
+width = 261;
 },
 {
 background = {
@@ -15590,7 +15599,7 @@ transform = "{1, 0, 0, 1, 39, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 284;
+width = 302;
 }
 );
 leftKerningGroup = j;
@@ -15653,7 +15662,7 @@ nodes = (
 );
 }
 );
-width = 212;
+width = 261;
 },
 {
 anchors = (
@@ -15708,7 +15717,7 @@ nodes = (
 );
 }
 );
-width = 284;
+width = 302;
 }
 );
 unicode = 0237;
@@ -15727,7 +15736,7 @@ transform = "{1, 0, 0, 1, -71, 0}";
 }
 );
 layerId = UUID0;
-width = 212;
+width = 261;
 },
 {
 components = (
@@ -15740,7 +15749,7 @@ transform = "{1, 0, 0, 1, -61, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 284;
+width = 302;
 }
 );
 leftKerningGroup = j;
@@ -16259,9 +16268,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = periodcentered.loclCAT;
 transform = "{1, 0, 0, 1, 172, 0}";
 }
@@ -16272,9 +16283,11 @@ width = 406;
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = periodcentered.loclCAT;
 transform = "{1, 0, 0, 1, 252, 0}";
 }
@@ -28258,7 +28271,7 @@ nodes = (
 );
 };
 layerId = "23EEA275-1F7D-4D66-8A4F-7A69E173703D";
-name = "Bold [600]";
+name = "[600]";
 paths = (
 {
 closed = 1;
@@ -28379,7 +28392,7 @@ nodes = (
 );
 };
 layerId = "AB33318D-2B79-4A90-81D9-583F3E5B95BB";
-name = "Light [600]";
+name = "[600]";
 paths = (
 {
 closed = 1;
@@ -38607,9 +38620,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ka-cy";
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 197, 0}";
 }
@@ -38620,9 +38635,11 @@ width = 537;
 {
 components = (
 {
+alignment = -1;
 name = "ka-cy";
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 184, 0}";
 }
@@ -41638,7 +41655,7 @@ name = j;
 }
 );
 layerId = UUID0;
-width = 212;
+width = 261;
 },
 {
 components = (
@@ -41647,7 +41664,7 @@ name = j;
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
-width = 284;
+width = 302;
 }
 );
 leftKerningGroup = j;
@@ -56449,6 +56466,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = zero;
 transform = "{1, 0, 0, 1, 14, 0}";
 }
@@ -56459,8 +56477,8 @@ width = 650;
 {
 components = (
 {
+alignment = -1;
 name = zero;
-transform = "{1, 0, 0, 1, 8, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -56640,6 +56658,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = three;
 transform = "{1, 0, 0, 1, 50, 0}";
 }
@@ -56650,6 +56669,7 @@ width = 650;
 {
 components = (
 {
+alignment = -1;
 name = three;
 transform = "{1, 0, 0, 1, 48, 0}";
 }
@@ -56756,6 +56776,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = five;
 transform = "{1, 0, 0, 1, 49, 0}";
 }
@@ -56766,6 +56787,7 @@ width = 650;
 {
 components = (
 {
+alignment = -1;
 name = five;
 transform = "{1, 0, 0, 1, 49, 0}";
 }
@@ -56781,6 +56803,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = six;
 transform = "{1, 0, 0, 1, 33, 0}";
 }
@@ -56791,6 +56814,7 @@ width = 650;
 {
 components = (
 {
+alignment = -1;
 name = six;
 transform = "{1, 0, 0, 1, 36, 0}";
 }
@@ -56806,6 +56830,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = seven;
 transform = "{1, 0, 0, 1, 94, 0}";
 }
@@ -56816,6 +56841,7 @@ width = 650;
 {
 components = (
 {
+alignment = -1;
 name = seven;
 transform = "{1, 0, 0, 1, 94, 0}";
 }
@@ -56831,6 +56857,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = eight;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
@@ -56841,6 +56868,7 @@ width = 650;
 {
 components = (
 {
+alignment = -1;
 name = eight;
 transform = "{1, 0, 0, 1, 32, 0}";
 }
@@ -56856,6 +56884,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = nine;
 transform = "{1, 0, 0, 1, 42, 0}";
 }
@@ -56866,6 +56895,7 @@ width = 650;
 {
 components = (
 {
+alignment = -1;
 name = nine;
 transform = "{1, 0, 0, 1, 39, 0}";
 }
@@ -67561,6 +67591,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, -34, -42}";
 }
@@ -67571,6 +67602,7 @@ width = 293;
 {
 components = (
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, -34, -56}";
 }
@@ -67740,6 +67772,7 @@ position = "{252, 782}";
 );
 components = (
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 111, 0}";
 }
@@ -67785,6 +67818,7 @@ position = "{252, 782}";
 );
 components = (
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 111, 0}";
 }
@@ -76861,6 +76895,7 @@ x = -12.207;
 "@MMK_R_Y" = -14.1602;
 "@MMK_R_b" = 15.1367;
 "@MMK_R_hyphen" = -8.78906;
+"@MMK_R_i" = 0;
 "@MMK_R_quoteright" = 4.88281;
 "@MMK_R_t" = -3.90625;
 "@MMK_R_y" = -7.8125;
@@ -78204,5 +78239,5 @@ tH = "40";
 };
 };
 versionMajor = 3;
-versionMinor = 1;
+versionMinor = 2;
 }

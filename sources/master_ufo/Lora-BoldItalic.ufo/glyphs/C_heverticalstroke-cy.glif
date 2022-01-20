@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="734"/>
+  <unicode hex="04B8"/>
+  <anchor x="548" y="0" name="bottomright"/>
+  <anchor x="351" y="350" name="center"/>
+  <anchor x="391" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="331" y="172" type="line"/>
+      <point x="395" y="172" type="line"/>
+      <point x="410" y="463" type="line"/>
+      <point x="346" y="463" type="line"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+</glyph>

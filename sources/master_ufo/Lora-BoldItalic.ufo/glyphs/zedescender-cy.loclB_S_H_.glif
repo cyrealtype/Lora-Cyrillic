@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedescender-cy.loclBSH" format="2">
+  <advance width="484"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="254" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="220" y="-208" type="curve" smooth="yes"/>
+      <point x="263" y="-208"/>
+      <point x="298" y="-173"/>
+      <point x="300" y="-134" type="curve" smooth="yes"/>
+      <point x="302" y="-89"/>
+      <point x="278" y="-24"/>
+      <point x="219" y="13" type="curve"/>
+      <point x="158" y="4" type="line"/>
+      <point x="197" y="-15"/>
+      <point x="234" y="-57"/>
+      <point x="232" y="-88" type="curve"/>
+      <point x="225" y="-85"/>
+      <point x="217" y="-83"/>
+      <point x="204" y="-83" type="curve" smooth="yes"/>
+      <point x="178" y="-83"/>
+      <point x="151" y="-110"/>
+      <point x="149" y="-146" type="curve" smooth="yes"/>
+      <point x="147" y="-184"/>
+      <point x="180" y="-208"/>
+    </contour>
+    <component base="ze-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ze-cy</string>
+    </dict>
+  </lib>
+</glyph>

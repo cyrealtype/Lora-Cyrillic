@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shha-cy" format="2">
+  <advance width="621"/>
+  <unicode hex="04BB"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <anchor x="311" y="250" name="center"/>
+  <anchor x="170" y="704" name="top"/>
+  <outline>
+    <component base="h"/>
+  </outline>
+</glyph>

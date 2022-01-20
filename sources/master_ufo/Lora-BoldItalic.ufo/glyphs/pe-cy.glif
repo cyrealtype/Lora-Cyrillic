@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <advance width="610"/>
+  <unicode hex="043F"/>
+  <anchor x="577" y="0" name="bottomright"/>
+  <anchor x="341" y="500" name="top"/>
+  <outline>
+    <component base="n"/>
+  </outline>
+</glyph>

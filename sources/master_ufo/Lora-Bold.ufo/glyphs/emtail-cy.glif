@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emtail-cy" format="2">
+  <advance width="800"/>
+  <unicode hex="04CE"/>
+  <outline>
+    <contour>
+      <point x="659" y="-183" type="curve"/>
+      <point x="724" y="-183" type="line"/>
+      <point x="804" y="81" type="line"/>
+      <point x="723" y="76" type="line"/>
+      <point x="725" y="94"/>
+      <point x="724" y="114"/>
+      <point x="720" y="132" type="curve"/>
+      <point x="675" y="390" type="line" smooth="yes"/>
+      <point x="668" y="426"/>
+      <point x="689" y="442"/>
+      <point x="731" y="444" type="curve"/>
+      <point x="731" y="500" type="line"/>
+      <point x="533" y="500" type="line"/>
+      <point x="403" y="141" type="line"/>
+      <point x="393" y="168"/>
+      <point x="378" y="201"/>
+      <point x="368" y="226" type="curve" smooth="yes"/>
+      <point x="253" y="500" type="line"/>
+      <point x="58" y="500" type="line"/>
+      <point x="58" y="424" type="line"/>
+      <point x="137" y="427" type="line"/>
+      <point x="96" y="120" type="line"/>
+      <point x="90" y="78"/>
+      <point x="71" y="67"/>
+      <point x="28" y="65" type="curve"/>
+      <point x="28" y="0" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="225" y="76" type="line"/>
+      <point x="159" y="74" type="line"/>
+      <point x="163" y="88"/>
+      <point x="166" y="101"/>
+      <point x="168" y="117" type="curve" smooth="yes"/>
+      <point x="188" y="245" type="line" smooth="yes"/>
+      <point x="195" y="286"/>
+      <point x="197" y="315"/>
+      <point x="197" y="349" type="curve"/>
+      <point x="340" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="553" y="354" type="line"/>
+      <point x="596" y="119" type="line" smooth="yes"/>
+      <point x="604" y="76"/>
+      <point x="582" y="65"/>
+      <point x="540" y="65" type="curve"/>
+      <point x="540" y="0" type="line"/>
+      <point x="658" y="0" type="line" smooth="yes"/>
+      <point x="700" y="0"/>
+      <point x="690" y="-49"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>em-cy</string>
+    </dict>
+  </lib>
+</glyph>

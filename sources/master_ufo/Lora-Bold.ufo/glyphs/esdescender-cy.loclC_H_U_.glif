@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescender-cy.loclCHU" format="2">
+  <advance width="518"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <anchor x="300" y="500" name="top"/>
+  <outline>
+    <component base="ccedilla"/>
+  </outline>
+</glyph>

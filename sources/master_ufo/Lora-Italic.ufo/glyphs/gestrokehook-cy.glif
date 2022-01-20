@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="452"/>
+  <unicode hex="04FB"/>
+  <outline>
+    <contour>
+      <point x="51" y="-229" type="curve" smooth="yes"/>
+      <point x="183" y="-229"/>
+      <point x="225" y="-145"/>
+      <point x="238" y="0" type="curve"/>
+      <point x="160" y="0" type="line"/>
+      <point x="148" y="-130"/>
+      <point x="116" y="-192"/>
+      <point x="35" y="-192" type="curve" smooth="yes"/>
+      <point x="19" y="-192"/>
+      <point x="-14" y="-187"/>
+      <point x="-33" y="-182" type="curve"/>
+      <point x="-43" y="-213" type="line"/>
+      <point x="-7" y="-224"/>
+      <point x="22" y="-229"/>
+    </contour>
+    <component base="ghestroke-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

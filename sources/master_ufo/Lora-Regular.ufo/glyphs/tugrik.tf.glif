@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik.tf" format="2">
+  <advance width="650"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="326" y="350" name="center"/>
+  <anchor x="326" y="700" name="top"/>
+  <outline>
+    <component base="tugrik" xOffset="6"/>
+  </outline>
+</glyph>
