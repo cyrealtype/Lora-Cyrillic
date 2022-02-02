@@ -1,7 +1,9 @@
 ### Lora Fonts
 
 #### by Olga Karpushina 
-and Lora project authors
+#### Cyrillic Extension: Alexei Vanyashin
+
+and Lora project contributors
 
 Lora is a well-balanced contemporary serif with roots in calligraphy. It is a text typeface with moderate contrast well suited for body text. A paragraph set in Lora will make a memorable appearance because of its brushed curves in contrast with driving serifs. The overall typographic voice of Lora perfectly conveys the mood of a modern-day story, or an art essay.
 
