@@ -7,15 +7,17 @@ Lora is a well-balanced contemporary serif with roots in calligraphy. It is a te
 
 Technically Lora is optimised for screen appearance, and works equally well in print.
 
-Designed by Olga Karpushina, and Alexei Vanyashin for Cyreal.
+Designed by Olga Karpushina, and Alexei Vanyashin for Cyreal. Released in 2011 with contributions and assistance from Gayaneh Bagdasaryan. 
 
-![Lora Font](documentation/sample.png "Lora Font by Cyreal")
+![Lora Font](documentation/1.png "Lora Font by Cyreal")
 
 Lora is a Unicode typeface family that supports 
 languages that use the Latin and Cyrillic scripts and its variants, and 
 could be expanded to support other scripts.
 
-![Lora Font](documentation/sample2.png "Lora Font by Cyreal")
+![Lora Font](documentation/2.png "Lora Font by Cyreal")
+![Lora Font](documentation/3.png "Lora Font by Cyreal")
+Font Specimens by @@mithilgorare
 
 Project [information](http://www.cyreal.org/fonts/lora) on Cyreal Fonts' website:
 
@@ -26,9 +28,6 @@ includes a variable font version with one weight axis.
 ### Cyrillic 
 
 Cyrillic Extension designed by Alexei Vanyashin @alexeiva in May, 2013. 
-
-### GF Cyrillic Plus, Pro, and locl.
-
 Expansion to GF Cyrillic Plus, Pro, and locl has been completed by original author Olga Karpushina in August-September 2016.
 
 ### Vietnamese
