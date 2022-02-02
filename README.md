@@ -16,7 +16,7 @@ languages that use the Latin and Cyrillic scripts and its variants, and
 could be expanded to support other scripts.
 
 ![Lora Font](documentation/Lora-sample.png "Lora Font by Cyreal")
-Font Specimens by @@mithilgorare
+Font Specimens by @mithilgorare
 
 Project [information](http://www.cyreal.org/fonts/lora) on Cyreal Fonts' website:
 
