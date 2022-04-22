@@ -1,5 +1,8 @@
 {
 .appVersion = "1352";
+DisplayStrings = (
+"/ecircumflexdotbelow/edotbelow/edotbelow/Ecircumflexdotbelow/Edotbelow/Edotbelow \012/ecircumflexdotbelow/edotbelow/edotbelow/Ecircumflexdotbelow/Edotbelow/Edotbelow \012\012"
+);
 classes = (
 {
 automatic = 1;
@@ -2447,7 +2450,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{332, 0}";
+position = "{320, 0}";
 },
 {
 name = ogonek;
@@ -2476,7 +2479,7 @@ nodes = (
 "143 615 OFFCURVE",
 "142 588 CURVE SMOOTH",
 "118 156 LINE SMOOTH",
-"115 85 OFFCURVE",
+"114 85 OFFCURVE",
 "118 36 OFFCURVE",
 "43 33 CURVE",
 "41 0 LINE",
@@ -2492,7 +2495,7 @@ nodes = (
 "199 115 CURVE SMOOTH",
 "211 344 LINE",
 "284 347 LINE SMOOTH",
-"370 350 OFFCURVE",
+"370 351 OFFCURVE",
 "403 347 OFFCURVE",
 "399 259 CURVE",
 "432 259 LINE",
@@ -2521,7 +2524,7 @@ width = 619;
 anchors = (
 {
 name = bottom;
-position = "{343, 0}";
+position = "{334, 0}";
 },
 {
 name = ogonek;
@@ -2566,7 +2569,7 @@ nodes = (
 "257 164 CURVE SMOOTH",
 "266 328 LINE",
 "292 329 LINE SMOOTH",
-"346 330 OFFCURVE",
+"346 331 OFFCURVE",
 "390 325 OFFCURVE",
 "386 241 CURVE",
 "452 241 LINE",
@@ -2772,7 +2775,7 @@ name = E;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 233, 0}";
+transform = "{1, 0, 0, 1, 221, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -2789,7 +2792,7 @@ name = E;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 244, 0}";
+transform = "{1, 0, 0, 1, 235, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -2976,7 +2979,7 @@ name = E;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 233, 0}";
+transform = "{1, 0, 0, 1, 221, 0}";
 }
 );
 layerId = UUID0;
@@ -2989,7 +2992,7 @@ name = E;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 244, 0}";
+transform = "{1, 0, 0, 1, 235, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
@@ -12448,7 +12451,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{252, 0}";
+position = "{202, 0}";
 },
 {
 name = ogonek;
@@ -12509,7 +12512,7 @@ width = 477;
 anchors = (
 {
 name = bottom;
-position = "{260, 0}";
+position = "{213, 0}";
 },
 {
 name = ogonek;
@@ -12747,7 +12750,7 @@ name = e;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 153, 0}";
+transform = "{1, 0, 0, 1, 103, 0}";
 },
 {
 name = circumflexcomb;
@@ -12764,7 +12767,7 @@ name = e;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 161, 0}";
+transform = "{1, 0, 0, 1, 114, 0}";
 },
 {
 name = circumflexcomb;
@@ -12951,7 +12954,7 @@ name = e;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 153, 0}";
+transform = "{1, 0, 0, 1, 103, 0}";
 }
 );
 layerId = UUID0;
@@ -12964,7 +12967,7 @@ name = e;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 161, 0}";
+transform = "{1, 0, 0, 1, 114, 0}";
 }
 );
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";

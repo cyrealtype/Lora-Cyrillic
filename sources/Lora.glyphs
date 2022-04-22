@@ -1,7 +1,8 @@
 {
 .appVersion = "1352";
 DisplayStrings = (
-"`/gravecomb"
+"`/gravecomb",
+"/ecircumflexdotbelow/edotbelow/edotbelow/Ecircumflexdotbelow/Edotbelow/Edotbelow \012/ecircumflexdotbelow/edotbelow/edotbelow/Ecircumflexdotbelow/Edotbelow/Edotbelow"
 );
 classes = (
 {
@@ -2640,7 +2641,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{372, 0}";
+position = "{346, 0}";
 },
 {
 name = ogonek;
@@ -2712,7 +2713,7 @@ width = 622;
 anchors = (
 {
 name = bottom;
-position = "{383, 0}";
+position = "{333, 0}";
 },
 {
 name = ogonek;
@@ -2772,7 +2773,7 @@ nodes = (
 "266 164 CURVE SMOOTH",
 "266 328 LINE",
 "292 329 LINE SMOOTH",
-"346 330 OFFCURVE",
+"346 331 OFFCURVE",
 "390 325 OFFCURVE",
 "390 241 CURVE"
 );
@@ -2961,7 +2962,7 @@ name = E;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 250, 0}";
+transform = "{1, 0, 0, 1, 224, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -2978,7 +2979,7 @@ name = E;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 266, 0}";
+transform = "{1, 0, 0, 1, 216, 0}";
 },
 {
 name = circumflexcomb.case;
@@ -3165,7 +3166,7 @@ name = E;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 250, 0}";
+transform = "{1, 0, 0, 1, 224, 0}";
 }
 );
 layerId = UUID0;
@@ -3178,7 +3179,7 @@ name = E;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 266, 0}";
+transform = "{1, 0, 0, 1, 216, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
@@ -12988,7 +12989,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{325, 0}";
+position = "{287, 0}";
 },
 {
 name = ogonek;
@@ -13045,7 +13046,7 @@ width = 542;
 anchors = (
 {
 name = bottom;
-position = "{337, 0}";
+position = "{283, 0}";
 },
 {
 name = ogonek;
@@ -13279,7 +13280,7 @@ name = e;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 203, 0}";
+transform = "{1, 0, 0, 1, 165, 0}";
 },
 {
 name = circumflexcomb;
@@ -13296,7 +13297,7 @@ name = e;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 220, 0}";
+transform = "{1, 0, 0, 1, 166, 0}";
 },
 {
 name = circumflexcomb;
@@ -13483,7 +13484,7 @@ name = e;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 203, 0}";
+transform = "{1, 0, 0, 1, 165, 0}";
 }
 );
 layerId = UUID0;
@@ -13496,7 +13497,7 @@ name = e;
 },
 {
 name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 220, 0}";
+transform = "{1, 0, 0, 1, 166, 0}";
 }
 );
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
