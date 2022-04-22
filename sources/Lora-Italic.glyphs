@@ -1,8 +1,5 @@
 {
-.appVersion = "3110";
-DisplayStrings = (
-"/idotless i/jdotless/space Jajakarta/space ajile"
-);
+.appVersion = "1352";
 classes = (
 {
 automatic = 1;
@@ -67,7 +64,7 @@ Tag = wght;
 );
 }
 );
-date = "2022-01-20 09:41:28 +0000";
+date = "2022-04-22 11:27:37 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -67233,12 +67230,6 @@ unicode = 0336;
 glyphname = dieresis;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{168, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67279,12 +67270,6 @@ nodes = (
 width = 351;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{207, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -67331,12 +67316,6 @@ unicode = 00A8;
 glyphname = dotaccent;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{91, 512}";
-}
-);
 components = (
 {
 name = period;
@@ -67347,12 +67326,6 @@ layerId = UUID0;
 width = 198;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{113, 500}";
-}
-);
 components = (
 {
 name = period;
@@ -67369,12 +67342,6 @@ unicode = 02D9;
 glyphname = grave;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{132, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67395,12 +67362,6 @@ nodes = (
 width = 240;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{147, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -67427,12 +67388,6 @@ unicode = 0060;
 glyphname = acute;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{111, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67453,12 +67408,6 @@ nodes = (
 width = 240;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{146, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -67485,12 +67434,6 @@ unicode = 00B4;
 glyphname = hungarumlaut;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{201, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67525,12 +67468,6 @@ nodes = (
 width = 419;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{233, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -67571,12 +67508,6 @@ unicode = 02DD;
 glyphname = hungarumlaut.case;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{150, 700}";
-}
-);
 background = {
 components = (
 {
@@ -67623,12 +67554,6 @@ nodes = (
 width = 379;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{150, 700}";
-}
-);
 background = {
 components = (
 {
@@ -67680,12 +67605,6 @@ width = 436;
 glyphname = circumflex;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{191, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67705,12 +67624,6 @@ nodes = (
 width = 400;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{214, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -67736,12 +67649,6 @@ unicode = 02C6;
 glyphname = circumflex.case;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{227, 700}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67760,12 +67667,6 @@ nodes = (
 width = 469;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{232, 700}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -67817,12 +67718,6 @@ unicode = 02C9;
 glyphname = caron;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{191, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67842,12 +67737,6 @@ nodes = (
 width = 399;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{213, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -67873,12 +67762,6 @@ unicode = 02C7;
 glyphname = breve;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{171, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67904,12 +67787,6 @@ nodes = (
 width = 360;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{198, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -67941,12 +67818,6 @@ unicode = 02D8;
 glyphname = ring;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{136, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -67987,12 +67858,6 @@ nodes = (
 width = 289;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{165, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -68039,12 +67904,6 @@ unicode = 02DA;
 glyphname = tilde;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{204, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -68076,12 +67935,6 @@ nodes = (
 width = 424;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{222, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -68119,12 +67972,6 @@ unicode = 02DC;
 glyphname = macron;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{170, 512}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -68140,12 +67987,6 @@ nodes = (
 width = 358;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{189, 500}";
-}
-);
 layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
 paths = (
 {
@@ -68329,12 +68170,6 @@ export = 0;
 glyphname = breve.case;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{164, 700}";
-}
-);
 background = {
 paths = (
 {
@@ -68402,12 +68237,6 @@ nodes = (
 width = 293;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{188, 700}";
-}
-);
 background = {
 paths = (
 {
@@ -73564,5 +73393,5 @@ tH = 79;
 };
 };
 versionMajor = 3;
-versionMinor = 2;
+versionMinor = 3;
 }

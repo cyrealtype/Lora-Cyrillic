@@ -1,12 +1,12 @@
 {
-.appVersion = "3110";
+.appVersion = "1352";
 DisplayStrings = (
-"/idotless i/jdotless/space Jajakarta/space ajile"
+"`/gravecomb"
 );
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gstroke H Hbar Hcaron Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Semisoftsign-cy Ertick-cy EnLeftHook-cy Eldescender-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Ghestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Gamma Delta Pi Omega angstrom kelvin";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gstroke H Hbar Hcaron Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Semisoftsign-cy Ertick-cy EnLeftHook-cy Eldescender-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Ghestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Gamma Delta Pi Omega angstrom kelvin";
 name = Uppercase;
 },
 {
@@ -67,7 +67,7 @@ Tag = wght;
 );
 }
 );
-date = "2020-05-28 08:24:58 +0000";
+date = "2022-04-22 11:26:46 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -76,13 +76,17 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
 languagesystem latn dflt;
-languagesystem cyrl dflt;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
-languagesystem cyrl SRB;
+
+languagesystem cyrl dflt;
 languagesystem cyrl BGR;
+languagesystem cyrl BSH;
+languagesystem cyrl CHU;
+languagesystem cyrl SRB;
 ";
 name = Languagesystems;
 }
@@ -138,63 +142,80 @@ lookup ccmp_latn_1 {
 } ccmp_latn_1;
 
 script latn;
+lookup ccmp_latn_1;
 ";
 name = ccmp;
 },
 {
 automatic = 1;
-code = "script latn;
-language ROM;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language MOL;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language CAT;
-sub l periodcentered' l by periodcentered.loclCAT;
-sub L periodcentered' L by periodcentered.loclCAT;
+code = "lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
 
-script cyrl;
-language SRB;
-sub be-cy by be-cy.loclSRB;
-language CHU;
-sub Esdescender-cy by Esdescender-cy.loclCHU;
-sub esdescender-cy by esdescender-cy.loclCHU;
-language BSH;
-sub Ghestroke-cy by Ghestroke-cy.loclBSH;
-sub Zedescender-cy by Zedescender-cy.loclBSH;
-sub Esdescender-cy by Esdescender-cy.loclBSH;
-sub ghestroke-cy by ghestroke-cy.loclBSH;
-sub zedescender-cy by zedescender-cy.loclBSH;
-sub esdescender-cy by esdescender-cy.loclBSH;
-language BGR;
-sub De-cy by De-cy.loclBGR;
-sub El-cy by El-cy.loclBGR;
-sub Ef-cy by Ef-cy.loclBGR;
-sub ve-cy by ve-cy.loclBGR;
-sub ge-cy by ge-cy.loclBGR;
-sub de-cy by de-cy.loclBGR;
-sub zhe-cy by zhe-cy.loclBGR;
-sub ze-cy by ze-cy.loclBGR;
-sub ii-cy by ii-cy.loclBGR;
-sub iishort-cy by iishort-cy.loclBGR;
-sub iigrave-cy by iigrave-cy.loclBGR;
-sub ka-cy by ka-cy.loclBGR;
-sub el-cy by el-cy.loclBGR;
-sub en-cy by en-cy.loclBGR;
-sub pe-cy by pe-cy.loclBGR;
-sub te-cy by te-cy.loclBGR;
-sub che-cy by che-cy.loclBGR;
-sub tse-cy by tse-cy.loclBGR;
-sub sha-cy by sha-cy.loclBGR;
-sub shcha-cy by shcha-cy.loclBGR;
-sub softsign-cy by softsign-cy.loclBGR;
-sub hardsign-cy by hardsign-cy.loclBGR;
-sub iu-cy by iu-cy.loclBGR;
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT;
+} locl_latn_1;
+
+lookup locl_cyrl_0 {
+	script cyrl;
+	language BGR;
+	sub De-cy by De-cy.loclBGR;
+	sub El-cy by El-cy.loclBGR;
+	sub Ef-cy by Ef-cy.loclBGR;
+	sub ve-cy by ve-cy.loclBGR;
+	sub ge-cy by ge-cy.loclBGR;
+	sub de-cy by de-cy.loclBGR;
+	sub zhe-cy by zhe-cy.loclBGR;
+	sub ze-cy by ze-cy.loclBGR;
+	sub ii-cy by ii-cy.loclBGR;
+	sub iishort-cy by iishort-cy.loclBGR;
+	sub iigrave-cy by iigrave-cy.loclBGR;
+	sub ka-cy by ka-cy.loclBGR;
+	sub el-cy by el-cy.loclBGR;
+	sub en-cy by en-cy.loclBGR;
+	sub pe-cy by pe-cy.loclBGR;
+	sub te-cy by te-cy.loclBGR;
+	sub che-cy by che-cy.loclBGR;
+	sub tse-cy by tse-cy.loclBGR;
+	sub sha-cy by sha-cy.loclBGR;
+	sub shcha-cy by shcha-cy.loclBGR;
+	sub softsign-cy by softsign-cy.loclBGR;
+	sub hardsign-cy by hardsign-cy.loclBGR;
+	sub iu-cy by iu-cy.loclBGR;
+} locl_cyrl_0;
+
+lookup locl_cyrl_1 {
+	script cyrl;
+	language BSH;
+	sub Ghestroke-cy by Ghestroke-cy.loclBSH;
+	sub Zedescender-cy by Zedescender-cy.loclBSH;
+	sub Esdescender-cy by Esdescender-cy.loclBSH;
+	sub ghestroke-cy by ghestroke-cy.loclBSH;
+	sub zedescender-cy by zedescender-cy.loclBSH;
+	sub esdescender-cy by esdescender-cy.loclBSH;
+} locl_cyrl_1;
+
+lookup locl_cyrl_2 {
+	script cyrl;
+	language CHU;
+	sub Esdescender-cy by Esdescender-cy.loclCHU;
+	sub esdescender-cy by esdescender-cy.loclCHU;
+} locl_cyrl_2;
+
+lookup locl_cyrl_3 {
+	script cyrl;
+	language SRB;
+	sub be-cy by be-cy.loclSRB;
+} locl_cyrl_3;
 ";
 name = locl;
 },
@@ -347,7 +368,8 @@ name = case;
 },
 {
 automatic = 1;
-code = "sub f i by fi;
+code = "lookupflag IgnoreMarks;
+sub f i by fi;
 sub f l by fl;
 ";
 name = liga;
@@ -409,7 +431,7 @@ value = 0;
 descender = -255;
 guideLines = (
 {
-position = "{592, 475}";
+position = "{640, 475}";
 },
 {
 position = "{592, 475}";
@@ -11105,11 +11127,11 @@ name = a;
 {
 alignment = 1;
 name = circumflex;
-transform = "{1, 0, 0, 1, 51, 33}";
+transform = "{1, 0, 0, 1, 516, 0}";
 }
 );
 layerId = UUID0;
-width = 516;
+width = 916;
 },
 {
 components = (
@@ -68710,12 +68732,6 @@ unicode = 0336;
 glyphname = dieresis;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{193, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -68756,12 +68772,6 @@ nodes = (
 width = 387;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{213, 500}";
-}
-);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -68808,12 +68818,6 @@ unicode = 00A8;
 glyphname = dotaccent;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{99, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -68837,12 +68841,6 @@ nodes = (
 width = 198;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{120, 500}";
-}
-);
 background = {
 components = (
 {
@@ -68880,12 +68878,6 @@ unicode = 02D9;
 glyphname = grave;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{126, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -68893,11 +68885,11 @@ closed = 1;
 nodes = (
 "207 603 LINE",
 "123 738 LINE SMOOTH",
-"93 781 OFFCURVE",
+"95 783 OFFCURVE",
 "63 761 OFFCURVE",
 "58 757 CURVE SMOOTH",
 "50 750 OFFCURVE",
-"31 724 OFFCURVE",
+"29 722 OFFCURVE",
 "67 686 CURVE SMOOTH",
 "179 580 LINE"
 );
@@ -68906,12 +68898,6 @@ nodes = (
 width = 252;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{141, 500}";
-}
-);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -68938,12 +68924,6 @@ unicode = 0060;
 glyphname = acute;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{125, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -68964,12 +68944,6 @@ nodes = (
 width = 252;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{141, 500}";
-}
-);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -68996,12 +68970,6 @@ unicode = 00B4;
 glyphname = hungarumlaut;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{181, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -69036,12 +69004,6 @@ nodes = (
 width = 389;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{197, 500}";
-}
-);
 background = {
 paths = (
 {
@@ -69114,12 +69076,6 @@ unicode = 02DD;
 glyphname = circumflex;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{200, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -69139,12 +69095,6 @@ nodes = (
 width = 400;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{215, 500}";
-}
-);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -69170,12 +69120,6 @@ unicode = 02C6;
 glyphname = caron;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{200, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -69195,12 +69139,6 @@ nodes = (
 width = 400;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{198, 500}";
-}
-);
 background = {
 paths = (
 {
@@ -69243,12 +69181,6 @@ unicode = 02C7;
 glyphname = breve;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{182, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -69274,12 +69206,6 @@ nodes = (
 width = 363;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{202, 500}";
-}
-);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -69311,12 +69237,6 @@ unicode = 02D8;
 glyphname = ring;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{159, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -69357,12 +69277,6 @@ nodes = (
 width = 318;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{179, 500}";
-}
-);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -69409,12 +69323,6 @@ unicode = 02DA;
 glyphname = tilde;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{203, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -69446,12 +69354,6 @@ nodes = (
 width = 406;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{213, 500}";
-}
-);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -69489,12 +69391,6 @@ unicode = 02DC;
 glyphname = macron;
 layers = (
 {
-anchors = (
-{
-name = _top;
-position = "{178, 500}";
-}
-);
 layerId = UUID0;
 paths = (
 {
@@ -69510,12 +69406,6 @@ nodes = (
 width = 355;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{187, 500}";
-}
-);
 layerId = "4C2B4986-1645-43C1-94B7-5E4C57EFF0D9";
 paths = (
 {
@@ -78239,5 +78129,5 @@ tH = "40";
 };
 };
 versionMajor = 3;
-versionMinor = 2;
+versionMinor = 3;
 }
