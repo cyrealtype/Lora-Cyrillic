@@ -1,8 +1,5 @@
 {
-.appVersion = "1352";
-DisplayStrings = (
-"/ecircumflexdotbelow/edotbelow/edotbelow/Ecircumflexdotbelow/Edotbelow/Edotbelow \012/ecircumflexdotbelow/edotbelow/edotbelow/Ecircumflexdotbelow/Edotbelow/Edotbelow \012\012"
-);
+.appVersion = "3112";
 classes = (
 {
 automatic = 1;
@@ -67,7 +64,7 @@ Tag = wght;
 );
 }
 );
-date = "2022-04-22 11:27:37 +0000";
+date = "2022-05-05 11:10:34 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "http://cyreal.org";
 disablesNiceNames = 1;
@@ -898,9 +895,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 95, 2}";
 }
@@ -911,9 +910,11 @@ width = 631;
 {
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 114, 0}";
 }
@@ -1232,9 +1233,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 152, 190}";
 }
@@ -1245,9 +1248,11 @@ width = 631;
 {
 components = (
 {
+alignment = -1;
 name = A;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 157, 200}";
 }
@@ -1817,9 +1822,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = C;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 318, 190}";
 }
@@ -1830,9 +1837,11 @@ width = 686;
 {
 components = (
 {
+alignment = -1;
 name = C;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 277, 200}";
 }
@@ -2044,9 +2053,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = C;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 202, 2}";
 }
@@ -2057,9 +2068,11 @@ width = 686;
 {
 components = (
 {
+alignment = -1;
 name = C;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 191, 0}";
 }
@@ -2705,9 +2718,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 136, 2}";
 }
@@ -2718,9 +2733,11 @@ width = 619;
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 111, 0}";
 }
@@ -2941,9 +2958,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 272, 190}";
 }
@@ -2954,9 +2973,11 @@ width = 619;
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 230, 200}";
 }
@@ -3073,9 +3094,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 193, 190}";
 }
@@ -3086,9 +3109,11 @@ width = 619;
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 154, 200}";
 }
@@ -3678,9 +3703,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = G;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 203, 2}";
 }
@@ -3691,9 +3718,11 @@ width = 753;
 {
 components = (
 {
+alignment = -1;
 name = G;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 195, 0}";
 }
@@ -3739,6 +3768,38 @@ width = 756;
 leftKerningGroup = O;
 rightKerningGroup = G;
 unicode = 0122;
+},
+{
+glyphname = Gdot;
+layers = (
+{
+components = (
+{
+name = G;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 339, 190}";
+}
+);
+layerId = UUID0;
+width = 753;
+},
+{
+components = (
+{
+name = G;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 314, 200}";
+}
+);
+layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
+width = 756;
+}
+);
+unicode = 0120;
 },
 {
 glyphname = Gstroke;
@@ -4054,9 +4115,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = H;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 183, 2}";
 }
@@ -4067,9 +4130,11 @@ width = 773;
 {
 components = (
 {
+alignment = -1;
 name = H;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 197, 0}";
 }
@@ -4374,9 +4439,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 106, 190}";
 }
@@ -4387,9 +4454,11 @@ width = 333;
 {
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 113, 200}";
 }
@@ -4506,9 +4575,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 27, 190}";
 }
@@ -4519,9 +4590,11 @@ width = 333;
 {
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 37, 200}";
 }
@@ -5741,9 +5814,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = N;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 294, 190}";
 }
@@ -5754,9 +5829,11 @@ width = 762;
 {
 components = (
 {
+alignment = -1;
 name = N;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 264, 200}";
 }
@@ -6294,9 +6371,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 190, 2}";
 }
@@ -6307,9 +6386,11 @@ width = 788;
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 167, 0}";
 }
@@ -6820,9 +6901,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 216, 190}";
 }
@@ -6833,9 +6916,11 @@ width = 788;
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 166, 200}";
 }
@@ -6854,9 +6939,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 247, 190}";
 }
@@ -6867,9 +6954,11 @@ width = 788;
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 210, 200}";
 }
@@ -7849,9 +7938,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = R;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 212, 190}";
 }
@@ -7862,9 +7953,11 @@ width = 625;
 {
 components = (
 {
+alignment = -1;
 name = R;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 207, 204}";
 }
@@ -8089,9 +8182,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = S;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 206, 190}";
 }
@@ -8102,9 +8197,11 @@ width = 566;
 {
 components = (
 {
+alignment = -1;
 name = S;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 185, 200}";
 }
@@ -8191,9 +8288,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = S;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 90, 2}";
 }
@@ -8204,9 +8303,11 @@ width = 566;
 {
 components = (
 {
+alignment = -1;
 name = S;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 99, 0}";
 }
@@ -8875,9 +8976,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 181, 2}";
 }
@@ -8888,9 +8991,11 @@ width = 744;
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 190, 0}";
 }
@@ -9349,9 +9454,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 207, 190}";
 }
@@ -9362,9 +9469,11 @@ width = 744;
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 189, 200}";
 }
@@ -9383,9 +9492,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 238, 190}";
 }
@@ -9396,9 +9507,11 @@ width = 744;
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 233, 200}";
 }
@@ -9451,9 +9564,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = ring;
 transform = "{1, 0, 0, 1, 272, 190}";
 }
@@ -9464,9 +9579,11 @@ width = 744;
 {
 components = (
 {
+alignment = -1;
 name = U;
 },
 {
+alignment = -1;
 name = ring;
 transform = "{1, 0, 0, 1, 257, 200}";
 }
@@ -10375,9 +10492,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = Z;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 236, 190}";
 }
@@ -10388,9 +10507,11 @@ width = 612;
 {
 components = (
 {
+alignment = -1;
 name = Z;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 184, 200}";
 }
@@ -10443,9 +10564,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = Z;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 256, 190}";
 }
@@ -10456,9 +10579,11 @@ width = 612;
 {
 components = (
 {
+alignment = -1;
 name = Z;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 217, 200}";
 }
@@ -10633,9 +10758,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 198, 0}";
 }
@@ -10646,9 +10773,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 178, 0}";
 }
@@ -10667,9 +10796,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 138, 0}";
 }
@@ -10680,9 +10811,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 126, 0}";
 }
@@ -10901,9 +11034,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 118, 0}";
 }
@@ -10914,9 +11049,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 110, 0}";
 }
@@ -11103,9 +11240,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 141, 0}";
 }
@@ -11116,9 +11255,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 117, 0}";
 }
@@ -11169,9 +11310,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 177, 0}";
 }
@@ -11182,9 +11325,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 177, 0}";
 }
@@ -11235,9 +11380,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 139, 0}";
 }
@@ -11248,9 +11395,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 135, 0}";
 }
@@ -11303,9 +11452,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = ring;
 transform = "{1, 0, 0, 1, 173, 0}";
 }
@@ -11316,9 +11467,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = ring;
 transform = "{1, 0, 0, 1, 159, 0}";
 }
@@ -11337,9 +11490,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, 105, 0}";
 }
@@ -11350,9 +11505,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = a;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, 102, 0}";
 }
@@ -11819,9 +11976,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = c;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 171, -2}";
 }
@@ -11832,9 +11991,11 @@ width = 473;
 {
 components = (
 {
+alignment = -1;
 name = c;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 138, 0}";
 }
@@ -11853,9 +12014,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = c;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 91, -2}";
 }
@@ -11866,9 +12029,11 @@ width = 473;
 {
 components = (
 {
+alignment = -1;
 name = c;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 71, 0}";
 }
@@ -11921,9 +12086,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = c;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 91, -2}";
 }
@@ -11934,9 +12101,11 @@ width = 473;
 {
 components = (
 {
+alignment = -1;
 name = c;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 70, 0}";
 }
@@ -12580,9 +12749,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 166, 0}";
 }
@@ -12593,9 +12764,11 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 117, 0}";
 }
@@ -12646,9 +12819,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 86, 0}";
 }
@@ -12659,9 +12834,11 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 50, 0}";
 }
@@ -12680,9 +12857,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 86, 0}";
 }
@@ -12693,9 +12872,11 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 49, 0}";
 }
@@ -12882,9 +13063,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 109, 0}";
 }
@@ -12895,9 +13078,11 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 56, 0}";
 }
@@ -12916,9 +13101,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 186, 0}";
 }
@@ -12929,9 +13116,11 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 150, 0}";
 }
@@ -12982,9 +13171,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 145, 0}";
 }
@@ -12995,9 +13186,11 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 116, 0}";
 }
@@ -13048,9 +13241,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 107, 0}";
 }
@@ -13061,9 +13256,11 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 74, 0}";
 }
@@ -13706,9 +13903,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = g;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 123, 0}";
 }
@@ -13719,9 +13918,11 @@ width = 518;
 {
 components = (
 {
+alignment = -1;
 name = g;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 103, 0}";
 }
@@ -13772,9 +13973,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = g;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 103, 0}";
 }
@@ -13785,9 +13988,11 @@ width = 518;
 {
 components = (
 {
+alignment = -1;
 name = g;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 87, 0}";
 }
@@ -13837,6 +14042,38 @@ width = 520;
 leftKerningGroup = g;
 rightKerningGroup = g;
 unicode = 0123;
+},
+{
+glyphname = gdot;
+layers = (
+{
+components = (
+{
+name = g;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 203, 0}";
+}
+);
+layerId = UUID0;
+width = 518;
+},
+{
+components = (
+{
+name = g;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 188, 0}";
+}
+);
+layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
+width = 520;
+}
+);
+unicode = 0121;
 },
 {
 glyphname = gstroke;
@@ -14143,9 +14380,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = h;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, -28, 185}";
 }
@@ -14156,9 +14395,11 @@ width = 572;
 {
 components = (
 {
+alignment = -1;
 name = h;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, -39, 205}";
 }
@@ -14439,9 +14680,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 64, 0}";
 }
@@ -14452,9 +14695,11 @@ width = 324;
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 39, 0}";
 }
@@ -14625,9 +14870,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 7, 0}";
 }
@@ -14638,9 +14885,11 @@ width = 324;
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, -22, 0}";
 }
@@ -14691,9 +14940,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 43, 0}";
 }
@@ -14704,9 +14955,11 @@ width = 324;
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 38, 0}";
 }
@@ -14757,9 +15010,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 5, 0}";
 }
@@ -14770,9 +15025,11 @@ width = 324;
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, -4, 0}";
 }
@@ -15799,9 +16056,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 44, 193}";
 }
@@ -15812,9 +16071,11 @@ width = 283;
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 6, 201}";
 }
@@ -16488,9 +16749,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = n;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 228, 0}";
 }
@@ -16501,9 +16764,11 @@ width = 615;
 {
 components = (
 {
+alignment = -1;
 name = n;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 195, 0}";
 }
@@ -16556,9 +16821,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = n;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 148, 0}";
 }
@@ -16569,9 +16836,11 @@ width = 615;
 {
 components = (
 {
+alignment = -1;
 name = n;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 128, 0}";
 }
@@ -16624,9 +16893,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = n;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, 135, 0}";
 }
@@ -16637,9 +16908,11 @@ width = 615;
 {
 components = (
 {
+alignment = -1;
 name = n;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, 119, 0}";
 }
@@ -17017,9 +17290,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 182, 0}";
 }
@@ -17030,9 +17305,11 @@ width = 521;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 127, 0}";
 }
@@ -17083,9 +17360,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 102, 0}";
 }
@@ -17096,9 +17375,11 @@ width = 521;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 59, 0}";
 }
@@ -17285,9 +17566,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 125, 0}";
 }
@@ -17298,9 +17581,11 @@ width = 521;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 66, 0}";
 }
@@ -17351,9 +17636,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 161, 0}";
 }
@@ -17364,9 +17651,11 @@ width = 521;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 126, 0}";
 }
@@ -17609,9 +17898,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 92, 0}";
 }
@@ -17622,9 +17913,11 @@ width = 521;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
@@ -17643,9 +17936,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 123, 0}";
 }
@@ -17656,9 +17951,11 @@ width = 521;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 84, 0}";
 }
@@ -17859,9 +18156,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, 89, 0}";
 }
@@ -17872,9 +18171,11 @@ width = 521;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = tilde;
 transform = "{1, 0, 0, 1, 51, 0}";
 }
@@ -18631,9 +18932,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = r;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 143, 0}";
 }
@@ -18644,9 +18947,11 @@ width = 455;
 {
 components = (
 {
+alignment = -1;
 name = r;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 104, 0}";
 }
@@ -18665,9 +18970,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = r;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 63, 0}";
 }
@@ -18678,9 +18985,11 @@ width = 455;
 {
 components = (
 {
+alignment = -1;
 name = r;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 37, 0}";
 }
@@ -18891,9 +19200,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = s;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 117, 0}";
 }
@@ -18904,9 +19215,11 @@ width = 428;
 {
 components = (
 {
+alignment = -1;
 name = s;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 91, 0}";
 }
@@ -18925,9 +19238,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = s;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 37, 0}";
 }
@@ -18938,9 +19253,11 @@ width = 428;
 {
 components = (
 {
+alignment = -1;
 name = s;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 24, 0}";
 }
@@ -18993,9 +19310,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = s;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 37, 0}";
 }
@@ -19006,9 +19325,11 @@ width = 428;
 {
 components = (
 {
+alignment = -1;
 name = s;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 23, 0}";
 }
@@ -19842,9 +20163,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 199, 0}";
 }
@@ -19855,9 +20178,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 169, 0}";
 }
@@ -19876,9 +20201,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 139, 0}";
 }
@@ -19889,9 +20216,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 117, 0}";
 }
@@ -19942,9 +20271,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 119, 0}";
 }
@@ -19955,9 +20286,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = circumflex;
 transform = "{1, 0, 0, 1, 101, 0}";
 }
@@ -19976,9 +20309,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 142, 0}";
 }
@@ -19989,9 +20324,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 108, 0}";
 }
@@ -20042,9 +20379,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 178, 0}";
 }
@@ -20055,9 +20394,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 168, 0}";
 }
@@ -20300,9 +20641,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 109, 0}";
 }
@@ -20313,9 +20656,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 82, 0}";
 }
@@ -20334,9 +20679,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 140, 0}";
 }
@@ -20347,9 +20694,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 126, 0}";
 }
@@ -20402,9 +20751,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = ring;
 transform = "{1, 0, 0, 1, 174, 0}";
 }
@@ -20415,9 +20766,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = u;
 },
 {
+alignment = -1;
 name = ring;
 transform = "{1, 0, 0, 1, 150, 0}";
 }
@@ -21088,9 +21441,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = y;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 146, 0}";
 }
@@ -21101,9 +21456,11 @@ width = 514;
 {
 components = (
 {
+alignment = -1;
 name = y;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 134, 0}";
 }
@@ -21122,9 +21479,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = y;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 89, 0}";
 }
@@ -21135,9 +21494,11 @@ width = 514;
 {
 components = (
 {
+alignment = -1;
 name = y;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 73, 0}";
 }
@@ -21458,9 +21819,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = z;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 150, 0}";
 }
@@ -21471,9 +21834,11 @@ width = 471;
 {
 components = (
 {
+alignment = -1;
 name = z;
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 112, 0}";
 }
@@ -21492,9 +21857,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = z;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 70, 0}";
 }
@@ -21505,9 +21872,11 @@ width = 471;
 {
 components = (
 {
+alignment = -1;
 name = z;
 },
 {
+alignment = -1;
 name = caron;
 transform = "{1, 0, 0, 1, 45, 0}";
 }
@@ -21526,9 +21895,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = z;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 170, 0}";
 }
@@ -21539,9 +21910,11 @@ width = 471;
 {
 components = (
 {
+alignment = -1;
 name = z;
 },
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 145, 0}";
 }
@@ -23160,9 +23533,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 231, 190}";
 }
@@ -23173,9 +23548,11 @@ width = 619;
 {
 components = (
 {
+alignment = -1;
 name = E;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 196, 200}";
 }
@@ -27124,9 +27501,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 29, 190}";
 }
@@ -27137,9 +27516,11 @@ width = 333;
 {
 components = (
 {
+alignment = -1;
 name = I;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 19, 200}";
 }
@@ -33018,9 +33399,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "A-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 171, 188}";
 }
@@ -33031,9 +33414,11 @@ width = 631;
 {
 components = (
 {
+alignment = -1;
 name = "A-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 151, 200}";
 }
@@ -33262,9 +33647,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "Zhe-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 325, 188}";
 }
@@ -33275,9 +33662,11 @@ width = 939;
 {
 components = (
 {
+alignment = -1;
 name = "Zhe-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 340, 200}";
 }
@@ -33296,9 +33685,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "Ze-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 153, 188}";
 }
@@ -33309,9 +33700,11 @@ width = 595;
 {
 components = (
 {
+alignment = -1;
 name = "Ze-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 147, 200}";
 }
@@ -33502,9 +33895,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "Ii-cy";
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 265, 188}";
 }
@@ -33515,9 +33910,11 @@ width = 783;
 {
 components = (
 {
+alignment = -1;
 name = "Ii-cy";
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 251, 200}";
 }
@@ -33536,9 +33933,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "Ii-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 267, 188}";
 }
@@ -33549,9 +33948,11 @@ width = 783;
 {
 components = (
 {
+alignment = -1;
 name = "Ii-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 233, 200}";
 }
@@ -33570,9 +33971,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "O-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 249, 188}";
 }
@@ -33583,9 +33986,11 @@ width = 788;
 {
 components = (
 {
+alignment = -1;
 name = "O-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 198, 200}";
 }
@@ -33733,9 +34138,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "U-cy";
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 179, 188}";
 }
@@ -33746,9 +34153,11 @@ width = 611;
 {
 components = (
 {
+alignment = -1;
 name = "U-cy";
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 185, 200}";
 }
@@ -33767,9 +34176,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "U-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 181, 188}";
 }
@@ -33780,9 +34191,11 @@ width = 611;
 {
 components = (
 {
+alignment = -1;
 name = "U-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 167, 200}";
 }
@@ -33835,9 +34248,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "Che-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 202, 188}";
 }
@@ -33848,9 +34263,11 @@ width = 694;
 {
 components = (
 {
+alignment = -1;
 name = "Che-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 184, 200}";
 }
@@ -33869,9 +34286,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "Yeru-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 301, 188}";
 }
@@ -33882,9 +34301,11 @@ width = 892;
 {
 components = (
 {
+alignment = -1;
 name = "Yeru-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 302, 200}";
 }
@@ -36161,9 +36582,11 @@ position = "{175, 649}";
 );
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 5, 0}";
 }
@@ -36188,9 +36611,11 @@ position = "{185, 671}";
 );
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, -4, 0}";
 }
@@ -36208,9 +36633,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ge-cy";
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 142, 0}";
 }
@@ -36221,9 +36648,11 @@ width = 442;
 {
 components = (
 {
+alignment = -1;
 name = "ge-cy";
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 83, 0}";
 }
@@ -36242,9 +36671,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ge-cy.loclSRB";
 },
 {
+alignment = -1;
 name = acutecomb;
 transform = "{1, 0, 0, 1, 64, 137}";
 }
@@ -36255,9 +36686,11 @@ width = 324;
 {
 components = (
 {
+alignment = -1;
 name = "ge-cy.loclSRB";
 },
 {
+alignment = -1;
 name = acutecomb;
 transform = "{1, 0, 0, 1, 48, 171}";
 }
@@ -37202,9 +37635,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 145, 0}";
 }
@@ -37215,9 +37650,11 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = e;
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 116, 0}";
 }
@@ -37236,6 +37673,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = edieresis;
 }
 );
@@ -37245,6 +37683,7 @@ width = 477;
 {
 components = (
 {
+alignment = -1;
 name = edieresis;
 }
 );
@@ -38159,9 +38598,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ii-cy";
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 181, 0}";
 }
@@ -38172,9 +38613,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = "ii-cy";
 },
 {
+alignment = -1;
 name = grave;
 transform = "{1, 0, 0, 1, 161, 0}";
 }
@@ -38528,9 +38971,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ka-cy";
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 189, 0}";
 }
@@ -38541,9 +38986,11 @@ width = 574;
 {
 components = (
 {
+alignment = -1;
 name = "ka-cy";
 },
 {
+alignment = -1;
 name = acute;
 transform = "{1, 0, 0, 1, 188, 0}";
 }
@@ -41575,9 +42022,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 7, 0}";
 }
@@ -41588,9 +42037,11 @@ width = 324;
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, -22, 0}";
 }
@@ -48444,9 +48895,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "a-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 119, 0}";
 }
@@ -48457,9 +48910,11 @@ width = 548;
 {
 components = (
 {
+alignment = -1;
 name = "a-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 81, 0}";
 }
@@ -48747,9 +49202,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "zhe-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 269, 0}";
 }
@@ -48760,9 +49217,11 @@ width = 847;
 {
 components = (
 {
+alignment = -1;
 name = "zhe-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 271, 0}";
 }
@@ -48781,9 +49240,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ze-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 60, 0}";
 }
@@ -48794,9 +49255,11 @@ width = 438;
 {
 components = (
 {
+alignment = -1;
 name = "ze-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 47, 0}";
 }
@@ -49015,9 +49478,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "ii-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 145, 0}";
 }
@@ -49028,9 +49493,11 @@ width = 593;
 {
 components = (
 {
+alignment = -1;
 name = "ii-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 101, 0}";
 }
@@ -49049,9 +49516,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "o-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 106, 0}";
 }
@@ -49062,9 +49531,11 @@ width = 521;
 {
 components = (
 {
+alignment = -1;
 name = "o-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 64, 0}";
 }
@@ -49213,9 +49684,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "u-cy";
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 100, 0}";
 }
@@ -49226,9 +49699,11 @@ width = 514;
 {
 components = (
 {
+alignment = -1;
 name = "u-cy";
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 105, 0}";
 }
@@ -49247,9 +49722,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "u-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 102, 0}";
 }
@@ -49260,9 +49737,11 @@ width = 514;
 {
 components = (
 {
+alignment = -1;
 name = "u-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 87, 0}";
 }
@@ -49281,9 +49760,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "u-cy";
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 69, 0}";
 }
@@ -49294,9 +49775,11 @@ width = 514;
 {
 components = (
 {
+alignment = -1;
 name = "u-cy";
 },
 {
+alignment = -1;
 name = hungarumlaut;
 transform = "{1, 0, 0, 1, 61, 0}";
 }
@@ -49315,9 +49798,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "che-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 136, 0}";
 }
@@ -49328,9 +49813,11 @@ width = 582;
 {
 components = (
 {
+alignment = -1;
 name = "che-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 111, 0}";
 }
@@ -49349,9 +49836,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = "yeru-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 204, 0}";
 }
@@ -49362,9 +49851,11 @@ width = 716;
 {
 components = (
 {
+alignment = -1;
 name = "yeru-cy";
 },
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 193, 0}";
 }
@@ -73396,5 +73887,5 @@ tH = 79;
 };
 };
 versionMajor = 3;
-versionMinor = 3;
+versionMinor = 4;
 }
