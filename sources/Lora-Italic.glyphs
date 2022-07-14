@@ -10,7 +10,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W X Y Yacute Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Semisoftsign-cy Ertick-cy EnLeftHook-cy Eldescender-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Gestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Gamma Delta Pi Omega";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Yusbig-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Semisoftsign-cy Ertick-cy EnLeftHook-cy Eldescender-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Gestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Gamma Delta Pi Omega";
 name = Uppercase;
 },
 {
@@ -64,6 +64,11 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 
 languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
@@ -95,7 +100,7 @@ tag = aalt;
 {
 automatic = 1;
 code = "lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb strokelongcomb strokeshortcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
@@ -137,6 +142,20 @@ tag = ccmp;
 automatic = 1;
 code = "lookup locl_latn_0 {
 	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
 	language ROM;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
@@ -147,14 +166,14 @@ code = "lookup locl_latn_0 {
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
-} locl_latn_0;
+} locl_latn_1;
 
-lookup locl_latn_1 {
+lookup locl_latn_2 {
 	script latn;
 	language CAT;
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT;
-} locl_latn_1;
+} locl_latn_2;
 
 lookup locl_cyrl_0 {
 	script cyrl;
@@ -15152,7 +15171,6 @@ width = 384;
 unicode = 73;
 },
 {
-color = 9;
 glyphname = IJ;
 layers = (
 {
@@ -24041,8 +24059,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (334,2);
-ref = acutecomb.case;
+pos = (306,190);
+ref = acutecomb;
 }
 );
 width = 788;
@@ -24145,8 +24163,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (289,0);
-ref = acutecomb.case;
+pos = (253,200);
+ref = acutecomb;
 }
 );
 width = 762;
@@ -24475,8 +24493,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (240,2);
-ref = gravecomb.case;
+pos = (285,190);
+ref = gravecomb;
 }
 );
 width = 788;
@@ -24579,8 +24597,8 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (224,0);
-ref = gravecomb.case;
+pos = (252,200);
+ref = gravecomb;
 }
 );
 width = 762;
@@ -32923,8 +32941,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (325,2);
-ref = acutecomb.case;
+pos = (297,190);
+ref = acutecomb;
 }
 );
 width = 744;
@@ -33030,8 +33048,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (312,0);
-ref = acutecomb.case;
+pos = (276,200);
+ref = acutecomb;
 }
 );
 width = 755;
@@ -33369,8 +33387,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (231,2);
-ref = gravecomb.case;
+pos = (276,190);
+ref = gravecomb;
 }
 );
 width = 744;
@@ -33476,8 +33494,8 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (247,0);
-ref = gravecomb.case;
+pos = (275,200);
+ref = gravecomb;
 }
 );
 width = 755;
@@ -35586,7 +35604,6 @@ width = 1010;
 unicode = 87;
 },
 {
-color = 9;
 glyphname = Wacute;
 layers = (
 {
@@ -35619,7 +35636,6 @@ width = 1010;
 unicode = 7810;
 },
 {
-color = 9;
 glyphname = Wcircumflex;
 layers = (
 {
@@ -35652,7 +35668,6 @@ width = 1010;
 unicode = 372;
 },
 {
-color = 9;
 glyphname = Wdieresis;
 layers = (
 {
@@ -35685,7 +35700,6 @@ width = 1010;
 unicode = 7812;
 },
 {
-color = 9;
 glyphname = Wgrave;
 layers = (
 {
@@ -36526,7 +36540,6 @@ width = 665;
 unicode = 221;
 },
 {
-color = 9;
 glyphname = Ycircumflex;
 layers = (
 {
@@ -51905,15 +51918,11 @@ ref = commaaccentcomb;
 layerId = UUID0;
 shapes = (
 {
-alignment = -1;
 ref = g;
 },
 {
-alignment = -1;
-angle = 180;
-locked = 1;
-pos = (409,512);
-ref = commaaccentcomb;
+pos = (281,0);
+ref = commaturnedabovecomb;
 }
 );
 width = 518;
@@ -51938,10 +51947,8 @@ shapes = (
 ref = g;
 },
 {
-alignment = -1;
-angle = 180;
-pos = (435,534);
-ref = commaaccentcomb;
+pos = (288,0);
+ref = commaturnedabovecomb;
 }
 );
 width = 520;
@@ -54343,7 +54350,6 @@ width = 344;
 unicode = 239;
 },
 {
-color = 9;
 glyphname = idotaccent;
 layers = (
 {
@@ -54961,7 +54967,6 @@ width = 344;
 unicode = 7881;
 },
 {
-color = 9;
 glyphname = ij;
 layers = (
 {
@@ -76191,7 +76196,6 @@ width = 795;
 unicode = 119;
 },
 {
-color = 9;
 glyphname = wacute;
 layers = (
 {
@@ -76224,7 +76228,6 @@ width = 795;
 unicode = 7811;
 },
 {
-color = 9;
 glyphname = wcircumflex;
 layers = (
 {
@@ -76257,7 +76260,6 @@ width = 795;
 unicode = 373;
 },
 {
-color = 9;
 glyphname = wdieresis;
 layers = (
 {
@@ -76290,7 +76292,6 @@ width = 795;
 unicode = 7813;
 },
 {
-color = 9;
 glyphname = wgrave;
 layers = (
 {
@@ -77163,7 +77164,6 @@ width = 561;
 unicode = 253;
 },
 {
-color = 9;
 glyphname = ycircumflex;
 layers = (
 {
@@ -147012,7 +147012,6 @@ width = 878;
 );
 },
 {
-color = 11;
 export = 0;
 glyphname = "ge-cy.ss01";
 kernLeft = "ge-cy.alt";
@@ -161042,7 +161041,6 @@ width = 413;
 );
 },
 {
-color = 10;
 export = 0;
 glyphname = "tail-cy";
 layers = (
@@ -161095,7 +161093,6 @@ width = 196;
 );
 },
 {
-color = 10;
 export = 0;
 glyphname = "tail-cy.case";
 layers = (
@@ -162385,6 +162382,76 @@ width = 364;
 }
 );
 unicode = 777;
+},
+{
+glyphname = commaturnedabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (13,512);
+},
+{
+name = top;
+pos = (27,771);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(4,724,o),
+(-32,671,o),
+(-36,620,cs),
+(-38,602,o),
+(-35,585,o),
+(-29,568,c),
+(42,584,l),
+(35,640,o),
+(30,672,o),
+(81,752,c),
+(56,771,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (13,500);
+},
+{
+name = top;
+pos = (31,828);
+}
+);
+layerId = "6B2A2AD0-3CEC-4B3D-96BE-6A11A3496094";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-2,774,o),
+(-59,701,o),
+(-62,642,c),
+(-64,618,o),
+(-59,593,o),
+(-47,570,c),
+(61,594,l),
+(53,663,o),
+(54,699,o),
+(112,787,c),
+(60,828,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 786;
 },
 {
 glyphname = horncomb;
@@ -165642,7 +165709,6 @@ width = 419;
 );
 },
 {
-color = 10;
 export = 0;
 glyphname = breve.case;
 layers = (
@@ -166119,7 +166185,6 @@ width = 551;
 unicode = 61437;
 },
 {
-color = 10;
 export = 0;
 glyphname = "__descender-cy";
 layers = (
@@ -166176,7 +166241,6 @@ width = 194;
 );
 },
 {
-color = 10;
 export = 0;
 glyphname = "__descender-cy.case";
 layers = (
@@ -166948,7 +167012,6 @@ width = 1227;
 );
 },
 {
-color = 10;
 export = 0;
 glyphname = "verticalbar-cy";
 layers = (
@@ -166997,7 +167060,6 @@ width = 259;
 );
 },
 {
-color = 10;
 export = 0;
 glyphname = "verticalbar-cy.case";
 layers = (
