@@ -1,6 +1,9 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
+DisplayStrings = (
+"Ŧ"
+);
 axes = (
 {
 name = Weight;
@@ -30080,8 +30083,13 @@ shapes = (
 ref = T;
 },
 {
-pos = (67,24);
-ref = strokeshortcomb;
+closed = 1;
+nodes = (
+(489,336,l),
+(491,370,l),
+(165,370,l),
+(163,332,l)
+);
 }
 );
 width = 636;
@@ -30152,8 +30160,13 @@ shapes = (
 ref = T;
 },
 {
-pos = (50,37);
-ref = strokeshortcomb;
+closed = 1;
+nodes = (
+(492,320,l),
+(496,383,l),
+(156,383,l),
+(152,317,l)
+);
 }
 );
 width = 648;
