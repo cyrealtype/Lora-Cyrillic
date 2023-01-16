@@ -1,9 +1,5 @@
 {
 .appVersion = "3149";
-DisplayStrings = (
-"/space/Yat-cy ,/space/Yusbig-cy/space H/Yusbigiotified-cy/space/space \012\012/Yat-cy ,/space/Yusbig-cy/space and/space/Yusbigiotified-cy \012/Iishort-cy/Yusbig-cy",
-"/space/space/Yusbig-cy/yusbigiotified-cy/yusbig-cy/Yusbigiotified-cy"
-);
 classes = (
 {
 automatic = 1;
@@ -463,7 +459,7 @@ name = typoLineGap;
 value = 0;
 }
 );
-descender = -255;
+descender = -275;
 guideLines = (
 {
 position = "{640, 475}";

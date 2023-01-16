@@ -1,6 +1,9 @@
 {
 .appVersion = "3149";
 .formatVersion = 3;
+DisplayStrings = (
+ty
+);
 axes = (
 {
 name = Weight;
@@ -459,13 +462,14 @@ over = 16;
 pos = 700;
 },
 {
-pos = 512;
-},
-{
-},
-{
 over = 16;
-pos = -271;
+pos = 500;
+},
+{
+over = -16;
+},
+{
+pos = -275;
 },
 {
 pos = 3;
@@ -552,6 +556,7 @@ over = 16;
 pos = 500;
 },
 {
+over = -16;
 },
 {
 pos = -275;
