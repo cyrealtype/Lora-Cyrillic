@@ -1,9 +1,10 @@
 {
 .appVersion = "3185";
 DisplayStrings = (
-"%/percent.tf \012/one.tf/percent.tf/space 2%\0123/percent.tf/space 2/percent.tf \0123%/space 2%\012",
+"%/percent.tf/space/acutecomb \012/one.tf/percent.tf/space 2%\0123/percent.tf/space 2/percent.tf \0123%/space 2%\012",
 "i/commaaccentcomb/dotaccentcomb/space i/commaaccentcomb/ringcomb/space i/commaaccentcomb/hungarumlautcomb/space i/commaaccentcomb/caroncomb/space i/commaaccentcomb/commaturnedabovecomb/space j/commaaccentcomb/gravecomb/space j/commaaccentcomb/acutecomb/space j/commaaccentcomb/tildecomb/space j/commaaccentcomb/macroncomb/space j/commaaccentcomb/brevecomb/space j/commaaccentcomb/dotaccentcomb/space j/commaaccentcomb/dieresiscomb/space j/commaaccentcomb/hookabovecomb/space j/commaaccentcomb/ringcomb/space j/commaaccentcomb/hungarumlautcomb \012/space/space/space/space/space/space/space/space/space/space j/commaaccentcomb/caroncomb/space j/commaaccentcomb/commaturnedabovecomb/space/iogonek/brevecomb/space/iogonek/dotaccentcomb/space/iogonek/dieresiscomb",
-""
+"",
+"/idotbelow"
 );
 classes = (
 {
@@ -123,7 +124,15 @@ feature calt;
 name = aalt;
 },
 {
-automatic = 1;
+code = "lookup ccmp_soft_dotted {
+    @CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb macroncomb ringcomb tildecomb];
+    lookupflag UseMarkFilteringSet @CombiningTopAccents;
+    sub [i j idotbelow iogonek i-cy je-cy]' @CombiningTopAccents by [idotless jdotless idotless jdotless idotless jdotless];
+} ccmp_soft_dotted;";
+disabled = 1;
+name = ccmp;
+},
+{
 code = "lookup ccmp_DFLT_1 {
 	lookupflag 0;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
@@ -139,8 +148,8 @@ code = "lookup ccmp_DFLT_1 {
 lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb strokelongcomb strokeshortcomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	sub [i j idotbelow iogonek i-cy je-cy]' @CombiningTopAccents by [idotless jdotless idotless jdotless idotless jdotless];
+	sub [i j idotbelow iogonek i-cy je-cy]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless idotless jdotless idotless jdotless];
 	@Markscomb = [brevecomb-cy dieresiscomb gravecomb acutecomb hungarumlautcomb circumflexcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb circumflexcomb_hookabovecomb caroncomb brevecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb brevecomb_hookabovecomb ringcomb tildecomb cedillacomb];
 	@MarkscombCase = [brevecomb-cy.case dieresiscomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case ringcomb.case tildecomb.case cedillacomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
