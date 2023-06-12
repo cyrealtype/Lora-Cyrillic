@@ -2,12 +2,13 @@
 .appVersion = "3185";
 DisplayStrings = (
 "%/percent.tf \012/one.tf/percent.tf/space 2%\0123/percent.tf/space 2/percent.tf \0123%/space 2%\012",
-"1,1090%\0122,4435%\012\012"
+"i/commaaccentcomb/dotaccentcomb/space i/commaaccentcomb/ringcomb/space i/commaaccentcomb/hungarumlautcomb/space i/commaaccentcomb/caroncomb/space i/commaaccentcomb/commaturnedabovecomb/space j/commaaccentcomb/gravecomb/space j/commaaccentcomb/acutecomb/space j/commaaccentcomb/tildecomb/space j/commaaccentcomb/macroncomb/space j/commaaccentcomb/brevecomb/space j/commaaccentcomb/dotaccentcomb/space j/commaaccentcomb/dieresiscomb/space j/commaaccentcomb/hookabovecomb/space j/commaaccentcomb/ringcomb/space j/commaaccentcomb/hungarumlautcomb \012/space/space/space/space/space/space/space/space/space/space j/commaaccentcomb/caroncomb/space j/commaaccentcomb/commaturnedabovecomb/space/iogonek/brevecomb/space/iogonek/dotaccentcomb/space/iogonek/dieresiscomb",
+""
 );
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Yusbig-cy Yusbigiotified-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Semisoftsign-cy Ertick-cy EnLeftHook-cy Eldescender-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Gamma Delta Pi Omega angstrom kelvin";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa Ezh Ezhcaron F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gstroke H Hbar Hcaron Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Yusbig-cy Yusbigiotified-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Reversedze-cy Elhook-cy Qa-cy We-cy Semisoftsign-cy Ertick-cy EnLeftHook-cy Eldescender-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Gestroke-cy.loclBSH Zedescender-cy.loclBSH Esdescender-cy.loclBSH Esdescender-cy.loclCHU Gamma Delta Pi Omega";
 name = Uppercase;
 },
 {
@@ -123,7 +124,19 @@ name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {
+code = "lookup ccmp_DFLT_1 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+} ccmp_DFLT_1;
+
+lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb strokelongcomb strokeshortcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
@@ -140,21 +153,8 @@ lookup ccmp_Other_2 {
 } ccmp_Other_2;
 
 lookup ccmp_latn_1 {
-	lookupflag 0;
-	sub brevecomb acutecomb by brevecomb_acutecomb;
-	sub brevecomb.case acutecomb.case by brevecomb_acutecomb.case;
-	sub brevecomb gravecomb by brevecomb_gravecomb;
-	sub brevecomb.case gravecomb.case by brevecomb_gravecomb.case;
-	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
-	sub brevecomb tildecomb by brevecomb_tildecomb;
-	sub brevecomb.case tildecomb.case by brevecomb_tildecomb.case;
-	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
-	sub circumflexcomb.case acutecomb.case by circumflexcomb_acutecomb.case;
-	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
-	sub circumflexcomb.case gravecomb.case by circumflexcomb_gravecomb.case;
-	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
-	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-	sub circumflexcomb.case tildecomb.case by circumflexcomb_tildecomb.case;
+	sub fi by f i;
+	sub fl by f l;
 } ccmp_latn_1;
 
 script latn;
@@ -164,50 +164,41 @@ name = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_noScript_0 {
-	language BSH;
-	sub Gestroke-cy by Gestroke-cy.loclBSH;
-	sub gestroke-cy by gestroke-cy.loclBSH;
-} locl_noScript_0;
-
+code = "script latn;
+language AZE;
 lookup locl_latn_0 {
-	script latn;
-	language AZE;
-	sub i by idotaccent;
-	language CRT;
-	sub i by idotaccent;
-	language KAZ;
-	sub i by idotaccent;
-	language TAT;
-	sub i by idotaccent;
-	language TRK;
 	sub i by idotaccent;
 } locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
 
+script latn;
+language ROM;
 lookup locl_latn_1 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub Tcedilla by Tcommaaccent;
-	sub tcedilla by tcommaaccent;
-	language MOL;
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
 } locl_latn_1;
+language MOL;
+lookup locl_latn_1;
 
+script latn;
+language CAT;
 lookup locl_latn_2 {
-	script latn;
-	language CAT;
 	sub l periodcentered' l by periodcentered.loclCAT;
 	sub L periodcentered' L by periodcentered.loclCAT;
 } locl_latn_2;
 
+script cyrl;
+language BGR;
 lookup locl_cyrl_0 {
-	script cyrl;
-	language BGR;
 	sub De-cy by De-cy.loclBGR;
 	sub El-cy by El-cy.loclBGR;
 	sub Ef-cy by Ef-cy.loclBGR;
@@ -233,25 +224,27 @@ lookup locl_cyrl_0 {
 	sub yu-cy by yu-cy.loclBGR;
 } locl_cyrl_0;
 
+script cyrl;
+language BSH;
 lookup locl_cyrl_1 {
-	script cyrl;
-	language BSH;
+	sub Gestroke-cy by Gestroke-cy.loclBSH;
 	sub Zedescender-cy by Zedescender-cy.loclBSH;
 	sub Esdescender-cy by Esdescender-cy.loclBSH;
+	sub gestroke-cy by gestroke-cy.loclBSH;
 	sub zedescender-cy by zedescender-cy.loclBSH;
 	sub esdescender-cy by esdescender-cy.loclBSH;
 } locl_cyrl_1;
 
+script cyrl;
+language CHU;
 lookup locl_cyrl_2 {
-	script cyrl;
-	language CHU;
 	sub Esdescender-cy by Esdescender-cy.loclCHU;
 	sub esdescender-cy by esdescender-cy.loclCHU;
 } locl_cyrl_2;
 
+script cyrl;
+language SRB;
 lookup locl_cyrl_3 {
-	script cyrl;
-	language SRB;
 	sub be-cy by be-cy.loclSRB;
 } locl_cyrl_3;
 ";
