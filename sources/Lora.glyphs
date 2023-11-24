@@ -1,10 +1,10 @@
 {
-.appVersion = "3185";
+.appVersion = "3223";
 DisplayStrings = (
 "%/percent.tf/space/acutecomb \012/one.tf/percent.tf/space 2%\0123/percent.tf/space 2/percent.tf \0123%/space 2%\012",
 "i/commaaccentcomb/dotaccentcomb/space i/commaaccentcomb/ringcomb/space i/commaaccentcomb/hungarumlautcomb/space i/commaaccentcomb/caroncomb/space i/commaaccentcomb/commaturnedabovecomb/space j/commaaccentcomb/gravecomb/space j/commaaccentcomb/acutecomb/space j/commaaccentcomb/tildecomb/space j/commaaccentcomb/macroncomb/space j/commaaccentcomb/brevecomb/space j/commaaccentcomb/dotaccentcomb/space j/commaaccentcomb/dieresiscomb/space j/commaaccentcomb/hookabovecomb/space j/commaaccentcomb/ringcomb/space j/commaaccentcomb/hungarumlautcomb \012/space/space/space/space/space/space/space/space/space/space j/commaaccentcomb/caroncomb/space j/commaaccentcomb/commaturnedabovecomb/space/iogonek/brevecomb/space/iogonek/dotaccentcomb/space/iogonek/dieresiscomb",
-"",
-"/idotbelow"
+"/idotbelow",
+"</lessequal"
 );
 classes = (
 {
@@ -81,7 +81,7 @@ Tag = wght;
 );
 }
 );
-date = "2023-06-12 13:49:20 +0000";
+date = "2023-11-24 08:07:05 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "https://cyreal.org";
 familyName = Lora;
@@ -171632,5 +171632,5 @@ tH = "40";
 };
 };
 versionMajor = 3;
-versionMinor = 6;
+versionMinor = 7;
 }

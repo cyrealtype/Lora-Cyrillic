@@ -1,7 +1,8 @@
 {
-.appVersion = "3185";
+.appVersion = "3223";
 DisplayStrings = (
-"1,1090%\0122,4435%\012"
+"1,1090%\0122,4435%\012",
+"</lessequal/lessequal.tf"
 );
 classes = (
 {
@@ -78,7 +79,7 @@ Tag = wght;
 );
 }
 );
-date = "2023-06-12 13:49:12 +0000";
+date = "2023-11-24 08:04:51 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "https://cyreal.org";
 familyName = Lora;
@@ -158526,10 +158527,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"27 0 LINE",
 "472 0 LINE",
 "475 52 LINE",
-"30 56 LINE"
+"30 56 LINE",
+"27 0 LINE"
 );
 }
 );
@@ -158569,10 +158570,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"29 85 LINE",
-"24 0 LINE",
 "474 0 LINE",
-"479 90 LINE"
+"479 90 LINE",
+"29 85 LINE",
+"24 0 LINE"
 );
 }
 );
@@ -172263,5 +172264,5 @@ tH = 79;
 };
 };
 versionMajor = 3;
-versionMinor = 6;
+versionMinor = 7;
 }
