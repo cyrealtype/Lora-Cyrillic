@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="approxequal" format="2">
-  <outline>
-    <component base="asciitilde" yScale="0.94" xOffset="15" yOffset="115"/>
-    <component base="asciitilde" yScale="0.94" xOffset="15" yOffset="-70"/>
-  </outline>
-</glyph>

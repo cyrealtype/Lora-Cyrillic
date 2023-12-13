@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="tetse-cy" format="2">
-  <advance width="615"/>
-  <unicode hex="04B5"/>
-  <outline>
-    <component base="tse-cy"/>
-    <component base="macroncomb" xOffset="129"/>
-  </outline>
-</glyph>
