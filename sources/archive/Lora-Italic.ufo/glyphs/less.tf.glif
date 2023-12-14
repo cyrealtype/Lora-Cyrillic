@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="less.tf" format="2">
-  <advance width="650"/>
-  <outline>
-    <component base="less" xOffset="60"/>
-  </outline>
-</glyph>
