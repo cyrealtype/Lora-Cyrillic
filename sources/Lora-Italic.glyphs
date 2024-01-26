@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3223";
 classes = (
 {
 automatic = 1;
@@ -75,7 +75,7 @@ Tag = wght;
 );
 }
 );
-date = "2023-11-29 16:13:49 +0000";
+date = "2024-01-26 07:26:09 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "https://cyreal.org";
 familyName = Lora;
@@ -172271,5 +172271,5 @@ tH = 79;
 };
 };
 versionMajor = 3;
-versionMinor = 8;
+versionMinor = 9;
 }
