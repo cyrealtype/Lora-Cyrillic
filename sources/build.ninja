@@ -1,0 +1,455 @@
+# buildVariable: Build a variable font from a source file
+rule buildVariable
+  command = /Users/alexeiva/venv/ftools/bin/python3 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o variable $
+      $fontmake_type $in $args $stamp
+  description = buildVariable
+
+# fix: Run gftools-fix
+rule fix
+  command = /Users/alexeiva/venv/ftools/bin/python3 -m $
+      gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
+  description = fix
+
+# compress: Compress to webfont
+rule compress
+  command = /Users/alexeiva/venv/ftools/bin/python3 -m $
+      gftools.builder.jobrunner fonttools ttLib.woff2 compress -o $out $in $
+      $stamp
+  description = compress
+
+# buildStat: Build a STAT table from one or more source files
+rule buildSTAT-operation
+  command = gftools-gen-stat --out $tempdir $args -- $in && mv $finalfile $
+      $out $stamp
+rule buildSTAT-postprocess
+  command = gftools-gen-stat --inplace $args -- $in $stamp
+
+# instantiateUfo: Create instance UFOs from a Glyphs or designspace file
+rule instantiateUfo
+  command = /Users/alexeiva/venv/ftools/bin/python3 -m $
+      gftools.builder.jobrunner fontmake -i "$instance_name" -o ufo $
+      $fontmake_type $in $args $stamp
+  description = instantiateUfo
+
+# buildTTF: Build a TTF from a source file
+rule buildTTF
+  command = /Users/alexeiva/venv/ftools/bin/python3 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o ttf $
+      $fontmake_type $in $args $stamp
+  description = buildTTF
+
+# autohint: Run gftools-autohint
+rule autohint
+  command = /Users/alexeiva/venv/ftools/bin/python3 -m $
+      gftools.builder.jobrunner gftools-autohint $args -o $out $in $stamp
+  description = autohint
+
+# buildOTF: Build a OTF from a source file
+rule buildOTF
+  command = /Users/alexeiva/venv/ftools/bin/python3 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o otf $
+      $fontmake_type $in $args $stamp
+  description = buildOTF
+
+# copy: Copy a file
+rule copy
+  command = /Users/alexeiva/venv/ftools/bin/python3 -m $
+      gftools.builder.jobrunner cp $in $out $stamp
+  description = copy
+
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfonsj8nt
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfonsj8nt: $
+    buildVariable Lora.glyphs
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/Lora-Regular.ufo.json
+build instance_ufos/Lora-Regular.ufo.json: instantiateUfo Lora.glyphs
+  operation = instantiateUfo
+  instance_name = Lora Regular
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/Lora-Medium.ufo.json
+build instance_ufos/Lora-Medium.ufo.json: instantiateUfo Lora.glyphs
+  operation = instantiateUfo
+  instance_name = Lora Medium
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/Lora-SemiBold.ufo.json
+build instance_ufos/Lora-SemiBold.ufo.json: instantiateUfo Lora.glyphs
+  operation = instantiateUfo
+  instance_name = Lora SemiBold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/Lora-Bold.ufo.json
+build instance_ufos/Lora-Bold.ufo.json: instantiateUfo Lora.glyphs
+  operation = instantiateUfo
+  instance_name = Lora Bold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpc75ibzgl
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpc75ibzgl: $
+    buildVariable Lora-Italic.glyphs
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/Lora-Italic.ufo.json
+build instance_ufos/Lora-Italic.ufo.json: instantiateUfo Lora-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Lora Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/Lora-MediumItalic.ufo.json
+build instance_ufos/Lora-MediumItalic.ufo.json: instantiateUfo $
+    Lora-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Lora Medium Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/Lora-SemiBoldItalic.ufo.json
+build instance_ufos/Lora-SemiBoldItalic.ufo.json: instantiateUfo $
+    Lora-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Lora SemiBold Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/Lora-BoldItalic.ufo.json
+build instance_ufos/Lora-BoldItalic.ufo.json: instantiateUfo $
+    Lora-Italic.glyphs
+  operation = instantiateUfo
+  instance_name = Lora Bold Italic
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating ../fonts/webfonts/Lora[wght].woff2
+build ../fonts/webfonts/Lora[wght].woff2: compress $
+    ../fonts/variable/Lora[wght].ttf
+  operation = compress
+# Postprocessing  with BuildSTAT
+build $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf22d0yv8.buildStatstamp: $
+    buildSTAT-postprocess ../fonts/variable/Lora-Italic[wght].ttf $
+    ../fonts/variable/Lora[wght].ttf
+  stamp =  && touch $
+      /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf22d0yv8.buildStatstamp
+  postprocess = buildStat
+  args = --src /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpwy6m9jb1
+# Generating ../fonts/webfonts/Lora-Italic[wght].woff2
+build ../fonts/webfonts/Lora-Italic[wght].woff2: compress $
+    ../fonts/variable/Lora-Italic[wght].ttf
+  operation = compress
+# Generating ../fonts/webfonts/Lora-Regular.woff2
+build ../fonts/webfonts/Lora-Regular.woff2: compress $
+    ../fonts/ttf/Lora-Regular.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Lora-Medium.woff2
+build ../fonts/webfonts/Lora-Medium.woff2: compress $
+    ../fonts/ttf/Lora-Medium.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Lora-SemiBold.woff2
+build ../fonts/webfonts/Lora-SemiBold.woff2: compress $
+    ../fonts/ttf/Lora-SemiBold.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Lora-Bold.woff2
+build ../fonts/webfonts/Lora-Bold.woff2: compress ../fonts/ttf/Lora-Bold.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Lora-Italic.woff2
+build ../fonts/webfonts/Lora-Italic.woff2: compress $
+    ../fonts/ttf/Lora-Italic.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Lora-MediumItalic.woff2
+build ../fonts/webfonts/Lora-MediumItalic.woff2: compress $
+    ../fonts/ttf/Lora-MediumItalic.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Lora-SemiBoldItalic.woff2
+build ../fonts/webfonts/Lora-SemiBoldItalic.woff2: compress $
+    ../fonts/ttf/Lora-SemiBoldItalic.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Lora-BoldItalic.woff2
+build ../fonts/webfonts/Lora-BoldItalic.woff2: compress $
+    ../fonts/ttf/Lora-BoldItalic.ttf
+  operation = compress
+# Generating ../fonts/variable/Lora[wght].ttf
+build ../fonts/variable/Lora[wght].ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfonsj8nt
+  operation = fix
+  args = 
+# Generating ../fonts/variable/Lora-Italic[wght].ttf
+build ../fonts/variable/Lora-Italic[wght].ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpc75ibzgl
+  operation = fix
+  args = 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsdg65nrg
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsdg65nrg: $
+    buildTTF instance_ufos/Lora-Regular.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpmppf342b
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpmppf342b: $
+    buildOTF instance_ufos/Lora-Regular.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1t1lq0ge
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1t1lq0ge: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsdg65nrg
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Lora-Regular.ttf
+build ../fonts/ttf/Lora-Regular.ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1t1lq0ge
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Lora-Regular.otf
+build ../fonts/otf/Lora-Regular.otf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpmppf342b
+  operation = fix
+  args = 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ioyldo1
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ioyldo1: $
+    buildTTF instance_ufos/Lora-Medium.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpit0jgi3q
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpit0jgi3q: $
+    buildOTF instance_ufos/Lora-Medium.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp485y7th9
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp485y7th9: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ioyldo1
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Lora-Medium.ttf
+build ../fonts/ttf/Lora-Medium.ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp485y7th9
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Lora-Medium.otf
+build ../fonts/otf/Lora-Medium.otf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpit0jgi3q
+  operation = fix
+  args = 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpz1dkd_3k
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpz1dkd_3k: $
+    buildTTF instance_ufos/Lora-SemiBold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpaw92y5_l
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpaw92y5_l: $
+    buildOTF instance_ufos/Lora-SemiBold.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpo_pqwgq4
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpo_pqwgq4: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpz1dkd_3k
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Lora-SemiBold.ttf
+build ../fonts/ttf/Lora-SemiBold.ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpo_pqwgq4
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Lora-SemiBold.otf
+build ../fonts/otf/Lora-SemiBold.otf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpaw92y5_l
+  operation = fix
+  args = 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpspyrnu33
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpspyrnu33: $
+    buildTTF instance_ufos/Lora-Bold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpdqn6va8j
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpdqn6va8j: $
+    buildOTF instance_ufos/Lora-Bold.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpd_fp24j7
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpd_fp24j7: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpspyrnu33
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Lora-Bold.ttf
+build ../fonts/ttf/Lora-Bold.ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpd_fp24j7
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Lora-Bold.otf
+build ../fonts/otf/Lora-Bold.otf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpdqn6va8j
+  operation = fix
+  args = 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp29qiay41
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp29qiay41: $
+    buildTTF instance_ufos/Lora-Italic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1de0f0gb
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1de0f0gb: $
+    buildOTF instance_ufos/Lora-Italic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuzomku5u
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuzomku5u: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp29qiay41
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Lora-Italic.ttf
+build ../fonts/ttf/Lora-Italic.ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuzomku5u
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Lora-Italic.otf
+build ../fonts/otf/Lora-Italic.otf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1de0f0gb
+  operation = fix
+  args = 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpww544i7f
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpww544i7f: $
+    buildTTF instance_ufos/Lora-MediumItalic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpeacrlwou
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpeacrlwou: $
+    buildOTF instance_ufos/Lora-MediumItalic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp8s2s4eij
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp8s2s4eij: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpww544i7f
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Lora-MediumItalic.ttf
+build ../fonts/ttf/Lora-MediumItalic.ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp8s2s4eij
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Lora-MediumItalic.otf
+build ../fonts/otf/Lora-MediumItalic.otf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpeacrlwou
+  operation = fix
+  args = 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppn51d13g
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppn51d13g: $
+    buildTTF instance_ufos/Lora-SemiBoldItalic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_u9u4wr5
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_u9u4wr5: $
+    buildOTF instance_ufos/Lora-SemiBoldItalic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsn6lpqy9
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsn6lpqy9: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppn51d13g
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Lora-SemiBoldItalic.ttf
+build ../fonts/ttf/Lora-SemiBoldItalic.ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsn6lpqy9
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Lora-SemiBoldItalic.otf
+build ../fonts/otf/Lora-SemiBoldItalic.otf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_u9u4wr5
+  operation = fix
+  args = 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp30e55wbr
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp30e55wbr: $
+    buildTTF instance_ufos/Lora-BoldItalic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpx7ag906r
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpx7ag906r: $
+    buildOTF instance_ufos/Lora-BoldItalic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvgh1uuna
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvgh1uuna: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp30e55wbr
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Lora-BoldItalic.ttf
+build ../fonts/ttf/Lora-BoldItalic.ttf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvgh1uuna
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Lora-BoldItalic.otf
+build ../fonts/otf/Lora-BoldItalic.otf: fix $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpx7ag906r
+  operation = fix
+  args = 
+default ../fonts/webfonts/Lora[wght].woff2 $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf22d0yv8.buildStatstamp $
+    ../fonts/webfonts/Lora-Italic[wght].woff2 $
+    ../fonts/webfonts/Lora-Regular.woff2 $
+    ../fonts/webfonts/Lora-Medium.woff2 $
+    ../fonts/webfonts/Lora-SemiBold.woff2 ../fonts/webfonts/Lora-Bold.woff2 $
+    ../fonts/webfonts/Lora-Italic.woff2 $
+    ../fonts/webfonts/Lora-MediumItalic.woff2 $
+    ../fonts/webfonts/Lora-SemiBoldItalic.woff2 $
+    ../fonts/webfonts/Lora-BoldItalic.woff2 ../fonts/otf/Lora-Regular.otf $
+    ../fonts/otf/Lora-Medium.otf ../fonts/otf/Lora-SemiBold.otf $
+    ../fonts/otf/Lora-Bold.otf ../fonts/otf/Lora-Italic.otf $
+    ../fonts/otf/Lora-MediumItalic.otf ../fonts/otf/Lora-SemiBoldItalic.otf $
+    ../fonts/otf/Lora-BoldItalic.otf
