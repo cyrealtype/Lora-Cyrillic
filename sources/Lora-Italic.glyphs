@@ -1,5 +1,8 @@
 {
 .appVersion = "3223";
+DisplayStrings = (
+"a/amacron"
+);
 classes = (
 {
 automatic = 1;
@@ -533,7 +536,6 @@ verticalStems = (
 142,
 127
 );
-visible = 1;
 weight = Bold;
 weightValue = 700;
 xHeight = 500;
