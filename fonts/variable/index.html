@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lora Variable Font Example</title>
+  <style>
+    @font-face {
+      font-family: 'Lora';
+      src: url('Lora[wght].ttf') format('truetype');
+      font-weight: 100 900;
+    }
+
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #f0f0f0;
+      font-family: 'Lora', serif;
+    }
+
+    h1 {
+      font-size: 4rem;
+      font-variation-settings: "wght" 400;
+      transition: font-variation-settings 0.1s ease;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello World</h1>
+  <script>
+    const h1 = document.querySelector('h1');
+    document.addEventListener('mousemove', (event) => {
+      const { clientX, clientY } = event;
+      const { innerWidth, innerHeight } = window;
+
+      // Calculate font weight based on X-coordinate
+      const weight = Math.round((clientX / innerWidth) * 800 + 100); // Range from 100 to 900
+      h1.style.fontVariationSettings = `"wght" ${weight}`;
+    });
+  </script>
+</body>
+</html>

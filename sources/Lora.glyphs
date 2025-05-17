@@ -1,7 +1,8 @@
 {
-.appVersion = "3324";
+.appVersion = "3414";
 DisplayStrings = (
-"CompanyName®\012CompanyName®\012"
+"/uniEFFD",
+"f!"
 );
 classes = (
 {
@@ -78,7 +79,7 @@ Tag = wght;
 );
 }
 );
-date = "2024-11-05 19:19:24 +0000";
+date = "2025-05-17 17:42:52 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "https://cyreal.org";
 familyName = Lora;
@@ -168807,13 +168808,15 @@ x = -5;
 "@MMK_R_d" = -5;
 "@MMK_R_f" = 10;
 "@MMK_R_g" = -5;
-"@MMK_R_guilsinglleft" = -11;
+"@MMK_R_guilsinglleft" = -31;
 "@MMK_R_h" = 59;
 "@MMK_R_hyphen" = -10;
 "@MMK_R_i" = 31;
 "@MMK_R_j" = 55;
 "@MMK_R_o" = -5;
-"@MMK_R_quoteleft" = 98;
+"@MMK_R_period" = -40;
+"@MMK_R_quoteleft" = 58;
+"@MMK_R_quoteright" = 80;
 "@MMK_R_quotesingle" = 36;
 "@MMK_R_t" = 12;
 "@MMK_R_y" = 12;
@@ -168826,6 +168829,7 @@ asterisk = 12;
 backslash = 58;
 bar = 15;
 braceright = 67;
+bracketleft = 20;
 bracketright = 75;
 eth = -11;
 exclam = 12;
@@ -170635,6 +170639,7 @@ trademark = -20;
 "@MMK_R_i" = 56;
 "@MMK_R_j" = 8;
 "@MMK_R_o" = -6;
+"@MMK_R_period" = -20;
 "@MMK_R_quoteleft" = 42;
 "@MMK_R_quoteright" = 78;
 "@MMK_R_quotesingle" = 56;
@@ -170646,12 +170651,14 @@ asterisk = 19;
 backslash = 72;
 bar = 39;
 braceright = 89;
+bracketleft = 60;
 bracketright = 96;
 exclam = 40;
 idieresis = 63;
 lslash = 53;
 parenright = 66;
 question = 37;
+"rightanglebracket-math" = 40;
 slash = -36;
 trademark = 66;
 v = 5;
@@ -172078,5 +172085,5 @@ tH = "40";
 };
 };
 versionMajor = 3;
-versionMinor = 11;
+versionMinor = 20;
 }

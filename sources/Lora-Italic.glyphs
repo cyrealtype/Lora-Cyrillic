@@ -1,7 +1,7 @@
 {
-.appVersion = "3324";
+.appVersion = "3414";
 DisplayStrings = (
-"CompanyName®\012CompanyName®"
+Ojakula
 );
 classes = (
 {
@@ -78,7 +78,7 @@ Tag = wght;
 );
 }
 );
-date = "2024-11-05 19:19:32 +0000";
+date = "2025-05-17 17:42:41 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "https://cyreal.org";
 familyName = Lora;
@@ -169229,16 +169229,21 @@ bar = 16.1133;
 braceright = 82.0312;
 bracketright = 80.0781;
 eth = -7.8125;
-guillemetleft = -11.2305;
-guilsinglleft = -11.2305;
-hyphen = -21.9727;
+guillemetleft = -31;
+guilsinglleft = -31;
+hyphen = -42;
 idieresis = 32.2266;
 igrave = 37.1094;
 parenright = 73.2422;
 period = -32.2266;
+quotedbl = 40;
+quotedblbase = -80;
+quotedblright = 60;
 quoteleft = 26.8555;
 quoteright = 56.1523;
-quotesingle = 36.1328;
+quotesinglbase = -80;
+quotesingle = 36;
+"rightanglebracket-math" = 40;
 slash = -27.832;
 thorn = 53.2227;
 trademark = 65.918;
@@ -171167,9 +171172,20 @@ braceright = 86.9141;
 bracketright = 90.8203;
 eth = -6.34766;
 exclam = 28.8086;
+guillemetleft = -20;
+guilsinglleft = -20;
 idieresis = 68.8477;
 parenright = 69.3359;
 question = 27.3438;
+quotedbl = 40;
+quotedblbase = -80;
+quotedblleft = 40;
+quotedblright = 80;
+quoteleft = 20;
+quoteright = 60;
+quotesinglbase = -80;
+quotesingle = 40;
+"rightanglebracket-math" = 40;
 slash = -33.2031;
 trademark = 24.4141;
 };
@@ -172526,5 +172542,5 @@ tH = 79;
 };
 };
 versionMajor = 3;
-versionMinor = 11;
+versionMinor = 20;
 }
