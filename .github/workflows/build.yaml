@@ -27,7 +27,7 @@ jobs:
       run: |
           mkdir for-gh-pages
           mv fontbakery-report.html for-gh-pages
-          mv proof/* for-gh-pages
+          mv out/* for-gh-pages
     - name: Archive artifacts
       uses: actions/upload-artifact@v4
       with:
