@@ -78,7 +78,7 @@ Tag = wght;
 );
 }
 );
-date = "2025-05-17 17:42:41 +0000";
+date = "2025-10-22 12:44:04 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "https://cyreal.org";
 familyName = Lora;
@@ -172541,5 +172541,5 @@ tH = 79;
 };
 };
 versionMajor = 3;
-versionMinor = 20;
+versionMinor = 21;
 }

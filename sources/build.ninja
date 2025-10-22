@@ -58,8 +58,8 @@ rule copy
       gftools.builder.jobrunner cp $in $out $stamp
   description = copy
 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfonsj8nt
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfonsj8nt: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpebkiw2h7
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpebkiw2h7: $
     buildVariable Lora.glyphs
   operation = buildVariable
   args = --filter ...  --filter FlattenComponentsFilter --filter $
@@ -94,8 +94,8 @@ build instance_ufos/Lora-Bold.ufo.json: instantiateUfo Lora.glyphs
   fontmake_type = -g
   fontmake_args =  --verbose WARNING 
   args =  --ufo-structure=json --instance-dir instance_ufos
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpc75ibzgl
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpc75ibzgl: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpbzpqugsf
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpbzpqugsf: $
     buildVariable Lora-Italic.glyphs
   operation = buildVariable
   args = --filter ...  --filter FlattenComponentsFilter --filter $
@@ -139,13 +139,14 @@ build ../fonts/webfonts/Lora[wght].woff2: compress $
   operation = compress
 # Postprocessing  with BuildSTAT
 build $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf22d0yv8.buildStatstamp: $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvm1dpuq1.buildStatstamp: $
     buildSTAT-postprocess ../fonts/variable/Lora-Italic[wght].ttf $
-    ../fonts/variable/Lora[wght].ttf
+    ../fonts/variable/Lora[wght].ttf | $
+    ../fonts/variable/Lora-Italic[wght].ttf ../fonts/variable/Lora[wght].ttf
   stamp =  && touch $
-      /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf22d0yv8.buildStatstamp
+      /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvm1dpuq1.buildStatstamp
   postprocess = buildStat
-  args = --src /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpwy6m9jb1
+  args = --src /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpdhjqmisd
 # Generating ../fonts/webfonts/Lora-Italic[wght].woff2
 build ../fonts/webfonts/Lora-Italic[wght].woff2: compress $
     ../fonts/variable/Lora-Italic[wght].ttf
@@ -183,264 +184,264 @@ build ../fonts/webfonts/Lora-BoldItalic.woff2: compress $
   operation = compress
 # Generating ../fonts/variable/Lora[wght].ttf
 build ../fonts/variable/Lora[wght].ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfonsj8nt
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpebkiw2h7
   operation = fix
   args = 
 # Generating ../fonts/variable/Lora-Italic[wght].ttf
 build ../fonts/variable/Lora-Italic[wght].ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpc75ibzgl
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpbzpqugsf
   operation = fix
   args = 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsdg65nrg
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsdg65nrg: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfltvn_ww
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfltvn_ww: $
     buildTTF instance_ufos/Lora-Regular.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpmppf342b
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpmppf342b: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp0hmvk0yo
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp0hmvk0yo: $
     buildOTF instance_ufos/Lora-Regular.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1t1lq0ge
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1t1lq0ge: $
-    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsdg65nrg
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpr6padd2_
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpr6padd2_: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpfltvn_ww
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Lora-Regular.ttf
 build ../fonts/ttf/Lora-Regular.ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1t1lq0ge
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpr6padd2_
   operation = fix
   args = 
 # Generating ../fonts/otf/Lora-Regular.otf
 build ../fonts/otf/Lora-Regular.otf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpmppf342b
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp0hmvk0yo
   operation = fix
   args = 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ioyldo1
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ioyldo1: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp69is9q3r
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp69is9q3r: $
     buildTTF instance_ufos/Lora-Medium.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpit0jgi3q
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpit0jgi3q: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp6pmih3fj
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp6pmih3fj: $
     buildOTF instance_ufos/Lora-Medium.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp485y7th9
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp485y7th9: $
-    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ioyldo1
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ciuh5vx
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ciuh5vx: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp69is9q3r
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Lora-Medium.ttf
 build ../fonts/ttf/Lora-Medium.ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp485y7th9
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp7ciuh5vx
   operation = fix
   args = 
 # Generating ../fonts/otf/Lora-Medium.otf
 build ../fonts/otf/Lora-Medium.otf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpit0jgi3q
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp6pmih3fj
   operation = fix
   args = 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpz1dkd_3k
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpz1dkd_3k: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp42iwak4b
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp42iwak4b: $
     buildTTF instance_ufos/Lora-SemiBold.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpaw92y5_l
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpaw92y5_l: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp4dt6xeaw
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp4dt6xeaw: $
     buildOTF instance_ufos/Lora-SemiBold.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpo_pqwgq4
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpo_pqwgq4: $
-    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpz1dkd_3k
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpqrxaybxp
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpqrxaybxp: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp42iwak4b
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Lora-SemiBold.ttf
 build ../fonts/ttf/Lora-SemiBold.ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpo_pqwgq4
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpqrxaybxp
   operation = fix
   args = 
 # Generating ../fonts/otf/Lora-SemiBold.otf
 build ../fonts/otf/Lora-SemiBold.otf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpaw92y5_l
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp4dt6xeaw
   operation = fix
   args = 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpspyrnu33
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpspyrnu33: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmprvf_083n
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmprvf_083n: $
     buildTTF instance_ufos/Lora-Bold.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpdqn6va8j
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpdqn6va8j: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpv5v9u30u
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpv5v9u30u: $
     buildOTF instance_ufos/Lora-Bold.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpd_fp24j7
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpd_fp24j7: $
-    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpspyrnu33
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpoghao__d
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpoghao__d: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmprvf_083n
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Lora-Bold.ttf
 build ../fonts/ttf/Lora-Bold.ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpd_fp24j7
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpoghao__d
   operation = fix
   args = 
 # Generating ../fonts/otf/Lora-Bold.otf
 build ../fonts/otf/Lora-Bold.otf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpdqn6va8j
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpv5v9u30u
   operation = fix
   args = 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp29qiay41
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp29qiay41: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmphfkd321k
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmphfkd321k: $
     buildTTF instance_ufos/Lora-Italic.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1de0f0gb
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1de0f0gb: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_yw3s9xd
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_yw3s9xd: $
     buildOTF instance_ufos/Lora-Italic.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuzomku5u
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuzomku5u: $
-    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp29qiay41
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp3odao39n
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp3odao39n: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmphfkd321k
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Lora-Italic.ttf
 build ../fonts/ttf/Lora-Italic.ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuzomku5u
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp3odao39n
   operation = fix
   args = 
 # Generating ../fonts/otf/Lora-Italic.otf
 build ../fonts/otf/Lora-Italic.otf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp1de0f0gb
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_yw3s9xd
   operation = fix
   args = 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpww544i7f
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpww544i7f: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpnqje841v
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpnqje841v: $
     buildTTF instance_ufos/Lora-MediumItalic.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpeacrlwou
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpeacrlwou: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpn5ui5n5z
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpn5ui5n5z: $
     buildOTF instance_ufos/Lora-MediumItalic.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp8s2s4eij
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp8s2s4eij: $
-    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpww544i7f
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuqrk4dwx
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuqrk4dwx: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpnqje841v
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Lora-MediumItalic.ttf
 build ../fonts/ttf/Lora-MediumItalic.ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp8s2s4eij
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpuqrk4dwx
   operation = fix
   args = 
 # Generating ../fonts/otf/Lora-MediumItalic.otf
 build ../fonts/otf/Lora-MediumItalic.otf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpeacrlwou
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpn5ui5n5z
   operation = fix
   args = 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppn51d13g
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppn51d13g: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpizoz187a
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpizoz187a: $
     buildTTF instance_ufos/Lora-SemiBoldItalic.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_u9u4wr5
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_u9u4wr5: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppr918tec
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppr918tec: $
     buildOTF instance_ufos/Lora-SemiBoldItalic.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsn6lpqy9
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsn6lpqy9: $
-    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppn51d13g
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpa9jpnrpw
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpa9jpnrpw: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpizoz187a
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Lora-SemiBoldItalic.ttf
 build ../fonts/ttf/Lora-SemiBoldItalic.ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpsn6lpqy9
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpa9jpnrpw
   operation = fix
   args = 
 # Generating ../fonts/otf/Lora-SemiBoldItalic.otf
 build ../fonts/otf/Lora-SemiBoldItalic.otf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp_u9u4wr5
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmppr918tec
   operation = fix
   args = 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp30e55wbr
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp30e55wbr: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp33x1dxv6
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp33x1dxv6: $
     buildTTF instance_ufos/Lora-BoldItalic.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpx7ag906r
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpx7ag906r: $
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf7iq68qy
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf7iq68qy: $
     buildOTF instance_ufos/Lora-BoldItalic.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvgh1uuna
-build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvgh1uuna: $
-    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp30e55wbr
+# Generating /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpjdvdgwdf
+build /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpjdvdgwdf: $
+    autohint /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmp33x1dxv6
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Lora-BoldItalic.ttf
 build ../fonts/ttf/Lora-BoldItalic.ttf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvgh1uuna
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpjdvdgwdf
   operation = fix
   args = 
 # Generating ../fonts/otf/Lora-BoldItalic.otf
 build ../fonts/otf/Lora-BoldItalic.otf: fix $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpx7ag906r
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf7iq68qy
   operation = fix
   args = 
 default ../fonts/webfonts/Lora[wght].woff2 $
-    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpf22d0yv8.buildStatstamp $
+    /var/folders/xm/8_gkzvmn2f30h2nxxfdh_n380000gp/T/tmpvm1dpuq1.buildStatstamp $
     ../fonts/webfonts/Lora-Italic[wght].woff2 $
     ../fonts/webfonts/Lora-Regular.woff2 $
     ../fonts/webfonts/Lora-Medium.woff2 $

@@ -3,7 +3,7 @@
 DisplayStrings = (
 "/uniEFFD",
 "f!",
-"SMÅLL\012SMÅLL"
+"Åkegatan\012Åkegatan\012\012"
 );
 classes = (
 {
@@ -80,7 +80,7 @@ Tag = wght;
 );
 }
 );
-date = "2025-05-17 17:42:52 +0000";
+date = "2025-10-22 12:44:11 +0000";
 designer = "Olga Karpushina, Alexei Vanyashin (Cyrillic)";
 designerURL = "https://cyreal.org";
 familyName = Lora;
@@ -172086,5 +172086,5 @@ tH = "40";
 };
 };
 versionMajor = 3;
-versionMinor = 20;
+versionMinor = 21;
 }
