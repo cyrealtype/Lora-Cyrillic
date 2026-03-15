@@ -4,6 +4,10 @@ sources:
 axisOrder:
   - wght
 familyName: Lora
+buildOTF: true
+ttfaUseScript: true
+flattenComponents: true
+decomposeTransformedComponents: true
 stat:
   Lora[wght].ttf:
   - name: Weight
