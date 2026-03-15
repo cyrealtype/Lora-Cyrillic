@@ -22,7 +22,7 @@
 
 #### by Olga Karpushina 
 and Lora project contributors
-#### Cyrillic Extension: Alexei Vanyashin @alexeiva
+#### Cyrillic Extension: Alexei Vanyashin [@alexeiva](https://github.com/alexeiva)
 
 Lora is a well-balanced contemporary serif with roots in calligraphy. It is a text typeface with moderate contrast well suited for body text. A paragraph set in Lora will make a memorable appearance because of its brushed curves in contrast with driving serifs. The overall typographic voice of Lora perfectly conveys the mood of a modern-day story, or an art essay.
 
@@ -36,12 +36,11 @@ could be expanded to support other scripts.
 
 ![Lora Font](documentation/Lora-sample.png "Lora Font by Cyreal")
 
-Font Specimens by @mithilgorare
+Font Specimens by Mithil Mogare
 
-## Links
-
-- [Lora](https://www.cyreal.org/fonts/lora) on Cyreal.org
-- [Lora](https://fonts.google.com/specimen/Lora) on Google Fonts
+>[!NOTE]
+> - [Lora](https://www.cyreal.org/fonts/lora) on Cyreal.org
+> - [Lora](https://fonts.google.com/specimen/Lora) on Google Fonts
 
 ## Building
 
@@ -67,12 +66,12 @@ includes a variable font version with one weight axis.
 
 `Cyrillic`
 
-> Cyrillic Extension designed by Alexei Vanyashin @alexeiva in May, 2013. 
+> Cyrillic Extension designed by Alexei Vanyashin [@alexeiva](https://github.com/alexeiva) in May, 2013. 
 Expansion to GF Cyrillic Plus, Pro, and locl has been completed by original author Olga Karpushina in August-September 2016.
 
 `Vietnamese`
 
-> Vietnamese glyphs were added by Nhung Nguyen @crystaltype
+> Vietnamese glyphs were added by Nhung Nguyen [@crystaltype](https://github.com/crystaltype)
 
 ## License
 
