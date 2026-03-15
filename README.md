@@ -5,14 +5,16 @@
 [![][Universal]](https://cyrealtype.github.io/Lora-Cyrillic/fontspector/fontspector-report.html)
 [![][Google Fonts]](https://cyrealtype.github.io/Lora-Cyrillic/fontspector/fontspector-report.html)
 [![][Glyphset]](https://cyrealtype.github.io/Lora-Cyrillic/fontspector/fontspector-report.html)
+[![][Download]](https://cyreal.org/fonts/Lora/)
 
-[Fontspector]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora4%2Fbadges%2FFontspectorQA.json
-[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora4%2Fbadges%2FOpentypeSpecificationChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora4%2Fbadges%2FUniversalProfileChecks.json
-[Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora4%2Fbadges%2FFontFileChecks.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora4%2Fbadges%2FOutlineCorrectnessChecks.json
-[Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora4%2Fbadges%2FGlyphsetChecks.json
 
+[Fontspector]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora-Cyrillic%2Fbadges%2FFontspectorQA.json
+[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora-Cyrillic%2Fbadges%2FOpentypeSpecificationChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora-Cyrillic%2Fbadges%2FUniversalProfileChecks.json
+[Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora-Cyrillic%2Fbadges%2FFontFileChecks.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora-Cyrillic%2Fbadges%2FOutlineCorrectnessChecks.json
+[Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Fcyrealtype.github.io%2FLora-Cyrillic%2Fbadges%2FGlyphsetChecks.json
+[Download]: https://img.shields.io/badge/Download-cyreal.org-16ccbc
 
 ![Sample Image](documentation/slide1.png)
 
